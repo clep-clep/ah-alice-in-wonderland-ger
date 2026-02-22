@@ -1324,7 +1324,7 @@
                 "type": "act_back",
                 "name": "Neue Nachbarn",
                 "victory": "",
-                "text": "<blockquote>Die Katze erscheint wieder auf einem Ast direkt \u00fcber dir und grinst wie immer. \"Die Wahrheit ist viel wahrer, wenn man sie findet, als wenn man sie sagt\", schnurrt sie, \"aber die Schatten werden lang. Meinst du nicht, dass es an der Zeit ist, nach Hause zu gehen? Nat\u00fcrlich nicht zu dir nach Hause, sondern zu Alice.  Es liegt in der Nachbarschaft, du wirst schon sehen.\"</blockquote>\nBringe den beiseitegelegten Ort Verlassenes Haus ins Spiel.\nDer Ermittlungsleiter \u00fcbernimmt die Kontrolle \u00fcber die beiseitegelegte Vorteilskarte Die Grinsekatze <i>(Wahnsinniger Wegweiser)</i>. \nMische das beiseitegelegte Begegnungsset <i>Grinsekatze</i> in das Begegnungsdeck."
+                "text": "<blockquote>Die Katze erscheint wieder auf einem Ast direkt \u00fcber dir und grinst wie immer. \"Die Wahrheit ist viel wahrer, wenn man sie findet, als wenn man sie sagt\", schnurrt sie, \"aber die Schatten werden lang. Meinst du nicht, dass es an der Zeit ist, nach Hause zu gehen? Nat\u00fcrlich nicht zu dir nach Hause, sondern zu Alice. Es liegt in der Nachbarschaft, du wirst schon sehen.\"</blockquote>\nBringe den beiseitegelegten Ort Verlassenes Haus ins Spiel.\nDer Ermittlungsleiter \u00fcbernimmt die Kontrolle \u00fcber die beiseitegelegte Vorteilskarte Die Grinsekatze <i>(Wahnsinniger Wegweiser)</i>. \nMische das beiseitegelegte Begegnungsset <i>Grinsekatze</i> in das Begegnungsdeck."
             },
             "encounter_number": "3",
             "expansion_number": "3",
@@ -1358,7 +1358,7 @@
             "name": "Folge dem Wei\u00dfen Kaninchen",
             "front": {
                 "type": "act",
-                "text": "<obj>  Falls sich 3<per> Hinweise auf dieser Szene befinden, r\u00fccke vor.",
+                "text": "<obj> Falls sich 3<per> Hinweise auf dieser Szene befinden, r\u00fccke vor.",
                 "flavor_text": "Das Wei\u00dfe Kaninchen scheint das zu haben, wonach du in der sich st\u00e4ndig drehenden Landschaft suchst: Ein Ziel. Wenn dieser Wahnsinn einen Ursprung hat, dann findest du ihn dort, wohin auch immer das Kaninchen unterwegs ist.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
@@ -1368,7 +1368,7 @@
                 "type": "act_back",
                 "name": "Hinunter in den Kaninchenbau",
                 "victory": "",
-                "text": "<blockquote>Dem Kaninchen zu folgen ist keine leichte Aufgabe.  Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du schaust die Katze um Rat an, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube.</blockquote>\n(<resolution><b>A1</b>)",
+                "text": "<blockquote>Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du schaust die Katze um Rat an, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube.</blockquote>\n(<resolution><b>A1</b>)",
                 "index": "3b"
             },
             "encounter_number": "5",
@@ -1390,7 +1390,7 @@
                 "type": "act_back",
                 "name": "R\u00fcckw\u00e4rts fortfahren",
                 "victory": "",
-                "text": "<blockquote>Langsam erkennst du Muster in den Verzerrungen, die \u00fcber Arkham hinwegziehen.  Es gibt Momente, in denen die Grenzen zwischen den beiden Welten schw\u00e4cher werden.  Du verbringst einige Zeit damit, den Rhythmus und die Eigenarten der Verzerrungen zu lernen, bevor du zum verlassenen Haus zur\u00fcckkehrst.  Mit dem richtigen Timing springst du vorw\u00e4rts, als sich die Oberfl\u00e4che des Spiegels kr\u00e4uselt, und du durchquerst ihn vollst\u00e4ndig, als w\u00fcrdest du durch Wasser tauchen.</blockquote>\n(<resolution><b>A2</b>)",
+                "text": "<blockquote>Langsam erkennst du Muster in den Verzerrungen, die \u00fcber Arkham hinwegziehen. Es gibt Momente, in denen die Grenzen zwischen den beiden Welten schw\u00e4cher werden. Du verbringst einige Zeit damit, den Rhythmus und die Eigenarten der Verzerrungen zu lernen, bevor du zum verlassenen Haus zur\u00fcckkehrst. Mit dem richtigen Timing springst du vorw\u00e4rts, als sich die Oberfl\u00e4che des Spiegels kr\u00e4uselt, und du durchquerst ihn vollst\u00e4ndig, als w\u00fcrdest du durch Wasser tauchen.</blockquote>\n(<resolution><b>A2</b>)",
                 "index": "3b"
             },
             "encounter_number": "6",
@@ -1470,7 +1470,7 @@
                 "type": "location",
                 "subtitle": "Scheinbare Stabilit\u00e4t",
                 "traits": "Arkham. Innenstadt.",
-                "text": "<action>: Heile 1 Horror. (Nur ein Mal pro Zug.)",
+                "text": "<action>: Heile 1 Horror. (Nur einmal pro Zug.)",
                 "victory": "Sieg 2.",
                 "illustration": "./images/Arkham Asylum - Mark Molnar.jpg",
                 "clues": "1<per>",
@@ -2688,8 +2688,8 @@
             "name": "Von K\u00f6nigen und Kohl",
             "front": {
                 "type": "treachery",
-                "traits": "Komplott.  Paradox.",
-                "text": "<rev> Falls alle Austern im Spiel sich auf den Orten des Walrosses oder des Zimmermanns  befinden, erh\u00e4lt <name> nachr\u00fcsten. Ansonsten, lege eine <willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr jeden Punkt um den die Probe gescheitert ist 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
+                "traits": "Komplott. Paradox.",
+                "text": "<rev> Falls sich alle Austern im Spiel auf den Orten des Walrosses oder des Zimmermanns befinden, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, lege eine <willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr jeden Punkt, um den die Probe gescheitert ist, 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
                 "flavor_text": "\"Die Zeit ist reif, zu sprechen nun\",\nDas Walross klang ganz hohl:",
                 "victory": "",
                 "illustration": "./images/Walrus and Carpenter - Harry Rountree.jpg",
@@ -3195,7 +3195,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "<for>Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Du darfst einen beliebigen Nicht-<t>Elite</t> im Spiel an einen zum <name> benachbarten <t>Stuhl</t>-Ort bewegen.",
+                "text": "<for>Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Du darfst einen beliebigen Nicht-<t>Elite</t>-Gegner im Spiel an einen zum <name> benachbarten <t>Stuhl</t>-Ort bewegen.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chair - Club.jpg",
@@ -4315,7 +4315,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss.",
-                "text": "<action>: Du versuchst, die H\u00f6flinge zu beeindrucken, um sie auf deine Seite zu ziehen. Lege eine <combat>- oder <agility>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
+                "text": "<action>: Du versuchst, die H\u00f6flinge zu beeindrucken, um sie auf deine Seite zu ziehen. Lege eine <combat>- oder <agility>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht. Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
                 "flavor_text": "Eine kleine Gruppe von H\u00f6flingen der K\u00f6nigin spielt Croquet auf der offenen Terrasse, allerdings mit Flamingos und zusammengerollten Igeln anstelle von Schl\u00e4gern und B\u00e4llen.",
                 "victory": "",
                 "illustration": "./images/Croquet - William Merritt Chase.jpg",
@@ -4353,7 +4353,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss.",
-                "text": "<action>: Du versuchst, einem der verlorenen H\u00f6flinge den Weg zu weisen. Lege eine <willpower>- oder <intellect>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
+                "text": "<action>: Du versuchst, einem der verlorenen H\u00f6flinge den Weg zu weisen. Lege eine <willpower>- oder <intellect>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht. Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
                 "flavor_text": "Mehrere Mitglieder des K\u00f6nigshofes schlendern durch das Labyrinth, v\u00f6llig verloren, aber zu stolz, um es zuzugeben. Vielleicht k\u00f6nntest du ihre Gunst gewinnen, wenn du ihnen aus dem Labyrinth heraushilfst.",
                 "victory": "",
                 "illustration": "./images/Hedge Maze - Milivoj \u0106eran.jpg",
@@ -4512,7 +4512,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss. Gesperrt.",
-                "text": "<reaction> Nachdem der letzten Hinweis in den <name> entdeckt worden ist: Entferne je 2 Anschuldigungen von jeder Kopie von K\u00f6niglicher Verdacht im Spiel (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe).",
+                "text": "<reaction> Nachdem der letzte Hinweis in den <name> entdeckt worden ist: Entferne je 2 Anschuldigungen von jeder Kopie von K\u00f6niglicher Verdacht im Spiel (nur einmal pro Spiel f\u00fcr die gesamte Gruppe).",
                 "flavor_text": "In den K\u00fcchen herrscht das reinste Chaos, als die Diener der K\u00f6nigin die Torten vorbereiten. Da sie noch nicht aufger\u00e4umt haben, k\u00f6nnten noch Spuren von demjenigen zu finden sein, der die erste Ladung gestohlen hat.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Kitchen - Maxime Gayral.jpg",
@@ -4535,7 +4535,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
-                "flavor_text": "Der Duft frisch gebackener T\u00f6rtchen dringt durch die T\u00fcr der k\u00f6niglichen K\u00fcchen. Diese neue Charge wird streng bewacht, und wer im Verdacht steht,  sich von den ersten Torten bedient zu haben, darf nicht hinein.",
+                "flavor_text": "Der Duft frisch gebackener T\u00f6rtchen dringt durch die T\u00fcr der k\u00f6niglichen K\u00fcchen. Diese neue Charge wird streng bewacht, und wer im Verdacht steht, sich von den ersten Torten bedient zu haben, darf nicht hinein.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4903,7 +4903,7 @@
             "name": "Jungs im Wald",
             "front": {
                 "type": "act",
-                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte  <t>Tuglen Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte <t>Tulgen Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
                 "flavor_text": "\u201eAuf zum Schlarg!\u201c, ruft der B\u00fcttel, w\u00e4hrend sich die J\u00e4ger im Tulgen Wald verstreuen. \u201eSucht \u00fcberall, denn ein Schlarg kann in jedem Baum oder jeder H\u00f6hle lauern! Sobald wir die Orientierung gefunden haben, ist es so gut wie gefunden!\u201c Ihr seid nicht \u00fcberzeugt, dass es so einfach sein wird oder dass die Kreatur \u00fcberhaupt in diesen W\u00e4ldern lebt, aber ein wenig Erkundung kann nicht schaden.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "1a",
@@ -4913,7 +4913,7 @@
                 "type": "act_back",
                 "name": "Die Lage der Dinge",
                 "victory": "",
-                "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karten keinen Handslot."
+                "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karte keinen Handslot."
             },
             "encounter_number": "5",
             "expansion_number": "118",
@@ -4979,7 +4979,7 @@
                 "type": "agenda_back",
                 "name": "Ein schreckliches Burbeln",
                 "victory": "",
-                "text": "<blockquote>Der Tulgen-Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiter. Der Rest des beseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
+                "text": "<blockquote>Der Tulgen-Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Der Rest des beiseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
             },
             "encounter_number": "2",
             "expansion_number": "115",
@@ -5001,7 +5001,7 @@
                 "type": "agenda_back",
                 "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "<blockquote>Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tuglen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiter. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
+                "text": "<blockquote>Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
                 "index": "2b"
             },
             "encounter_number": "3",
@@ -5088,7 +5088,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Tulgen Wald.",
-                "text": "<action>: Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels <i>(auch den Siegpunktestapel</i> nach dem Gegner Der Schebberoch. Mache ihn bereit und bewege ihn an den <name>. Notiere dir im Kampagnenlogbuch unter Fragmente von Alice <i>Mut.</i>",
+                "text": "<action>: Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels <i>(auch den Siegpunktestapel)</i> nach dem Gegner Der Schebberoch. Mache ihn bereit und bewege ihn an den <name>. Notiere dir im Kampagnenlogbuch unter Fragmente von Alice <i>Mut.</i>",
                 "flavor_text": "The signs of a monstrous attack are \netched into the lone tree.",
                 "victory": "",
                 "illustration": "./images/Tumtum Tree - Sarah Ireland.jpg",
@@ -5681,7 +5681,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wunderland. Kreatur. Gefahr.",
-                "text": "<rev> Lege eine  <agility>-Probe (3) ab. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Falls du mehr als 1 Schaden zuf\u00fcgen w\u00fcrdest: Senke jene Menge auf 1.\n<for> Falls du mehr als 1 Hinweis entdecken w\u00fcrdest: Senke jene Menge auf 1.\n<action> <action>: Lege <name> ab.",
+                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Falls du mehr als 1 Schaden zuf\u00fcgen w\u00fcrdest: Senke jene Menge auf 1.\n<for> Falls du mehr als 1 Hinweis entdecken w\u00fcrdest: Senke jene Menge auf 1.\n<action> <action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Looking Glass Swarm - Adam Ferrando.jpg",
@@ -5706,7 +5706,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Kreatur.",
-                "text": "Zur\u00fcckschlagen.\nSolange sich die traue Schratte an einem Ort mit Horror befindet, bekommt sie +2 auf ihren Schadensert und +1 auf ihren Horrorwert.",
+                "text": "Zur\u00fcckschlagen.\nSolange sich die traue Schratte an einem Ort mit Horror befindet, bekommt sie +2 auf ihren Schadenswert und +1 auf ihren Horrorwert.",
                 "health": "3",
                 "evade": "2",
                 "attack": "2",
@@ -5765,7 +5765,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Schnacke-schnicke Klinge",
                 "traits": "Wunderland. Gegenstand. Waffe.",
-                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls w\u00e4hrend dieses Angriffs ein <elder_sign>-, <blessing>-, +1-, oder 0-Chaosmarker enth\u00fcllt wird, darfst du entweder 1 Horror heilen oder dieser Angriff f\u00fcgt +2 Schaden zu. Falls der angegriffene Gegner ein <t>Monster</t>-,  <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, darfst du beides w\u00e4hlen.",
+                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls w\u00e4hrend dieses Angriffs ein <elder_sign>-, <blessing>-, +1-, oder 0-Chaosmarker enth\u00fcllt wird, darfst du entweder 1 Horror heilen oder dieser Angriff f\u00fcgt +2 Schaden zu. Falls der angegriffene Gegner ein <t>Monster</t>-, <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, darfst du beides w\u00e4hlen.",
                 "cost": "3",
                 "slot": "1 Hand",
                 "victory": "",
@@ -5798,7 +5798,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schrecken.",
-                "text": "<rev> Lege eine  <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt,  nimm 1 Horror und lege 2 zuf\u00e4llige Karten von deiner Hand ab.",
+                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt, nimm 1 Horror und lege 2 zuf\u00e4llige Karten von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Jabberwock - Aaron Nakahara.jpg",
@@ -5820,7 +5820,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Absto\u00dfende Abscheulichkeit",
                 "traits": "Wunderland. Monster. Abscheulichkeit. Elite.",
-                "text": "Alaermiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberock w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda aus des Spiels.",
+                "text": "Alarmiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberoch w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda au\u00dferhalb des Spiels.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "4",
@@ -8433,7 +8433,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2  <t>Karten</t>-Gegner im Begegnungsabslagestapel. Falls die Probe misslingt, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
+                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2 <t>Karten</t>-Gegner im Begegnungsablagestapel. Falls die Probe misslingt, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cards - John Lobster.jpg",
@@ -8455,7 +8455,7 @@
             "name": "Schlechte Hand",
             "front": {
                 "type": "treachery",
-                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich ein  <t>Karten</t>-Gegner an deinem Ort befindet. F\u00fcr jeden Punkt, um den die Probe missling, nimm 1 Horror und lege 1 Karte von deiner Hand ab.",
+                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich ein <t>Karten</t>-Gegner an deinem Ort befindet. F\u00fcr jeden Punkt, um den die Probe misslingt, nimm 1 Horror und lege 1 Karte von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cards - Rahul Bhardwaj.jpg",
@@ -8874,7 +8874,7 @@
             "name": "Knobelaufgabe",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme. Task.",
+                "traits": "Komplott. Aufgabe.",
                 "text": "<rev> Bringe <name> neben der Agenda ins Spiel.\n<for> Falls Verderben auf einer anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name> (nur einmal pro Phase).\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf <name>. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
@@ -8942,7 +8942,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox. Makel.",
-                "text": "<rev> Falls du keine Hinweise kontrollierst, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, lege eine <int>-Probe (2) ab. Die Schwierigkeit dieser Probe ist um 1 erh\u00f6ht f\u00fcr jeden Hinweis, den du kontrollierst (maximal plus 3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du eine Aktion.",
+                "text": "<rev> Falls du keine Hinweise kontrollierst, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Die Schwierigkeit dieser Probe ist um 1 erh\u00f6ht f\u00fcr jeden Hinweis, den du kontrollierst (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Edward Honaker.jpg",
@@ -9475,7 +9475,7 @@
                 "damage": "1",
                 "horror": "1",
                 "traits": "Humanoid. Abscheulichkeit.",
-                "text": "<spawn> Ort mit den meisten Hinweisen.  <prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name> befinden: Platziere 1 Verderben auf <name>.",
+                "text": "<spawn> Ort mit den meisten Hinweisen. <prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name> befinden: Platziere 1 Verderben auf <name>.",
                 "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Twisted Citizen - Emma Chilicuisa.jpg",
                 "illustration_pan_x": -111,
                 "illustration_pan_y": 350,
@@ -9505,7 +9505,7 @@
                 "type": "act_back",
                 "name": "Bitte aufmachen!",
                 "victory": "",
-                "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>"
+                "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>"
             },
             "expansion_number": "25",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
@@ -9526,7 +9526,7 @@
                 "type": "act_back",
                 "name": "H\u00fctchenspiel",
                 "victory": "",
-                "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst du dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel."
+                "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel."
             },
             "encounter_number": "9",
             "expansion_number": "55",
@@ -9543,7 +9543,7 @@
                 "illustration_pan_x": 65,
                 "illustration_pan_y": 10,
                 "illustrator": "Illus. Juan Calle",
-                "text": "<rev> Falls sich der Schebberoch im Spiegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich im Spiel befindet, nimmt jeder Ermittler an seinem Ort 1 Schaden und 1 Horror. Dann bewegt sich der Schebberoch an deinen Ort. Falls der Schebberock sich nicht im Spiel befindet, platziere ihn an deinem Ort <i>(nur, wenn er nicht im Siegpunktestapel ist)</i>."
+                "text": "<rev> Falls sich der Schebberoch im Siegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich im Spiel befindet, nimmt jeder Ermittler an seinem Ort 1 Schaden und 1 Horror. Dann bewegt sich der Schebberoch an deinen Ort. Falls der Schebberoch sich nicht im Spiel befindet, platziere ihn an deinem Ort <i>(nur, wenn er nicht im Siegpunktestapel ist)</i>."
             },
             "back": {
                 "type": "encounter"
@@ -9557,7 +9557,7 @@
             "amount": 3,
             "front": {
                 "type": "treachery",
-                "text": "<rev> Lege eine <agi>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt,  nimm 1 Schaden und verliere 2 Ressourcen.",
+                "text": "<rev> Lege eine <agi>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt, nimm 1 Schaden und verliere 2 Ressourcen.",
                 "traits": "Gefahr.",
                 "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Jabberwock - Stacy LeFevre.jpg",
                 "illustration_pan_x": 75,
