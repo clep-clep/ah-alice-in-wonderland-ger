@@ -1,0 +1,290 @@
+AM RANDE DER WELT
+Ermittler-Erweiterung
+Wisschenschaft und Mystik
+„Letzten Endes muss ich mich auf die Urteilsfähigkeit und das Ansehen 
+der wenigen führenden Wissenschaftler verlassen, die einerseits 
+selbstständig genug denken, um das von mir vorgelegte Material nach 
+seiner eigenen, fürchterlichen Beweiskraft oder im Lichte gewisser 
+urzeitlicher, höchst verwirrender Sagenkreise zu beurteilen, und 
+andererseits einflussreich genug sind, um die wissenschaftliche Welt von 
+übereilten und allzu ehrgeizigen Unternehmungen im Gebiet dieser 
+Berge des Wahnsinns abzuhalten.“
+– H. P. Lovecraft, Berge des Wahnsinns
+Die Ermittler-Erweiterung Am Rande der Welt enthält neue 
+Ermittler- und Spielerkarten, mit denen ihr neue Ermittlerdecks 
+erstellen oder bereits bestehende neu gestalten könnt und mit 
+ihnen nach Belieben Szenarien oder Kampagnen von Arkham 
+Horror: Das Kartenspiel bestreiten könnt.
+Zusätzliche Regeln und Klarstellungen
+Multi-Klassen-Karten
+Viele der neuen Spielerkarten in dieser Erweiterung gehören zu 
+mehr als nur einer Klasse – Wächter ( ), Sucher (), Schurke ( ), 
+Mystiker ( ) oder Überlebender ( ).
+Diese Karten sind durch ihre goldene Farbe und das Vorhandensein 
+mehrerer Klassensymbole gekennzeichnet. Eine Multi-Klassen-
+Karte wird jeder dieser Klassen zugeordnet und ist nicht neutral. 
+Zum Beispiel ist eine Karte mit einem Schurken-( )-Symbol und 
+einem Wächter-()-Symbol für alle Zwecke des Spiels sowohl eine 
+Schurkenkarte als auch eine Wächterkarte.
+© 2021 FFG
+Illus.
+83
+Jen Zee
+VORTEIL
+„Ist das auch klausurrelevant?“
+Verbündeter. Miskatonic. Wissenschaft.
+ Nachdem Medizinstudentin ins Spiel 
+gekommen ist: Heile 1 Schaden und 1 Horror 
+von einem Ermittler oder einer Verbündeter-
+Vorteilskarte an deinem Ort.
+Medizinstudentin
+1111
+22
+© 2021 FFG
+Illus.
+108
+Lin Hsiang
+EREIGNIS
+„Und nun zu meinem nächsten Trick …“
+Zauber. Trick.
+Wähle einen Nicht-Elite
+-Gegner an einem 
+bis zu 2 Verbindungen entfernen enthüllten 
+Ort. T ausche mit jenem Gegner den Platz.
+Ätherischer Tausch
+22
+© 2021 FFGIllus. 94Tysen Johnson
+VORTEIL
+20 Pfund reinste Rache aus Stahl.
+Gegenstand. Werkzeug. Waffe. Nahkampf.
+: Kampf. Du bekommst für diesen Angriff 
+–1  und fügst +1 Schaden zu.
+ : Kampf. Du bekommst für diesen Angriff 
++2  und fügst +2 Schaden zu.
+Vorschlaghammer33
+© 2021 FFG
+Illus.
+112
+Drazenka Kimpel
+EREIGNIS
+Glücksfall. Schachzug.Schnell. Spiele diese Karte, nachdem du 
+während einer Fertigkeits 
+probe einen Chaos-marker enthüllt hast.
+Enthülle einen zusätzlichen Chaos
+ marker und ändere sein „–“ in ein „+“ . Falls jener Marker 
+ein -Marker ist, misslingt die Probe 
+automatisch.
+„Noch ’ne Karte!“
+11
+© 2021 FFG
+Illus.
+97
+Felicia Cano
+VORTEIL
+Gegenstand. Werkzeug. Erschöpfe T aschenteleskop: Sieh dir die 
+enthüllte Seite eines verbundenen verhüllten 
+Ortes an.
+: Ermitteln. Ermittle an einem verbundenen 
+enthüllten Ort, als ob du dich an jenem Ort 
+befändest.
+Taschenteleskop
+22
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Am Rande der Welt 
+können an diesem Symbol vor jeder Setnummer erkannt werden:
+
+2
+Deckbau mit Multi-Klassen-Karten
+Eine Multi-Klassen-Karte kann einem Ermittlerdeck hinzugefügt 
+werden, falls der Ermittler zu mindestens einer  der Klassen der Karte 
+Zugriff hat.
+ 
+Beispiel: Nkosi Mabati ist eine 
+Multi-Klassen-Karte der Stufe 3, 
+die ein Wächter- und ein Mystiker-
+Klassensymbol aufweist. Sie ist 
+daher eine Wächterkarte der 
+Stufe 3 und eine Mystikerkarte 
+der Stufe 3. Sie ist keine neutrale 
+Karte. Jeder Ermittler, der Zugriff 
+zu Wächterkarten der Stufe 3 
+oder Mystikerkarten der Stufe 3 hat, kann Nkosi Mabati seinem Deck 
+hinzufügen. Lily Chen könnte zum Beispiel Nkosi Mabati ihrem Deck 
+hinzufügen, obwohl sie keinen Zugriff zu Mystikerkarten der Stufe 3 
+hat.
+Falls ein Ermittler begrenzten Zugriff zu 1 der Klassen auf einer 
+Multi-Klassen-Karte hat und unbegrenzten Zugriff zu 1 der 
+anderen Klassen der Karte hat, belegt jene Karte keinen  jener 
+begrenzten Slots. 
+Beispiel: Monterey Jacks Deckbauoptionen haben den Text: 
+„Schurkenkarten Stufe 0, Sucherkarten Stufe 1–5, Neutrale Karten 
+Stufe 0–5, bis zu 5 andere Sucherkarten Stufe 0“. Falls Jack seinem 
+Deck eine (Sucher/Wächter)-Multi-Klassen-Karte der Stufe 0 
+hinzufügt, belegt diese Karte einen seiner fünf Sucherkarten-Slots für 
+die Stufe 0. Fügt Jack seinem Deck dagegen eine (Sucher/Schurke)-
+Multi-Klassen-Karte der Stufe 0 hinzu, zählt die Karte als eine der 
+Schurkenkarten der Stufe 0, zu der er unbegrenzten Zugriff hat. In 
+diesem Fall belegt die Karte keinen seiner fünf Sucherkarten-Slots für 
+die Stufe 0.
+Erforscht
+Erforscht ist eine neue Schlüsselwortfähigkeit, die auf manchen 
+höherstufigen Karten (zumeist auf Sucherkarten) zu finden ist.
+Bevor eine Karte mit dem Schlüsselwort Erforscht einem 
+Ermittler  deck hinzugefügt werden kann, muss sie zuerst 
+„identifiziert“ oder „übersetzt“ werden. Dies geschieht, indem eine 
+auf einer niederstufigen Version der Karte beschriebene Aufgabe 
+durchgeführt wird und diese im Kampagnenlogbuch notiert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck 
+nur hinzugefügt werden, indem eine niederstufige Version von 
+ihr verbessert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem 
+Deck nur hinzugefügt werden, falls im Kampagnenlogbuch 
+steht, dass die auf der niederstufigeren Version der Karte 
+beschriebene Aufgabe erfüllt wurde.
+ Æ Nachdem ein Ermittler eine dieser Aufgaben erfüllt hat und 
+dies im Kampagnenlogbuch notiert hat, darf ein beliebiger 
+Ermittler in der Kampagne die entsprechende Karte 
+verbessern, bei dem die normalen Regeln zum Verbessern von 
+Spielerkarten angewandt werden.
+Beispiel: Ley-Linien-Sammlung (Tor Nach Tindalos) hat das 
+Schlüsselwort Erforscht. Deshalb darf ein Ermittler diese Karte 
+nicht direkt erwerben. Er muss stattdessen Ley-Linien-Sammlung 
+(Unidentifiziert) verbessern. Dies kann er nur tun, falls zuvor „das Tor 
+identifiziert“ wurde.
+© 2021 FFGIllus. 91T ony Foti
+VORTEIL
+Mysteriöser Hexer
+Verbündeter. Zauberer.
+ Nachdem Nkosi Mabati ins Spiel gekommen ist: Benenne 
+einen Nicht--Chaosmarker mit einem Symbol. Solange diese 
+Karte im Spiel ist, ist das benannte Symbol dein „Siegel“ .
+ Sobald ein Ermittler an deinem Ort ein -, - oder 
+-Symbol enthüllt, erschöpfe Nkosi Mabati: Durchsuche 
+stattdessen den Chaosbeutel nach deinem Siegel und enthülle es 
+(der andere Marker wird in den Chaosbeutel zurückgeschickt).
+Nkosi Mabati44
+2222
+© 2021 FFGIllus. 33Anna Mohrbacher
+VORTEIL
+Unidentifiziert
+Gegenstand. Buch. Okkult.
+Nur 1 pro Deck. Als zusätzliche Kosten, um diese Vorteils karte zu 
+spielen, platziere je 1 Ressource als Ley-Linie auf 4 verschiedene 
+Orte.
+ Nachdem du erfolgreich an einem Ort mit einer Ley-Linie 
+ermittelt hast, erschöpfe diese Karte: Bewege jene Ley-Linie auf 
+diese Karte. Falls sich dann 4 Ley-Linien darauf befinden, lege die 
+Karte ab, nimm dir die Ley-Linien als Ressourcen und notiere in 
+deinem Kampagnenlogbuch, dass „du das T or identifiziert hast“ .
+Ley-Linien-Sammlung22
+© 2021 FFGIllus. 41Anna Mohrbacher
+VORTEIL
+T or nach Tindalos
+Ritual.
+Erforscht. Anwendungen (4 Ley-Linien). Nur 1 pro Deck.
+: Bewege 1 Ley-Linie von dieser Karte auf einen 
+Nicht-Elite-Gegner.
+: Wähle einen Ermittler und einen Gegner mit Ley-Linie, 
+der sich an einem enthüllten Ort befindet. Jener Ermittler 
+bewegt sich an jenen Ort. Du darfst die Ley-Linie entfernen, 
+um jenem Gegner 1 Schaden zuzufügen.
+Ley-Linien-Sammlung44
+
+3
+Credits
+Expansion Design and Development : MJ Newman und 
+Jeremy Zwirn
+Producer : Molly Glover
+Editing and Proofreading : B.D. Flory
+Card Game Manager : Jim Cartwright
+Arkham Horror  Story Review : Kara Centell- Dunk
+Expansion Graphic Design : Neal W. Rasmussen
+Graphic Design Coordinator : Joseph D. Olson
+Graphic Design Manager : Christopher Hosch
+Cover Art : Mauro Dal Bo
+Art Direction : Deborah Garcia und Jeff Lee Johnson
+Managing Art Director : Tony Bradt
+Quality Assurance Coordination : Zach Tewalthomas
+Production Management : Justin Anger und Tim Najmolhoda
+Visual Creative Director: Brian Schomburg
+Senior Project Manager : John Franz-Wichlacz
+Executive Game Designer: Nate French
+Head of Studio: Chris Gerber
+Testspieler: Kayli Ammen, Avita Amoeba, John Bagley, Dalia Berkowitz, 
+Julius Besser, Yitzchak Besser, Cady Bielecki, Joe Bielecki, Patrick 
+Breitenbach, Nathan Chatham, Shelley Danielle, Andrea Dell’Agnese, 
+Julia Faeta, Jeremy Fredin, Mattison Froese, Josiah „Duke“ Harrist, Azrael 
+Johnston, Bob Juranek, John Juranek, Wesley Kinslow, Nate Langreder, 
+Grégoire Lefebvre, Cayce „Wuxia make Lily do this?“ Lent, Brian Lewis, 
+Jamie Lewis, Kenny Ling, Guðbrandur Magnússon, Josh McCluey, Kevin 
+McLenithan, Dane Mitchell, Tyler Moore, Josh Parrish, Stephen Redman, 
+Glen Saward, Devin Stinchcomb, Aaron „We got cookies“ Strunk, Mike 
+„Cliff hangers“ Strunk und Owen Weldon.
+Asmodee Germany
+Redaktion und Übersetzung: Benjamin Fischer
+Lektorat: Christian Kox und Steffen T rzensky
+Layout & Grafische Bearbeitung: Max Breidenbach
+© 2021 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, Living Card 
+Game, LCG und das LCG-Logo sind ® von Fantasy Flight Games. Gamegenic und das Gamegenic-
+Logo sind TM und ® von Gamegenic GmbH, Deutschland. Hergestellt von: Fantasy Flight 
+Games, 1995 West County Road B2, Roseville, Minnesota, 55113, USA. Spielmaterial kann von 
+der Abbildung abweichen. 
+FANTASY
+FLIGHT
+GAMES
+Häufig gestellte Fragen
+Zählen neutrale Karten in Bezug auf Synergie -Karten als eine Klasse?
+Nein. Neutral ist keine Klasse. Neutrale Karten sind Karten, die 
+keine Klasse haben.
+Solange die Schwächekarte Der Vorbote enthüllt oben auf meinem Deck 
+liegt, kann ich mein Deck mischen oder mir darin Karten ansehen? 
+Nein. Dein Deck und die Karten deines Decks dürfen auf keinerlei 
+Weise manipuliert werden – das schließt alle möglichen Karten- oder 
+Spieleffekte mit ein, wie z. B. das Ansehen von Karten in deinem 
+Deck, das Bewegen von Karten in dein Deck, das Ablegen von 
+Karten von deinem Deck usw.
+Kann Bob Jenkins seine zusätzliche Aktion dazu verwenden, um eine 
+Gegenstand-Vorteilskarte von seiner eigenen Hand zu spielen?
+Ja. Bob Jenkins ist „ein Ermittler an seinem Ort“ und kann deshalb 
+seine zusätzliche Aktion verwenden, um seine eigene Gegenstand -
+Vorteilskarte zu spielen.
+Was passiert, wenn ich die Ereigniskarte 21 oder raus spiele und der 
+Gesamtwert der enthüllten Marker höher als 21 ist?
+Nichts (du bist nur „raus“).
+Was passiert, wenn ich beim Abhandeln der Ereigniskarte 21 oder raus 
+einen Frost-()-, Segens-()- oder Fluch-()-Marker enthülle?
+Diese Marker haben keine Werte, sobald sie außerhalb einer 
+Fertigkeits  probe enthüllt werden. Also tragen sie nichts zum 
+Gesamtwert bei. Du darfst entscheiden, ob du weitermachst oder 
+auf hörst, Marker zu enthüllen (so wie es die Karte anweist).
+Was ist im Bezug auf die Vorteilskarte Den Kreis schließen eine 
+„Basisaktion“?
+Eine Basisaktion ist eine Aktion, die nicht von einem fett gedruckten 
+Aktionskennzeichen auf einer Karte modifiziert wird. Eine Basis -
+kampf aktion ist z. B. eine normale Kampfaktion, die ein beliebiger 
+Ermittler durchführen kann. Dagegen gilt das Spielen der Ereignis -
+karte Schwungvoller Tritt oder das Aktivieren der Kampfaktion auf 
+der Vorteilskarte Drachenstab als Nicht-Basiskampfaktion.
+Wenn ich die Vorteilskarte Alte Schrotflinte spiele und dann eine 
+Ereigniskarte spiele, erhält die Flinte dann Munition?
+Nein. Das passiert nur, wenn Alte Schrotf linte mithilfe einer 
+Ereigniskarte ins Spiel kommt (außer das Ereignis verweist direkt auf 
+Anwendungen). Mit anderen Worten: Spielst du Alte Schrotf linte 
+bei der Abhandlung eines Ereignisses (z. B. Immer wachsam oder 
+Taschenspielertrick), kommt sie mit 2 Munition ins Spiel, ansonsten 
+mit 0 Munition.
+Import und Vertrieb durch:
+Asmodee Germany  
+Friedrichstr. 47  
+45128 Essen
+
+Ein Brettspiel über globale Ein Brettspiel über globale 
+Mysterien und entsetzlichen Horror.Mysterien und entsetzlichen Horror.
+Bei Eldritch Horror geht es um globale Bedrohungen 
+und Abenteuer. Als weltreisende Ermittler sammelt 
+ihr Hinweise, klärt Mysterien auf und beschützt die 
+Erde vor übernatürlichen Gefahren. Zwölf verschie-
+dene Ermittler, 250 Marker und über  300 Karten 
+machen jede Partie zu einem epischen, weltum-
+ spannenden Abenteuer. Habt ihr den Mut, das 
+Böse in seine Schranken zu verweisen?

@@ -1,0 +1,2438 @@
+
+
+Der wahre Albtraum ist ein Fenster …
+„Ich wiederhole, dass ich nicht mehr weiß als das, was ich sah. Eine Vision 
+oder ein Albtraum mag es gewesen sein – innig hoffe ich, es möge eine 
+Vision oder ein Albtraum gewesen sein – doch ist dies alles, was mein 
+Geist behalten konnte von dem, was sich in jenen schockierenden Stunden 
+zutrug, nachdem wir das Blickfeld der Menschen verlassen hatten.“
+– H. P. Lovecraft, Die Aussage des Randolph Carter
+Die Kampagnen-Erweiterung Die Traumfresser  besteht aus zwei Kampa-
+gnen für  Arkham Horror: Das Kartenspiel . Dieser Kampagnenleitfaden 
+beinhaltet Kampagne B – Das Netz der Träume , welche aus 4 Szenarien 
+besteht: „Erwachter Albtraum“, „Tausend Formen des Schreckens“, „Kein 
+Zurück mehr“ und „Weber des Kosmos“. Diese Szenarien können auch 
+als eigen ständige Szenarien gespielt werden. Es ist aber auch möglic h, 
+sie mit den 4 Szenarien aus Kampagne A im Rahmen einer achtteiligen 
+Kampagne als miteinander verwobene Szenarien zu spielen.
+Die anderen 4 Szenarien befinden sich im Kampagnenleitfaden A – Die 
+Traumsuche .
+Inhalt
+Zusätzliche Regeln und Klarstellungen  ..............................2
+Prolog ............................................................................................3
+Vorbereitung für Kampagne B  ...............................................4
+Szenario 1–B: Erwachter Albtraum  .....................................5
+Zwischenspiel I: Die schwarze Katze  ...................................9
+Szenario 2–B: Tausend Formen des Schreckens  ............10
+Zwischenspiel II: Die Traumreisenden  .............................13
+Szenario 3–B: Kein Zurück mehr  .......................................14
+Zwischenspiel III: Die Großen  ............................................16
+Szenario 4–B: Weber des Kosmos  ......................................17
+Szenario-Zwischenspiel: Die Spinnenkönigin  ................17
+Erfolge  ....................................................................................... 22
+Kampagnenlogbuch ............................................................... 23
+Begegnungssetsymbole  ........................................................ 24
+Schnellübersicht  ..................................................................... 24
+(Hinweis: Epilog, Anmerkungen der Entwicklerin und Credits für 
+die Kampagnen-Erweiterung Die Traum/f_resser be/f_inden sich im 
+Kampagnenleitfaden/uni00A0A.)
+Alarmiert
+Immer wenn einem Ermittler eine Fertigkeitsprobe misslingt, währe nd 
+er versucht, einem Gegner mit dem Schlüsselwort „Alarmiert“ zu 
+entkommen, führt jener Gegner nach der Anwendung aller Ergebnisse 
+jener Fertigkeitsprobe einen Angriff gegen den Ermittler durch, der z u 
+entkommen versucht. Ein Gegner wird nicht erschöpft, nachdem er einen 
+Alarmiert-Angriff durchgeführt hat. Dieser Angriff wird durchge führt, 
+egal ob der Gegner mit dem entkommenden Ermittler in einen Kampf 
+verwickelt ist oder nicht.
+Handlungskarten
+Handlungskarten dienen dem Zweck, die Kampagne 
+mit noch mehr erzählter Handlung zu füllen. Sie 
+befinden sich normaler weise auf der Rückseite 
+einer anderen Szenariokarte. Sobald die Spieler 
+die Anweisung erhalten, eine Handlungskarte 
+abzuhandeln, wird der Handlungstext auf der 
+Karte vorgelesen und der Spieltext auf dieser Karte 
+abgehandelt.
+Ausschwärmen X
+Ein Gegner mit dem Schlüsselwort Ausschwärmen X ist Teil einer größe-
+ren Gruppe von Gegnern, die gemeinsam vorgehen. Nachdem ein Spieler 
+einen Gegner mit dem Schlüsselwort Ausschwärmen X ins Spiel gebracht 
+hat, werden die obersten X Karten des entsprechenden Spielerdecks als 
+sogenannte Schwarmkarten verdeckt unter dem Gegner platziert, ohn e 
+sie sich anzusehen. Der Gegner, unter dem die Schwarmkarten liegen, 
+wird „Wirtsgegner“ genannt. Manche Szenariokarteneffekte könn en 
+einen Spieler dazu anweisen, einem Gegner Schwarmkarten hinzuzu-
+fügen. Dies geschieht nach demselben Verfahren.
+ Æ Falls unklar ist, welcher Ermittler Schwarmkarten hinzufügen soll , 
+macht dies der Ermittlungsleiter.
+ Æ Jede Schwarmkarte unter dem Wirtsgegner agiert für die meisten 
+Zwecke als eigenständige Instanz jenes Gegners. Jede Schwarmkarte 
+hat die gleichen Werte und den gleichen Text wie die Wirtskarte.
+HANDLUNG
+Die Probe von Kaman-Thah
+Falls du mit Kaman-Thah verhandelt hast, lies das 
+Folgende:„Dein Geist ist stark“, gibt der Wächter zu, „aber bist du 
+auch bereit dazu, das Konzept der Wahrheit abzustreifen? 
+Das Konzept der Realität? Wenn ja, dann ändere deine 
+Kleidung.“ Verwirrt willst du protestieren. „Das ist ein 
+Land des Willens“, fährt der Priester fort. „Wenn deine Ent-
+schlossenheit stark genug ist, beweise es mir.“ Du schließt 
+deine Augen und denkst an andere Kleidung. Du strengst 
+dich an, dir das Gewebe, die Farbe und den Geruch genau 
+vorzustellen. Bis hin zu jeder einzigen Faser. Als du deine 
+Augen wieder öffnest, trägst du das, was du dir ausgedacht 
+hast. „Gut“, sagt Kaman-Thah und tritt zur Seite.
+Füge diese Karte dem Siegpunktestapel hinzu.
+Falls du Kaman-Thah besiegt hast, lies das 
+Folgende:
+Der Priester geht für ein paar Augenblicke auf deine 
+alberne Vorstellung von Widerstand ein, bevor es in seinen 
+Augen zu lodern beginnt. Er selbst ist völlig unversehrt. 
+„Du bist stürmisch. Aber mit Wildheit allein kommst du 
+nicht weit. Du darfst passieren, aber beherzige meinen Rat: 
+Nicht alle Probleme können mit Gewalt gelöst werden.“
+Füge diese Karte dem Siegpunktestapel hinzu.
+Zusätzliche Regeln und Klarstellungen
+Erweiterungssymbol
+Die Karten aus der Kampagne Die Traumfresser  können an diesem 
+Symbol vor jeder Setnummer erkannt werden:
+DIE TRAUMFRESSER
+Kampagnenleitfaden B — Das Netz der Träume
+
+(Beispiel: Ist ein Ermittler mit einem Wirtsgegner in einen Kampf 
+verwickelt, der 2/uni00A0Schwarmkarten unter sich liegen hat, ist der Ermittler 
+mit insgesamt 3/uni00A0Gegnern in einen Kampf verwickelt.)
+ Æ Jede Schwarmkarte greift einzeln an, sobald Gegner während der Gegner-
+phase angreifen. Haben der Wirts gegner und alle seine Schwarm karten in 
+diesem Schritt angegriffen, werden sie alle erschöpft.
+ Æ Jede Schwarmkarte kann unabhängig voneinander angegriffen 
+werden und man kann jeder Schwarmkarte unabhängig voneinander 
+Schaden zufügen, aber der Wirtsgegner kann nicht besiegt werden, 
+solange er noch Schwarmkarten unter sich liegen hat. Sobald eine 
+Schwarmkarte besiegt wird, darf überschüssiger Schaden einer 
+anderen Schwarmkarte unter demselben Wirtsgegner oder dem 
+Wirtsgegner selbst zugefügt werden. (Beispiel: Tony Morgan verwendet 
+eine 41er Derringer, um einen Heimlichen Zoog mit 2/uni00A0Schwarmkarten 
+anzugreifen. Der Angriff fügt 2/uni00A0Schaden zu. Der erste Schadenspunkt 
+besiegt 1/uni00A0der 2/uni00A0Schwarmkarten. Überschüssiger Schaden darf der anderen 
+Schwarmkarte zugefügt werden, was ausreicht, um auch sie zu besiegen.)
+ Æ Jedes Mal wenn eine Schwarmkarte das Spiel verlässt, wird sie unter 
+das Deck ihres Besitzers platziert. Falls unklar ist, wer der Besitzer 
+einer Schwarmkarte ist, darf man sie sich ansehen, um ihren Besitzer 
+zu bestimmen.
+ Æ Der Wirtsgegner und alle seine Schwarmkarten werden als Einheit 
+bewegt, in Kämpfe verwickelt und erschöpft. (Beispiel: Gelingt es 
+einem Ermittler, einem Wirtsgegner oder einer seiner Schwarmkarte n zu 
+entkommen, werden alle Karten dieser Einheit erschöpft und von dem 
+Ermittler gelöst.)
+Verborgen
+Eine Begegnungskarte oder Schwäche mit dem Schlüsselwort Verborge n 
+hat eine Enthüllung -Fähigkeit, die du geheim deiner Hand  hinzufügst. 
+Dies sollte geschehen, ohne den anderen Ermittlern die Karte oder ihren 
+Text zu enthüllen.
+ Æ Solange sich eine Verborgen-Verratskarte auf deiner Hand befindet , 
+wird sie so behandelt, als ob sie sich in deiner Bedrohungs zone 
+befände. Ihre anhaltenden Fähigkeiten sind aktiv und Fähigkeiten au f 
+ihr können ausgelöst werden, aber nur von dir.
+ Æ Solange sich eine Verborgen-Gegnerkarte auf deiner Hand befindet, 
+gilt sie nicht als mit dir in einen Kampf verwickelt oder in deiner 
+Bedrohungszone befindlich. Der Gegner greift nicht an, außer es ist 
+etwas anderes angegeben. Seine anhaltenden Fähigkeiten sind aber 
+aktiv und Fähigkeiten auf ihm können ausgelöst werden, aber nur von 
+den dir.
+ Æ Eine Verborgen-Karte zählt bei der Bestimmung deiner Hand karten 
+mit, kann aber nicht von der Hand abgelegt werden, außer auf die 
+auf der Karte beschriebene Art. Sobald Verborgen-Kar ten abgelegt 
+werden, werden sie auf den entsprechenden Ablagestapel gelegt.
+Für ein optimales Spielerlebnis sollten die Spieler  ihre Charaktere „ver-
+körpern“ und keine Informationen über Verborgen-Kar ten auf ihrer Hand 
+mit anderen Spielern teilen.
+Freitag, 13. Februar 1925
+Irgendetwas Seltsames ging in Arkham, Massachusetts vor sich.
+Das war für die Bewohner der trostlosen Stadt in New England keine 
+Überraschung, denn Arkham war schon immer bekannt für seine eigen-
+artigen/uni00A0– manche würden sie übernatürlich nennen – Vorkommnisse. Doch 
+dieser Umstand war alles andere als gewöhnlich.
+Alles begann mit der neusten Ausgabe der Geschichten aus Nimmermehr . 
+Ein Autor namens Virgil Gray beschrieb darin eine Reise, die sich in seinen 
+Träumen ereignet hatte – eine Reise, von der er behauptete, sie sich nicht 
+ausgedacht zu haben. Er schrieb über eine lange Wendeltreppe, über eine 
+unerträglich heiße, mit Verstand gesegnete Säule aus Feuer, über eine n Baum, 
+der vom Mond kam, und über eine merkwürdige sprechende Katze … um 
+nur einige der wenig glaubhaften Dinge zu erwähnen. Aber es war nicht die 
+außergewöhnliche Geschichte, die dein Interesse an der Sache geweck t hatte. 
+Kurz nach der Veröffentlichung der Erzählung erreichte ein Brief nach d em 
+anderen die Redaktion von Geschichten aus Nimmermehr . Die Leser von 
+Virgils Geschichte behaupteten in den ebenfalls veröffentlichte n Briefen, genau 
+den gleichen Traum gehabt zu haben. Es dauerte nicht lange, da griff der 
+Arkham Advertiser  die Geschichte auf, sodass die Neuigkeit dieses seltsamen 
+Phänomens schon bald Experten zu Ohren kam. 
+Virgil Gray wurde davon überzeugt, sich im örtlichen Sanatorium einer 
+Therapie zu unterziehen. Auch viele andere, welche unter derselben Ps ychose 
+wie der Autor litten, wurden dort eingewiesen. Die vorherrschende Theorie der 
+Wissenschaftler ist, dass sich Virgils Traum so echt anfühlte, dass er ih n nicht 
+mehr von der Realität unterscheiden konnte, und das s durch seine Schriften 
+seine Wahnvorstellungen wie bei einer Massenhysterie auf andere übe rtragen 
+werden konnten. Dich überzeugt das nicht. Schließlich ist nicht wirkli ch viel 
+über den schlichten Akt des Träumens bekannt. Mediziner haben weit aus-
+einandergehende Theorien, was den Zustand des Gehir ns im Schlaf betrifft. 
+Erst kürzlich haben Experten, darunter auch Sigmund Freud, die These 
+aufgestellt, dass Träume Manifestationen eigener un terbewusster Sehnsüchte, 
+Ängste oder Obsessionen sein könnten. Wahrsager haben ihrerseit s schon lange 
+daran geglaubt, dass man Träume durchleuchten und interpretieren ka nn, um 
+damit die Vergangenheit oder Zukunft des Träumers zu erkennen. Wenn die se 
+Theorien aber stimmen sollten, wie können dann unterschiedliche Leu te – in 
+ganz verschiedenen Lebensumständen – die gleichen geteilten Erfah rungen 
+in ihren Träumen erleben? Was wäre, wenn unser heutiges Verständnis übe r 
+den Schlaf falsch wäre? Was wäre, wenn es wirklich einen Ort in unserem 
+Unterbewusstsein gäbe, zu dem wir im Schlaf reisen könnten – in ein Land der 
+Träume, das nur jenseits unserer wachen Welt existieren würde?
+Du und deine Gefährten sind zusammengekommen, um di esem seltsamen 
+Phänomen auf den Grund zu gehen. Wenn andere in der Stadt in ihren 
+Träumen in eine andere Welt reisen können, könnt ihr das vielleicht auch.  
+Ihr habt die Gegebenheiten von Virgils Reise nahezu perfekt nachgeste llt.  
+Wenn alles gut geht, wird die eine Hälfte von euch eine Reise in dieses „Traum-
+land“ und wieder zurück unternehmen, während die an dere Hälfte  
+in der wachen Welt verbleibt und das Schlafverhalten ihrer Gefährten üb er-
+wacht, um sicherzugehen, dass nichts schiefgeht …
+Diese Erweiterung besteht aus 2 voneinander getrennten vierteilig en 
+Kampagnen: Kampagne A und Kampagne B.
+Kampagne A wird Die Traumsuche  genannt und besteht aus den Szenarien 
+1–A, 2–A, 3–A und 4–A. Diese Kampagne erzählt die Geschichte der 
+Ermittler, die in die Welt der Träume reisen, und wird im Kampagnen-
+leitfaden A beschrieben.
+Kampagne B wird Das Netz der Träume  genannt und besteht aus den 
+Szenarien 1–B, 2–B, 3–B und 4–B. Diese Kampagne erzählt die Geschichte 
+der Ermittler, die in der wachen Welt zurückbleiben, und wird in diesem 
+Kampagnenleitfaden beschrieben.
+Die Szenarien dieser Erweiterung können auf 3 verschiedene Arten 
+gespielt werden: entweder als jeweils eigenständige vierteilige K ampagne  
+(A oder B) oder als eine verwobene achtteilige Kampagne (A und B), 
+Prolog
+Halt!
+Zu diesem Zeitpunkt werden noch keine Ermittler gewählt 
+oder Ermittlerdecks zusammengestellt.  Zunächst muss 
+der folgende Prolog gelesen werden. Die Spieler wer den nach 
+Abschluss des Prologs dazu angewiesen, Ermittler zu  wählen und 
+die Ermittlerdecks zu erstellen.
+3
+
+in der eine Gruppe aus 1–4 Spielern die Kontrolle über 2 verschiedene 
+Ermittlergruppen übernimmt und sich zwischen diesen beiden Gruppen 
+abwechselt.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird:
+ = Fahre mit Vorbereitung für Kampagne A  auf Seite 4 im 
+„Kampagnenleitfaden A – Die Traumsuche“ fort. Fahre  nach 
+jedem Szenario mit dem A-Szenario mit der nächsthöheren 
+Nummer fort, wie bei der Auf lösung des Szenarios angegeben. 
+Achte darauf, nicht die vier B-Szenarien zu spielen. Diese gehören 
+zu einer eigenständigen Kampagne.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt wird:
+ = Fahre mit Vorbereitung für Kampagne B  weiter unten fort.  
+Fahre nach jedem Szenario mit dem B-Szenario mit de r nächst-
+höheren Nummer fort, wie bei der Auf lösung des Szen arios 
+angegeben. Achte darauf, nicht die vier A-Szenarien  zu spielen. 
+Diese gehören zu einer eigenständigen Kampagne.
+ Æ Falls Die Traumfresser als achtteilige Kampagne gespielt wird :
+ = Jeder Spieler sollte für jede Kampagne ein eigenes Ermittler deck 
+erstellen. Einer seiner Ermittler ist Teil von Kampagne A und ein 
+anderer Ermittler Teil von Kampagne B. (Um noch mehr Chaos 
+ins Spiel zu bringen, können die Spieler zufällig bestimmen, 
+welcher Ermittler in welcher Kampagne mitspielt.)
+ = Beide Kampagnen haben ihren eigenen Chaosbeutel, wie  in den 
+jeweiligen Vorbereitungsanweisungen beschrieben. Es  ist aber 
+nicht nötig, 2 Chaosbeutel gleichzeitig zu füllen. Im Abschnitt 
+„Chaosbeutel“ jedes Kampagnenlogbuchs kann der aktuelle 
+Inhalt jedes Chaosbeutels notiert werden, damit er zwischen den 
+Szenarien leichter ausgetauscht werden kann.
+ = Fahre entweder mit Szenario 1–A: Hinter den Toren des Schla-
+fes auf Seite 5 im Kampagnenleitfaden A fort oder mit Szenario 
+1–B: Erwachter Albtraum  auf Seite 5 in diesem Leitfaden 
+(eure Wahl). Nach jedem Szenario werden die Anweisungen der 
+Auf lösung befolgt, um festzustellen, wann zwischen den beiden 
+Gruppen gewechselt wird. Entscheidungen der einen Gruppe 
+haben manchmal Auswirkungen auf die andere Gruppe.
+Vorbereitung für Kampagne B
+Um die Kampagne Das Netz der Träume  vorzubereiten, werden folgende 
+Schritte in der angegebenen Reihenfolge durchgeführt .
+1. Ermittler wählen.
+2. Jeder Spieler stellt sein Ermittlerdeck zusammen.
+3. Schwierigkeitsgrad wählen.
+4. Chaosbeutel für die Kampagne zusammenstellen.
+ = Einfach ( Ich möchte die Geschichte erleben ):  
++1, +1, 0, 0, 0, –1, –1, –1, –2, –2, , , , , , , .
+ = Normal ( Ich möchte eine Herausforderung ):  
++1, 0, 0, –1, –1, –1, –2, –2, –3, –4, , , , , , , .
+ = Schwer (Ich möchte einen echten Albtraum ):  
+0, 0, 0, –1, –1, –2, –2, –3, –3, –4, –5, , , , , , , .
+ = Experte ( Ich möchte den Arkham-Horror ):  
+0, –1, –1, –2, –2, –3, –3, –4, –4, –5, –6, –8, , , , , , , .
+Nun könnt ihr mit Szenario 1–B: Erwachter Albtraum beginnen.
+Die Traumfresser mit 
+2 Spielergruppen spielen
+Neben dem eigentlichen Spielmodus ist es auch möglich, die 
+Kampagne Die Traumfresser  mit 2 unterschiedlichen Spieler-
+gruppen (aus je 1–4 Spielern) zu erleben. Die eine Gruppe 
+spielt Kampagne A, während die andere Gruppe Kampagne B 
+spielt. In diesem Format werden die Regeln zur Vorbereitung 
+der verwobenen achtteiligen Kampagne mit den folgend en 
+Ausnahmen verwendet:
+ Æ Nach jedem Szenario muss jede Gruppe warten, bis die 
+jeweils andere Gruppe das Szenario mit der gleichen 
+Nummer beendet hat, bevor sie weiter machen kann. Beide 
+Gruppen fahren dann mit dem Szenario mit der nächst-
+höheren Nummer ihrer Kampagne fort oder mit einem 
+Zwischenspiel, falls sie dazu aufgefordert werden. (Beispiel: 
+Hat Gruppe/uni00A0A Szenario 1–A  beendet, muss sie warten, bis 
+die andere Gruppe Szenario 1–B  beendet hat, bevor sie 
+weitermachen kann.)
+ Æ Jede Gruppe benötigt nur den Kampagnenleitfaden ihrer 
+eigenen Kampagne.
+ Æ Zwischenspiele sollten beide Gruppen zusammen lesen. 
+Dabei trifft jede Gruppe die Entscheidungen, die für ihre 
+Kampagne relevant sind.
+ Æ Für ein optimales Spielerlebnis sollte der anderen Gruppe 
+nicht mitgeteilt werden, was in der eigenen Kampagne 
+passiert ist. Dadurch können die Gruppen nach Ende des 
+Zyklus die Kampagnen tauschen, um bei einem erneuten 
+Durchspielen die andere Seite der Geschichte zu erleben.
+4 4
+
+Doktor Maheswaran scheint von deinem Eindringen nicht überrascht zu s ein. 
+„Shivani Maheswaran“, stellt sie sich dir unterkühlt vor, ohne von ihre m Klemm-
+brett aufzublicken. „Sie sind derjenige, der sie eingeliefert hat, ni cht wahr? Bevor 
+Sie fragen: Nein, so etwas habe ich in meinem Leben noch nicht gesehen“, erkl ärt 
+sie mit leichter Ungeduld im Tonfall. Du verlangst, dass sie dir alles, was s ie über 
+ihren Zustand weiß, sagen und dich nicht hinhalten soll. Mit einem Seufze n legt 
+sie das Klemmbrett zur Seite und spricht dich direkt an. „Hören Sie, ich mag 
+zwar neu in Arkham sein, aber auch ich habe schon genug unerklärliche Leide n 
+in dieser Stadt gesehen, die für mehrere Medizinerlaufbahnen reiche n würden. 
+Ich verstehe, dass Sie besorgt sind. Ihre Freunde … “ Sie ringt mit den Worten . 
+„Sie schlafen nicht nur. Wie es scheint, bewegen sie sich zwischen Schlaf u nd 
+Unterbewusstsein oder sogar dem Tod. Von ihrer Umgebung nehmen sie zwar 
+nichts wahr, scheinen aber auf interne Reize zu reagieren.“ 
+Ohne zu zögern fragst du, ob sie träumen. „Träumen?“, antwortet Doktor 
+Maheswaran. „Das ist unwahrscheinlich, würde aber ihr Verhalten erk lären. 
+Um ehrlich zu sein – was nicht wirklich beruhigend ist – medizinisch gesehe n 
+ergibt das alles für mich keinen Sinn.“
+In diesem Moment entdeckst du, wie eine große, haarige Spinne die Brust ein es 
+deiner Freunde hinaufkrabbelt. „Das ist seltsam.“ Als Doktor Mahesw aran die 
+Spinne wegwischt, erscheinen auf den Laken noch mehr von ihnen. Du und die 
+Ärztin weichen instinktiv ein paar Schritte zurück. Dann sind auf dem Flu r 
+der Notaufnahme schwere Schritte zu hören und das Licht beginnt zu flacke rn. 
+„Das … ist nun mehr als seltsam. Was in aller Welt geht dort draußen vor?“, 
+fragt Doktor Maheswaran beunruhigt.
+Einen kurzen Augenblick lang hast du den Eindruck, dass einer der schlafe nden 
+Gefährten etwas flüstert. Träumen sie wirklich? Wenn ja, was hat ihr Zust and 
+mit diesen seltsamen Ereignissen zu tun?
+ Æ Die Ermittler müssen entscheiden (wähle eins):
+ = Überzeuge Doktor Maheswaran davon, dich zu ihrer eigenen und zu 
+deiner Sicherheit bei deinen Ermittlungen zu begleiten. Fahre mit 
+Einführung 2  fort.
+ = Überzeuge Doktor Maheswaran davon, bei den Patienten zu bleiben 
+und sich um ihre Sicherheit zu kümmern, während du ermittelst. 
+Fahre mit Einführung 3  fort.
+Einführung 2:  „Ja, das wäre vermutlich das Vernünftigste. In den letzten 
+Stunden hat sich an ihrem Zustand sowieso nichts verändert.“ Doktor 
+Maheswarans Blick wandert auf der Suche nach noch mehr Spinnen hin und 
+her. „Außerdem würde ich den Raum ohnehin gerne allmählich verlassen. 
+Gehen Sie nur voraus“, fügt sie hinzu. Du nickst und machst dich auf den Weg 
+zurück ins Wartezimmer des Krankenhauses.
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran hat sich den 
+Ermittlern angeschlossen.
+Fahre mit der Vorbereitung  fort.
+Einführung 3: „Ja, natürlich. Ihre Sicherheit hat Vorrang. Kommen  Sie 
+aber bitte wieder und erzählen mir, was hier vorgeht.“ Sie zittert. „Ich ha sse 
+diesen Ort im Dunkeln.“ Du nickst und machst dich auf den Weg zurück ins 
+Wartezimmer des Krankenhauses.
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran ist bei ihren 
+Patienten geblieben.
+Fahre mit der Vorbereitung  fort.
+Einführung 1:  Mehr als 24 Stunden ist es her, dass deine Gefährten einge-
+schlafen sind. Im Laufe des letzten Tages hat sich deine Wissbegierde lang sam 
+in Sorge und Furcht verwandelt. Die Probleme haben angefangen, als sich 
+einer deiner Freunde im Schlaf wild hin und her zu wälzen begann. Du warst 
+sofort zur Stelle und hast versucht, ihn und die anderen wachzurütteln. T rotz 
+aller Versuche warst du erfolglos, selbst mit Hilfe von körperlichem Ko ntakt 
+und Wasser, das aber lediglich das Bett durchweicht hat. Das Aufhalten 
+der Augenlider hatte ebenfalls keine Wirkung, aber immerhin ist dir dab ei 
+aufgefallen, dass ihre Pupillen unnatürlich geweitet und ihre Augen m it einem 
+milchig-weißen Schleier überzogen waren.
+Du hast keine Ahnung, was das für deine Freunde bedeutet. Haben sie ihren 
+Weg in das Land gefunden, das Virgil Gray in seinem Werk beschrieben hat? 
+Oder hat etwas Düsteres ihren Verstand und ihre Körper ergriffen? Nur 
+um sicherzugehen, beschließt du, deine Gefährten ins St. Mary’s Hospi tal 
+zu bringen. Wenn sie ein körperliches Leiden haben , sollten die Ärzte dort 
+herausfinden können, was ihnen fehlt. Ansonsten bleibt dir nichts and eres 
+übrig, als sie weiter zu beobachten und zu hoffen, dass sie wieder sicher in de r 
+wachen Welt ankommen.
+St. Mary’s ist das einzige Krankenhaus in Arkham und aus dem Wohnviertel 
+nicht wegzudenken. Du erklärst Oberschwester Greenberg die Situat ion. 
+Sofort beauftragt sie mehrere Schwestern damit, deine Gefährten auf 
+Krankenbahren in die Notaufnahme zu bringen. Mit einem warmen und 
+freundlichen Lächeln teilt sie dir mit, dass Doktor Maheswaran deine Fr eunde 
+untersuchen wird. Darüber hinaus gibt sie dir keine weiteren Informati onen.
+Stunden vergehen, in denen du nichts über den Zustand deiner Gefährten 
+erfährst. Bisher hast du Doktor Maheswaran noch nicht kennengelernt . 
+So langsam wirst du ungeduldig. Plötzlich spürst du etwas deinen Arm 
+entlangkrabbeln und versuchst, es instinktiv abzustreifen. Du fra gst dich, ob es 
+ein Insekt oder ein Produkt deiner Einbildung war. Langsam bist du dir auch 
+nicht mehr sicher, ob es richtig war, deine Freunde hierherzubringen. E ndlich 
+beschließt du, die Sache in die eigene Hand zu nehmen.
+Es ist mitten in der Nacht. Die Empfangsdame, die dich gebeten hat, im 
+Wartezimmer Platz zu nehmen, ist nirgendwo zu sehen. Tatsächlich sind 
+unheimlich wenige Menschen in den Fluren des Krankenhauses unterweg s. 
+Da dich niemand aufhalten kann, schleichst du dich in die Notaufnahme, 
+um dort nach deinen Freunden zu suchen. Es dauert nicht lange, bis du ihr 
+Zimmer gefunden hast. Deine Gefährten liegen schlafend auf sauberen w eißen 
+Krankenhausbetten. Aber ihr Schlaf ist alles andere als ruhig. Auf ihre n fahlen 
+Gesichtern haben sich Schweißperlen gebildet. Einer von ihnen wirft s ich auf 
+dem Bett mit vor Schmerz oder Sorge gerunzelter Stirn hin und her.
+Szenario 1–B: Erwachter Albtraum
+5
+
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht:  
+Erwachter Albtraum, Vermischende Realitäten, Geflüs ter des Hypnos, 
+Verschlossene Türen und Lähmende Angst.  Diese Sets sind an folgenden 
+Symbolen zu erkennen:  
+ 
+ 
+ Æ Die folgenden Begegnungssets werden als nicht im Spiel befindlich 
+beiseitegelegt:  Anhänger von Atlach-Nacha  und Spinnen . Diese Sets 
+sind an folgenden Symbolen zu erkennen:  
+ 
+ 
+ Æ Die Orte Wartezimmer, Notaufnahme, Station für experimentelle 
+Therapien und Archiv werden ins Spiel gebracht. Jeder Ermittler 
+beginnt das Spiel im Wartezimmer.
+ Æ Überprüfe das Kampagenlogbuch.
+ = Falls sich Dr. Maheswaran den Ermittlern angeschlos sen hat , wird 
+Dr. Shivani Maheswaran unter der Kontrolle des Ermittlungs-
+leiters ins Spiel gebracht.
+ = Falls Dr. Maheswaran bei ihren Patienten geblieben ist , wird Dr. Shivani 
+Maheswaran als nicht im Spiel befindlich beiseitegelegt.
+ Æ Alle übrigen Orte werden als nicht im Spiel befindlich beiseitegelegt .
+ Æ Folgende Karten werden als nicht im Spiel befindlich beiseitegelegt : 
+die Storyvorteilskarte Randolph Carter (An die wache Welt gekettet) , 
+alle 3 Verratskarten Ausbruch und beide Gegner Korrumpierte 
+Krankenpf leger.
+ Æ Die doppelseitige Handlungskarte Der Befall beginnt wird als nicht 
+im Spiel befindlich beiseitegelegt. Diese Handlungskarte hat eine 
+andere Szenarioübersichtskarte auf ihrer Rückseite und wird im 
+Laufe des Szenarios ins Spiel kommen.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+© 2024 FFGIllus. Mark Molnar
+ORT
+Das Wartezimmer des Krankenhauses mit mehreren Reihen 
+Stühlen und Bänken wirkt /f_reundlich aber langweilig. 
+Daneben be/f_indet sich ein niedriges Bücherregal, in dem sich 
+unterschiedlichster Lesestoﬀ stapelt. Das meiste davon ist 
+fürchterlich eintönig.
+St. Mary’ s.
+Wartezimmer
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Auf einer Plake/t_te neben der Tür steht:  
+„ARCHIV“
+Darunter warnt ein weiteres Schild:  
+„NUR FÜR MITARBEITER“
+St. Mary’ s.
+Archiv
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Auf einem Schild über dem Flur steht „Experimentelle 
+/T_herapien“ geschrieben. Du bist dir nicht sicher, an  
+welcher Art von Heilmi/t_tel das Personal von St. Mary’s  
+experimentiert. Du bist dir aber auch nicht sicher, ob du  
+das wirklich wissen willst.
+St. Mary’ s.
+Station für experimentelle Therapien
+Vorschlag für die Platzierung der Orte
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Du wirfst einen Blick in die Notaufnahme.  
+Hier be/f_inden sich neben dem Zimmer, in dem  
+deine Gefährten liegen, noch einige andere Räume.
+St. Mary’ s.
+Notaufnahme
+6
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auf lösung erreicht wurde und mindestens 
+1 Ermittler aufgegeben hat:  Während Panik deinen Verstand 
+zu überwältigen droht, rennst du durch den Hauptausgang des St. 
+Mary’s Hospitals und bringst so viel Abstand wie möglich zwischen 
+dich und den verfluchten Befall. Als du zu Hause ankommst, 
+brichst du erschöpft zusammen. 
+Am nächsten Tag schaust du nach dem Aufwachen die Morgen-
+zeitungen in der Erwartung durch, Berichte über den Spinnenbefall 
+und das Chaos im St. Mary’s zu finden. Aber in keinem Artikel wird 
+das Krankenhaus auch nur erwähnt. Haben sich die Vorfälle der 
+letzten Nacht zu spät für den Arkham Advertiser  ereignet? Oder 
+hast du nur schlecht geträumt? Du ziehst dir deinen Mantel über 
+und machst dich wieder auf den Weg ins Krankenhaus. Du willst 
+wissen, ob das, was du letzte Nacht gesehen hast, real war.
+Als du am St. Mary’s ankommst, erwartest du, dass das gesamte 
+Gebäude – vielleicht sogar das ganze Wohnviertel – mit Spinn-
+weben überzogen ist. Aber zu deiner Überraschung ist es in 
+einwandfreiem Zustand. Patienten, Kranken schwester n und Ärzte 
+bevölkern die Flure, als wäre letzte Nacht nichts geschehen. Aber 
+noch bevor du das Zimmer deiner schlafenden Gefährten finden 
+kannst, nähert sich dir ein blonder Mann mit dicken Tränensäcken 
+unter den Augen und legt dir seine Hand auf die Schulter.
+„Guten Morgen. Wir sollten uns unterhalten.“
+ Æ Im Kampagnenlogbuch wird unter „Stufen der Brücke“ für 
+jeden Ort, der am Ende des Spiels befallen war, 1 Zählstrich 
+notiert.
+ Æ Im Kampagnenlogbuch wird notiert: Dr./uni00A0Maheswarans 
+Schicksal ist ungewiss .
+ Æ Im Kampagnenlogbuch wird notiert: Randolph ist alleine 
+aus dem Krankenhaus geflohen . Einer der Ermittler darf 
+Randolph Carter (An die wache Welt gekettet) ( Die Traum -
+fresser , 79) seinem Deck hinzufügen. Diese Karte zählt nicht 
+gegen die Deckgröße des Ermittlers.
+ Æ Fahre mit Auf lösung 5  fort.
+Falls keine Auf lösung erreicht wurde, weil alle Ermittler 
+besiegt wurden:
+ Æ Im Kampagnenlogbuch wird unter „Stufen der Brücke“ für 
+jeden Ort, der am Ende des Spiels befallen war, 1 Zählstrich 
+notiert.
+ Æ Fahre mit Auf lösung 4  fort.
+Auf lösung 1:  Bevor du das Krankenhaus verlässt, teilt Doktor 
+Maheswaran dir mit, dass sie nach ihren Patienten sehen will. Du 
+beschließt, sie dabei zu begleiten. In der Not aufname angekommen 
+stellst du fest, dass deine Gefährten noch immer ohne Bewusstsein 
+sind. Doktor Maheswaran überprüft ihre Augen, misst ihren Puls 
+und schüttelt dann den Kopf. „Es ist noch schlimmer geworden. Auf 
+welche interne Reize sie auch reagieren, sie verursachen starken 
+geistigen und körperlichen Stress bei ihnen.“ Sie setzt sich zu einem 
+der Patienten ans Bett und schüttelt erneut den Kopf. „Ich bleibe 
+hier. Sie sollten mit diesem Patienten reden und der Sache auf den 
+Grund gehen, in Ordnung? Oh, und wenn Sie irgendwo noch eine 
+Spinne sehen, zerquetschen Sie sie bitte für mich.“ Als du gehst, 
+schwörst du deinen schlafenden Freunden, dass du einen Weg finden 
+wirst, sie zu retten.
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran ist am 
+Leben .
+ Æ Der Zustand deiner Gefährten hat sich verschlechter t. 
+Falls Die Traumsuche  und Das Netz der Träume  als 
+verwobene achtteilige Kampagne gespielt werden, wird im 
+Kampagnenlogbuch von Kampagne A notiert: Die Träumer 
+werden schwächer .
+ Æ Im Kampagnenlogbuch wird notiert: Randolph ist mit 
+den Ermittlern aus dem Krankenhaus geflohen . Einer der 
+Ermittler darf Randolph Carter (An die wache Welt gekettet) 
+( Die Traumfresser , 79) seinem Deck hinzufügen. Diese 
+Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Fahre mit Auf lösung 5  fort.
+Auf lösung 2:  Bevor du das Krankenhaus verlässt, suchst du es 
+von oben bis unten nach Doktor Maheswaran ab, aber du kannst sie 
+nirgendwo finden. Du gehst in die Notaufnahme zurück, um nach 
+deinen Gefährten zu sehen, und stellst fest, dass sie noch immer 
+ohne Bewusstsein sind. Tatsächlich scheint sich ihr Zustand noch 
+verschlechtert zu haben. Schweiß rinnt ihnen die Schläfen hinab 
+und Blut quillt zwischen ihren geschlossenen Lidern hervor. Einer 
+von ihnen murmelt etwas im Schlaf, wiederholt immer wieder etwas 
+in einer Sprache, die du nicht verstehst. Als du gehst, schwörst du 
+deinen schlafenden Freunden, dass du einen Weg finden wirst, sie 
+zu retten.
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran 
+wird vermisst .  Vielleicht hättest du sie retten können. Der 
+Ermittlungsleiter erleidet 1 seelisches Trauma.
+ Æ Der Zustand deiner Gefährten hat sich verschlechter t. 
+Falls Die Traumsuche  und Das Netz der Träume  als 
+verwobene achtteilige Kampagne gespielt werden, wird im 
+Kampagnenlogbuch von Kampagne A notiert: Die Träumer 
+werden schwächer .
+ Æ Im Kampagnenlogbuch wird notiert: Randolph ist mit 
+den Ermittlern aus dem Krankenhaus geflohen . Einer der 
+Ermittler darf Randolph Carter (An die wache Welt gekettet) 
+( Die Traumfresser , 79) seinem Deck hinzufügen. Diese 
+Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Fahre mit Auf lösung 5  fort.
+7
+
+Auf lösung 3:  Bevor du das Krankenhaus verlässt, gehst du in die 
+Notaufnahme zurück, um nach Doktor Maheswaran zu sehen. 
+Die Tür zu dem Raum, in dem deine Gefährten liegen, ist fest 
+verschlossen. Du klopfst an die Tür und fragst, ob sie da ist. Von 
+der anderen Seite hörst du, wie Möbel verschoben und umgeworfen 
+werden. Die erschöpfte Shivani Maheswaran öffnet di r die Tür und 
+sieht dich aus blutunterlaufenen Augen an. „Der Gött in sei gedankt, 
+Sie sind es.“ Sie lässt dich eintreten und sackt dann auf einem Stuhl 
+zusammen. „Diese … Dinger haben versucht, hier reinzukommen. 
+Ich musste den Raum verbarrikadieren, um sie davon abzuhalten.“ 
+Du berichtest ihr, dass die Gefahr vorüber ist, und dankst ihr, 
+dass sie auf deine Freunde aufgepasst hat. „Ich werde sie weiter im 
+Auge behalten“, sagt sie. „Aber bitte sagen Sie mir erst, dass keine 
+Spinnen mehr da sind, sonst nehme ich den ersten Zug, der Arkham 
+verlässt.“ Als du gehst, schwörst du deinen schlafenden Freunden, 
+dass du einen Weg finden wirst, sie zu retten.
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran ist  
+am Leben .
+ Æ Im Kampagnenlogbuch wird notiert: Randolph ist mit 
+den Ermittlern aus dem Krankenhaus geflohen . Einer der 
+Ermittler darf Randolph Carter (An die wache Welt gekettet) 
+( Die Traumfresser , 79) seinem Deck hinzufügen. Diese 
+Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Fahre mit Auf lösung 5  fort.
+Auf lösung 4:  Während Panik deinen Verstand zu über wältigen 
+droht, rennst du einfach los, da du keine Ahnung hast, wie du 
+von hier entkommen sollst. Abscheuliche Monster beginnen dich 
+einzukreisen und du stellst dir vor, wie du in Netzen eingesponnen 
+darauf wartest, die nächste Mahlzeit einer Spinne zu werden. 
+Irgendwann landest du in einer Sackgasse: in einem Raum, der 
+von oben bis unten von dicken, klebrigen Spinnennetzen bedeckt 
+ist. Dicht hinter dir ist das Scharren hunderter Spinnenbeine zu 
+hören. Dir wird klar, dass du keine Chance mehr zur Flucht hast, 
+es sei denn hinter den Spinnweben verbirgt sich ein Ausgang. Du 
+hast keine andere Wahl. Kopfüber stürzt du dich in die Netze und 
+zerreißt sie mit der Wildheit eines in die Ecke gedrängten Tieres. Die 
+Arbeit ist anstrengend und ermüdend, aber endlich kannst du Licht 
+hinter den Fäden erkennen – vielleicht ein Fluchtweg.
+Auf der anderen Seite befindest du dich nicht mehr in den dunklen, 
+sterilen Fluren von St. Mary’s, sondern in einer schmalen, mit 
+Spinnweben bedeckten Höhle. Du wagst es nicht, anzuhalten oder 
+gar umzukehren. Daher rennst du durch die enge, dunkle Höhle, 
+ohne zu wissen, wohin sie dich führt. Während des Vorbeigehens 
+blickst du hinter die Netze links und rechts von dir. Dahinter ist 
+nicht nur kahler Fels, sondern auch schimmernde Lichter, die wie 
+ein Sternenmeer hinter den seidenen Fäden hervorscheinen. Nach 
+einiger Zeit schlüpfst du durch eine weitere Wand aus Spinnweben 
+hindurch und befindest dich nun in einer Gasse im Geschäfts viertel 
+von Arkham in der Nähe des Miskatonic. Du hast weder die Zeit 
+noch den Wunsch, über das Geschehene nachzudenken. Stattdessen 
+willst du so viel Abstand wie möglich zwischen dich und das 
+Krankenhaus bringen. Als du zu Hause ankommst, brichst du 
+erschöpft zusammen.
+Am nächsten Tag schaust du nach dem Aufwachen die Morgen-
+zeitungen in der Erwartung durch, Berichte über den Spinnenbefall 
+und das Chaos im St. Mary’s zu finden. Aber in keinem Artikel wird 
+das Krankenhaus auch nur erwähnt. Haben sich die Vorfälle der 
+letzten Nacht zu spät für den Arkham Advertiser  ereignet? Oder 
+hast du nur schlecht geträumt? Du ziehst dir deinen Mantel über 
+und machst dich wieder auf den Weg ins Krankenhaus. Du willst 
+wissen, ob das, was du letzte Nacht gesehen hast, real war.
+Als du am St. Mary’s ankommst, erwartest du, dass das gesamte 
+Gebäude – vielleicht sogar das ganze Wohnviertel – mit Spinn-
+weben überzogen ist. Aber zu deiner Überraschung ist es in 
+einwandfreiem Zustand. Patienten, Kranken schwester n und Ärzte 
+bevölkern die Flure, als wäre letzte Nacht nichts geschehen. Du 
+fragst die Empfangsdame, ob du Doktor Maheswaran sprechen 
+kannst, aber sie schüttelt den Kopf. „Es tut mir leid, ich glaube nicht, 
+dass sie heute hier ist. Sie ist mitten in ihrer Schicht heute Nacht 
+gegangen und niemand hat sie seither gesehen. Soll ich jemand 
+anderen für Sie rufen lassen?“
+Etwas stimmt nicht. Das ergibt alles keinen Sinn. Du willst gerade 
+darum bitten, deine schlafenden Gefährten sehen zu können, als 
+sich dir ein blonder Mann mit dicken Tränensäcken unter den 
+Augen nähert und dir seine Hand auf die Schulter legt.
+„Guten Morgen. Wir sollten uns unterhalten.“
+ Æ Im Kampagnenlogbuch wird notiert: Dr. Maheswaran 
+wird vermisst .  Vielleicht hättest du sie retten können. Der 
+Ermittlungsleiter erleidet 1 seelisches Trauma.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph ist alleine 
+aus dem Krankenhaus geflohen . Einer der Ermittler darf 
+Randolph Carter (An die wache Welt gekettet) ( Die Traum -
+fresser , 79) seinem Deck hinzufügen. Diese Karte zählt nicht 
+gegen die Deckgröße des Ermittlers.
+ Æ Fahre mit Auf lösung 5  fort.
+Auf lösung 5:  Mit dem blonden Mann im Schlepptau verlässt du 
+das Krankenhaus. Er stellt sich dir als Randolph Carter vor und 
+erzählt dir, dass er ein „Träumer“ ist, genau wie Virgil Gray und 
+deine Freunde. Träumer haben die Fähigkeit, die Grenze zwischen 
+der wachen Welt und einer parallelen Dimension, die von den 
+Träumen aller lebenden Organismen auf der Erde erschaffen und 
+erhalten wird, zu überqueren – ein Reich, das er D/i.a/e.a T/r.a/a.a/u.a/m.a/l.a/a.a/n.a/d.a/e.a  
+nennt. „Es ist ein Ort der Träume, aber auch der Albträume“,  
+erklärt er dir. „Und ich fürchte, dass Ihre Freunde jetzt dort 
+gefangen sind.“
+Du fragst ihn, ob du etwas tun kannst, um ihnen zu helfen. Randolph 
+denkt einen Moment lang nach, dann antwortet er: „Normalerweise 
+können Träumer in die reale Welt zurückkehren, indem sie einfach 
+bewusst versuchen aufzuwachen. Aus irgendeinem Grund können 
+Ihre Freunde das nicht. Wenn Sie ihnen wirklich helfen wollen, müs-
+sen Sie die Traumlande betreten und sie finden. Aber sich Zugang 
+zu den Traumlanden zu verschaffen, wird nicht leicht. Solche Wege 
+stehen normalerweise nur erfahrenen Träumern offen, und das nur 
+im Schlaf. Dennoch gibt es ein paar Orte, wo die Traumlande die 
+wache Welt berühren. An diesen Orten kann man mit dem richtigen 
+Werkzeug die Traumlande auch körperlich betreten. Ich weiß von 
+einem solchen Ort, nicht weit von hier. Aber … “
+Noch bevor Randolph seinen Satz beenden kann, wird er von einer 
+mysteriösen Stimme unterbrochen …
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Der Befallsbeutel und alle Befallsmarker werden aus dem 
+Spiel entfernt. (Sie müssen nicht notiert oder aufbewahrt 
+werden.)
+ Æ Falls Das Netz der Träume als vierteilige Kampagne gespielt 
+wird, fahre mit Zwischenspiel I: Die schwarze Katze fort.
+ Æ Falls Das Netz der Träume  und Die Traumsuche  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 1–A: Hinter den Toren 
+des Schlafes  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 1–A: Hinter den Toren des 
+Schlafes  gespielt hast, fahre stattdessen mit Zwischen -
+spiel I: Die schwarze Katze fort.
+8
+
+Nach dem Lesen des entsprechenden Abschnitts:
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verbundene 
+Kampagnen gespielt werden, fahre entweder mit Szenario 2–A:  
+Die Suche nach Kadath oder mit Szenario 2–B: Tausend Formen 
+des Schreckens  fort.
+ Æ Ansonsten fahre mit Szenario 2–B: Tausend Formen des  
+Schreckens fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verwobene 
+achtteilige Kampagne gespielt wird oder falls Die Traumsuche  
+(Kampagn e A) als vierteilige Kampagne gespielt wird: Fahre mit  
+Die schwarze Katz e 1 auf Seite  9 im Kampagnenleitfaden A fort.
+ Æ Falls Das Netz der Träume  (Kampagne B) als vierteilige Kampagne 
+gespielt wird: Fahre mit Die schwarze Katze 3  fort.
+Die schwarze Katze 3:  Setzt nach Szenario 1–B  an, als die 
+Ermittler vor dem St. Mary’s Hospital konfrontiert werden …
+„… du musst einer ihrer Freunde sein“, sagt eine rätselhafte Stimme über 
+dir. Zu deiner Überraschung gehört die leise Stimmer keiner Person, son dern 
+einer schwarzen Katze, die es sich über dir auf dem Ast eines Baumes bequem 
+gemacht hat. „Oh, mach schon den Mund zu und hör mir zu.“ Die Katze erhebt 
+sich und springt auf einen nahen Zaun neben dem Weg vor dem Krankenhaus 
+und balanciert mit der Grazie, die nur einer Katze innewohnt, darauf entl ang.
+„Das ist eine der Katzen aus den Traumlanden“, verkündet Randolph mit 
+freudigem Tonfall, als würde er nach langer Zeit einem alten Freund wieder -
+begegnen. „Wie lange ist es her, seit ich das letzte Mal mit einer deiner Art 
+gesprochen habe?“
+Der stechend gelbe Blick der Katze verweilt einen Moment bei Randolph, be vor 
+sie wieder dich ansieht. „Klar doch! Auf jeden Fall habe ich eine Nachricht v on 
+deinen träumenden Freunden.“
+Überprüfe das Kampagnenlogbuch für Die Traumsuche  (Kampagne A). 
+Lies den zu deiner Situation passenden unten stehenden Abschnitt.
+Falls Das Netz der Träume  (Kampagne B) als vier teilige 
+Kampagne gespielt wird und es kein Kampagnenlogbuch für 
+Die Traumsuche  gibt:
+„Deine Freunde sind nicht die einzigen, die in Gefahr schweben“, 
+erklärt die schwarze Katze. „Es gibt eine groß angelegte Ver-
+schwörung und deine Freunde sind im Moment – sagen wir mal so – 
+ein wenig mit ihren eigenen Problemen beschäftigt. Du bist derjenige, 
+der das große Netz zerstören kann. Vergiss deine Gefährten und steige 
+in die Schwärze hinab. Das ist der einzige Weg. Ich versuche, deine 
+Freunde zu schützen, solange du mit deiner Aufgabe beschäftigt bist. 
+Verstehst du das?“
+Im Kampagnenlogbuch wird notiert:  
+Die Ermittler sind auf sich allein gestellt.
+Falls die schwarze Katze Wissen über die Traumlande   
+geteilt hat:
+Die schwarze Katze erzählt dir von den Traumlanden und der 
+Suche, vor der deine Freunde stehen. „Deine Freunde sind in den 
+Traumlanden mit ein paar anderen an einem sicheren Ort. Mein 
+Hausmensch Virgil ist einer von ihnen. Ja, der Virgil. Ich habe schon 
+bemerkt, wie du mich ansiehst. Unter ihnen gibt es auch noch einen 
+anderen Träumer, ein Mann namens … he, Moment mal.“ Die Katze 
+blickt Randolph argwöhnisch an, dann gähnt sie. „Ach, weißt du was? 
+Schon gut. Ich muss etwas überprüfen.“ Damit lässt dich die Katze 
+plötzlich allein zurück.
+In beiden Kampagnenlogbüchern wird notiert:  
+Die schwarze Katze hat eine Ahnung.
+Falls die schwarze Katze die Neuigkeit über deine 
+Notlage überbracht hat:
+„Also, deinen Kollegen geht‘s ja nicht so gut. Sie baten mich dir 
+auszurichten, dass sie in Schwierigkeiten stecken. Sie können nicht 
+aufwachen, bis sie ihre Suche abgeschlossen haben, was aber nicht 
+einfach wird. Das Auge des Chaos beobachtet sie. Du weißt, was für 
+eine Aufgabe du hier hast. Du bist vielleicht ihre letzte Hoffnung.“ Die 
+schwarze Katze springt vom Zaun herunter und macht sich auf den 
+Weg. „Wenn du mich jetzt entschuldigst, ich muss zu deinen Freunden 
+zurückkehren, bevor sie sich noch umbringen.“
+Im Kampagnenlogbuch für Die Traumsuche  (Kampagne A) wird 
+notiert: Die schwarze Katze ist an deiner Seite. Den Chaosbeuteln 
+beider Kampagnen wird für den Rest der Kampagnen je  
+1   -Chaosmarker hinzugefügt.
+Falls die schwarze Katze die anderen gewarnt hat:
+„Deine Freunde haben mir erzählt, dass es ihnen gut geht. Sie haben 
+mich aber gebeten, dich zu warnen, dass du derjenige bist, der in 
+Gefahr schwebt. Ich würde ihnen glauben, wenn ich du wäre. Es gibt 
+eine groß angelegte Verschwörung und du bist der Einzige, der sie 
+aufhalten kann. Das Beste, was du jetzt tun kannst, ist weiterzu-
+machen, um deinetwillen und ihretwillen. Mach dir keine Sorgen, ich 
+bleibe noch eine Weile hier. Jemand muss doch aufpassen, dass du am 
+Leben bleibst.“
+Im Kampagnenlogbuch für Das Netz der Träume  (Kampagne B) 
+wird notiert: Die schwarze Katze ist an deiner Seite. Den Chaos-
+beuteln beider Kampagnen wird für den Rest der Kampagnen je  
+1  -Chaosmarker hinzugefügt.
+In Ordnung, gut, dann mach doch, was du willst:
+„Ach, weißt du was? Vergiss es. Ich bin mir sicher, du schaffst das.“ 
+Die schwarze Katze verschwindet, ohne ein weiteres Wort zu sagen.
+In beiden Kampagnenlogbüchern wird notiert:  
+Du hast es so gewollt.
+Zwischenspiel I: Die schwarze Katze
+9
+
+Einführung 4: Du fragst Randolph, wie es ihm gelang, sich vom Fantasti-
+schen abzuwenden und seinen Sinn ganz auf die praktischen Dinge des Leben s 
+zu richten. Kurz denkt er nach und geht die verschiedenen Möglichkeiten i m 
+Kopf durch. Dann reißt er plötzlich die Augen auf, als hätte er einen Geistes -
+blitz. „Es gab da einen Vorfall vor vielen Jahren! Meine letzte Begegnung 
+mit dem Übersinnlichen – bis heute, versteht sich“, erklärt er. „Damals t raf 
+ich mich mit einem Freund – Joel Manton – auf dem Friedhof neben dem 
+verlassenen alten Haus im Geschäftsviertel. Sie wissen schon, das Unnenn-
+bare. Ich wollte nicht glauben, dass es wirklich darin spukt, wie die Gerüchte 
+gingen. Doch allein indem ich die Legende wiederholte, erweckte ich den Z orn 
+der Kreatur.“
+Als du ihn nach der Kreatur fragst, schließt Randolph die Augen und ein 
+heftiges Schaudern überkommt ihn. „Sie entzieht sich jeder Beschrei bung. Ich 
+weiß nur, dass wir um ein Haar nicht überlebt hätten. Es war meine Schuld, 
+dass Joel verletzt wurde. Von diesem Tag an verspürte ich kein Verlangen 
+mehr nach übersinnlichen Phänomenen und Aberglauben. Nicht, weil ic h 
+nicht mehr daran glaubte, sondern weil ich Angst hatte. Habe ich so etwa den 
+Schlüssel verloren? Ist das der Grund, warum ich nicht mehr träumen kann? “ 
+Die Erkenntnis trifft ihn wie ein Schlag. „Ich weiß, wohin ich gehen muss. Do rt 
+habe ich den Schlüssel verloren und dort kann ich ihn wiederfinden!“, ruf t er 
+mit aufgerissenen Augen.
+Als Randolph wie wild nach einem Taxi winkt, wird dir klar, wohin er gehen 
+möchte: zu dem Haus ohne Namen, wo die unbeschreibliche Kreatur lauert, 
+die ihn bis heute in seiner Erinnerung verfolgt …
+Fahre mit der Vorbereitung  fort.
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Tausend Formen des Schreckens, Kreaturen aus der Unterwelt, 
+Vermischende Realitäten, Grabeskälte, Ghule, Versch lossene Türen und 
+Rattenschwarm . Diese Sets sind an folgenden Symbolen zu erkennen: 
+ 
+ 
+ 
+ 
+ 
+ Æ Die folgenden Orte werden ins Spiel gebracht: Begräbnisstätte, 
+Vordertür, Flur im Obergeschoss, beide Kopien von Durchgang im 
+Erdgeschoss und beide Kopien von Durchgang im Obergeschoss (siehe 
+dazu den Vorschlag für die Platzierung der Orte auf der nächsten Seite) .
+ = Jeder Ermittler beginnt das Spiel an der Begräbnisstätte.
+ Æ Die folgenden Karten werden als nicht im Spiel befindlich beiseite-
+gelegt: die Orte Mansarde, Grab ohne Namen, alle 6 Orte Mysteriöse 
+Stufen, alle 4 Verratskarten Endloser Abstieg und die Storyvorteils -
+karte Der silberne Schlüssel.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Einführung 1:  Um die Verschmelzung des Reiches der Träume mit der 
+wachen Welt aufzuhalten, hast du beschlossen, gewaltsam in die „Traum -
+lande“ – wie dein neuer Freund Randolph sie nennt – vorzudringen und 
+deinen physischen Körper zu behalten, statt dich in die andere Dimensio n 
+hineinzuträumen. „Trotz aller Gefahren, die bei dieser Art des Reisen s 
+bestehen, halte ich es für die bessere Alternative“, behauptet Randol ph. „Eine 
+Reise im Schlaf würde nur dazu führen, dass wir dort drüben gefangen wären 
+und, genau wie Ihre Gefährten, nicht mehr aufwachen könnten.“ Du bist gan z 
+seiner Meinung; es würde niemandem helfen, wenn du auf der anderen Seite 
+gefangen wärst, vor allem nicht deinen schlafenden Gefährten.
+„Als Erstes brauchen wir einen Schlüssel. Selbst an den Grenzen zwische n den 
+Traumlanden und der wachen Welt kann man nicht einfach hinüberspazier en. 
+Früher einmal besaß ich einen Schlüssel zum Tor der Träume, aber ich habe 
+ihn schon vor vielen Jahren verloren und kann ihn nicht mehr finden“, klagt e r.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die schwarze Katze an deiner Seite ist , fahre mit  
+Einführung 2  fort.
+ Æ Ansonsten fahre mit Einführung 3  fort.
+Einführung 2:  Die schwarze Katze hockt auf einer Parkbank in der Nähe 
+und funkelt Randolph aus verächtlichen Augenschlitzen an. „Du hast de n 
+Schlüssel zu den Traumlanden verloren?“
+Du teilst die Skepsis der Katze. Randolph seufzt und schüttelt den Kopf. „L as-
+sen Sie mich erklären“, sagt er zu dir. „Es ist kein physischer Schlüssel. Da s war 
+er nie. Der ‚Schlüssel‘ war der Sinn für das Wunderbare, das Fantastische u nd 
+die Kreativität, die mich in meiner Jugend beflügelten – Eigenschafte n, die sich 
+für einen erwachsenen Mann nicht ziemen. Es ist ganz natürlich, dass man 
+den Schlüssel zu solchen Träumen mit dem Erwachsenwerden verliert.“
+„Das ist doch Unsinn!“, schimpft die schwarze Katze. „Es ist doch nicht 
+‚erwachsen‘, seine Vorstellungskraft über Bord zu werfen. Deine best en Eigen-
+schaften hast du abgelegt. Und jetzt gleichst du mehr einem wimmernden 
+Kätzchen als jedes Kind, das mir je unter die Augen gekommen ist.“
+„Vielleicht hast du recht“, räumt Randolph niedergeschlagen ein. „I ch habe 
+mich selbst gezwungen zu glauben, dass irdische Belange wichtiger seie n als 
+kindische Fantasien über goldene Turmspitzen, duftende Regenwäl der und 
+Reiche im Zwielicht … und nun fürchte ich, diese Wunder niemals wieder-
+zusehen.“ Mit reuevollen Augen wendet er sich wieder an dich. „Und was viel 
+schlimmer ist, ich kann Ihnen den Weg nicht zeigen.“
+Fahre mit Einführung 4  fort.
+Einführung 3:  Du gehst nach dem üblichen Schema vor: „Wann haben Sie 
+ihn zum letzten Mal gesehen?“, „Wo waren Sie, als Sie ihn zum letzten Mal 
+benutzt haben?“ und so weiter. 
+Randolph seufzt und schüttelt den Kopf. „Sie missverstehen mich. Es ist k ein 
+physischer Schlüssel. Das war er nie. Der ‚Schlüssel‘ war der Sinn für das 
+Wunderbare, das Fantastische und die Kreativität, die mich in meiner Ju gend 
+beflügelten – Eigenschaften, die sich für einen erwachsenen Mann nich t 
+ziemen. Es ist ganz natürlich, dass man den Schlüssel zu solchen Träumen mi t 
+dem Erwachsenwerden verliert.“
+Fahre mit Einführung 4  fort.
+Szenario 2–B:  
+Tausend Formen des Schreckens
+10
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auf lösung erreicht wurde, weil alle Ermittler 
+besiegt wurden: Fahre mit  Auf lösung 2  fort.
+Auf lösung 1:  Wo auch immer du gelandet bist, es hat rein gar 
+nichts mit den zauberhaften Wäldern, beschaulichen Fach -
+werkdörfern und majestätischen Landschaften aus Virgil Grays 
+Geschichten gemeinsam. Nein, ganz im Gegenteil: Ein eisiger, öder 
+Abgrund scheint dir förmlich die Hoffnung auszusaugen und sie 
+durch leeres, sinnloses Grauen zu ersetzen. Du fragst Randolph, ob 
+dies der richtige Weg zu deinen komatösen Gefährten sei. Beinahe 
+hoffst du, in die falsche Richtung abgebogen zu sein und diesem 
+abscheulichen Ort auf der Stelle den Rücken kehren zu können.
+„Ich weiß nicht“, antwortet er und späht aus einem der Fenster 
+entlang der Treppe. „Die wache Welt haben wir hinter uns 
+gelassen, aber das hier ist die tiefere Ebene der Traumlande, die als 
+Unterwelt bekannt ist. Kein besonders einladender Ort. Viele der 
+Kreaturen, die in unsere Welt übergetreten sind, stammen aus dieser 
+Region. Vielleicht kannte der Schlüssel unser wahres Ziel?“ Dein 
+Führer betrachtet den geheimnisvollen Schlüssel, den du in dem 
+verlassenen Haus gefunden hast, und streift mit dem Finger über 
+seine Arabesken, als würden seine Form, sein Gewicht und seine 
+Oberfläche Erinnerungen in ihm wecken. Tiefe Trauer treibt ihm 
+Tränen in die Augen.
+Du bietest an, den Schlüssel für ihn zu halten, und reißt ihn damit aus 
+seinen Gedanken. „Ach. Ja, vielleicht wäre das besser“, sagt er und 
+reicht dir das filigrane Artefakt. Für etwas, das laut Randolph gar 
+nicht real sein soll, liegt der Schlüssel erstaunlich schwer in der Hand.
+Mit Randolph im Schlepptau und dem silbernen Schlüssel im 
+Gepäck machst du dich weiter an den Abstieg. Es ist nicht gesagt, 
+dass die Unterwelt der Ort ist, an dem deine Gefährten gefangen 
+gehalten werden. Aber wenn die Kreaturen, die in die wache Welt 
+eindringen, tatsächlich von hier stammen, ist es vielleicht der Ort, 
+an dem du Antworten finden kannst.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph hat den 
+Abstieg überlebt.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler besitzen 
+den silbernen Schlüssel.  Einer der Ermittler darf Der silberne 
+Schlüssel ( Schlüssel zum Tor der Träume ) seinem Deck 
+hinzufügen. Diese Karte zählt nicht gegen die Deckgröße 
+des Ermittlers.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Dein Körper befindet sich nun in den schlummernden 
+Traumlanden. Dem Chaosbeutel wird für den Rest der 
+Kampagne 1   -Marker hinzugefügt.
+ Æ Falls Das Netz der Träume als vierteilige Kampagne gespielt 
+wird, fahre mit Szenario 3–B: Kein Zurück mehr  fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 2–A: Die Suche nach 
+Kadath  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 2–A: Die Suche nach Kadath  
+gespielt hast, fahre mit Zwischenspiel II: Die Traum-
+reisenden  fort.
+Vorschlag für die Platzierung der Orte
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Dieser Durchgang war eben noch nicht oﬀen.  
+Du hast dich nur für einen Moment umgedreht, weil du 
+gedacht hast, etwas gesehen zu haben.  
+Aber was genau? Eine Bewegung? Eine Gestalt?
+Durchgang im Erdgeschoss
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+„Da! Ich wollte gerade meinen Fortschritt aufschreiben, da waren sie 
+plötzlich zu sehen. Diese glitzernden Punkte sind Augen! Es müssen  
+Augen sein! Etwas hat mich beobachtet.“
+– frei nach Annie VanderMeer Mitsoda,  
+The Investigators of Arkham Horror
+Ein übler Geruch hält dich davon ab, nach oben 
+zu gehen. Du kannst den Flur im Obergeschoss nicht 
+betreten.
+Flur im Obergeschoss
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+„Ich würde das Haus gern mal sehen, Carter. Wo ist es? 
+Glasscheiben hin, Glasscheiben her, ich muss es ein bisschen 
+erkunden. Und das Grab, wo du die Knochen hingepackt 
+hast, und das andere Grab, das ohne Inschri/f_t – das Ganze 
+muss ja schon ein wenig schaurig sein.“
+– H. P . Lovecraft, Das Unnennbare
+Vordertür
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Dieser Durchgang war eben noch nicht oﬀen.  
+Du hast dich nur für einen Moment umgedreht, weil du 
+gedacht hast, etwas gesehen zu haben.  
+Aber was genau? Eine Bewegung? Eine Gestalt?
+Durchgang im Erdgeschoss
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Etwas kratzt am Holz auf der anderen Seite der Tür.  
+Ra/t_ten? Bildest du dir das ein? Nein, es muss etwas  
+anderes sein, etwas Unnatürliches.
+Durchgang im Obergeschoss
+© 2024 FFGIllus. Yoann Boissonnet
+ORT
+Etwas kratzt am Holz auf der anderen Seite der Tür.  
+Ra/t_ten? Bildest du dir das ein? Nein, es muss etwas  
+anderes sein, etwas Unnatürliches.
+Durchgang im Obergeschoss
+© 2024 FFGIllus. Nele Diel
+ORT
+„Den Blick auf die Riesenweide im Friedhof gerichtet, 
+deren Stamm beinahe ganz eine uralte, unleserliche Pla/t_te 
+verschlungen ha/t_te, ha/t_te ich eine bizarre Bemerkung über 
+die gespenstische und unaussprechliche Nahrung fallen-
+lassen, die die kolossalen Wurzeln aus dieser altersgrauen 
+Leichenerde saugen mussten.“
+– H. P . Lovecraft, Das Unnennbare
+Begräbnisstätte
+Friedhof.
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine anderen 
+Vorbereitungs- und Auf lösungsanweisungen verwendet werden 
+sollen, können die unten stehenden Informationen bei  der Vor -
+bereitung und während des Spiels dieses Szenarios verwendet 
+werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern zusammen -
+gestellt:  
++1, 0, 0, –1, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  ,  .
+ Æ Die schwarze Katze ist nicht an deiner Seite.
+11
+
+Auf lösung 2:  Das Letzte, was du fühlst, ist das Wirbeln eines 
+grausigen, eiskalten Windes, ehe du von der peitschenden, 
+monolithischen Monstrosität, die keinen Namen trägt, von den 
+Beinen gerissen wirst. Der Atem entweicht aus deinen Lungen. Du 
+kannst nicht schreien. Verzweifelt krallst du dich in den Boden, als 
+die Kreatur deine Haut zerfetzt und deine Knochen zertrümmert. 
+Irgendwie gelingt es dir, freizukommen und dich in den bitteren, 
+fauligen Wirbel zu stürzen, der die Kreatur umgibt. Du hörst das 
+Splittern von Gips. Bruchstücke fegen an deinem Kopf vorbei. Ein 
+loser Backstein erwischt dich an der Schulter. Du fragst dich, ob 
+überhaupt noch ein Stein auf dem anderen stehen wird, wenn das 
+alles vorüber ist.
+ Æ Falls die Ermittler „einen seltsamen Schlüssel gefunden 
+haben“, fahre mit Auf lösung 3  fort. Ansonsten fahre mit 
+Auf lösung 4  fort.
+Auf lösung 3:  Randolphs Rufe gehen im Tosen des eiskalten Wind-
+strudels beinahe unter. Entgegen aller Wahrscheinlichkeit dring st du 
+zu ihm durch, dicht gefolgt von der unbeschreiblichen Monstrosität. 
+Randolph biegt deine Finger auf, greift nach dem Schlüssel, den du 
+in dem namenlosen Haus gefunden hast, und umklammert ihn fest. 
+Er schließt die Augen und flüstert etwas Unverständliches. Dann 
+bricht eine abscheuliche Flut über dich herein und alles um dich 
+herum wird schwarz.
+Als du wieder zu dir kommst, liegst du auf einem flachen Stein-
+absatz über einer Treppenflucht, die schnurgerade in ungeahnte 
+Tiefen führt. Hinter dir schlängelt sich die Treppe aufwärts zu 
+einem steinernen Turm, der in dunstigem Nebel verschwindet. In 
+beiden Richtungen erstreckt sich eine Höhle, die von einem trüben, 
+gräulichen Leuchten erfüllt ist. Randolph hilft dir auf. „Das war 
+ganz schön knapp“, gesteht er. „Eine solche Reise möchte ich kein 
+zweites Mal unternehmen.“ Auf die Frage, wo ihr seid, beißt er 
+sich auf die Lippe und lässt seinen Blick über die öde, trostlose 
+Landschaft schweifen.
+„Das hier ist die tiefere Ebene der Traumlande, die als Unterwelt 
+bekannt ist. Kein besonders einladender Ort. Viele der Kreaturen, 
+die in unsere Welt übergetreten sind, stammen aus dieser Region. 
+Vielleicht kannte der Schlüssel unser wahres Ziel. Ich glaube … ich 
+glaube, er ist fort.“
+Du bist schockiert. Als Randolph deine Reaktion sieht, knirscht 
+er mit den Zähnen und wendet beschämt den Blick von dir ab. 
+„Vergessen Sie ihn. Wir brauchen ihn nicht mehr. Los, gehen wir.“ 
+Seine knappe Antwort hallt von den steinernen Stufen wider. 
+Es ist nicht gesagt, dass die Unterwelt der Ort ist, an dem deine 
+Gefährten gefangen gehalten werden. Aber wenn die Kreaturen, die 
+in die wache Welt eindringen, tatsächlich von hier stammen, ist es 
+vielleicht der Ort, an dem du Antworten finden kannst.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph hat den 
+Abstieg überlebt .
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Dein Körper befindet sich nun in den schlummernden 
+Traumlanden. Dem Chaosbeutel wird für den Rest der 
+Kampagne 1   -Marker hinzugefügt.
+ Æ Falls Das Netz der Träume als vierteilige Kampagne gespielt 
+wird, fahre mit  Szenario 3–B: Kein Zurück mehr fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 2–A: Die Suche nach 
+Kadath  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 2–A: Die Suche nach Kadath  
+gespielt hast, fahre mit Zwischenspiel II: Die Traum-
+reisenden  fort.
+Auf lösung 4:  In den Trümmern siehst du es: ein Glitzern inmitten 
+des Wirbels aus eiskaltem Wind und Staub. Es ruft nach dir und 
+flüstert deinen Namen. Nur am Rande deiner Wahrnehm ung 
+hörst du Randolph schreien, als die unbeschreiblich e Monstrosität 
+über ihn herfällt. Entgegen aller Wahrscheinlichkeit erreichst du 
+die Überreste dessen, was einmal der Dachboden des Hauses ohne 
+Namen war. Erst jetzt wird dir klar, woher das Glitzern kam: Es war 
+das Aufblitzen eines hellen silbernen Schlüssels. „Benutzen Sie ihn !“, 
+schreit Randolph unter Todesqualen. Die Abscheulich keit begräbt 
+ihn unter ihrem Leib. „Benutzen Sie ihn, solange Sie noch kö… “
+Randolphs Schrei wird erstickt, als das Ding seinen Körper ganz 
+umhüllt. Fest umklammerst du den Schlüssel und musst mit 
+ansehen, wie der tausendgestaltige Schrecken Randolph mit Haut 
+und Haaren verschlingt. Deine Gedanken wandern zu deinen 
+Gefährten, die irgendwo in einem gefährlichen Traum fernab der 
+Heimat gefangen sind, und das Leuchten des Schlüssels wird stärker, 
+bis es dich ebenso verschluckt, wie das Wesen gerade Randolph 
+verschluckt hat. Alles wird weiß.
+Als du wieder zu dir kommst, liegst du auf einem flachen Stein -
+absatz über einer Treppenflucht, die schnurgerade in ungeahnte 
+Tiefen führt. Hinter dir schlängelt sich die Treppe aufwärts zu 
+einem steinernen Turm, der in dunstigem Nebel verschwindet. In 
+beiden Richtungen erstreckt sich eine Höhle, die von einem trüben, 
+gräulichen Leuchten erfüllt ist. Vergeblich tastest du nach dem 
+silbernen Schlüssel, doch er ist verschwunden. Von Randolph Carter 
+fehlt jede Spur.
+Ganz offensichtlich bist du nicht mehr in der wachen Welt. Vielleicht 
+hatte der Schlüssel tatsächlich die Kraft, deinen physischen Körper 
+in die Traumlande zu versetzen, genau wie Randolph es behauptet 
+hatte. Doch wo auch immer du gelandet bist, mit den zauberhaften 
+Wäldern, beschaulichen Fachwerkdörfern und majestät ischen 
+Landschaften aus Virgil Grays Geschichten hat es rein gar nichts 
+gemeinsam. Nein, ganz im Gegenteil: Der eisige, öde Abgrund 
+scheint dir förmlich die Hoffnung auszusaugen und si e durch 
+leeres, sinnloses Grauen zu ersetzen. Abermals blickst du auf die 
+unzähligen Stufen, die hinter dir liegen. Wie es scheint, hast du keine 
+andere Wahl als weiterzugehen, tiefer hinein in dieses trostlose, 
+gefahrvolle Land.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph hat den 
+Abstieg nicht überlebt . Falls sich im Deck eines Ermittlers 
+Randolph Carter (An die wache Welt gekettet)  ( Die Traum -
+fresser , 79) befindet, wird er für den Rest der Kampagne aus 
+jenem Deck entfernt.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Das Netz der Träume als vierteilige Kampagne gespielt 
+wird, fahre mit Szenario 3–B: Kein Zurück mehr fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 2–A: Die Suche nach 
+Kadath  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 2–A: Die Suche nach Kadath  
+gespielt hast, fahre mit Zwischenspiel II: Die Traum-
+reisenden  fort.
+12
+
+Æ Andernfalls bietet die schwarze Katze erneut an, deinen Gefährten 
+eine Nachricht zu überbringen. Der Ermittlungsleiter muss ent-
+scheiden (wähle eins):
+ = Du lässt deinen Gefährten ausrichten, dass du in Schwierigkeiten 
+steckst. Die schwarze Katze wird mit Unterstützung zu dir zurück-
+kehren, doch für deine Gefährten könnte dies eine zusätzliche 
+Belastung darstellen. Im Kampagnenlogbuch für Das Netz der 
+Träume (Kampagne B) wird notiert: Die schwarze Katze hat die 
+anderen um Hilfe gebeten.
+ = Du lässt deinen Gefährten Informationen über die Unterwelt 
+zukommen. Die schwarze Katze wird anschließend weiterziehen. Im 
+Kampagnenlogbuch für Das Netz der Träume  (Kampagne B) wird 
+notiert: Die schwarze Katze hat das Wissen über die Unterwelt geteilt.
+ = Du lässt deinen Gefährten ausrichten, dass es dir g ut geht. Die 
+schwarze Katze wird bei ihnen bleiben, nachdem sie ihnen deine 
+Nachricht überbracht hat. Dadurch könnte deine Aufg abe etwas 
+schwieriger werden. Im Kampagnenlogbuch für Das Netz der Träume 
+(Kampagne B) wird notiert: Die schwarze Katze hat die anderen gewarnt.
+ Æ Fahre mit Die Traumreisenden 2  auf Seite 14 im Kampagnen-
+leitfaden A fort.
+Lies dieses Zwischenspiel nur, falls du Die Traumsuche  und Das Netz 
+der Träume als verwobene achtteilige Kampagne spielst und wenn du 
+sowohl Szenario 2–A: Die Suche nach Kadath als auch Szenario 2–B: 
+Tausend Formen des Schreckens abgeschlossen hast.
+Die Traumreisenden 1: Setzt nach Szenario 2–B  an, als  
+die Ermittler endlich das Ende der mysteriösen Treppe 
+erreicht haben …
+Auf dem unteren Treppenabsatz wartet die schwarze Katze auf dich und 
+beobachtet unbeteiligt deinen langen Abstieg mit niemals blinzeln den Augen. 
+Gerade willst du sie fragen, wie sie hierhergelangt ist, da fällt sie dir ins W ort: 
+„Zerbrich dir nicht den Kopf darüber. Du würdest es ohnehin nicht verstehe n.“ 
+Daraufhin macht sie es sich auf dem kalten Steinboden gemütlich und rekel t 
+sich in der trostlosen Umgebung.
+Überprüfe das Kampagnenlogbuch für Das Netz der Träume  (Kampa -
+gne B). Lies den zu deiner Situation passenden unten stehenden 
+Abschnitt. Falls keine Situation passt, überspringe diese Abschni tte.
+So langsam reicht es dir mit dieser Katze und ihren kryptischen Halbwahr-
+heiten und Nichtantworten. Du schimpfst über das elende Biest. Wie soll st 
+du etwas bewerkstelligen, wenn sie dich blind im Dunkeln umherstolper n 
+lässt? Die schwarze Katze setzt sich auf und kneift die Augen zusammen. 
+„Ich wusste nicht, ob du vertrauenswürdig bist. Um ehrlich zu sein, bin ich 
+mir immer noch nicht sicher. Seit vielen, vielen Jahren sehe ich diese Erei g-
+nisse in meinen Visionen. Einen Teil der Zukunft kenne ich, aber nicht alle s. 
+Du könntest der Held sein, der uns alle rettet … oder der Narr, der uns ins 
+Verderben stürzt.“ Die Argumente der Katze sind einleuchtend, erklär en 
+aber nicht, wie sie dich immer wieder findet. Alle Versuche, sie von deiner 
+Vertrauenswürdigkeit zu überzeugen, sind vergebens. „Ich sag dir jet zt 
+was. Tief unter dem Pechmeer gibt es einen Übergang zwischen den Welten. 
+Dorthin musst du gehen, um eine Verschmelzung dieser Welt mit der deinen 
+zu verhindern. Komm in einem Stück dort an und ich werde dir alles verraten. 
+Zuerst aber muss ich noch etwas anderes erledigen. Deine Gefährten brau chen 
+ebenfalls meine Hilfe.“
+ Æ Überprüfe das Kampagnenlogbuch. Falls die schwarze Katze eine 
+Ahnung hat , schlendert sie davon, ehe du etwas erwidern kannst, und 
+ihr pechschwarzes Fell verschmilzt mit der Finsternis der Unterwelt .
+Falls Randolph den Abstieg nicht überlebt hat und  die 
+schwarze Katze eine Ahnung hat:
+„Wo ist denn der Goldjunge?“, fragt die schwarze Katze und sieht 
+sich um. Vor lauter Kummer bringst du kein Wort heraus. „Ah, ich 
+verstehe.“ Die Katze betrachtet ihre Pfoten. Dass dein Reisebegleit er 
+den Abstieg nicht überlebt hat, scheint sie nicht sonderlich zu 
+kümmern. „Na, das Problem hat sich ja hübsch von allein gelöst“, sagt 
+sie rätselhaft zu sich selbst.
+In beiden Kampagnenlogbüchern wird  
+Die schwarze Katze hat eine Ahnung  durchgestrichen.
+Falls du es so gewollt hast:
+„Nun, da du meine Hilfe ja offensichtlich nicht brauchst, werde ich 
+mich vom Acker machen. Wollte nur mal sehen, ob du immer noch am 
+Leben bist. Und siehe da, du bist es! Fürs Erste zumindest. Leb wohl.“ 
+Ehe du etwas erwidern kannst, schlendert die schwarze Katze davon 
+und ihr dunkles Fell verschmilzt mit der Finsternis der Unterwelt.
+Überspringe den Rest des Zwischenspiels. Fahre entw eder mit 
+Szenario 3–A: Die dunkle Seite des Mondes  oder mit  
+Szenario 3–B: Kein Zurück mehr fort.
+Zwischenspiel II: Die Traumreisenden
+13
+
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Kein Zurück mehr, Kreaturen aus der Unterwelt, Geflüster des Hypnos, 
+Böses aus uralter Zeit, Ghule und Lähmende Angst . Diese Sets sind an 
+folgenden Symbolen zu erkennen:  
+ 
+ 
+ Æ Die folgenden Begegnungssets werden als nicht im Spiel befindlich 
+beiseitegelegt: Abstieg in die Schwärze , Schrecken aus dem Tal , 
+Anhänger von Atlach- Nacha und Dunkeldürre . Diese Sets sind an 
+folgenden Symbolen zu erkennen:  
+ 
+ 
+ Æ Die folgenden Orte werden ins Spiel gebracht: Gewölbe von Zin, 
+Stadt der Gugs, Turm von Koth und Ebene der Ghule.
+ = Jeder Ermittler beginnt das Spiel im Gewölbe von Zin.
+ = Jeder andere Ort wird als nicht im Spiel befindlich beiseitegelegt.
+ Æ Die Sammlung wird nach dem Ort Verwunschener Wald  (Steinerne  
+Falltür) (Die Traumfresser,  53) durchsucht und als nicht im Spiel  
+befindlich beiseitegelegt.
+ Æ Folgende Karten werden als nicht im Spiel befindlich beiseitegelegt : 
+der Gegner Gug-Wächter, die Storyvorteilskarte Richard Upton 
+Pickman und die Schwäche Falsches Erwachen.
+ Æ Überprüfe das Kampagnenlogbuch. Abhängig von den folgenden 
+Umständen wird eine unterschiedliche Version von Szene 1 in diesem 
+Szenario verwendet. Die andere Version von Szene 1 wird aus dem 
+Spiel entfernt.
+ = Falls Randolph den Abstieg nicht überlebt hat , wird Szene 1a – In die 
+Unterwelt (I) verwendet.
+ = Falls Randolph den Abstieg überlebt hat , wird Szene 1a – In die 
+Unterwelt (II) verwendet.
+ Æ Du wirst von einer Welle aus Schmerz und Übelkeit gepeinigt. 
+Überprüfe die Anzahl der im Kampagnenlogbuch unter „Stufen der 
+Brücke“ notierten Zählstriche.
+ = Falls keine Zählstriche notiert sind, passiert nichts.
+ = Falls 1–4 Zählstriche notiert sind, platziere 1 Schaden auf der 
+Szenario übersichtskarte. Dies symbolisiert die Verze rrung 
+innerhalb der Traumlande.
+ = Falls 5 oder mehr Zählstriche notiert sind, platziere 2 Schaden auf 
+der Szenario übersichtskarte. Dies symbolisiert die V erzerrung 
+innerhalb der Traumlande.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls Randolph den Abstieg nicht überlebt hat , fahre mit Einführung 1  
+fort.
+ Æ Falls Randolph den Abstieg überlebt hat , fahre mit Einführung 2  fort.
+Einführung 1:  Endlich hast du die Traumlande erreicht, doch es ist nicht wie 
+in deiner Vorstellung. Nichts könnte den wundersame n Ländern und sagen -
+haften Städten aus Virgil Grays Erzählungen ferner sein als die zyklopi sche 
+Kaverne, in der du gelandet bist. Vielleicht ist der Schriftsteller nie mals bis 
+nach hier unten vorgedrungen, hat niemals die Schrecken gesehen, die un ter 
+der Oberfläche der Traumlande lauern. Eine derart schauerliche Gesc hichte 
+hätte er bestimmt nicht ausgelassen. Je tiefer du in das dunkle, trostlos e Land 
+vordringst, desto mehr wirst du von einem dumpfen Gefühl der Verzweiflun g 
+übermannt – es ist wie eine Leere, die sich in dein Herz frisst und die Trost-
+losigkeit deiner Umgebung auf dein Innerstes projiziert. Du bist geko mmen, 
+um deine Gefährten zu retten, und hast deinen einzigen Führer verloren. W as, 
+wenn das alles ein riesengroßer Fehler war?
+Du schüttelst dich, um die düsteren Gedanken aus deinem Kopf zu vertreibe n, 
+und konzentrierst dich auf das, was vor dir liegt. Für Selbstzweifel ist es z u 
+spät. Jetzt gibt es nur noch einen Weg und der führt nach vorn. Selbst wenn 
+du deinen Gefährten nicht helfen kannst und für Randolph jede Hilfe zu spät 
+kommt, hast du nun eine neue Aufgabe. Offensichtlich besteht ein Zusamm en-
+hang zwischen dieser Region der Traumlande und den Kreaturen, die in 
+deine Realität eindringen. Die Antwort muss irgendwo hier zu finden sei n. 
+Abgesehen davon hast du ohnehin keine andere Wahl.
+Du trittst an den Rand eines schroffen Abhangs und blickst hinab auf das 
+weite Höhlenreich. Seine Ausdehnung ist unermesslich. In der Ferne, e ntlang 
+der Steilwände, kannst du zu deinem großen Erstaunen eine ummauerte Sta dt 
+ausmachen. Eine schwarze Turmspitze ragt zwischen ihren vielen hohe n Bau-
+ten hervor und reckt sich so hoch, dass sie mit Sicherheit die oberen Traum-
+lande durchstößt. Südlich davon erstrecken sich Ebenen über einem tie fen Tal, 
+und du siehst Gestalten durch das gräuliche, phosphoreszierende Gli mmen 
+huschen. Du kannst nur hoffen, dass die Bewohner dieses Reiches vernünf tig 
+mit sich reden lassen. Irgendwie bezweifelst du es … doch zumindest hast du 
+nun einen Plan. Bleibt abzuwarten, ob es auch ein guter Plan ist.
+Fahre mit der Vorbereitung  fort.
+Einführung 2:  Endlich hast du die Traumlande erreicht, doch es ist nicht wie 
+in deiner Vorstellung. Nichts könnte den wundersame n Ländern und sagen -
+haften Städten aus Virgil Grays Erzählungen ferner sein als die zyklopi sche 
+Kaverne, in der du gelandet bist. Vielleicht ist der Schriftsteller nie mals bis 
+nach hier unten vorgedrungen, hat niemals die Schrecken gesehen, die un ter der 
+Oberfläche der Traumlande lauern. Eine derart schauerliche Geschi chte hätte 
+er bestimmt nicht ausgelassen. Auf eurem Marsch durch das dunkle, trost lose 
+Land sprichst du Randolph auf deine Bedenken an: „Es stimmt, dass wir weite r 
+weg von Ihren Gefährten gelandet sind als beabsichtigt“, räumt er ein. „A ber 
+wenn Sie mir gestatten, auf einen anderen Aspekt hinzuweisen – vielleic ht 
+haben wir Glück im Unglück gehabt. Offensichtlich besteht ein Zusamme nhang 
+zwischen der Unterwelt und den Kreaturen, die in unsere Realität eindri ngen. 
+Ich schlage vor, wir stellen weitere Nachforschungen an. Sobald wir die W ahr-
+heit herausgefunden haben, können wir an die Oberfläche zurückkehre n.“
+Du fragst Randolph, ob er schon irgendwelche Spuren hat. Er tritt an den Rand 
+eines schroffen Abhangs und blickt hinab auf das weite Höhlenreich. „Ic h war 
+schon mal hier“, sagt er leise und versucht sich zu orientieren. „Die Mauer n dort 
+in der Ferne gehören zur Stadt der Gugs. Südlich davon erstreckt sich eine Eb ene 
+über einem tiefen Tal, wo die Ghule leben. Vielleicht werden wir dort mehr 
+erfahren.“ Du meldest Zweifel an und fragst, ob derartige Kreaturen übe rhaupt 
+zu einer friedlichen Konversation imstande sind. „Sie sind intellig enter, als Sie 
+glauben, und könnten uns eine große Hilfe sein, sofern es uns gelingt, sie zu ü ber-
+zeugen. Genau genommen bin ich sogar mit einem von ihnen befreundet, eine m 
+Künstler namens Richard Pickman. Sollten wir auf ihn treffen, stehen uns ere 
+Chancen gut.“ Irgendwie hast du Zweifel … doch zumindest habt ihr nun einen 
+Plan. Bleibt abzuwarten, ob es auch ein guter Plan ist.
+Fahre mit der Vorbereitung  fort.
+Szenario 3–B: Kein Zurück mehr
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine anderen 
+Vorbereitungs- und Auf lösungsanweisungen verwendet werden 
+sollen, können die unten stehenden Informationen bei  der Vor -
+bereitung und während des Spiels dieses Szenarios verwendet 
+werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern zusammen -
+gestellt:  
++1, 0, 0, –1, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  ,  ,  .
+ Æ Die schwarze Katze ist nicht an deiner Seite.
+ Æ Randolph hat den Abstieg nicht überlebt.
+14
+
+Orte im Szenario „Kein Zurück mehr“
+Jeder Ort in diesem Szenario hat keine verhüllte Seite. Deshalb kommen 
+sie mit ihrer enthüllten Seite nach oben ins Spiel. Statt einer verhüllte n 
+Seite haben diese Orte Handlungskarten auf ihrer Rückseite. Immer 
+wenn in diesem Szenario ein Ort ins Spiel kommt (auch während der 
+Vorbereitung) , werden wie üblich Hinweise in Höhe des Hinweiswertes 
+des Ortes darauf platziert.
+Orte können auf zwei Arten umgedreht werden. Die meisten Orte werden 
+durch das Schlüsselwort Verschleiert wie unten beschrieben umgedr eht. 
+Manche Orte werden aber durch die auf dem Ort aufgedruckte Fähigkeit 
+umgedreht.
+Ist ein Ort erst einmal umgedreht und der Text der Handlungskarte 
+gelesen worden, kann dieser Ort für den Rest des Spiels nicht erneut 
+umgedreht werden, außer es ist etwas anderes angege ben.
+Verschleiert
+Viele Orte in diesem Szenario haben das Schlüsselwort Verschleiert. Dieses 
+Schlüssel wort gibt an, dass an diesem Ort unbekanntes Wissen oder Dinge 
+verborgen sind, welche die Ermittler erst finden müssen, bevor sie genutzt 
+werden können.
+Ein Ermittler darf an einem verschleierten Ort ohne Hinweise darauf diesen 
+als -Fähigkeit umdrehen und den T ext auf der Rückseite abhandeln.
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auf lösung erreicht wurde (jeder Ermittler 
+wurde besiegt):  Fahre mit Auf lösung 2  fort.
+Auf lösung 1:  Die schwarze, teerartige Masse umhüllt dich, 
+verschlingt dich, und allmählich beschleicht dich d ie Furcht, einen 
+fatalen Fehler begangen zu haben. Der Druck der zähen Flüssig-
+keit nimmt immer weiter zu und droht dich von allen Seiten zu 
+zermalmen. Doch dann trittst du auf der anderen Seite wieder 
+hervor. Einen kurzen, stillen Moment verbringst du im freien Fall, 
+ehe du von einem leuchtenden, sehnigen Netz aufgefangen wirst. 
+Panisch kletterst du auf eine nahegelegene Plattform aus festem 
+Stein. Deine Rettungsinsel ist nur eine von vielen, die allesamt 
+in der Luft schweben und durch dichte Spinnweben miteinander 
+verbunden sind. Dahinter erstrecken sich die unermesslichen Weite n 
+des Kosmos, eine grenzenlose Finsternis, so weit das Auge reicht.
+ Æ Für jeden Schaden auf der Szenarioübersichtskarte wird 
+1 Zählstrich im Kampagnenlogbuch unter „Stufen der 
+Brücke“ notiert.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, fahre mit Szenario 4–B: Weber des Kosmos  fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden…
+ = … und du noch nicht Szenario 3–A: Die dunkle Seite 
+des Mondes  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 3–A: Die dunkle Seite des 
+Mondes  gespielt hast, fahre stattdessen mit Zwischen -
+spiel III: Die Großen  fort.
+Auf lösung 2:  Du machst dich bereit für den Aufprall einer weite-
+ren Realitätsverzerrung. Das Gefühl, was auch immer es sein mag, 
+wird mit der Zeit immer stärker. Irgendjemand oder irgendetwas 
+verursacht es, aber wie? Noch während du über seine Bedeutung 
+nachsinnst, fällt dir etwas Kurioses auf: Du bist nicht der Einzige, 
+der davon betroffen ist. Ganz im Gegenteil sogar; die gesamte 
+Unterwelt scheint sich mit jeder Welle aus verzerrter Energie, die 
+das Reich überrollt, zu verwandeln. Mauern werden verschoben, 
+der Boden krümmt sich und das trübe, phosphoreszierende Licht 
+nimmt ein kosmisches, außerirdisches Schillern an. Die Erde bebt, 
+als eine weitere Energiewelle die Grundfesten der Traumwelt 
+erschüttert. Auch der felsige Untergrund unter deinen Füßen gibt 
+nach. Mit rudernden Armen versuchst du irgendetwas zu greifen, an 
+dem du dich festhalten kannst. Deine Finger ertasten eine lackierte 
+Holzlatte. Du hast keine Zeit, dich darüber zu wundern – es geht 
+um Leben und Tod. 
+Als du dich an der Latte hochziehst, stellst du fest, dass du auf einer 
+Parkbank kauerst, umgeben von dichtem Nebel und den grimmigen 
+Mansardendächern von Arkham. Vor dir ist kein Boden. Nur eine 
+klaffende, pechschwarze Grube, die in unfassbare Abgründe führt. 
+In die Unterwelt vielleicht? Aber wie ist das möglich? Auf einem Ast, 
+der über der Parkbank hängt, sitzt Virgils Katze und beobachtet 
+dich gleichmütig. „Sie wird nicht aufhören“, sagt die schwarze 
+Katze. „Nicht, solange noch etwas von deiner Welt übrig ist.“ Du 
+fragst dich, was du als kleiner Mensch im Angesicht eines derart 
+unsagbaren Schreckens überhaupt ausrichten sollst. Der Blick der 
+Katze ist auf die Grube gerichtet. „Sie erwartet dich.“
+Noch ein Beben. Starr vor Entsetzen beobachtest du, wie in der 
+Ferne ein ganzes Haus vom Erdboden verschluckt wird. Weiter vorn 
+glaubst du einen Fußgänger zu sehen, doch es ist kein Mensch. Wenn 
+das so weitergeht, wird es für deine Freunde bald keine Welt mehr 
+geben, in der sie aufwachen können. Du nimmst all deinen Mut 
+zusammen, blickst in die pechschwarze Tiefe und schluckst. „Na los, 
+runter mit dir“, sagt die Katze.
+Du fällst. Das Tosen des vorbeirauschenden Windes ist ohren-
+betäubend. Einen Fall aus dieser Höhe kannst du unmöglich 
+überleben, denkst du dir. Doch statt auf einem harten Felsen 
+zu zerschellen, wirst du von einem leuchtenden, sehnigen Netz 
+aufgefangen. Panisch kletterst du auf eine nahegelegene Plattform 
+aus festem Stein. Deine Rettungsinsel ist nur eine von vielen, die 
+allesamt in der Luft schweben und durch dichte Spinnweben 
+miteinander verbunden sind. Dahinter erstrecken sic h die unermess -
+lichen Weiten des Kosmos, eine grenzenlose Finsternis, so weit das 
+Auge reicht.
+ Æ Der Ermittlungsleiter hat die Schwäche Falsches Erwachen  
+( Die Traumfresser , 275) verdient (zählt nicht gegen seine 
+Deckgröße). Sie wird dem Deck des Ermittlungsleiters 
+hinzugefügt.
+ Æ Für jeden Schaden auf der Szenarioübersichtskarte wird 
+1 Zählstrich im Kampagnenlogbuch unter „Stufen der 
+Brücke“ notiert.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, fahre mit Szenario 4–B: Weber des Kosmos  fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 3–A: Die dunkle Seite 
+des Mondes  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 3–A: Die dunkle Seite des 
+Mondes  gespielt hast, fahre stattdessen mit Zwischen -
+spiel III: Die Großen  fort.  
+15
+
+„Oh, und bevor ich es vergesse: Deine Freunde haben ihr Ziel beinahe erreic ht. 
+Wenn alles so geschieht, wie ich es vorhergesehen habe, werden sie sich selb st 
+befreien können. Folgendes lassen sie ausrichten … “
+Überprüfe das Kampagnenlogbuch für Die Traumsuche  (Kampagne A). 
+Lies den zu deiner Situation passenden unten stehenden Abschnitt.
+Nachdem du den passenden Abschnitt gelesen hast, fahre entweder mit 
+Szenario 4–A: Wo Götter wohnen  oder mit Szenario 4–B: Weber des 
+Kosmos fort.
+Falls die schwarze Katze von Nyarlathotep gesproche n hat:
+„Deine Freunde stehen einer Wesenheit gegenüber, die Tausende, 
+vielleicht sogar endlos viele Masken trägt. Nyarlathotep  wird 
+er von manchen genannt. Er ist ein Meister der Manipulation, 
+hinterlistig und verlogen. Wahrscheinlich ist er dafür verantwort lich, 
+dass deine Freunde in den Traumlanden gefangen sind. Warum, weiß 
+ich nicht. Wenn wir wollen, dass deine Freunde überleben, muss ich 
+ihnen helfen. Du schaffst das sicher auch allein, stimmt’s?“ Ohne auf 
+eine Antwort zu warten und ohne ein weiteres Wort, springt die Katze 
+in die Tiefen des Äthers und verschwindet.
+ Æ Überprüfe beide Kampagnenlogbücher. 
+ = Falls in keinem Kampagnenlogbuch notiert ist, dass die 
+schwarze Katze an deiner Seite ist , wird im Kampagnen-
+logbuch für Die Traumsuche (Kampagne A) notiert, dass 
+die schwarze Katze an deiner Seite ist . Den Chaosbeuteln 
+beider Kampagnen wird für den Rest der Kampagnen je 
+1   -Marker hinzugefügt.
+ = Falls im Kampagnenlogbuch für Das Netz der Träume  
+(Kampagne B) notiert ist, dass die schwarze Katze an 
+deiner Seite ist , wird dieser Eintrag durchgestrichen und 
+stattdessen im Kampagnenlogbuch für Die Traumsuche  
+(Kampagne A) notiert. In den Chaosbeuteln beider 
+Kampagnen wird je 1   -Marker durch je 1   -Marker 
+ersetzt.
+ = Falls im Kampagnenlogbuch für Die Traumsuche  (Kampa -
+gne A) notiert ist, dass die schwarze Katze an deiner Seite ist , 
+wird nichts verändert.
+Falls die schwarze Katze von Atlach-Nacha gesproche n hat:
+„Aber nun zurück zu der Brücke, von der ich eben gesprochen habe. 
+Glaube mir, die Kreatur, die sie webt, ist schlimmer als alles, was du 
+je gesehen hast. Atlach-Nacha  lautet ihr Name, den ich in den 
+finstersten Winkeln der Traumlande im Flüsterton vernommen habe. 
+Sie ist die Herrin und Urmutter aller Spinnen, die in diesen Landen 
+umherkrabbeln. Vielleicht sogar in allen Landen. Du wirst meine 
+Hilfe brauchen, um ihr Intrigengespinst zu durchdringen.“
+ Æ Überprüfe beide Kampagnenlogbücher.
+ = Falls in keinem Kampagnenlogbuch notiert ist, dass die 
+schwarze Katze an deiner Seite ist , wird im Kampagnenlog-
+buch für Das Netz der Träume  (Kampagne B) notiert, dass 
+die schwarze Katze an deiner Seite ist. Den Chaosbeuteln 
+beider Kampagnen wird für den Rest der Kampagnen je 
+1   -Marker hinzugefügt.
+ = Falls im Kampagnenlogbuch für Die Traumsuche  (Kam -
+pagne A) notiert ist, dass die schwarze Katze an deiner Seite 
+ist , wird dieser Eintrag durchgestrichen und stattdessen 
+im Kampagnenlogbuch für Das Netz der Träume  (Kampa -
+gne B) notiert. In den Chaosbeuteln beider Kampagnen 
+wird je 1   -Marker durch je 1   -Marker ersetzt.
+ = Falls im Kampagnenlogbuch für Das Netz der Träume  
+(Kampagne B) notiert ist, dass die schwarze Katze an deiner 
+Seite ist , wird nichts verändert.
+Lies dieses Zwischenspiel nur, falls du Die Traumsuche  und Das Netz 
+der Träume als verwobene achtteilige Kampagne spielst und wenn 
+du sowohl Szenario 3–A: Die dunkle Seite des Mondes als auch 
+Szenario 3–B: Kein Zurück mehr abgeschlossen hast.
+Beginnt dieses Zwischenspiel mit dem Lesen von  Die Großen 1 auf 
+Seite 19 im Kampagnenleitfaden A.
+Die Großen 2:  Setzt nach Szenario 3–B  an, als die Ermittler 
+ein kosmisches Halbschattenreich zwischen den Welten 
+erreicht haben …
+Das dumpfe Jaulen einer Katze lenkt deinen Blick auf ein nahegelegenes Ne tz. 
+Als du näher trittst, siehst du die schwarze Katze in einem Haufen besonder s 
+klebriger Spinnenfäden hängen und vergeblich zappeln. Selbst ihre s charfen 
+Krallen scheinen ihr nichts zu nützen. Du beugst dich nach vorn und befreis t 
+die Katze, worauf sie aus deinen Armen nach unten auf einen flachen Felsen 
+springt. Er ist die einzige Barriere zwischen der Katze und der unendlich en 
+Leere. Kurz faucht sie, dann macht sie einen Katzbuckel. „Habe ich etwa um 
+Hilfe gebeten?“, schimpft sie. „So, du hast es also tatsächlich in die Tief en unter 
+dem Pechmeer geschafft. Nun, schau dich um. Siehst du die vielen Netze?“ Si e 
+sind beim besten Willen nicht zu übersehen; du bist ringsum von Spinn-
+geweben umgeben, die sich in gefährlichen Pfaden durch die Leere ziehen . 
+„Das ist die Brücke zwischen deiner Welt und den Traumlanden. Wenn 
+sie fertiggestellt ist, werden die beiden Welten miteinander verschm elzen. 
+Verstehst du? Wenn du nicht willst, dass es bald überall so aussieht wie in dem 
+Krankenhaus, in dem deine Freunde gerade schlummern, musst du die Ferti g-
+stellung um jeden Preis verhindern. Nichts anderes ist von Bedeutung. N ichts!“
+Überprüfe das Kampagnenlogbuch für Das Netz der Träume  (Kampa -
+gne B). Lies den zu deiner Situation passenden unten stehenden 
+Abschnitt. Falls keine Situation passt, überspringe diese Abschni tte..
+Falls die Ermittler den silbernen Schlüssel besitzen:
+„Sag mal, hast du immer noch diesen Schlüssel?“, fr agt die schwarze 
+Katze. Du gräbst in deinen Taschen nach dem Schlüss el aus dem unnenn -
+baren Haus und zeigst ihn der Katze. „Her damit“, v erlangt sie und 
+schnappt ihn beißend aus deiner Hand, ehe du protes tieren kannst. „Jetzt 
+schau mich nicht so an. Deine Freunde brauchen ihn dringender als du.“
+Im Kampagnenlogbuch für Das Netz der Träume  (Kampagne B) wird 
+Die Ermittler besitzen den silbernen Schlüssel durchgestrichen  
+und stattdessen im Kampagnenlogbuch für Die Traumsuche  
+(Kampagne A) notiert. 
+Falls sich Der silberne Schlüssel aktuell im Deck e ines Ermittlers 
+befindet, wird er entfernt. Ein beliebiger Ermittle r in Die Traumsuche  
+(Kampagne A) darf Der silberne Schlüssel seinem Dec k hinzufügen. 
+Diese Karte zählt nicht gegen die Deckgröße des Erm ittlers.
+Falls die schwarze Katze nach der Wahrheit sucht :
+Als der Blick der Katze auf Randolph fällt, verstummt sie plötzlich. 
+Mehrmals streift sie um den Mann herum und wirkt dabei irgendwie 
+aufgewühlt. Er wiederum reagiert ungewöhnlich nervös auf die 
+Gegenwart der Katze und weicht sogar vor ihr zurück. „Was soll das? 
+Ich habe nie einem deiner Artgenossen etwas getan“, sagt er nüchtern. 
+„Habe ich dich irgendwie beleidigt?“
+„Deine bloße Existenz beleidigt mich“, antwortet die Katze mit einem 
+Fauchen. Sie schlendert zu dir zurück, ohne Randolph aus den Augen 
+zu lassen. „Ich glaube, ich weiß jetzt, was hier vor sich geht. Alles 
+ergibt einen Sinn. Ich weiß nun, wer meine Augen trübt. Du darfst 
+diesem Ding  nicht trauen“, warnt sie dich und geht im Kreis, um den 
+blonden Mann im Blick zu behalten. „Ich habe noch Vorbereitungen 
+zu treffen. Zu gegebener Zeit werde ich zu dir zurückkehren.“ 
+Überspringe den Rest dieses Zwischenspiels. In beid en Kampagnen-
+logbüchern wird notiert: Die schwarze Katze kennt die Wahrheit .
+Zwischenspiel III: Die Großen
+16
+
+Szenario-Zwischenspiel: Die Spinnenkönigin
+Lies dieses Zwischenspiel erst, wenn du dazu aufgefordert wirst.
+Die Spinnenkönigin 1:  Du erklimmst einen steinernen Hang und blickst 
+hinab auf die ungeheuerlichen Ausmaße der Spinnenbrücke und des Dings , 
+das darauf lauert: Atlach-Nacha, Göttin der Spinnen, begleitet von ih rer 
+Horde von Webern. Unentwegt spinnen die vielbeinigen Abscheulichke iten 
+die Fäden eines kosmischen Netzes und widmen sich dieser Tätigkeit mit 
+albtraumhafter Hingabe. Während die scheußlichen Geschöpfe eine n Faden 
+nach dem anderen weben, spürst du, wie sich Traum und Wirklichkeit 
+verzerren, miteinander kollidieren und verschmelzen. In der Ferne b rechen 
+sich Traumwellen an den Felsen der Realität, die Wirklichkeit fällt in si ch 
+zusammen und rauscht in den Strudel eines formlosen Traums. Für deine 
+Sinne ist der bizarre, wechselnde Anblick kaum zu ertragen. Am Rand deine s 
+Beobachtungspostens hängt ein klebriges Netz, das wie eine seidene Le iter in 
+dein Verderben hinabführt.
+ Æ Überprüfe das Kampagnenlogbuch.
+ = Falls Randolph den Abstieg überlebt hat  und die schwarze Katze die 
+Wahrheit kennt , fahre mit Die Spinnenkönigin 2  fort.
+ = Falls Randolph den Abstieg überlebt hat , fahre mit  
+Die Spinnenkönigin 3  fort.
+ = Falls Randolph den Abstieg nicht überlebt hat , fahre mit  
+Die Spinnenkönigin 4  fort.
+Die Spinnenkönigin 2: Du willst gerade hinunterklettern, als hinter deinem 
+Begleiter Randolph die Stimme der schwarzen Katze ertönt. „Fallen las sen“, 
+befiehlt sie. Ein bösartiges Grinsen breitet sich über Randolphs Gesi cht aus 
+und er lässt ein gezacktes Onyxmesser fallen, das klappernd auf dem Boden 
+landet.
+„Meine Maske wurde also durchschaut?“, sagt er an dich gewandt. „Das spiel t 
+keine Rolle. Du wirst  den Auftrag, den ich dir erteilt habe, trotzdem erfüllen. 
+Das Schicksal deiner Welt hängt davon ab.“
+Verwirrt fragst du Randolph, was in ihn gefahren ist. Die schwarze Katze 
+springt auf deine Schulter und lässt sich dort nieder, ohne deinen einsti gen 
+Begleiter aus den Augen zu lassen. „Ich habe es erst kürzlich herausgefun den. 
+Er ist nicht Randolph. Ist es nie gewesen. Nur ein Eindringling, der in 
+Randolphs Haut steckt.“
+„Eindringling?“ Randolphs Stimme bebt vor Zorn. „Du, Katze, bist hier d er 
+Eindringling! Ja, ich weiß, was du bist. Dies ist nicht dein Reich. Aber genu g 
+geredet.“ Abermals huscht ein Lächeln über seine Lippen, während er dic h 
+anblickt. „Du hast noch eine Aufgabe vor dir. Auf Wiedersehen … “ Kaum hat 
+er seine Warnung ausgesprochen, springt Nicht-Randolph über den Ran d der 
+Plattform und fällt in die Unendlichkeit.
+ Æ Falls sich im Deck eines Ermittlers Randolph Carter (An die wache 
+Welt gekettet)  (Die Traumfresser , 79) befindet, wird er für den Rest der 
+Kampagne aus jenem Deck entfernt.
+ Æ Fahre mit Die Spinnenkönigin 4  fort.
+Alles hat zu diesem Punkt geführt. Virgils Werke, der niemals endende Sch laf 
+deiner Gefährten, St. Mary’s, die schwarze Katze, einfach alles. Du has t keine 
+andere Wahl als weiterzugehen. Der transdimensionale Raum, in dem du 
+gelandet bist, ist die Heimat einer Wesenheit, die danach trachtet, dei ne Welt 
+zu vernichten und sie durch eine neue Realität zu ersetzen: ein Albtraum-
+reich aus pechschwarzer Dunkelheit und monströsen Kreaturen, die Ja gd 
+auf deinesgleichen machen. Wenn es dir nicht gelingt, sie vom Weben ihres 
+kosmischen Gespinstes abzuhalten, wird es bald keine Erde mehr geben. Du 
+musst etwas unternehmen, selbst wenn es deinen Untergang bedeutet.
+Fahre mit dem Vorbereitung  fort.
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Weber des Kosmos, Anhänger von Atlach-Nacha, Spinnen, Böses aus 
+uralter Zeit und Grabeskälte . Diese Sets sind an folgenden Symbolen 
+zu erkennen:  
+ 
+ 
+ Æ Alle Orte Das große Netz werden gemischt. Davon werden 4 Kopien 
+in zufälliger Reihenfolge in senkrechter Linie untereinander ins Sp iel 
+gebracht.
+ = Jeder Ermittler beginnt das Spiel am obersten Ort Das große Netz.
+ = Die übrigen Kopien von Das große Netz werden als nicht im Spiel 
+befindlich beiseitegelegt.
+ Æ Die folgenden Karten werden als nicht im Spiel befindlich beiseite-
+gelegt: die doppelseitige Karte Atlach-Nacha, die 4 Gegner Beine von 
+Atlach-Nacha und beide Kopien der Verratskarte Die Weberin in der 
+Dunkelheit.
+ Æ Überprüfe die Anzahl der im Kampagnenlogbuch unter „Stufen der 
+Brücke“ notierten Zählstriche.
+ = Falls 2 oder weniger Zählstriche notiert sind, passiert nichts.
+ = Falls 3–5 Zählstriche notiert sind, wird 1 Verderben auf dem 
+untersten Ort platziert.
+ = Falls 6–8 Zählstriche notiert sind, werden 2 Verderben auf dem 
+untersten Ort platziert.
+ = Falls 9–11 Zählstriche notiert sind, werden 3 Verderben auf dem 
+untersten Ort platziert.
+ = Falls 12 oder mehr Zählstriche notiert sind, werden 4 Verderben 
+auf dem untersten Ort platziert.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Szenario 4–B: Weber des Kosmos
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine anderen 
+Vorbereitungs- und Auf lösungsanweisungen verwendet werden 
+sollen, können die unten stehenden Informationen bei  der Vor -
+bereitung und während des Spiels dieses Szenarios verwendet 
+werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern zusammen -
+gestellt:  
++1, 0, 0, –1, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  ,  ,  .
+ Æ Die schwarze Katze ist nicht an deiner Seite.
+ Æ Randolph hat den Abstieg nicht überlebt.
+Halt!
+Zu diesem Zeitpunkt kann mit dem Spielen von Weber des 
+Kosmos  begonnen werden. Das Zwischenspiel und der unten 
+stehende Regeltext sollten zunächst nicht gelesen we rden. 
+Die Spieler werden zu einem späteren Zeitpunkt während des 
+Szenarios dazu angewiesen, diese Texte zu lesen.
+17
+
+Die Spinnenkönigin 3:  Du hältst dich an den Spinnenfäden fest und 
+kletterst zu einer tieferen Plattform hinab. Von dort aus müsstest du den R and 
+der Brücke und sogar Atlach-Nacha selbst erreichen können. Auf halbem W eg 
+fährt ein Ruck durch die schwebende Plattform und sie beginnt wild hin und 
+her zu schwanken. Fest umklammerst du die seidenen Fäden und hoffst, durc h 
+das klebrige Netz vor einem Sturz bewahrt zu werden. Als du nach Randolph, 
+der eigentlich über dir klettern müsste, sehen willst, stellst du fest, d ass er dir 
+nicht gefolgt ist. Er steht oben auf der Plattform, ein Onyxmesser in der Han d, 
+und grinst dich böse an. Er hat gerade einen Strang des Netzes, an dem du 
+hinabkletterst, abgeschnitten. Noch ehe du ihn zur Rede stellen kanns t, hat er 
+das ganze Netz durchtrennt. Du stürzt auf den darunterliegenden Felse n und 
+landest unsanft auf dem Rücken. Als du wieder zu Randolph aufblickst, hat 
+sich sein Antlitz verändert.
+„Sterblicher Narr. Ich hätte niemals zugelassen, dass du deine Freund e rettest. 
+Du hast einen Auftrag für mich zu erfüllen – das ist dein einziger Daseins-
+zweck. Wenn du weiterleben willst, bring deine Aufgabe zu Ende.“ Sein Bli ck 
+wandert zu der unfassbaren Spinne, die ungeheuerlich vor euch aufragt . „Ich 
+bin es, der deine Welt unterwerfen wird – und nicht dieses Ungeziefer.“ Dann 
+dreht sich Nicht-Randolph einfach um und geht fort.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler sind in Atlach-
+Nachas Reich gefangen.
+ Æ Falls sich im Deck eines Ermittlers Randolph Carter (An die wache 
+Welt gekettet) (Die Traumfresser , 79) befindet, wird er für den Rest der 
+Kampagne aus jenem Deck entfernt.
+ Æ Abhängig vom Schwierigkeitsgrad wird dem Chaosbeutel folgender 
+Marker hinzugefügt: Einfach (–3), Normal (–4), Schwer (–5), 
+Experte (–7).
+ Æ Fahre mit Die Spinnenkönigin 4  fort.
+Die Spinnenkönigin 4:  Die Kreatur steht kurz davor, ihren Plan zu 
+vollenden. Eilig flitzen ihre Beine umher und spinnen mit unheimliche r Ziel-
+strebigkeit einen kosmischen Seidenfaden nach dem anderen. Vielle icht kannst 
+du eines ihrer Beine abtrennen oder das Netz, auf dem sie steht, zerreißen …
+ Æ Entferne jeden Ort bis auf den untersten Ort aus dem Spiel. Lege 
+jenen Ort in den oberen Bereich der Spielzone. Mischt die übrigen 
+beiseitegelegten Orte Das große Netz und lege 7 davon so aus, dass 
+sie zusammen mit dem Ort der Ermittler (ganz oben in der Spiel-
+zone) einen Kreis bilden. Bis zum Ende des Szenarios ist jeder Ort 
+mit seinen beiden Nachbarorten (im und gegen den Uhrzeigersinn)  
+verbunden. 
+ Æ Baue Atlach-Nacha zusammen, indem du die folgenden Schritte der 
+Reihe nach durchführst:
+ = Finde die doppelseitige Karte Atlach-Nacha und drehe sie auf die 
+Seite, die nur ihr Bild zeigt.
+ = Ordne die 4 Gegnerkarten Beine von Atlach-Nacha so an, wie es 
+auf der folgenden Abbildung zu sehen ist: 
+ 
+ 
+Platziere die zusammengebaute Atlach-Nacha in der Mitte der 
+8 Orte, sodass je 1 Ecke jedes Gegners Beine von Atlach-Nacha 
+einen anderen Ort berührt (siehe dazu die Abbildung „Spielerzone in 
+Szene 2“ auf Seite 20) .
+ Æ Mische jede beiseitegelegte Kopie von Die Weberin in der Dunkelheit 
+zusammen mit dem Begegnungs-Ablagestapel in das Beg egnungsdeck.
+ Æ Lies die Regeln für „Atlach-Nacha“ auf der folgenden Seite.
+© 2024 FFG 346a 23/38Helge C. BalzerIllus.
+Helge C. Balzer © 2024 FFG 348 25/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+XX 3333
+
+Illus. 27/38Helge C. Balzer © 2024 FFG 350
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+Helge C. Balzer© 2024 FFG 347 24/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+33XX 33
+
+Helge C. Balzer© 2024 FFG 349 26/38Illus.
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+18
+
+Æ Atlach-Nachas mittlere Karte und jeder Gegner Beine von Atlach-Nacha 
+sollten jederzeit in der gleichen Anordnung verbleib en, selbst wenn 
+eine Karte aus der Anordnung entfernt wird. Falls 1  Karte bewegt wird, 
+müssen alle Karten in der Anordnung auf gleiche Wei se bewegt werden.
+ Æ Deshalb können sich die Gegner Beine von Atlach-Nac ha nicht 
+bewegen und auch nicht bewegt werden, außer durch Effekte, die 
+Atlach-Nacha „rotieren“.
+ Æ Werden die Spieler aufgefordert, Atlach-Nacha ein Mal oder mehr-
+mals zu „rotieren“, rotieren sie alle Karten in der Mitte des Kreises 
+(die mittlere Karte von Atlach-Nacha und alle ihre Beine) in die 
+angegebene Richtung, sodass sich jeder Gegner Beine von Atlach-
+Nacha im Uhrzeigersinn um so viele Orte bewegt.
+ = Beispiel: Ein Effekt führt dazu, dass die Spieler „Atlach-Nacha 1 Mal 
+im Uhr zeiger sinn rotieren“ sollen. Das heißt, dass sie Atlach-Nac ha 
+auf der Stelle so drehen, dass sich jedes ihrer Beine um 1 Ort im 
+Uhrzeigersinn bewegt, wie auf der Abbildung unten zu sehen ist.
+Atlach-Nacha
+Atlach-Nachas Gestalt besteht aus mehreren Gegnerkarten Beine von 
+Atlach-Nacha. Jeder dieser Gegner agiert wie ein eigenständiger Geg ner 
+mit dem Schlüsselwort Gewaltig und gilt wie andere Gegner mit dem 
+Schlüsselwort Gewaltig als mit jedem Ermittler an seinem Ort in einen 
+Kampf verwickelt. 
+ Æ Jeder Gegner Beine von Atlach-Nacha gilt als an dem Ort befindlich, 
+der von der entsprechenden Kartenecke berührt wird (wie auf der 
+Abbildung unten zu sehen ist).
+Jetzt befindet sich 
+dieser Gegner Beine 
+von Atlach-Nacha 
+an diesem Ort.
+© 2019 FFG 346a 23/38Helge C. BalzerIllus.
+Helge C. Balzer © 2024 FFG 348 25/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durch führen.
+X ist der Schleierwert des Ortes, an dem sich diese r Gegner 
+befindet.
+Erzwungen  – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen  Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+XX 3333
+
+Illus. 27/38Helge C. Balzer © 2024 FFG 350
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen  – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFG
+346a
+23/38
+Helge C.
+ Bal
+zer
+Illus.
+Helge C.
+ Balzer
+© 2024 FFG 348
+25/38
+Illus.
+GE
+GNER
+Beine von Atlach-Nacha
+Großer Alter. Spi
+nne. E
+lite.
+Sieg 1.
+Gewalt
+ig. 
+Dieser Gegne
+r ka
+nn k
+eine Gelegenheitsa
+ngriffe durchführen.
+X i
+st de
+r Schleierwer
+t des Or
+tes, an dem sich d
+ieser Gegner 
+befindet.
+Erzw
+un
+gen – S
+obald du d
+iesem Gegne
+r en
+tkommen würde
+st: 
+Wähle eine
+n Ermit
+tler an deine
+m Ort, ans
+tatt diesen Gegner 
+zu er
+schöpfen. Dieser Gegne
+r ka
+nn den g
+ewählt
+en 
+Ermit
+tler in dieser Runde nicht an
+grei
+fen.
+XX
+33
+33 
+Illus.
+27/38
+Helge C.
+ Bal
+zer
+© 2024 FFG 350
+GE
+GNER
+Ge
+waltig. 
+Dies
+er Ge
+gner k
+ann keine Ge
+legenheits
+angriffe durchführ
+en.
+X i
+st der Schleierwert des Ort
+es, an dem sich die
+ser Ge
+gner 
+bef
+indet.Erzw
+ungen
+ – Sob
+ald du d
+iesem Ge
+gner en
+tkommen würdest: 
+Wähle eine
+n E
+rmittle
+r an deine
+m Or
+t, a
+nstatt die
+sen Gegner zu 
+ers
+chöpfen. Die
+ser Ge
+gner k
+ann den g
+ewählt
+en E
+rmittle
+r in die
+ser 
+Runde nicht an
+greifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spi
+nne. E
+lite.
+33
+XX
+33 
+© 2024 FFG 346a 23/38Helge C. BalzerIllus.
+Helge C. Balzer © 2024 FFG 348 25/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+XX 3333
+
+Illus. 27/38Helge C. Balzer © 2024 FFG 350
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+Dieser Gegner  
+Beine von 
+Atlach-Nacha 
+befindet sich an 
+diesem Ort.
+An diesem Ort 
+befindet sich 
+dagegen kein 
+Gegner Beine von 
+Atlach-Nacha.
+19
+
+Spielerzone in Szene 2
+© 2024 FFG 346a 23/38Helge C. BalzerIllus.
+Helge C. Balzer © 2024 FFG 348 25/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+XX 3333
+
+Illus. 27/38Helge C. Balzer © 2024 FFG 350
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+Helge C. Balzer© 2024 FFG 347 24/38Illus.
+GEGNER
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+Sieg 1.
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner 
+zu erschöpfen. Dieser Gegner kann den gewählten 
+Ermittler in dieser Runde nicht angreifen.
+33XX 33
+
+Helge C. Balzer© 2024 FFG 349 26/38Illus.
+GEGNER
+Gewaltig. 
+Dieser Gegner kann keine Gelegenheitsangriffe durchführen.
+X ist der Schleierwert des Ortes, an dem sich dieser Gegner 
+befindet.
+Erzwungen – Sobald du diesem Gegner entkommen würdest: 
+Wähle einen Ermittler an deinem Ort, anstatt diesen Gegner zu 
+erschöpfen. Dieser Gegner kann den gewählten Ermittler in dieser 
+Runde nicht angreifen.
+Sieg 1.
+Beine von Atlach-Nacha
+Großer Alter. Spinne. Elite.
+33XX 33
+
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+© 2024 FFGIllus. Nele Diel
+ORT
+Lange funkelnde Strähnen aus hauchdünnem Gewebe füllen 
+die endlose Grube unter dem Pechmeer aus. Das große Werk 
+der Spinnen ist fast abgeschlossen.
+Anderswelt. Außerdimensional.
+Das große Netz
+20
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auflösung erreicht wurde, weil alle Erm ittler besiegt 
+wurden: Als du wieder zu dir kommst, bist du von etwas Enge m und 
+Klebrigem eingeschnürt. Deine Arme sind an den Seit en festgebunden 
+und egal wie sehr du zappelst, du kannst kaum deine  Fingerspitzen 
+bewegen. Langsam macht sich Entsetzen in deinen Ged anken breit, je 
+mehr du dir deiner Lage bewusst wirst. Da du den Ko pf nicht drehen 
+kannst, musst du zusehen, wie sich die achtbeinige Monstrosität aus 
+der Dunkelheit schält. Lautlos betritt sie das Netz . Deine angsterfüllte 
+Miene spiegelt sich in ihren vielen Augen wider. Ih re Beißscheren triefen 
+vor Hunger. Du wünschtest nur, du könntest wegsehen .
+ Æ Im Kampagnenlogbuch wird notiert: Die Brücke wurde 
+fertiggestellt.
+ Æ Jeder Ermittler wird getötet .
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, verlieren die Ermittler die Kampagne .
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–A: Wo Götter 
+wohnen  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–A: Wo Götter wohnen 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auflösung 1:  Du klammerst dich an einen Seidenfaden. Er ist das  Ein-
+zige, was dich vor einem Sturz in die endlosen Tief en der Leere bewahrt.
+ Æ Im Kampagnenlogbuch wird notiert: Die Brücke wurde zerstört.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel. Jeder 
+Ermittler verdient 5/uni00A0Bonus-Erfahrungspunkte, weil die 
+Ermittler verhindern konnten, dass die Traumlande und die 
+Realität verschmelzen.
+ Æ Überprüfe das Kampagnenlogbuch. Handle die oberste 
+Möglichkeit ab, die zutrifft.
+ = Falls die Ermittler einen Weg aus der Unterwelt gefunden 
+haben,  fahre mit Auf lösung 3  fort.
+ = Falls die Ermittler in Atlach-Nachas Reich gefangen  sind,  
+fahre mit Auf lösung 4  fort.
+ = Falls nichts davon zutrifft, fahre mit Auf lösung 5  fort.
+Auf lösung 2:  Stundenlang kämpfst du dich durch die dunkle, kleb -
+rige, mit Spinnenfäden durchzogene Leere zwischen den Welten. Als 
+du das Ende der kosmischen Spinnen brücke erreichst, bietet sich dir 
+ein grauenvoller Anblick. Die Leere, die dich gerade noch umgeben 
+hat, ist einem dämmrigen Abend gewichen, und am Himmel türmen 
+sich die vertrauten Silhouetten von dicht gedrängten Mansarden-
+dächern vor dir auf. Zu deinem Entsetzen ist ganz Arkham von 
+Atlach-Nachas Brut überrannt worden. Dicke Spinnweben reichen 
+von den düsteren Pflastern bis zu den höchsten Giebeln der Dächer. 
+Spinnen und Ghasts schleichen auf den einst geschäftigen Straßen 
+der Stadt umher und halten nach menschlicher Beute Ausschau, um 
+sie zu verschlingen – oder, was noch viel schlimmer ist, auf ewig in 
+ihren unzerstörbaren Kokons gefangen zu halten. Von Verzweiflung 
+übermannt fällst du auf die Knie. Wie weit reicht diese Verderbnis? 
+Ist es nur Arkham oder …?
+ Æ Im Kampagnenlogbuch wird notiert: Die Brücke wurde 
+fertiggestellt.
+ Æ Jeder Ermittler wird wahnsinnig .
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, verlieren die Ermittler die Kampagne . 
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–A: Wo Götter 
+wohnen  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–A: Wo Götter wohnen  
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auflösung 3:  In der Ferne siehst du den Turm, der drohend hinte r 
+der Spinnengöttin aufragte, während sie ihr Netz we bte. In diesem 
+Moment erinnerst du dich an den Turm von Koth in de r Unterwelt 
+und an die Treppe, die zur Oberfläche führte. Könnt en dies die 
+Grundmauern desselben Turmes sein? Durchsticht er e twa diese Welt 
+zwischen den Welten? Wenn ja, hast du womöglich ein en Fluchtweg 
+gefunden. Statt zurück zu klettern, schwingst du di ch an deinem 
+Faden durch die Leere und wagst einen weiten Sprung  zum Fuß des 
+Turmes. Dann machst du dich an den langen Aufstieg – durch das 
+Pechmeer, in die unterirdische Stadt der Gugs und n och weiter, immer 
+weiter aufwärts. Schließlich, nach meilenweitem Auf stieg ohne eine 
+Ruhepause, stößt du die Steinplatte an der Spitze d es Turmes auf und 
+blickst in den Verwunschenen Wald. Du verschließt d en Eingang hin-
+ter dir, damit nichts aus der höllischen Unterwelt an die Oberfläche 
+gelangt. Zum ersten Mal seit deiner Ankunft in den Traumlanden 
+kannst du erleichtert aufatmen. Du rufst dir das er ste Kapitel von 
+Virgil Grays Erzählung ins Gedächtnis und folgst ei nem schmalen 
+Pfad durch den Wald, bis du eine stabile steinerne Treppe erreichst, 
+die sich in den Wolken verliert. Es wird Zeit, nach  Hause zu gehen.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler sind in 
+die Realität zurückgekehrt.
+ Æ Jeder Ermittler erleidet 2/uni00A0körperliche Traumata durch den 
+erbitterten Kampf mit der Spinnengöttin.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, gewinnen die Ermittler die Kampagne !
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–A: Wo Götter 
+wohnen  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–A: Wo Götter wohnen 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+21
+
+Auf lösung 4:  Du hast die Spinnengöttin an der Fertigstellung 
+ihres Netzes gehindert, doch dabei hast du dir auch deinen einzigen 
+Fluchtweg abge schnitten. Nun bist du dazu verdammt, auf ewig 
+durch diese höllische Zwischenwelt zu irren und vergeblich nach 
+einem Ausweg zu suchen. Dein einziger Trost ist, dass du allen ande -
+ren Menschen auf der Erde ein ähnliches Los erspart hast. Vielleicht 
+könnte der silberne Schlüssel eine Tür nach draußen öffnen, doch 
+er ist nicht mehr in deinem Besitz. So sehr du dich auch bemühst, es 
+gelingt dir nicht, hier, in den abscheulichen, gähnenden Tiefen unter 
+dem bodenlosen Pechmeer, die nötige Willenskraft aufzubringen, 
+um einen eigenen Schlüssel zu schmieden.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler sind 
+niemals entkommen.
+ Æ Jeder Ermittler wird wahnsinnig .
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird, gewinnen die Ermittler die Kampagne  …und 
+niemand hat je wieder etwas von ihnen gehört.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–A: Wo Götter 
+wohnen  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–A: Wo Götter wohnen 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auf lösung 5:  Du hast die Spinnengöttin an der Fertigstellung 
+ihres Netzes gehindert, doch dabei hast du dir auch deinen direkten 
+Heimweg abge schnitten. Du musst dich also nach Abschluss deines 
+Auftrages an den langen Aufstieg in die Realität machen. Zu deinem 
+Glück sind einzelne Überreste der Spinnenbrücke noch intakt, 
+ansonsten wärst du wohl auf ewig in der höllischen Zwischenwelt 
+gefangen. Es dauert viele Stunden, bis du deine Schritte in die 
+Unterwelt zurückverfolgt hast. Schließlich tauchst du unweit der 
+Küste aus dem zähen, teerartigen Pechmeer auf. Zu deinem Ent-
+setzen stellst du fest, dass das düstere Tal, aus dem du gekommen 
+bist, auf der anderen Seite des Meeres liegt. Ohne eine Möglichkeit 
+der Überfahrt wirst du wohl oder übel einen anderen Ausweg aus 
+der weiten Einöde suchen müssen. Tage vergehen, in denen du die 
+Unterwelt erforschst und in immer dunklere und verbotenere Land-
+striche tief unter der Kruste der irdischen Traumlande vordringst. 
+Irgendwann findest du eine Treppe nach oben, die sich jedoch deut-
+lich von der aus dem unnennbaren Haus unterscheidet: eine Spirale 
+aus unheimlichen Stufen, die sich in schwindel erregender Höhe 
+auftürmen und allen Gesetzen der Realität spotten. Als du den 
+oberen Treppenabsatz erreichst, wird dir schwer ums Herz. Arkham 
+ist nirgendwo zu sehen. Stattdessen begrüßen dich eine eigenartige 
+Ruinenstadt und ihre halbmenschlichen Bewohner. Die Kreaturen 
+teilen dir mit, dass du in die versunkene Stadt „Sarkomand“ gelangt 
+bist. Bis nach Hause ist es noch ein weiter Weg.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler sind 
+immer noch in den Traumlanden .
+ Æ Jeder Ermittler erleidet 2/uni00A0körperliche Traumata durch den 
+erbitterten Kampf mit der Spinnengöttin.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt 
+wird,  gewinnen die Ermittler die Kampagne !
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–A: Wo Götter 
+wohnen  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–A: Wo Götter wohnen 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Die folgende Liste enthält Erfolge, welche die Ermittler im Laufe einer 
+Kampagne von Das Netz der Träume  erreichen können. Sobald ein 
+Erfolg erreicht wird, kann dies durch einen Haken im Kästchen daneben 
+gekennzeichnet werden. Es stellt eine wahre Herausforderung dar, al le 
+diese Erfolge zu erreichen!
+ /uni2610Wer hat hier eine Spinnenphobie?: Besiege 20/uni00A0Spinne-Gegner.  
+Halte dies mit Zählstrichen im Kampagnenlogbuch fes t (Anmerkung: 
+Schwarmkarten zählen nicht mit.)
+ /uni2610Die Carter-Methode: Lass es zu, dass in Erwachter Albtraum  alle Orte 
+„befallen werden“, und versiegle sie dann.
+ /uni2610Der Doktor ist da: Nimm Dr./uni00A0Shivani Maheswaran in Erwachter 
+Albtraum mit und schaffe es, dass sie in dem Szenario keinen  Schaden 
+und Horror nimmt.
+ /uni2610Dé jà-vu: Handle jede freie ausgelöste Fähigkeit auf jedem Ort in  
+Tausend Formen des Schreckens  ab (die Mysteriösen Stufen in Szene/uni00A02 
+zählen nicht mit).
+ /uni2610Das „Casa Loma“-Manöver: Schaffe es, in Tausend Formen des 
+Schreckens von den endlosen Stufen zu entfliehen, während sich   
+Das Unnennbare auf der obersten Stufe befindet.
+ /uni2610An diesen Ort kann ich mich erinnern : Finde einen Weg aus der 
+Unterwelt in Kein Zurück mehr.
+ /uni2610Schlecht beraten: Drehe in Kein Zurück mehr jeden Ort mindestens  
+ein Mal um.
+ /uni2610Aufmarsch der Ghule : Schaffe es, an Richard Upton Pickman in  
+Kein Zurück mehr 4/uni00A0Ghul-Gegner anzuhängen.
+ /uni2610Der Ishimura-Modus: Schaffe es in Weber des Kosmos, in einer einzigen 
+Runde alle 4/uni00A0Beine von Atlach-Nacha zu besiegen.
+ /uni2610You Spin Me Right ’Round : Schaffe es in Weber des Kosmos, Atlach-
+Nacha in einer einzigen Phase um eine vollständige 360-Grad-Drehung 
+zu rotieren.
+ /uni2610Schlüsselmeister : Schaffe es, im Verlauf eines einzigen Szenarios m it 
+Dem Silbernen Schlüssel mindestens 10/uni00A0Horror aufzuheben.
+ /uni2610Spuren im … Sand : Gewinne die Kampagne Das Netz der Träume  
+mit mindestens 3/uni00A0aktiven Ultimaten (aus anderen Arkham Horror:  
+Das Kartenspiel -Produkten).
+ /uni2610Unterwelt-Experte : Gewinne die Kampagne Das Netz der Träume auf 
+dem Schwierigkeitsgrad Experte.
+Erfolge
+22
+
+Kampag ne nno tize n
+E rw acht e r  A lbtr aum 
+Kein Zurück mehr
+W eber des Kosmos
+Die schwar ze Katze
+T ausend F ormen des S chreckens
+Epilog
+GETÖTETE/WAHNSINNIGE ERMITTLER
+Prolog
+Vervielfältigung zum privaten Gebrau/c_h ges tattet. ©/uni00A02024 FFG.  
+Das Kampagnenlogbu/c_h kann auf unserer Website heruntergeladen werden.
+Die Traumreisenden
+CHAOSBEUTEL
+Stufe n d e r Brüc ke
+Die Großen
+ERMITT L ER
+SPI ELERNA M E
+SPI ELERNA ME
+SPI ELER N AM E
+SPI ELERNA M E
+ER MIT TLER
+ER M ITTLER
+ER MIT TLER
+ER M ITTLER
+NICHT AUSGE GEB ENE EP
+NICHT A USGEGEBENE EP
+NICHT A USGEGEBENE EP
+NICHT AUSGE GEB ENE EP
+ T RAUM A
+ T RAUM A
+ T RAUM A
+ TRAUMA
+(Kör perlich)
+(Kör perlich)
+(Kör perlich)
+(Kör perlich)
+(Seeli s ch)
+(Seeli s ch)
+(Seeli s ch)
+(Seeli s ch)
+VERD. STOR YV OR TEI LE/SCH WÄ C H EN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+Das N etz d e r T rä u m e
+Kampagnenlogbuch:
+
+Schnellübersicht
+Alarmiert  .....................................................................................2
+Handlungskarten  ......................................................................2
+Ausschwärmen/uni00A0X  .......................................................................2
+Verborgen  ....................................................................................3
+Verschleierte Orte (in Kein Zurück mehr)  .........................15
+Atlach-Nacha  ............................................................................19
+Begegnungssetsymbole
+Böses aus 
+uralter Zeit
+Grabeskälte
+Ghule Ratten -
+schwarm
+Verschlossene 
+Türen
+Dunkeldürre
+Kreaturen aus 
+der Unterwelt
+Schrecken aus 
+dem Tal
+Abstieg in die 
+Schwärze
+Anhänger von 
+Atlach-Nacha
+Erwachter 
+Albtraum
+Spinnen
+Geflüster des 
+Hypnos
+Kein Zurück 
+mehr
+Vermischende 
+Realitäten
+Weber des Kosmos
+Tausend Formen 
+des Schreckens
+© 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG -Logo, Living Card Game, LCG und das LCG-Logo sind ® Fantasy Flight 
+Games. Spielmaterial kann von der Abbildung abweichen.
+FANTASY
+FLIGHT
+GAMES
+Lähmende 
+Angst
+Sets aus dem Grundspiel
+24

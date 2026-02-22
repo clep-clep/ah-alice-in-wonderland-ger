@@ -1,0 +1,332 @@
+DIE SCHARLACHROTEN SCHLÜSSEL
+Ermittler-Erweiterung
+Streicht diesen Tag rot an
+„Von diesem Zeitpunkt an zensierten wir alle nach draußen gehenden 
+Informationen über den grausigen Vorfall. Wir alle waren uns darin 
+einig, dass es besser war, wenn die Öffentlichkeit nichts von der Existenz 
+gewisser Dinge auf diesem Planeten erfuhr.“
+– H. P. Lovecraft und Hazel Heald, Aus Äonen
+Die Ermittler-Erweiterung Die scharlachroten Schlüssel  enthält neue 
+Ermittler- und Spielerkarten, mit denen ihr neue Ermittlerdecks 
+erstellen oder bereits bestehende neu gestalten könnt und mit ihnen 
+nach Belieben Szenarien oder Kampagnen von Arkham Horror: Das 
+Kartenspiel  bestreiten könnt.
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Die scharlachroten Schlüssel  
+können an diesem Symbol vor jeder Setnummer erkannt werden: 
+ 
+ 
+ 
+ 
+Zusätzliche Regeln und Klarstellungen
+Dilemmas und Enthüllungsfähigkeiten
+Einige der Spielerkarten in dieser Erweiterung (diejenigen mit dem 
+Merkmal Dilemma) haben Enthüllungsfähigkeiten. Wie bei anderen 
+Kartentypen auch werden diese Fähigkeiten abgehandelt, sobald die Karte 
+gezogen wird oder auf andere Weise auf die Hand eines Spielers gelangt 
+und nicht, sobald die Karte gespielt wird.
+ Æ Diese Karten haben keine Kosten („–“) und können nicht gespielt 
+werden. Ihre Effekte werden nur dann abgehandelt, sobald sie gezogen 
+oder der Hand eines Spielers hinzugefügt werden.
+ Æ Nach dem Abhandeln einer Enthüllungsfähigkeit auf einer Spielerkarte 
+wird die Karte auf den Ablagestapel seines Besitzers gelegt.
+ Æ Enthüllungsfähigkeiten werden nicht bei der Vorbereitung abgehandelt. 
+Falls 1 oder mehr Spielerkarten mit Enthüllungs fähigkeiten bei der 
+Vorbereitung gezogen werden, wird gewartet, bis das Spiel beginnt. Dann 
+handelt jeder Spieler (in Spieler reihenfolge) alle seine Enthüllungsfähig-
+keiten in der Reihenfolge seiner Wahl ab.
+Exil
+Einige der Spielerkarten in dieser Erweiterung müssen ins Exil geschickt 
+werden, sobald sie verwendet werden. Sobald eine Karte ins Exil geschickt 
+wird, wird sie aus dem Spiel entfernt und zurück in die Sammlung gelegt. 
+Während des Kampagnenspiels muss eine Karte, die ins Exil geschickt 
+worden ist, (zwischen Szenarien) erneut mit Erfahrungspunkten erworben 
+werden, falls man sie wieder in sein Deck aufnehmen will. Falls 1 oder meh -
+rere Karten ins Exil geschickt werden und dadurch die Deckgröße unter die 
+für den Ermittler vorgegebene Größe sinkt, müssen, sobald man zwischen 
+Szenarien Karten erwirbt, so viele Karten erworben werden, dass die 
+Deckgröße wieder den Regeln entspricht. (Sobald auf diese Weise  Karten 
+erworben werden, dürfen Karten der Stufe 0 für 0 Erfahrungspunkte 
+erworben werden, bis die vorgegebene Deckgröße wieder erreicht ist.)
+
+2
+Neues Schlüsselwort: Individualisierbar
+Individualisierbar ist ein Schlüsselwort, das auf einigen Spielerkarten in 
+dieser Erweiterung zu finden ist. Individualisierbare Karten sind anfäng -
+lich eher unscheinbar, können im Verlauf einer Kampagne aber ihr volles 
+Potenzial entfalten. Durch das Ausgeben von Erfahrungspunkten kann 
+jede dieser Karten speziell auf das Deck eines Ermittlers zugeschnitten 
+werden.
+Jede individualisierbare Karte beginnt bei Stufe 0 und hat einen eigenen 
+Verbesserungsbogen, auf dem aufgeführt ist, welche Verbesserungen mit 
+Erfahrungspunkten erworben werden können. Vor jeder Verbesserung 
+sind 1 oder mehr Kästchen angegeben.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kästchen dürfen nur vor oder nach einem Szenario angekreuzt werden, 
+wenn dein Deck verbessert wird oder neue Karten für ein Deck erworben 
+werden (außer ein Karteneffekt besagt etwas anderes). Das Ausgeben 
+von 1 Erfahrungspunkt erlaubt es einem Ermittler, 1 Kästchen auf einem 
+Verbesserungsbogen einer seiner Karten anzukreuzen.
+Um eine Verbesserung zu erwerben, muss der Ermittler alle Kästchen 
+einer Verbesserung angekreuzt haben. Hat ein Ermittler eine Ver -
+besserung erworben, hat jede seiner Kopien der entsprechenden Karte 
+jene Verbesserung (und die damit verbundene Kartenfähigkeit) erhalten.
+ 
+Beispiel: Die Rüstung des Jägers hat die folgende Verbesserung: „☐☐ Haltbar.  
+Rüstung des Jägers bekommt +2 Ausdauer.“ Wenn erst 1 Erfahrungspunkt 
+ausgegeben wurde, um eines der beiden Kästchen vor „Haltbar“ anzukreuzen, 
+ist die Verbesserung noch nicht erworben worden. Erst wenn beide Kästchen 
+angekreuzt wurden (was insgesamt 2 Erfahrungs  punkte kostet), ist die Ver-
+besserung erworben worden. Beide Kopien von Rüstung des Jägers im Deck des 
+Ermittlers profitieren von dieser Verbesserung.
+© 2022 FFG
+VERBESSERUNG
+☐ Verzaubert. Rüstung des Jägers erhält das 
+Merkmal Relikt und benötigt 1 arkanen Slot statt 
+1 Körperslot.
+☐☐ Schutzrunen. Rüstung des Jägers darf 
+Schaden und/oder Horror zugewiesen werden, der 
+anderen Ermittlern an deinem Ort zugefügt wird.
+☐☐ Haltbar. Rüstung des Jägers bekommt 
++2 Ausdauer.
+☐☐ Geweiht. Rüstung des Jägers bekommt 
++2 geistige Gesundheit.
+☐☐ Leichtbau. Rüstung des Jägers bekommt 
+–1 Kosten und das Spielen provoziert keine 
+Gelegenheitsangriffe.
+☐☐☐ Fluchtrinker. Nachdem Rüstung des Jägers 
+1 oder mehr Schaden oder Horror durch den Effekt 
+einer Verratskarte zugewiesen worden ist, darfst du 
+Rüstung des Jägers erschöpfen, um 1 Karte zu ziehen.
+☐☐☐ Dornenrüstung. Nachdem Rüstung des 
+Jägers 1 oder mehr Schaden oder Horror durch 
+einen gegnerischen Angriff zugewiesen worden ist, 
+darfst du Rüstung des Jägers erschöpfen, um jenem 
+Gegner 1 Schaden zuzufügen.
+Rüstung des Jägers
+© 2022 FFGIllus. 21Rob Laskey
+VORTEIL
+Diese Rüstung hast du dir selbst aus ein paar antiken 
+Überresten und modernen „kugelsicheren“ Komponenten aus 
+dem Großen Krieg zusammengebastelt. Sie gibt noch nicht 
+viel her, aber mit ein paar zusätzlichen Anpassungen wird sie 
+sich schon noch als nützlich erweisen.
+Individualisierbar.
+Gegenstand. Rüstung.
+Rüstung des Jägers
+2222
+44
+© 2022 FFG
+VERBESSERUNG
+☐ Verzaubert. Rüstung des Jägers erhält das 
+Merkmal Relikt und benötigt 1 arkanen Slot statt 
+1 Körperslot.
+☐☐ Schutzrunen. Rüstung des Jägers darf 
+Schaden und/oder Horror zugewiesen werden, der 
+anderen Ermittlern an deinem Ort zugefügt wird.
+☐☐ Haltbar. Rüstung des Jägers bekommt 
++2 Ausdauer.
+☐☐ Geweiht. Rüstung des Jägers bekommt 
++2 geistige Gesundheit.
+☐☐ Leichtbau. Rüstung des Jägers bekommt 
+–1 Kosten und das Spielen provoziert keine 
+Gelegenheitsangriffe.
+☐☐☐ Fluchtrinker. Nachdem Rüstung des Jägers 
+1 oder mehr Schaden oder Horror durch den Effekt 
+einer Verratskarte zugewiesen worden ist, darfst du 
+Rüstung des Jägers erschöpfen, um 1 Karte zu ziehen.
+☐☐☐ Dornenrüstung. Nachdem Rüstung des 
+Jägers 1 oder mehr Schaden oder Horror durch 
+einen gegnerischen Angriff zugewiesen worden ist, 
+darfst du Rüstung des Jägers erschöpfen, um jenem 
+Gegner 1 Schaden zuzufügen.
+Rüstung des Jägers
+7
+7
+ Æ Die Kartenstufe einer individua -
+lisierbaren Karte entspricht der 
+Hälfte der angekreuzten 
+Kästchen auf ihrem 
+Verbesserungs  bogen 
+(aufgerundet). (Eine 
+individualisierbare Karte mit 
+3 angekreuzten Kästchen hat 
+z. B. eine Kartenstufe von 2.)
+ = Hinweis: Das kann dazu 
+führen, dass manche Ermittler eine 
+individualisierbare Karte ab einem 
+bestimmten Punkt nicht weiter ver -
+bessern können, falls ihre Deckbau-Optionen ihnen verbieten würden, 
+eine Karte mit einer bestimmten Stufe in ihr Deck aufzunehmen.
+ Æ Auf einem Verbesserungsbogen dürfen nicht mehr als 10 Kästchen 
+angekreuzt werden. (Das heißt, dass maximal 10 Erfahrungspunkte für 
+eine bestimmte individualisierbare Karte ausgegeben werden können und 
+die Maximalstufe 5 ist.)
+ Æ Das Ausgeben von Erfahrungspunkten für 1 oder mehr Ver -
+besserungen einer individualisierbaren Karte, die sich bereits im 
+Deck eines Ermittlers befindet, gilt im Bezug auf Karteneffekte als 
+„Verbessern“ einer Karte.
+ Æ Ein Ermittler darf direkt 1 oder mehr Kopien einer neuen 
+individualisierbaren Karte mit 1 oder mehr Verbesserungen 
+erwerben, indem er nur  die Erfahrungspunkte zahlt, die nötig sind, 
+um diese Verbesserungen zu erwerben. (Dies zählt als Erwerb einer 
+neuen Karte, nicht als Verbesserung einer bereits existierenden Karte.)
+ Æ Die Verbesserungen einer individualisierbaren Karte gelten jederzeit 
+als auf der Karte selbst befindlich (auch wenn sich die Karte in einer 
+Zone befindet, die nicht im Spiel ist, wie z. B. auf der Hand oder dem 
+Ablagestapel eines Ermittlers).
+ Æ Das Ausgeben von 1 oder mehr Erfahrungspunkten für Ver -
+besserungen auf dem Verbesserungsbogen einer individualisierbaren 
+Karte ist permanent und kann nicht rückgängig gemacht werden. 
+ Æ Während des Spiels sollte der Verbesserungsbogen in einer 
+nicht im Spiel befindlichen Zone stets griff bereit liegen. (Wenn 
+mit undurchsichtigen Hüllen gespielt wird, kann der Ermittler den 
+ Verbesserungsbogen hinter die Karte schieben, die er modifiziert, um so 
+schnellen Zugriff darauf zu haben.)
+ Æ Zusätzliche druckerfreundliche Verbesserungsbögen können auf 
+unserer  Website unter www.asmodee.de heruntergeladen werden.
+Individualisierbare Karten haben 
+variable Kartenstufen (erkennbar 
+an den fehlenden weißen Punkten)
+Eine individualisierbare Karte mit ihrem Verbesserungsbogen
+© 2022 FFGIllus. 21Rob Laskey
+VORTEIL
+Diese Rüstung hast du dir selbst aus ein paar antiken 
+Überresten und modernen „kugelsicheren“ Komponenten aus 
+dem Großen Krieg zusammengebastelt. Sie gibt noch nicht 
+viel her, aber mit ein paar zusätzlichen Anpassungen wird sie 
+sich schon noch als nützlich erweisen.
+Individualisierbar.
+Gegenstand. Rüstung.
+Rüstung des Jägers
+2222
+44
+© 2022 FFGIllus. 21Rob Laskey
+VORTEIL
+Diese Rüstung hast du dir selbst aus ein paar antiken 
+Überresten und modernen „kugelsicheren“ Komponenten aus 
+dem Großen Krieg zusammengebastelt. Sie gibt noch nicht 
+viel her, aber mit ein paar zusätzlichen Anpassungen wird sie 
+sich schon noch als nützlich erweisen.
+Individualisierbar.
+Gegenstand. Rüstung.
+Rüstung des Jägers
+2222
+44
+© 2022 FFGIllus. 21Rob Laskey
+VORTEIL
+Diese Rüstung hast du dir selbst aus ein paar antiken 
+Überresten und modernen „kugelsicheren“ Komponenten aus 
+dem Großen Krieg zusammengebastelt. Sie gibt noch nicht 
+viel her, aber mit ein paar zusätzlichen Anpassungen wird sie 
+sich schon noch als nützlich erweisen.
+Individualisierbar.
+Gegenstand. Rüstung.
+Rüstung des Jägers
+2222
+44
+
+3
+F: Wie funktioniert Beschworener Diener? Wenn eine Aktion zu einer Fertigkeits-
+probe führt, wer legt sie ab: ich oder der Diener?
+A: Jeder Beschworene Diener hat seine eigenen Aktionen, die nur ausgegeben 
+werden können, um Aktionen durchzuführen, die ihm zur Verfügung stehen. 
+Diese zählen nicht gegen die Anzahl an Aktionen, die du pro Runde nehmen 
+darfst, und nicht als deine Aktionen (im Bezug auf andere Karteneffekte). 
+Wenn die Aktion des Dieners aber zu einer Fertigkeitsprobe führt (wenn er 
+z. B. angreift oder ermittelt), dann legst du die Probe ab, nicht der Diener.
+Credits
+Expansion Design and Development:  Aaron Haltom und MJ Newman 
+mit Jeremy Zwirn
+Producer:  Molly Glover
+Editing: Andrea Dell’Agnese und Julia Faeta
+Card Game Manager:  Colin Phelps
+Arkham Horror  Story Review: Kara Centell -Dunk und Philip D. Henry
+Cultural and Sensitivity Review: Rico Corazón, Ouissal Harize, Cyrus 
+McGoldrick und die Mitglieder des FFG Cultural Sensitivity Panel
+Creative Director of Story and Setting: Katrina Ostrander
+Expansion Graphic Design:  Neal W. Rasmussen
+Graphic Design Coordinator:  Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art: Mauro Dal Bo
+Art Direction: Jeff Lee Johnson und Chelzee Lemm-Thompson
+Managing Art Director: Tony Bradt
+Quality Assurance Coordination:  Zach Tewalthomas
+Production Management:  Justin Anger und Austin Litzler
+Visual Creative Director:  Brian Schomburg
+Senior Project Manager: John Franz-Wichlacz
+Product Strategy Director:  Jim Cartwright
+Executive Game Designer:  Nate French
+Head of Studio: Chris Gerber
+Testspieler
+Kayli Ammen, Avita Amoeba, John Bagley, Dalia Berkowitz, Julius Besser, Yitzchak 
+Besser, Dane Bicott, Shannon Bicott, Cady Bielecki, Joe Bielecki, Shelley Danielle, 
+Benjamin Davan, Justin Engelking, Michael Feldman, Jeremy Fredin, Matt Froese, 
+Ursula Gudmundrsdottir, Josiah „Duke“ Harrist, Rod Jordan, Bob Juranek, Joe 
+Kennedy, Nate Langreder, Cayce Lent, Brian Lewis, Jamie Lewis, Kenny Ling, 
+Guðbrandur Magnússon, Josh McCluey, Caitlyn „The Forgotten“ McGrath, Tyler 
+Moore, Josh Parrish, Jamie Perconti, Chad Reverman, Devin Stinchcomb, Aaron 
+„Kane’s Pet Emporium“ Strunk, Michael Strunk, Owen Weldon und Ben Wiebracht
+Asmodee Germany
+Redaktion: Benjamin Fischer und Steffen T rzensky
+Layout: Monika Planeta
+© 2022 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, Living Card Game, 
+LCG und das LCG-Logo sind ® von Fantasy Flight Games. Gamegenic und das Gamegenic-Logo sind 
+TM/® und © von Gamegenic GmbH, Deutschland. Hergestellt von: Fantasy Flight Games, 1995 West 
+County Road B2, ROSEVILLE , MN 55113, USA. Spielmaterial kann von der Abbildung abweichen.
+FANTASY
+FLIGHT
+GAMES
+Häufig gestellte Fragen
+F: Was passiert, wenn ich ein drittes Dilemma ziehe, nachdem ich bereits zwei 
+abgehandelt habe?
+A: Es kann nicht abgehandelt werden, aber es bleibt auf deiner Hand. In 
+zukünftigen Zügen kannst du es auch nicht abhandeln, weil es bereits 
+gezogen wurde. (Das wird manchmal auch als „tote Karte“ auf der Hand 
+bezeichnet.) Um dies zu vermeiden, solltest du weniger Dilemma-Ereignisse 
+in dein Deck aufnehmen. Du kannst auch Katja Eastbank verwenden, die dir 
+dabei hilft, mit ihnen besser klarzukommen.
+F: Wenn 2 oder mehr Ermittler in der Unterhaltsphase jeweils ein Dilemma 
+ziehen, in welcher Reihenfolge werden sie dann abgehandelt?
+A: In der Unterhaltsphase zieht jeder Spieler 1 Karte in Spielerreihenfolge. 
+Deshalb werden sie auch in Spielerreihenfolge abgehandelt.
+F: Kann ich als Ursula Downs die Rüstung des Jägers erwerben, indem ich 
+1 Erfahrungs  punkt ausgebe, um die „Verzaubert“-Verbesserung zu erwerben,  
+die der Rüstung das Merkmal Relikt verleiht?
+A: Ja. Ursula kann die Rüstung des Jägers ohne das Merkmal Relikt nicht 
+in ihr Deck aufnehmen. Da du sie aber direkt mit Verbesserung erwerben 
+darfst, wird die Version ohne das Merkmal Relikt übersprungen.
+F: Was ist mit der „letzten Agenda“ (auf Am Ende des Weges) gemeint?
+A: Die „letzte Agenda“ ist die letzte Agenda im Agendadeck, oder anders aus-
+gedrückt: Wenn nur noch eine Agenda im Agendadeck ist, dann ist dies die 
+letzte Agenda. In seltenen Fällen kann es dazu kommen, dass ein Szenario 
+mehr als eine letzte Agenda hat (z. B. bei beiseitegelegten Agenden).
+F: Wenn ich im Verlauf der Kampagne eine neue individualisierbare Karte der 
+Stufe 0 erwerbe, muss ich dann auch das Minimum von 1 Erfahrungspunkt 
+zahlen, um sie in mein Deck aufnehmen zu können?
+A: Ja, aber nur, wenn du sie mit 0 angekreuzten Kästchen auf ihrem Ver-
+besserungsbogen erwirbst. Wenn du aber mindestens 1 Erfahrungspunkt für 
+Verbesserungen dieser Karte ausgibst, erfüllst du die Regel der minimalen 
+Kosten von 1. Du darfst dann deinem Deck 1 oder 2 Kopien jener Karte ohne 
+zusätzliche Kosten hinzufügen.
+F: Wenn ich die Verbesserung für Geschärfte Instinkte oder Machtwort erwerbe, 
+die mir erlaubt, eine dritte Kopie jener Karte in mein Deck aufzunehmen, muss 
+ich dafür das Minimum von 1 Erfahrungspunkt zahlen?
+A: Nein, das Zahlen der Verbesserung reicht dafür aus.
+F: Wie stelle ich sicher, dass ein Ermittler nicht zufällig eine auf bestimmte Klassen 
+beschränkte Schwäche zieht, die nicht zu seiner Klasse passt?
+A: Mische die nicht passenden Schwächen nicht in die Auswahl der Karten, 
+von denen der Ermittler zieht, oder ziehe eine neue, wenn sie nicht legal sein 
+sollte.
+Import und Vertrieb durch:
+Asmodee Germany 
+Friedrichstr. 47 • 45128 ESSEN
+

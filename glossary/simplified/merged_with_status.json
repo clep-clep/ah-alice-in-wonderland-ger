@@ -1,0 +1,1568 @@
+[
+  {
+    "en": "...Unless all of (location's) clues have been discovered.",
+    "de": "„… bis alle Hinweise (auf dem Ort) entdeckt worden sind.“",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "A, An",
+    "de": "Ein, eine",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Ability",
+    "de": "Fähigkeiten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Abomination",
+    "de": "Abscheulichkeit",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Act Deck and Agenda Deck",
+    "de": "Szenendeck und Agendadeck",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Action",
+    "de": "Aktion",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Activate Action",
+    "de": "Aktivieren (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Active Player",
+    "de": "Aktiver Spieler",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Additional Costs",
+    "de": "Zusätzliche Kosten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "After",
+    "de": "Nachdem",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Agenda Deck",
+    "de": "Agendadeck",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Alert",
+    "de": "Alarmiert",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Ally",
+    "de": "Verbündeter",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Aloof",
+    "de": "Zurückhaltend",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Ancient One",
+    "de": "Großer Alter",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "any empty location",
+    "de": "Beliebiger leerer Ort.",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Arkham",
+    "de": "Arkham",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "As if...",
+    "de": "Als ob",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Asset Cards",
+    "de": "Vorteilskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "At",
+    "de": "Am ...",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Attach To",
+    "de": "Anhängen an",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Attack of Opportunity",
+    "de": "Gelegenheitsangriff",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Attacker, Attacked",
+    "de": "Angreifer, angegriffen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Automatic Failure/Success",
+    "de": "Automatischer Erfolg/Misserfolg",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Base Value",
+    "de": "Grundwert",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Bearer",
+    "de": "Träger",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Blank",
+    "de": "Leer",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Blunder",
+    "de": "Patzer",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Bonded",
+    "de": "Gebunden",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Boon",
+    "de": "Segen",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Bystander",
+    "de": "Unbeteiligter",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Campaign Play",
+    "de": "Kampagnenspiel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Cancel",
+    "de": "Aufheben",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Cannot",
+    "de": "Kann nicht/Können nicht",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Card",
+    "de": "Karte",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Cardtypes",
+    "de": "Kartentypen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Castle",
+    "de": "Schloss",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Chair",
+    "de": "Stuhl",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Chaos Tokens",
+    "de": "Chaosmarker",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Checkpoints",
+    "de": "Checkpoints",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Chess",
+    "de": "Schach",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Chess Soldier",
+    "de": "Schach-Soldat",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Choices, and the Grim Rule",
+    "de": "Wahl und die Galgenregel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Choose one",
+    "de": "Wähle eins",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Clues",
+    "de": "Hinweise",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Coastal",
+    "de": "Küstengebiet",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Collection",
+    "de": "Sammlung",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Concealed Mini-Cards",
+    "de": "Getarnte Mini-Karten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Concealed X",
+    "de": "Getarnt X",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Condition",
+    "de": "Zustand",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Constant Abilities",
+    "de": "Anhaltende Fähigkeit",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Control",
+    "de": "Kontrolle",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Copy",
+    "de": "Kopie",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Corpse",
+    "de": "Leichnam",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Costs",
+    "de": "Kosten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Creature",
+    "de": "Kreatur",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Customizable",
+    "de": "Individualisierbar",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Day and Night",
+    "de": "Tag und Nacht",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Dealing Damage/Horror",
+    "de": "Schaden/Horror zufügen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Deck",
+    "de": "Decks",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Deck Size",
+    "de": "Deckgröße",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Deckbuilding",
+    "de": "Deckbau",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Deep One",
+    "de": "Tiefes Wesen",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Defeat",
+    "de": "Besiegt",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Delayed Effects",
+    "de": "Aufgeschobene Effekte",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Different",
+    "de": "Unterschiedlich/Verschieden",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Difficulty (level)",
+    "de": "Schwierigkeits(grad)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Difficulty (skill tests)",
+    "de": "Schwierigkeit (Fertigkeitsprobe)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Direct Damage, Direct Horror",
+    "de": "Direkter Schaden/Horror",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Discard Piles",
+    "de": "Ablagestapel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Doom",
+    "de": "Verderben",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Doubt and Conviction",
+    "de": "Zweifel und Überzeugung",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Downtown",
+    "de": "Innenstadt",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Draw Action",
+    "de": "Ziehen (Aktion)",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Drawing Cards",
+    "de": "Karten ziehen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Dreamer",
+    "de": "Träumer",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Effects",
+    "de": "Effekte",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Elimination",
+    "de": "Ausscheiden",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Elite",
+    "de": "Elite",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Elusive",
+    "de": "Schwer zu fassen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Empty Location",
+    "de": "Leerer Ort",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Encounter Cards vs Scenario Cards",
+    "de": "„Begegnungskarten“ gegen „Szenariokarten“",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Encounter Deck",
+    "de": "Begegnungsdeck",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "encounter discard pile",
+    "de": "Begegnungs-Ablagestapel",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Encounter Set",
+    "de": "Begegnungsset",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Enemy Cards",
+    "de": "Gegnerkarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Enemy Engagement",
+    "de": "Gegner in einen Kampf verwickeln",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Enemy Phase",
+    "de": "Gegnerphase",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Engage Action",
+    "de": "In einen Kampf verwickeln (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Enters Play",
+    "de": "Ins Spiel kommen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Evade, Evade Action",
+    "de": "Entkommen, Entkommen (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Event Cards",
+    "de": "Ereigniskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Exceptional",
+    "de": "Außergewöhnlich",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Exhaust, Exhausted",
+    "de": "Erschöpfen, erschöpft",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Exile",
+    "de": "Exil",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Experience",
+    "de": "Erfahrungspunkte",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Explore",
+    "de": "Erkunden",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Farthest from all investigators",
+    "de": "Am weitesten von allen Ermittlern entfernt",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Fast",
+    "de": "Schnell",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Fated",
+    "de": "Schicksalhaft",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Favor",
+    "de": "Gunst",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Fight Action",
+    "de": "Kampf (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Flavor Text",
+    "de": "Stimmungstext",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Flaw",
+    "de": "Makel",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Flood Tokens",
+    "de": "Flutmarker",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "For each or for every",
+    "de": "Für jedes",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Forced Abilities",
+    "de": "Erzwungene Fähigkeiten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Fortune",
+    "de": "Glück",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Gains",
+    "de": "Erhalten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Game",
+    "de": "Spiel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Group limit once per round",
+    "de": "Nur ein Mal pro Runde für die gesamte Gruppe.",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Hand Size",
+    "de": "Handkartenlimit",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Haunted",
+    "de": "Heimgesucht",
+    "status": "from_reference",
+    "source": "custom"
+  },
+  {
+    "en": "Hazard",
+    "de": "Gefahr",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Heal",
+    "de": "Heilen",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Health and Damage",
+    "de": "Ausdauer und Schaden",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Hex",
+    "de": "Verwünschung",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Hidden",
+    "de": "Verborgen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Humanoid",
+    "de": "Humanoid",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Hunter",
+    "de": "Jäger",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "If",
+    "de": "Falls",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Immune",
+    "de": "Immun",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "In Play and Out of Play",
+    "de": "Im Spiel/Nicht im Spiel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "In Player Order",
+    "de": "In Spielerreihenfolge",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Indoors",
+    "de": "Drinnen",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Insight",
+    "de": "Einsicht",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Instead",
+    "de": "Statt/anstatt",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Investigate Action",
+    "de": "Ermitteln (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Investigation Phase",
+    "de": "Ermittlungsphase",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Investigator Deck",
+    "de": "Ermittlerdeck",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Item",
+    "de": "Gegenstand",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Joe's Hunch Deck",
+    "de": "Joes „Spürnase-Deck“",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Keys (cardtype)",
+    "de": "Schlüssel (Kartentyp)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Keys (token)",
+    "de": "Schlüssel (Marker)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Keywords",
+    "de": "Schlüsselwörter",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Killed/Insane Investigators",
+    "de": "Getötete/Wahnsinnige Ermittler",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Lasting Effects",
+    "de": "Andauernde Effekte",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Lead Investigator",
+    "de": "Ermittlungsleiter",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Leaves Play",
+    "de": "Das Spiel verlassen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Limbo",
+    "de": "Limbus",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Limit once per turn",
+    "de": "Nur ein Mal pro Zug.",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Limits and Maximums",
+    "de": "Beschränkung und Maximum",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Location Cards",
+    "de": "Ortskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Lola and Roles",
+    "de": "Lola und die „Rollen“",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Lunatic",
+    "de": "Wahnsinniger",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Madness",
+    "de": "Wahnsinn",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Massive",
+    "de": "Gewaltig",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Max once per location",
+    "de": "Max. ein Mal pro Ort",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "May",
+    "de": "Dürfen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Melee",
+    "de": "Nahkampf",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Modifiers",
+    "de": "Modifikatoren",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Monster",
+    "de": "Monster",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Move",
+    "de": "Bewegen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Move Action",
+    "de": "Bewegen (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Mulligan",
+    "de": "Mulligan",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Multi-class Cards",
+    "de": "Multi-Klassen-Karten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Must",
+    "de": "Müssen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Myriad",
+    "de": "Unzählig",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Mystery",
+    "de": "Mysterium",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Mythos Phase",
+    "de": "Mythosphase",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Nearest",
+    "de": "Nächstgelegen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Nested Sequences",
+    "de": "Eingebettete Sequenzen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Nested Skill Tests",
+    "de": "Eingebettete Fertigkeitsproben",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Northside",
+    "de": "Nordviertel",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Objective",
+    "de": "Ermittlungsziel",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Obstacle",
+    "de": "Hindernis",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Ownership and Control",
+    "de": "Besitz und Kontrolle",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Paradox",
+    "de": "Paradox",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Parley",
+    "de": "Verhandlung",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Partner",
+    "de": "Partner",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Patrol",
+    "de": "Patrouille",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Per Investigator ([per_investigator])",
+    "de": "Pro Ermittler",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Peril",
+    "de": "Wagnis",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Permanent",
+    "de": "Dauerhaft",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Play",
+    "de": "Spielen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Play Action",
+    "de": "Spielen (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Play Restrictions, Permissions, and Instructions",
+    "de": "Spieleinschränkungen, Berechtigungen und Anweisungen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Poison",
+    "de": "Gift",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Power",
+    "de": "Macht",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Predator",
+    "de": "Räuber",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Prey",
+    "de": "Beute",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Printed",
+    "de": "Aufgedruckt",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Priority of Simultaneous Resolution",
+    "de": "Priorität bei gleichzeitiger Abhandlung",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Prologue Investigators",
+    "de": "Ermittler für den Prolog",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Put into Play",
+    "de": "Ins Spiel bringen",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Qualifiers",
+    "de": "Adjektive",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Reaction Opportunities",
+    "de": "Reaktions-Möglichkeiten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Ready",
+    "de": "Spielbereit",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Record in your Campaign Log...",
+    "de": "Im Kampagnenlogbuch wird notiert ...",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Relic",
+    "de": "Relikt",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Remember that...",
+    "de": "„Merke dir, dass ...“",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Removed from Game",
+    "de": "Aus dem Spiel entfernt",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Replacing an Opening Hand",
+    "de": "Starthand ersetzen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Researched",
+    "de": "Erforscht",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Resign",
+    "de": "Aufgeben",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Resource Action",
+    "de": "Ressourcen (Aktion)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Resources",
+    "de": "Ressourcen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Restricted",
+    "de": "Eingeschränkt",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Retaliate",
+    "de": "Zurückschlagen",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Revelation",
+    "de": "Enthüllung",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Row",
+    "de": "Reihe",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Royalty",
+    "de": "Adel",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Sanity and Horror",
+    "de": "Geistige Gesundheit und Horror",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Scheme",
+    "de": "Komplott",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Scholar",
+    "de": "Gelehrter",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Seal",
+    "de": "Versiegeln",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Search",
+    "de": "Suchen",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Self-Referential Text",
+    "de": "Selbstreferenzieller Text",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Serpent",
+    "de": "Schlange",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Set Aside",
+    "de": "Beiseitelegen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Shadow",
+    "de": "Schatten",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Signature Cards",
+    "de": "Signaturkarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Skill Cards",
+    "de": "Fertigkeitskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Skill Test Results and Advanced Timing",
+    "de": "Ergebnisse von Fertigkeitsproben und erweitertes Timing",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Skill Tests",
+    "de": "Fertigkeitsproben",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Slope",
+    "de": "Abhang",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Slots",
+    "de": "Slots",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Soldier",
+    "de": "Soldat",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Spawn",
+    "de": "Erscheinen",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Spell",
+    "de": "Zauber",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Spirit",
+    "de": "Geist",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Standalone Mode",
+    "de": "Einzelspielszenario",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Story Cards",
+    "de": "Handlungskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Suggested Location Placement",
+    "de": "Vorschlag für die Platzierung der Orte",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Supplies",
+    "de": "Vorräte",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Surge",
+    "de": "Nachrüsten",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Swarming X",
+    "de": "Ausschwärmen X",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Switch and Swap Abilities",
+    "de": "„Tauschen“- und „Austauschen“-Fähigkeiten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Table",
+    "de": "Tisch",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Taking Damage/Horror",
+    "de": "Schaden/Horror nehmen",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Talent",
+    "de": "Talent",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Target",
+    "de": "Ziel",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Tarot Slot",
+    "de": "Tarotslot",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Task",
+    "de": "Aufgabe",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Tekeli-li!",
+    "de": "Tekeli-li!",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Terror",
+    "de": "Schrecken",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "The letter X",
+    "de": "X (Buchstabe)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Then",
+    "de": "Dann",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Threat Area",
+    "de": "Bedrohungszone",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Tokens, Running out of",
+    "de": "Marker, keine mehr übrig",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Tome",
+    "de": "Buch",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Traits",
+    "de": "Merkmale",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Trauma",
+    "de": "Trauma",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Treachery Cards",
+    "de": "Verratskarten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Triggered Abilities",
+    "de": "Ausgelöste Fähigkeiten",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Triggering Condition",
+    "de": "Auslösebedingung",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Tulgey Wood",
+    "de": "Wirrwald",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Unique ([unique])",
+    "de": "Einzigartig (*)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Upkeep Phase",
+    "de": "Unterhaltsphase",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Uses (X type)",
+    "de": "Anwendungen (X „Art“)",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Vengeance X",
+    "de": "Vergeltung X",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Victory display",
+    "de": "Siegpunktestapel",
+    "status": "proposed",
+    "source": "custom"
+  },
+  {
+    "en": "Victory Display, Victory Points",
+    "de": "Siegpunkte, Siegpunktestapel",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Weakness",
+    "de": "Schwäche",
+    "status": "verified",
+    "source": "alice"
+  },
+  {
+    "en": "Weapon",
+    "de": "Waffe",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "Weather",
+    "de": "Wetter",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "When",
+    "de": "Sobald",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Wild Skill Icons",
+    "de": "Joker-Fertigkeitssymbol",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Winning and Losing",
+    "de": "Gewinnen und Verlieren",
+    "status": "verified",
+    "source": "reference"
+  },
+  {
+    "en": "Wonderland",
+    "de": "Wunderland",
+    "status": "proposed",
+    "source": "alice"
+  },
+  {
+    "en": "You/Your",
+    "de": "Du/Dein",
+    "status": "verified",
+    "source": "reference"
+  }
+]

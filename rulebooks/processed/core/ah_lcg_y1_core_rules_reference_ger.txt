@@ -1,0 +1,3120 @@
+REFERENZHANDBUCHREFERENZHANDBUCH
+
+Das Ding, das es nicht geben 
+sollte …
+Ich glaube, die größte Barmherzigkeit dieser Welt ist die Unfähigkeit 
+des menschlichen Verstandes, alles sinnvoll zueinander in Beziehung zu 
+setzen.  – H. P. Lovecraft, „Cthulhus Ruf “
+Dieses Dokument gilt als endgültige Instanz für Regelfragen, aber es ist nicht 
+dazu geeignet, das Spiel zu lernen. Die Spieler sollten zunächst die Spielregel 
+vollständig lesen und dieses Referenzhandbuch während des Spiels nur bei 
+Bedarf verwenden, falls Fragen aufkommen.
+Der Großteil dieses Heftes besteht aus einem Glossar, in dem Begriffe und 
+Situationen, auf die man während des Spiels stoßen könnte, alphabetisch 
+aufgeführt sind. Deshalb sollte bei Regelfragen zunächst im Glossarteil des 
+Heftes nachgesehen werden.
+Im letzten Teil befinden sich vier Anhänge. Der erste Anhang beschreibt 
+den Ablauf des Spielens von Karten und der Initiierung von ausgelösten 
+Fähigkeiten. Der zweite Anhang enthält Timing-Diagramme, welche die 
+Struktur einer Runde verdeutlichen und eine genaue Erklärung liefern, 
+wie die einzelnen Schritte in diesem Diagramm abgehandelt werden. Der 
+dritte Anhang enthält die vollständigen Regeln für die Vorbereitung einer 
+Partie Arkham Horror: Das Kartenspiel . Im vierten Anhang befinden sich 
+detaillierte Angaben zum Aufbau jedes Kartentyps.
+Die Goldenen Regeln
+Falls der Text dieses Referenzhandbuches im direkten Widerspruch zum 
+Text der Spielregel steht, hat der Text des Referenzhandbuches Vorrang.
+Falls der Text einer Karte im direkten Widerspruch zum Text des 
+Referenzhandbuches oder der Spielregel steht, gilt der Text der Karte.
+Die Galgenregel
+Falls die Spieler nicht in der Lage sind, mithilfe dieses Referenz  handbuches 
+eine Regel zu finden oder einen Timing-Konf likt zu lösen, wird der Konf likt 
+auf die für das Gewinnen des Szenarios ungünstigste Alternative aufgelöst. 
+Dann geht das Spiel weiter.
+Glossar
+Im folgenden Glossar-Teil werden alle Spielregeln, Begriffe und Situationen, 
+die während des Spiels auftreten können, in alphabetischer Reihen  folge 
+aufgeführt.
+Ablagestapel
+Immer wenn eine Karte abgelegt wird, wird sie offen auf den Ablage -
+stapel ihres Besitzers gelegt. Begegnungs  karten sind im Besitz des 
+Begegnungsdecks.
+ = Jeder Ablagestapel ist eine Zone, die nicht im Spiel ist.
+ = Jeder Ermittler hat seinen eigenen Ablagestapel und das Begegnungs -
+deck hat ebenfalls einen eigenen Ablagestapel.
+ = Jeder Ablagestapel ist eine offene Information und darf zu jedem 
+Zeitpunkt von jedem Spieler angesehen werden.
+ = Die Reihenfolge der Karten in einem Ablagestapel darf nicht 
+verändert werden, es sei denn, ein Spieler wird durch eine 
+Kartenfähigkeit angewiesen dies zu tun.
+ = Falls mehrere Karten gleichzeitig abgelegt werden, darf der Besitzer 
+dieser Karten sie eine nach der anderen in beliebiger Reihenfolge 
+oben auf seinen Ablagestapel legen. Falls mehrere Begegnungskarten 
+gleichzeitig abgelegt werden, werden sie in beliebiger Reihenfolge 
+(festgelegt durch den Ermittlungsleiter) oben auf den Begegnungs-
+Ablagestapel gelegt.
+ = Eine Fähigkeit, die einen Ablagestapel, der keine Karten enthält,  
+in ein Deck mischen würde, mischt das Deck nicht.
+Adjektive
+Falls ein Kartentext ein Adjektiv enthält, dem mehrere Begriffe folgen, 
+gilt das Adjektiv für jeden Begriff in der Liste. ( Beispiel: Im Satz „jeder 
+einzigartige Verbündete und Gegenstand“ ist „einzigartig“ ein Adjektiv, das sich 
+auf „Verbündeter“ und auf „Gegenstand“ bezieht.)
+Agendadeck
+Siehe „Szenendeck und Agendadeck“ auf Seite 20.
+Aktion
+Während seines Zuges darf ein Ermittler bis zu drei Aktionen nehmen. 
+Sobald eine Aktion durchgeführt wird, werden zunächst sämtliche Kosten 
+der Aktion gezahlt. Dann werden die Konsequenzen der Aktion abgehandelt. 
+ = Falls ein Ermittler die Anweisung erhält, dass er 1 oder mehr 
+Aktionen verliert, hat er in dieser Runde entsprechend weniger 
+Aktionen zur Verfügung.
+Eine vollständige Liste der zur Verfügung stehenden Aktionen befindet sich 
+unter Punkt „2.2.1 Der Ermittler nimmt eine Aktion, falls möglich.“  
+auf Seite 24. 
+Aktivieren (Aktion)
+„Aktivieren“ ist eine Aktion, die ein Ermittler in seinem Zug in der 
+Ermittlungsphase nehmen darf.
+Sobald diese Aktion genommen wird, initiiert der Ermittler eine Fähigkeit, 
+die eine oder mehrere 󲅹-Symbole als Teil der Kosten der Fähigkeit ent  hält. 
+Die Anzahl der 󲅹-Symbole in den Kosten der Fähigkeit legt fest, wie viele 
+Aktionen der Ermittler für diese Aktivieren-Aktion ausgeben muss. Sobald 
+eine Aktivieren-Aktion durchgeführt wird, werden zunächst sämtliche 
+Kosten der Aktion gleichzeitig bezahlt. Dann werden die Konsequenzen der 
+Aktion abgehandelt.
+Stopp!
+Lest zunächst die Spielregel. Sollten während des Spiels Fragen 
+auf kommen, kann das Glossar dieses Dokuments als Referenz 
+verwendet werden. Nach dem Einführungsspiel empfehlen wir die 
+Lektüre der Anhänge, die auf Seite 22 beginnen. 
+2
+REFERENZHANDBUCH
+
+Ein Ermittler darf Aktionen von folgenden Quellen aktivieren:
+ = Eine Karte, die sich im Spiel und unter seiner Kontrolle befindet. Dies 
+umfasst auch seine Ermittlerkarte.
+ = Eine Szenariokarte, die sich im Spiel und am selben Ort wie 
+der Ermittler befindet. Darunter fällt auch der Ort selbst, 
+Begegnungskarten, die an diesen Ort platziert worden sind, und alle 
+Begegnungskarten in der Bedrohungszone jedes Ermittlers, der sich 
+an diesem Ort befindet.
+ = Die aktuelle Szenen- oder Agendakarte.
+Aktiver Spieler
+Der aktive Spieler ist der Spieler, der gerade während der Ermittlungsphase 
+seinen Zug nimmt.
+Andauernde Effekte
+Einige Karten erzeugen Zustände, die den Spielstatus für einen bestimmten 
+Zeitraum beeinf lussen ( wie zum Beispiel „bis zum Ende der Phase“ oder „für 
+diese Fertigkeitsprobe“ ). Solche Effekte nennt man andauernde Effekte.
+ = Ein andauernder Effekt besteht über die Abhandlung der Fähigkeit, 
+die ihn erschaffen hat, hinaus. Er wirkt für die Dauer, die durch 
+den Effekt angegeben ist. Der Effekt beeinf lusst den Spielstatus 
+für die angegebene Dauer unabhängig davon, ob die Karte, die den 
+andauernden Effekt erschaffen hat, im Spiel ist oder bleibt.
+ = Falls ein andauernder Effekt Karten beeinf lusst, die sich im 
+Spiel (oder in einer bestimmten Zone) befinden, wird er nur auf 
+Karten angewendet, die sich zu dem Zeitpunkt im Spiel (oder in 
+der bestimmten Zone befinden), sobald der andauernde Effekt in 
+Erscheinung tritt. Karten, die ins Spiel (oder in die angegebene Zone) 
+kommen, nachdem der Effekt in Erscheinung getreten ist, sind von 
+dem andauernden Effekt nicht betroffen.
+ = Ein andauernder Effekt hört auf zu wirken, sobald die Timing-  
+Vorgabe erreicht ist, die durch seine Dauer angegeben wurde.  
+Dies bedeutet, dass ein andauernder Effekt, der „bis zum Ende 
+der Phase“ wirkt, auf hört zu wirken, ehe eine Fähigkeit oder ein 
+aufgeschobener Effekt „am Ende der Phase“ initiiert werden kann.
+ = Ein andauernder Effekt, der am Ende eines bestimmten Zeitraums 
+auf hört zu wirken, kann nur während dieses Zeitraums initiiert 
+werden.
+Angreifer, angegriffen
+Ein „Angreifer“ ist eine Entität (normalerweise ein Gegner oder Ermittler), 
+die ihren Angriff gegen eine andere Entität ausführt. Die angegriffene Entität 
+nennt man den „angegriffenen Gegner“ oder „angegriffenen Ermittler“.
+Anhängen an
+Falls eine Karte den Begriff „hänge diese Karte ... an“ verwendet, muss sie 
+an das angegebene Spielelement angehängt werden, sobald sie ins Spiel 
+kommt (sie wird teilweise überlappend darunter platziert). Sobald eine Karte 
+angehängt ist, wird sie als Verstärkung bezeichnet.
+ = Der Begriff „anhängen an“ wird immer auf Zulässigkeit des Ziels 
+überprüft, sobald eine Karte an ein Spielelement angehängt wird, 
+aber nach dem Anhängen wird diese nicht erneut überprüft. Falls 
+die ursprüngliche Überprüfung beim Anhängen ungültig ist, ist die 
+Karte nicht in der Lage, angehängt zu werden, und bleibt in ihrem 
+vorherigen Status oder ihrer vorherigen Spielzone. Falls eine solche 
+Karte nicht in ihrem vorherigen Spielstatus oder ihrer vorherigen 
+Spielzone bleiben kann, wird sie abgelegt.
+ = Ist eine Verstärkung einmal im Spiel, bleibt sie angehängt, bis 
+entweder die Verstärkung oder das Spielelement, an das sie angehängt 
+ist, das Spiel verlässt (die Verstärkung wird in diesem Fall abgelegt), 
+oder bis eine Kartenfähigkeit die Karte ausdrücklich löst.
+ = Eine Verstärkung wird unabhängig von dem Spielelement, an das sie 
+angehängt ist, erschöpft oder spielbereit gemacht.
+Anhaltende Fähigkeiten
+Siehe „Fähigkeiten“ auf Seite 10.
+Anwendungen (X „Art“)
+Anwendungen ist eine Schlüsselwortfähigkeit.
+Sobald eine Karte mit diesem Schlüsselwort ins Spiel kommt, werden 
+Ressourcenmarker in Höhe des X-Wertes aus dem Markervorrat auf diese 
+Karte platziert. Das Wort nach dem Wert legt die Art der Anwendungen 
+dieser Karte fest. Die Ressourcenmarker auf der Karte gelten als 
+Anwendungen dieser festgelegten Art und nicht als Ressourcenmarker.
+ = Jede Karte mit diesem Schlüsselwort hat außerdem eine Fähigkeit, die 
+sich als Teil ihrer Kosten auf die Anwendungs-Art bezieht, die durch 
+das Schlüsselwort festgelegt worden ist. Sobald eine solche Fähigkeit 
+eine Anwendung ausgibt, muss ein Marker dieser Art von der Karte 
+entfernt werden, welche die Fähigkeit hat.
+ = Andere Karten können sich auf Anwendungen einer bestimmten 
+Art beziehen oder mit ihnen interagieren, normalerweise dadurch, 
+dass sie Anwendungen dieser Art zu einer Karte hinzufügen oder die 
+Anwendungen für andere Zwecke verwenden.
+ = Eine Karte kann keine Anwendungen einer anderen Art haben als 
+die, die durch ihr eigenes „Anwendungen (X Art)“-Schlüsselwort 
+festgelegt worden sind. ( Beispiel: Eine Karte mit „Anwendungen 
+(4 Munition)“ kann keine Ladungen erhalten. )
+ = Einige Karten mit diesem Schlüsselwort enthalten Text, der bewirkt, 
+dass die Karte abgelegt wird, falls sie keine Anwendungen mehr übrig 
+hat. Falls die Karte keinen solchen Text enthält, bleibt sie auch im 
+Spiel, falls sie keine Anwendungen mehr hat.
+Aufgeben
+Einige Fähigkeiten haben das Aktionskennzeichen Aufgeben . Solche 
+Fähigkeiten können durch die Aktivieren-Aktion initiiert werden  
+(siehe „Aktivieren (Aktion)“ auf Seite 2).
+ = Sobald ein Ermittler aufgibt, scheidet dieser Ermittler dadurch aus 
+dem Spiel aus (siehe „Ausscheiden“ auf Seite 4). Ein Ermittler, der 
+aufgibt, gilt nicht als besiegt.
+Aufgedruckt
+Das Wort „aufgedruckt“ bezieht sich auf Texte, Eigenschaften, Symbole oder 
+Werte, die auf der Karte aufgedruckt sind.
+Aufgeschobene Effekte
+Einige Fähigkeiten erzeugen aufgeschobene Effekte. Solche Fähigkeiten 
+geben einen zukünftigen Zeitpunkt oder eine Bedingung an, die in der 
+Zukunft auftreten kann, und bestimmen einen Effekt, der dann eintritt.
+ = Jeder aufgeschobene Effekt wird automatisch und sofort initiiert (wie 
+eine erzwungene Fähigkeit), falls seine zukünftige Timing-Vorgabe 
+oder die zukünftige Bedingung eintritt.
+ = Ein aufgeschobener Effekt wirkt sich auf alle angegebenen Elemente 
+aus, die sich in der angegebenen Spielzone befinden und zum 
+Zeitpunkt, an dem der aufgeschobene Effekt abgehandelt wird, gültig 
+sind.
+3
+REFERENZHANDBUCH
+
+Aufheben
+Einige Kartenfähigkeiten können andere Karteneffekte oder Spieleffekte 
+„aufheben“. Aufheben-Fähigkeiten unterbrechen die Initiierung eines 
+Effektes und verhindern, dass der Effekt initiiert wird.
+ = Jedes Mal wenn man die Effekte einer Fähigkeit auf hebt, gilt diese 
+Fähigkeit immer noch als initiiert (mit Ausnahme ihrer Effekte) und 
+ihre Kosten sind immer noch bezahlt. Das Initiieren der Effekte der 
+Fähigkeit wird allerdings verhindert und man handelt die Effekte nicht 
+ab.
+ = Falls die Effekte einer Ereigniskarte aufgehoben werden, gilt die 
+Karte immer noch als gespielt und die Karte wird weiterhin auf den 
+Ablagestapel ihres Besitzers gelegt.
+ = Falls die Effekte einer Verratskarte aufgehoben werden, gilt die 
+Karte immer noch als gezogen und die Karte wird weiterhin auf den 
+Begegnungs-Ablagestapel gelegt.
+Aus dem Spiel entfernt
+Eine Karte, die aus dem Spiel entfernt worden ist, wird weggelegt und 
+interagiert nicht mehr mit dem Spiel, solange sie aus dem Spiel entfernt ist. 
+Falls keine Dauer angegeben ist, gilt eine aus dem Spiel entfernte Karte bis 
+zum Ende des Spiels als aus dem Spiel entfernt.
+Ausdauer und Schaden
+Ausdauer steht für die körperliche Widerstandskraft einer Karte. Schaden 
+zeigt die körperlichen Verletzungen an, die einer Karte in einem Szenario 
+zugefügt worden sind.
+ = Immer wenn eine Karte Schaden nimmt, platziert man 
+Schadensmarker in Höhe der gerade genommenen Schadensmenge 
+auf die Karte (siehe „Schaden/Horror zufügen“ auf Seite 17).
+ = Falls ein Ermittler Schaden in Höhe seiner Ausdauer (oder höher) hat, 
+ist dieser Ermittler besiegt. Sobald ein Ermittler besiegt ist, scheidet 
+er aus dem Szenario aus (siehe „Ausscheiden“ auf Seite 4).
+ = Im Kampagnenspiel erleidet ein Ermittler, der dadurch besiegt 
+wurde, dass er Schaden in Höhe seiner Ausdauer genommen hat, 
+1 körperliches Trauma. Körperliche Traumata zu nehmen kann einen 
+Ermittler töten (siehe „Kampagnenspiel“ auf Seite 14).
+ = Falls ein Gegner Schaden in Höhe seiner Ausdauer (oder höher) hat, 
+ist dieser Gegner besiegt und wird auf den Begegnungs-  Ablage  stapel 
+gelegt.
+ = Falls eine Vorteilskarte Schaden in Höhe ihrer Ausdauer (oder höher) 
+hat, ist sie besiegt und wird auf den Ablagestapel ihres Besitzers gelegt.
+ = Eine Vorteilskarte ohne Ausdauer gilt nicht als eine Karte mit einer 
+Ausdauer von 0, kann keine Ausdauer erhalten und ihr kann kein 
+Schaden zugewiesen werden.
+ = Die „verbliebene Ausdauer“ einer Karte ist ihre Grund-Ausdauer 
+abzüglich der Menge Schaden darauf, plus oder minus aktiver 
+Ausdauermodifikatoren.
+Siehe auch: „Direkter Schaden, Direkter Horror“ auf Seite 7.
+Ausgelöste Fähigkeiten
+Eine ausgelöste Fähigkeit ist eine Fähigkeit, die optional von einem Spieler 
+ausgelöst wird. Eine ausgelöste Fähigkeit erkennt man an einem der 
+folgenden Symbole: 
+ = Das 󲅹-Symbol zeigt eine aktionsausgelöste Fähigkeit an, die eine  
+ Aktion kostet.
+ = Das 󲅺-Symbol zeigt eine freie ausgelöste Fähigkeit an, die keine 
+Aktion zum Auslösen kostet und in jedem Spielerfenster verwendet 
+werden kann.
+ = Das 󲆍-Symbol zeigt eine reaktionsausgelöste Fähigkeit an, die keine 
+Aktion zum Auslösen kostet und jederzeit verwendet werden kann, 
+wenn ihre Auslösebedingung erfüllt ist.
+Siehe auch: „Fähigkeiten“ auf Seite 10, „ Anhang I: Abfolge einer Initiierung“  
+auf Seite 22.
+Auslösebedingung
+Eine Auslösebedingung gibt den Zeitpunkt an, an dem eine Fähigkeit 
+ausgelöst werden darf. Die meisten Auslösebedingungen verwenden 
+die Worte „sobald“ oder „nachdem“, um ihre Beziehung zum speziellen 
+Zeitpunkt zu beschreiben.
+ = Jede gültige Fähigkeit, die in Verbindung mit einem bestimmten 
+Zeitpunkt ausgelöst wird, darf ein Mal ausgelöst werden, wenn der 
+Zeitpunkt eintritt. 
+ = Falls mehrere Instanzen derselben Fähigkeit gültig initiiert werden 
+können, darf jede Instanz ein Mal verwendet werden.
+Siehe auch: „Fähigkeiten“ auf Seite 10, „Nachdem“ auf Seite 16, „Sobald“ auf 
+Seite 19.
+Ausscheiden
+Ein Spieler scheidet aus einem Szenario aus, sobald sein Ermittler besiegt 
+worden ist oder er aufgibt. Ausgeschiedene Ermittler interagieren nicht 
+mehr mit dem Spiel, außer wenn Werte „pro Ermittler“ berechnet werden 
+(siehe Seite 17). Immer wenn ein Spieler aus dem Spiel ausscheidet, geschieht 
+Folgendes:
+0. In Bezug auf Schwächekarten ist das Spiel für den ausgeschiedenen 
+Ermittler beendet. Alle„Sobald das Spiel endet“-Fähigkeiten auf jeder 
+Schwäche, die der ausgeschiedene Ermittler besitzt und die im Spiel ist, 
+werden ausgelöst. Dann werden jene Schwächen aus dem Spiel entfernt.
+1. Karten im Spiel, die der Spieler kontrolliert, und alle Karten in seinen 
+Zonen außerhalb des Spiels (wie zum Beispiel Handkarten, Deck, 
+Ablagestapel) werden aus dem Spiel entfernt. 
+ = Karten im Spiel, die diesem Spieler gehören, die er aber nicht 
+kontrolliert, bleiben im Spiel, aber sobald diese Karten das Spiel 
+verlassen, werden sie aus dem Spiel entfernt.
+2. Alle Hinweismarker, die dieser Spieler besitzt, werden auf den Ort 
+platziert, an dem sich der Ermittler befunden hat, als er ausgeschieden 
+ist, und alle Ressourcenmarker dieses Spielers werden zurück in den 
+Markervorrat gelegt. 
+3. Alle Gegner, die mit diesem Spieler in einen Kampf verwickelt sind, 
+werden an den Ort platziert, an dem der Ermittler war, als er aus dem 
+Spiel ausgeschieden ist. Sie sind in keinen Kampf verwickelt, behalten 
+aber ansonsten ihren aktuellen Spielstatus.
+4. Alle anderen Karten in der Bedrohungszone des ausgeschiedenen 
+Ermittlers werden auf den entsprechenden Ablagestapel gelegt.
+5. Falls der Ermittlungsleiter das Spiel verlässt, wählen die verbliebenen 
+Spieler (falls vorhanden) einen neuen Ermittlungsleiter.
+6. Falls es keine verbliebenen Spieler mehr gibt, endet das Szenario. Im 
+Kampagnen  leitfaden wird im Eintrag „Falls keine Auf lösung erreicht 
+wurde“ für das Szenario nachgelesen, was weiter geschieht.
+Außergewöhnlich
+Außergewöhnlich ist eine Schlüsselwortfähigkeit für den Deckbau.
+ = Um eine Karte mit dem Schlüsselwort Außergewöhnlich zu  
+kaufen, muss man das Doppelte ihrer aufgedruckten Erfahrungs -
+punkte bezahlen.
+ = Ein Ermittlerdeck eines Spielers kann nicht mehr als 1 Kopie (nach 
+Name) einer Karte mit Außergewöhnlich enthalten.
+4
+REFERENZHANDBUCH
+
+Automatischer Erfolg/Misserfolg
+Einige Karten- und Markerfähigkeiten können dafür sorgen, dass 
+eine Fertig  keitsprobe automatisch gelingt oder misslingt. Falls eine 
+Fertigkeitsprobe automatisch gelingt oder misslingt, geschieht dies in Schritt 
+„FP. 6“ des Timings von Fertigkeitsproben, wie auf Seite 26 beschrieben.
+ = Falls eine Fertigkeitsprobe automatisch misslingt, wird der  
+Gesamt-Fertigkeitswert des Ermittlers für diese Probe als 0  
+behandelt. 
+ = Falls eine Fertig  keits  probe automatisch gelingt, wird die 
+Gesamtschwierigkeit dieser Probe als 0 behandelt.
+Bedrohungszone
+Die Bedrohungszone eines Ermittlers ist die Spielzone, in die Begegnungs -
+karten platziert werden, mit denen der Ermittler aktuell in einen Kampf 
+verwickelt ist und/oder die Auswirkungen auf diesen Ermittler haben.
+ = Die Karten in der Bedrohungszone eines Ermittlers befinden sich am 
+selben Ort wie der Ermittler.
+Begegnungsdeck
+Das Begegnungsdeck enthält die Begegnungskarten (Gegner-, Verrats- und 
+Storyvorteilskarten), auf welche die Ermittler in einem Szenario treffen 
+können.
+ = Falls das Begegnungsdeck leer ist, wird der Begegnungs-Ablage  stapel 
+zurück in das Begegnungsdeck gemischt.
+Begegnungsset
+Ein Begegnungsset ist eine Gruppe von Begegnungskarten, erkennbar an 
+dem gemeinsamen Begegungssetsymbol neben dem Kartentyp.
+Beiseitelegen
+Einige Szenarien weisen die Spieler an bestimmte Karten beiseitezulegen. 
+Beiseitegelegte Karten interagieren nicht mit dem Spiel, bis sich 
+Anweisungen des Szenarios oder einer Kartenfähigkeit auf sie beziehen.
+Beschränkung und Maximum
+„Nur X pro [Zeitraum]“  ist eine Beschränkung, die auf Karten zu finden 
+ist, die nach der Abhandlung eines Fähigkeit-Effektes im Spiel bleiben. Jede 
+Instanz einer Fähigkeit mit einer solchen Beschränkung darf während des 
+angegebenen Zeitraums X Mal initiiert werden. Falls eine Karte das Spiel 
+verlässt und während desselben Zeitraums erneut ins Spiel kommt, wird 
+die Karte behandelt, als würde sie eine neue Instanz der Fähigkeit ins Spiel 
+bringen.
+„Nur X pro [Karte/Spielelement]“  ist eine Beschränkung auf Verstärkungs -
+karten und beschränkt die Anzahl der Kopien dieser Karte (nach Name), 
+die an jede festgelegte Karte oder jedes festgelegte Spielelement angehängt 
+werden können.
+ = Falls nicht anders angegeben, gelten diese Beschränkungen für jeden 
+Spieler individuell. 
+ = Eine „Gruppenbeschränkung“ dagegen wird auf die gesamte 
+Ermittler-Gruppe angewendet. ( Falls zum Beispiel ein Ermittler eine 
+Fähigkeit auslöst, die die Beschränkung „Gruppenlimit nur ein Mal pro 
+Spiel“ hat, darf kein weiterer Ermittler während des Spiels diese Fähigkeit 
+auslösen. ) 
+„Max. X pro [Dauer]“ legt eine Maximalzahl für alle Kopien einer Karte 
+(nach Namen) für alle Spieler fest. Normalerweise gibt dieser Begriff an, 
+wie oft im angegebenen Zeitraum eine Kopie dieser Karte maximal gespielt 
+werden darf. Falls ein Maximum das Wort „beitragen“ enthält (Beispiel: 
+„Max. 1 pro Fertigkeitsprobe beitragen“),  legt es fest, wie viele Kopien dieser 
+Karte im angegebenen Zeitraum zu Fertigkeitsproben beigetragen werden 
+dürfen. Falls ein Maximum als Teil einer Fähigkeit angegeben ist, gibt es 
+an, wie oft die Fähigkeit von allen Kopien der Karte (nach Name), die diese 
+Fähigkeit haben (einschließlich der Karte selbst), im angegebenen Zeitraum 
+maximal initiiert werden kann.
+Falls der Effekt einer Karte oder Fähigkeit mit einer Beschränkung oder  
+einem Maximum aufgehoben wird, zählt er im Hinblick auf die 
+Beschränkung/das Maximum immer noch mit, da die Fähigkeit initiiert 
+wurde. 
+Besiegt
+Ein Ermittler, Gegner oder eine Vorteilskarte kann durch das Nehmen von 
+Schaden/Horror besiegt werden.
+ = Falls ein Ermittler Schaden in Höhe seiner Ausdauer (oder höher) 
+hat, ist dieser Ermittler besiegt (dasselbe gilt für Horror in Höhe 
+seiner geistigen Gesundheit). Ein Ermittler kann auch durch eine 
+Kartenfähigkeit besiegt werden. Sobald ein Ermittler besiegt ist, 
+scheidet er aus dem Szenario aus (siehe „Ausscheiden“ auf Seite 4). 
+ = Im Kampagnenspiel erleidet ein Ermittler, der durch Schaden in 
+Höhe seiner Ausdauer besiegt worden ist, 1 körperliches Trauma. 
+Ein Ermittler, der durch Horror in Höhe seiner geistigen Gesundheit 
+besiegt worden ist, erleidet 1 seelisches Trauma. Durch das  
+Erleiden eines Traumas kann ein Ermittler getötet oder wahn  sinnig 
+werden (siehe „Kampagnenspiel“ auf Seite 14).
+ = Falls ein Gegner Schaden in Höhe seiner Ausdauer (oder höher) 
+hat, ist dieser Gegner besiegt und wird auf den Begegnungs-Ablage -
+stapel gelegt (oder auf den Ablagestapel ihres Besitzers, falls es eine 
+Schwäche ist).
+ = Falls eine Vorteilskarte mit einem Ausdauerwert Schaden in 
+Höhe ihrer Ausdauer (oder höher) hat, ist sie besiegt. Falls eine 
+Vorteilskarte mit einem Wert für geistige Gesundheit Horror in 
+Höhe ihrer geistigen Gesundheit (oder höher) hat, ist sie besiegt. 
+Eine besiegte Vorteilskarte wird auf den Ablagestapel ihres Besitzers 
+gelegt.
+Besitz und Kontrolle
+Der Besitzer einer Karte ist der Spieler, in dessen Deck (oder Spielzone) sich 
+die Karte zu Beginn des Spiels befunden hat.
+Ein Spieler kontrolliert Karten, die sich in seinen Zonen außerhalb des Spiels 
+befinden (wie Handkarten, Deck, Ablagestapel).
+Das Szenario kontrolliert die Karten in den Zonen außerhalb des Spiels (wie 
+Begegnungs-, Szenen- und Agendadeck und den Begegnungs-  Ablage stapel).
+ = Normalerweise kommen Karten unter der Kontrolle ihres Besitzers 
+ins Spiel. Einige Fähigkeiten können dafür sorgen, dass die Kon  trolle 
+über eine Karte im Verlauf des Spiels wechselt.
+ = Falls eine Karte in eine Zone außerhalb des Spiels kommen würde, 
+die nicht dem Besitzer der Karte gehört, wird die Karte stattdessen 
+in die entsprechende Nicht-Im-Spiel-Zone ihres Besitzers platziert. 
+Die Karte wird behandelt, als hätte sie die Nicht-Im-Spiel-Zone des 
+Spielers, der sie kontrolliert, betreten, und nur die Stelle, an welche 
+die Karte tatsächlich platziert wird, wird angepasst.
+Beute
+Wenn sie die Möglichkeit haben, verfolgen einige Gegner einen bestimmten 
+Ermittler. Diese Gegner kann man an dem fettgedruckten Wort „Beute“ in 
+ihrem Textfeld erkennen, gefolgt von Anweisungen, welchen Ermittler sie in 
+einen Kampf verwickeln sollen.
+5
+REFERENZHANDBUCH
+
+ = Falls ein Gegner, der einen Ermittler an seinem Ort automatisch in 
+einen Kampf verwickeln soll, mehrere Möglichkeiten hat, verwickelt 
+der Gegner den Ermittler in einen Kampf, der seine Beute-Anweisung 
+am besten erfüllt (falls es einen Gleichstand bei der Erfüllung dieser 
+Anweisung gibt, darf der Ermittlungsleiter zwischen den Ermittlern 
+wählen.) (Siehe „Gegner in einen Kampf verwickeln “ auf Seite 11.)
+ = Falls ein Gegner, der sich auf den nächstgelegenen Ermittler zubewegt, 
+die Wahl zwischen zwei gleich weit entfernten Ermittlern hat, muss 
+sich dieser Gegner zwischen ihnen für den Ermittler entscheiden, der 
+seine „Beute“-Anweisung am besten erfüllt. (Falls mehrere Ermittler 
+die Beutekriterien erfüllen, entscheidet der Ermittlungsleiter zwischen 
+diesen Ermittlern. Siehe „Jäger“ auf Seite 14.)
+ = Falls die Beuteanweisung eines Gegners das Wort „nur“ enthält, bewegt 
+sich dieser Gegner nur auf diesen Ermittler zu und verwickelt auch nur 
+ihn in einen Kampf (als ob er der einzige Ermittler im Spiel wäre), und 
+ignoriert alle anderen Ermittler bei der Bewegung und dem Verwickeln 
+in einen Kampf. Andere Ermittler dürfen die Aktion „In einen Kampf 
+verwickeln“ oder eine Kartenfähigkeit verwenden, um diesen Gegner in 
+einen Kampf zu verwickeln.
+ = Beute hat keinen unmittelbaren Effekt darauf, wo ein Gegner erscheinen 
+wird (siehe „Erscheinen“ auf Seite 9).
+Bewegen
+Immer wenn sich eine Entität (ein Ermittler oder Gegner) bewegt, wird die 
+Gegnerkarte oder die kleine Ermittlerkarte vom aktuellen Ort auf einen anderen 
+Ort verschoben.
+ = Falls durch den Bewegungseffekt oder die Fähigkeit nicht anders 
+angegeben, muss die sich bewegende Einheit auf einen verbundenen Ort 
+bewegt werden. Welche Orte verbunden sind, kann man auf der aktuellen 
+Ortskarte der Entität erkennen (siehe unten).
+ = Immer wenn sich eine Entität bewegt, wird sie behandelt, als würde sie 
+den aktuellen Ort verlassen und gleichzeitig den neuen Ort betreten. 
+ = Falls eine Entität zu einem angegebenen Ort „bewegt wird“, wird diese 
+Entität direkt auf diesen Ort bewegt und bewegt sich nicht auf dem Weg 
+dorthin durch andere Orte.
+ = Falls sich ein Ermittler an einen verhüllten Ort bewegt, wird dieser 
+Ort enthüllt, indem er auf die andere Seite gedreht wird, und es wer den 
+Hinweise entsprechend des Hinweiswertes des Ortes auf ihn platziert.  
+Die meisten Hinweiswerte sind Werte „pro Ermittler“ (󲆃).
+ = Falls sich ein Gegner auf einen verhüllten Ort bewegt, bleibt dieser Ort 
+verhüllt.
+ = Spielelemente (Marker oder Karten) können ebenfalls durch Karten-
+fähigkeiten von einer Karte auf eine andere Karte oder von einer 
+Spielzone in eine andere Spielzone bewegt werden.
+ = Sobald sich eine Entität oder ein Spielelement bewegt, kann es sich nicht 
+zu seinem gleichen (d. h. seinem aktuellen) Standort bewegen. Falls 
+es kein legales Ziel für eine Bewegung gibt, kann die Bewe gung nicht 
+versucht werden.
+© 2016 FFGIllus. Andreas Rocha 12910/20
+ORT
+Der Campus ist still und verlassen. Ein T eil der  
+Gebäude ist nicht verschlossen, weil einige Studenten  
+und Lehrkräfte bis tief in die Nacht arbeiten.
+Sieg 1.
+󲅹󲅹: Durchsuche die obersten 6 Karten deines 
+Decks nach einer Buch- oder Zauber-Karte und 
+füge sie deiner Hand hinzu. Mische dein Deck.
+Miskatonic Universität
+Arkham.
+2244
+© 2016 FFGIllus. Ed Mattinian 1256/20
+ORT
+Arkham. Zentral.
+Irgendwie erscheint das Wasser des Miskatonic  
+heute Nacht seltsam. Es plätschert und blubbert,  
+als ob sich etwas unter seiner Oberfläche bewegen würde.
+Hafenviertel
+11 11
+Ein Ermittler darf  
+vom Hafenviertel zur  
+Miskatonic Universität 
+reisen.
+Bewegen (Aktion)
+„Bewegen“ ist eine Aktion, die ein Ermittler in seinem Zug in der 
+Ermittlungsphase nehmen darf.
+Sobald ein Ermittler diese Aktion nimmt, wird dieser Ermittler (die kleine 
+Ermittlerkarte) auf einen anderen Ort bewegt. Der neue Ort muss mit einer 
+Markierung versehen sein, die anzeigt, dass der neue Ort mit dem aktuellen 
+Ort des Ermittlers verbunden ist (siehe „Bewegen“ auf Seite 6).
+Chaosmarker
+Aus dem Chaosbeutel werden während Fertigkeitsproben Chaosmarker 
+enthüllt, um die Ergebnisse der Fertigkeitsproben zu modifizieren oder zu 
+beeinf lussen. 
+󲅻 󲅼 󲅾 󲆀: Falls einer dieser Marker für eine Fertigkeitsprobe enthüllt wird, 
+handelt man den Effekt des entsprechenden Symbols auf der Szenario -
+übersichtskarte des aktuellen Szenarios ab. 
+󲅽: Dieser Marker bedeutet, dass die Probe automatisch misslingt. Falls 
+dieser Marker in einer Fertigkeitsprobe enthüllt wird, bedeutet dies, dass 
+dem Ermittler die Probe automatisch misslingt (siehe „Automatischer 
+Erfolg/Misserfolg“ auf Seite 5).
+󲅿: Dies ist der Ältere-Zeichen-Marker. Falls dieser Marker bei einer 
+Fertigkeitsprobe enthüllt wird, wird der 󲅿-Effekt auf der Ermittlerkarte des 
+Spielers abgehandelt, der die Fertigkeitsprobe durchführt.
+Falls der enthüllte Chaosmarker (oder der Effekt, auf den sich dieser Chaos -
+marker bezieht) einen numerischen Modifikator hat, wird dieser Modifikator 
+auf den Fertigkeitswert des Ermittlers für diese Probe angewendet.
+Siehe „FP.3 Chaosmarker enthüllen“ auf Seite 26.
+Dann
+Falls der Effekt einer Fähigkeit das Wort „dann“ enthält, muss der Text vor 
+dem Wort „dann“ erfolgreich und vollständig abgehandelt werden, bevor der 
+Rest des Effektes nach dem Wort „dann“ abgehandelt werden kann.
+ = Falls der Teil eines Effektes vor dem „dann“ erfolgreich und voll -
+ständig abgehandelt wird, muss der Teil des Effektes nach dem „dann“ 
+ebenfalls abgehandelt werden.
+ = Der Teil des Effektes nach dem „dann“ hat Timing-Vorrang vor allen 
+anderen indirekten Konsequenzen der Abhandlung des Teils vor dem 
+„dann“. (Beispiel: Falls ein Effekt lautet: „Ziehe eine Begegnungskarte. 
+Dann nimmst du 1 Horror“ und ein Spieler eine Fähigkeit mit dem Text 
+„Nachdem du eine Begegnungskarte gezogen hast“ kon  trolliert, tritt 
+der Teil „Dann nimmst du 1 Horror“ ein, bevor die „Nachdem du eine 
+Begegnungskarte gezogen hast“ -Fähigkeit initiiert werden kann.)
+ = Falls der Teil eines Effektes vor dem „dann“ nicht erfolgreich und 
+vollständig abgehandelt wird, wird der Teil des Effektes nach dem 
+„dann“ nicht abgehandelt.
+Das Spiel verlassen
+Der Begriff „das Spiel verlassen“ bezieht sich auf jeden Zeitpunkt, an dem 
+eine Karte vom „im Spiel“-Status in den „nicht im Spiel“-Status übergeht 
+(siehe „Im Spiel/Nicht im Spiel“ auf Seite 13).
+Falls eine Karte das Spiel verlässt, treten folgende Konsequenzen gleich  zeitig 
+in dem Moment ein, in dem die Karte das Spiel verlässt.
+ = Alle Marker auf der Karte werden zurück in den Markervorrat gelegt.
+ = Alle Verstärkungen an der Karte werden abgelegt.
+ = Andauernde und/oder aufgeschobene Effekte, die diese Karte 
+betroffen haben, solange sie im Spiel war, hören für diese Karte  
+auf zu wirken.
+6
+REFERENZHANDBUCH
+
+Dauerhaft
+Dauerhaft ist eine Schlüsselwortfähigkeit für den Deckbau.
+ = Eine Karte mit dem Schlüsselwort Dauerhaft zählt nicht gegen die 
+Deckgröße.
+ = Eine Karte mit dem Schlüsselwort Dauerhaft zählt aber weiterhin als 
+Teil des Decks und muss deswegen alle anderen Einschränkungen 
+beim Deckbau beachten.
+ = Eine Karte mit dem Schlüsselwort Dauerhaft ist zu Beginn jedes 
+Spiels im Spiel und wird während der Vorbereitung nicht in das 
+Ermittlerdeck gemischt.
+ = Eine Karte mit dem Schlüsselwort Dauerhaft kann durch nichts das 
+Spiel verlassen (außer durch Ausscheiden).
+Deckbau
+Beim Bau eines eigenen Decks müssen folgende Richtlinien beachtet werden:
+ = Der Spieler muss genau 1 Ermittlerkarte wählen.
+ = Das Ermittlerdeck eines Spielers muss exakt so viele Spielerkarten 
+enthalten, wie auf der Rückseite der Ermittlerkarte als „Deck -
+größe“ angegeben ist. Schwächen, ermittlerspezifische Karten und 
+Szenariokarten, die einem Spielerdeck hinzugefügt werden, zählen 
+dabei nicht mit.
+ =  Ein Ermittlerdeck eines Spielers darf nicht mehr als 2 Kopien (nach 
+Name) einer Spielerkarte enthalten.
+ = Jede normale Spielerkarte im Deck eines Spielers muss unter 
+Beachtung der „Deckbauoptionen“ auf der Rückseite seiner Ermittler -
+karte ausgesucht werden.
+ = Die meisten Ermittler haben zu Beginn einer Kampagne 
+0 Erfahrungspunkte, die sie ausgeben können, was bedeutet, dass 
+ihre Decks nur Karten der Stufe 0 enthalten dürfen. Einige Ermittler 
+und/oder einige Kampagnen können einem Spieler zu Beginn der 
+Kampagne zusätzliche Erfahrungspunkte gewähren, die sofort 
+zum Kauf höherstufiger Karten verwendet werden können (siehe 
+„Kampagnenspiel“ auf Seite 14).
+ = Alle anderen „Deckbau-Voraussetzungen“ auf der Rückseite der 
+Ermittlerkarte eines Spielers müssen ebenfalls eingehalten werden.
+ = Jede geforderte zufällige Grundschwäche wird dem Deck am Ende 
+des Deckbaus hinzugefügt. 
+ = Storyvorteile dürfen nicht zu Spielerdecks hinzugefügt werden, es sei 
+denn, die Vorbereitung oder die Auf lösung eines Szenarios erlaubt 
+dies dem Spieler. Diese Vorteilskarten sind daran zu erkennen, dass 
+sie keine Kartenstufe und kein Begegnungssetsymbol haben (siehe 
+„Vorteilskarten“ auf Seite 21).
+ = Während einer Kampagne bauen die Spieler ihre Decks, bevor sie das 
+erste Szenario spielen. Zwischen den Szenarien können die Spieler neue 
+Karten erwerben oder Karten in ihren Decks verbessern, indem sie die 
+Regeln unter „Kampagnenspiel“ auf Seite 14 befolgen.
+Klassen
+Die meisten Spielerkarten, einschließlich der Ermittler, gehören zu 
+einer der 5 Klassen. Jede Klasse hat wie unten beschrieben ihre eigene 
+Hintergrundgeschichte und ihre eigene Identität. 
+Wächter  (󲅶) fühlen den Drang, die Menschheit zu beschützen und scheuen 
+deshalb keine Mühen bei der Bekämpfung der Mächte des Mythos. Durch 
+ihr ausgeprägtes Pf lichtbewusstsein und ihre Selbstlosigkeit werden sie dazu 
+getrieben, andere zu beschützen und Monster zur Strecke zu bringen.
+Mystiker  (󲅷) werden von den arkanen Kräften des Mythos angezogen 
+und von ihnen beeinf lusst. Viele von ihnen haben Spruch  fähigkeiten und 
+sind in der Lage, die Kräfte des Universums durch ihr magisches Talent zu 
+beeinflussen.
+Schurken  (󲅴) sind selbstsüchtig und ichbezogen. Sie sind listig und 
+opportunistisch, immer auf der Suche nach einer Möglichkeit, Vorteile  
+aus der aktuellen Situation zu schlagen.
+Sucher (󲅸) wollen in erster Linie mehr über die Welt und den Mythos 
+lernen. Ihr Wunsch ist es, vergessenes Wissen zu erforschen, unkartierte 
+Bereiche zu kartieren und fremdartige Kreaturen zu erforschen.
+Überlebende  (󲅵) sind normale Menschen, die sich zur falschen Zeit am 
+falschen Ort befinden und einfach versuchen zu überleben. Da sie schlecht 
+vorbereitet und ausgerüstet sind, stellen sie Außenseiter dar, die jede sich 
+bietende Gelegenheit zum Überleben ergreifen, wenn ihr Leben in Gefahr ist.
+Einige Karten gehören zu keiner Klasse; diese Karten sind neutral.
+Normalerweise haben Ermittler nur Zugriff auf Karten ihrer Klasse. Einige 
+Ermittler haben Zugriff auf Karten anderer Klassen. Auf welche Karten ein 
+Ermittler Zugriff hat, kann unter dem Absatz „Deckbau-Optionen“ auf der 
+Rückseite der Ermittlerkarte nachgelesen werden.
+Decks
+Es gibt in jedem Spiel 4 Hauptarten von Decks: Ermittlerdecks, das 
+Begegnungsdeck, das Szenendeck und das Agendadeck.
+ = Die Reihenfolge der Karten in einem Deck darf nicht verändert 
+werden, es sei denn, ein Spieler wird durch eine Kartenfähigkeit 
+angewiesen dies zu tun.
+Siehe auch: „Ermittlerdeck“ auf Seite 9, „Begegnungsdeck“ auf Seite 5, 
+„Szenendeck und Agendadeck“ auf Seite 20.
+Direkter Schaden, Direkter Horror
+Falls eine Fähigkeit dazu führt, dass eine Karte direkten Schaden oder 
+direkten Horror nimmt, muss dieser direkt der angegebenen Karte 
+zugewiesen werden und kann nicht woanders hin umverteilt werden.
+Du/dein
+ = Eine Fähigkeit auf einer Karte im Spiel mit den Worten „du“ oder 
+„dein“ bezieht sich auf den Ermittler, der die Karte kontrolliert, mit 
+ihr in einen Kampf verwickelt ist oder aktuell auf andere Art mit ihr 
+interagiert.
+ = Eine Enthüllungsfähigkeit mit den Worten „du“ oder „dein“ bezieht 
+sich auf den Ermittler, der die Karte gezogen hat und die Fähigkeit 
+abhandelt.
+ = Solange eine Fähigkeit, die durch die Aktivieren-Aktion initiiert 
+worden ist, abgehandelt wird, bezieht sich „du“ oder „dein“ auf den 
+Ermittler, der die Aktion durchführt.
+Dürfen
+Eine Form des Wortes „dürfen“ gibt an, dass der betreffende Spieler die 
+Möglichkeit hat, das zu tun, was auf die Form von „dürfen“ folgt. Falls kein 
+Spieler angegeben ist, betrifft dies den Spieler, der die Karte kontrolliert, auf 
+der sich die Fähigkeit befindet.
+Effekte
+Ein Karteneffekt ist ein Effekt, der durch die Abhandlung eines Fähigkeits -
+textes, der auf eine Karte aufgedruckt ist oder den man durch eine Karte 
+erhalten hat, hervorgerufen wird. Ein Rahmeneffekt ist ein Effekt, der durch 
+die Abhandlung eines Rahmenereignisses (siehe „Genaue Erläuterung der 
+Rahmenereignisse“ auf Seite 24) hervorgerufen wird.
+7
+REFERENZHANDBUCH
+
+ = Karteneffekten können Kosten, Auslösebedingungen, Spiel -
+einschränkungen und/oder Spielberechtigungen vorausgehen;  
+Diese Elemente werden nicht als Effekte (siehe „Fähigkeiten“ auf 
+Seite 10) behandelt.
+ = Ist er einmal initiiert, müssen die Spieler jeden Teil des Effektes so gut 
+sie können abhandeln, es sei denn der Effekt enthält das Wort „darf “.
+ = Sobald ein nicht gezielter Effekt versucht mit einer Anzahl von 
+Spielelementen zu interagieren (Beispiel: „Ziehe 3 Karten“ oder 
+„Durchsuche die obersten 5 Karten deines Decks“), die größer ist als die 
+Anzahl dieser Elemente, die sich derzeit in der angegebenen Spielzone 
+befinden, interagiert der Effekt mit so vielen Elementen wie möglich.
+ = Das Ende eines andauernden Effektes (oder das Beenden einer 
+anhaltenden Fähigkeit) gilt nicht als Veränderung des Spielstatus 
+durch einen Karteneffekt.
+ = Alle Aspekte eines Effektes haben Timing-Priorität vor allen 
+„nachdem“-Auslöse  bedingungen, die als Konsequenz des Effektes 
+auftreten können. ( Beispiel: Falls ein Effekt besagt „Du erhältst 
+3 Ressourcen und ziehst 3 Karten“, werden beide Aspekte des Effektes 
+(Erhalten von Ressourcen und Ziehen von Karten) abgehandelt, bevor 
+man eine Fähigkeit initiiert, die den Text hat „Nachdem du eine Karte 
+gezogen hast ...“ ).
+Siehe auch: „Andauernde Effekte“ auf Seite 3, „Aufgeschobene Effekte“ auf 
+Seite 3, „Priorität bei gleichzeitiger Abhandlung“ auf Seite 17.
+Ein, eine
+Sobald eine Bedingung beschrieben wird, gilt diese im Hinblick auf die 
+Worte „ein“ oder „eine“ als erfüllt, falls 1 oder mehr der Elemente, auf die sich 
+die Bedingung bezieht, vorhanden sind.  So erfüllt zum Beispiel ein Ermittler 
+mit 3 Ressourcen die Bedingung „Jeder Ermittler mit einer Ressource“.
+Einzelspielszenario
+Sobald ein Einzelspielszenario gespielt wird (d. h. ein Szenario wird als 
+eigenständiges Abenteuer gespielt, nicht als Teil seiner Kampagne), gelten 
+folgende Regeln:
+ = Sobald ein Deck für ein Einzelspielszenario gebaut wird, kann ein 
+Ermittler höherstufige Karten in seinem Deck verwenden (solange 
+sie den Einschränkungen beim Deckbau für diesen Ermittler 
+entsprechen), indem er die Summe der Erfahrungspunkte aller 
+höherstufigen Karten in diesem Deck zählt und zusätzlich zufällige 
+Grundschwächen nach der folgenden Tabelle hinzufügt.   
+0–9 Erfahrungspunkte: 0 zusätzliche zufällige Grundschwächen  
+10–19 Erfahrungspunkte: 1 zusätzliche zufällige Grundschwäche  
+20–29 Erfahrungspunkte: 2 zusätzliche zufällige Grundschwächen  
+30–39 Erfahrungspunkte: 3 zusätzliche zufällige Grundschwächen  
+40–49 Erfahrungspunkte: 4 zusätzliche zufällige Grundschwächen   Ein Spieler kann nicht mehr als 49 Erfahrungspunkte verwenden, um 
+einem Deck Karten für ein Einzelszenario hinzuzufügen.
+ = Nachdem man ein Szenario ausgewählt hat, liest man im Kampagnen -
+leitfaden des gewählten Szenarios nach, wie zunächst die Kampagne 
+und dann das erste Szenario der Kampagne vorbereitet wird. Man 
+liest die Einleitung des Szenarios und springt dann direkt zu seiner 
+Auf lösung und wählt eine Auf lösung, die einem gefällt. Jede beliebige 
+Auf lösung kann gewählt werden. (Wünscht man eine zusätzliche 
+Herausforderung, wählt man eine für die Ermittler ungünstige 
+Auf lösung.) Falls man sich nicht sicher ist, welche Auf lösung man 
+wählen soll oder einfach unentschlossen ist, wählt man Auf lösung 1 . 
+Die Ergebnisse der ausgewählten Auf lösung notiert man in einem 
+Kampagnenlogbuch, als ob man das Szenario im Kampagnenmodus 
+durchgespielt hätte, mit einer Ausnahme:  Die Erfahrungspunkte 
+werden nicht gezählt .
+ = Diesen Ablauf wiederholt man für jedes Szenario bis zu dem Szenario, 
+das man spielen will. Das gewählte Szenario wird dann normal 
+vorbereitet und gespielt.
+ = Falls eine Storyentscheidung während des Spiels getroffen werden 
+muss, wählt man das Ergebnis und trägt es ins Kampagnenlogbuch 
+ein.
+ = Traumata für während des Spiels besiegte Ermittler werden nicht 
+angewendet, aber falls in einer Szenarioauf lösung Traumata zugefügt 
+werden, werden diese auch angewendet.
+ = Falls man eine Szenarioschwäche oder -Vorteilskarte verdient hat, die 
+sich in einer Erweiterung befindet, die man nicht besitzt, macht man 
+einfach ohne die betreffende Karte weiter.
+Einzigartig (󲆁)
+Eine Karte mit dem 󲆁-Symbol vor dem Kartennamen ist eine einzigartige 
+Karte. Es kann nicht mehr als 1 Instanz jeder einzigartigen Karte gleichzeitig 
+im Spiel geben. Hierbei gilt der Name der Karte.
+ = Ein Spieler kann eine einzigartige Karte nicht ins Spiel bringen, falls 
+bereits eine Kopie dieser Karte (nach Name) im Spiel ist.
+ = Falls eine einzigartige Begegnungskarte ins Spiel kommen würde, die 
+den gleichen Namen wie eine einzigartige Spielerkarte hat, wird die 
+Spielerkarte abgelegt und die Begegnungskarte gleichzeitig ins Spiel 
+gebracht.
+Enthüllung
+Eine Enthüllungsfähigkeit kann auf Begegnungs- oder Schwächekarten 
+vorkommen.
+ = Sobald ein Ermittler eine Begegnungskarte zieht, muss dieser 
+Ermittler alle „ Enthüllung  –“-Fähigkeiten auf dieser Karte 
+abhandeln. Dies passiert, bevor die Karte ins Spiel kommt, oder bei 
+einer Verratskarte, bevor sie auf den Ablagestapel gelegt wird.
+ = Sobald eine Schwächekarte auf die Hand eines Ermittlers gelangt, 
+muss dieser Ermittler sofort alle Enthüllungsfähigkeiten auf dieser 
+Karte abhandeln, als ob er sie gerade gezogen hätte.
+Entkommen, Entkommen (Aktion)
+„Entkommen“ ist eine Aktion, die ein Ermittler in seinem Zug in der 
+Ermittlungsphase nehmen darf. 
+Um einem Gegner zu entkommen, mit dem man in einen Kampf verwickelt 
+ist, legt ein Ermittler eine Beweglichkeitsprobe gegen den Entkommenwert 
+dieses Gegners ab (siehe „Fertigkeitsproben“ auf Seite 11).
+Falls die Probe gelingt, entkommt der Ermittler diesem Gegner (siehe 
+unten). (Dies geschieht in Schritt 7 der Fertigkeitsprobe „FP.7 Ergebnis der 
+Fertigkeitsprobe anwenden“ auf Seite 26.)
+Falls die Probe misslingt, entkommt der Ermittler dem Gegner nicht und 
+bleibt mit ihm in einen Kampf verwickelt.
+ = Falls eine Fähigkeit „automatisch“ 1 oder mehreren Gegnern 
+entkommt, wird für diesen Entkommen-Versuch keine Fertig -
+keitsprobe abgelegt.
+ = Immer wenn ein Ermittler einem Gegner entkommt (ob durch  
+eine Entkommen-Aktion oder durch eine Kartenfähigkeit), wird der 
+Gegner erschöpft (falls er vorher spielbereit war) und der Ermittler 
+löst sich aus dem Kampf. Der Gegner wird aus der Bedrohungszone 
+des Ermittlers an den derzeitigen Ort des Ermittlers verschoben, um 
+anzuzeigen, dass er nicht länger mit dem Ermittler in einen Kampf 
+verwickelt ist.
+8
+REFERENZHANDBUCH
+
+ = Anders als bei den Aktionen „Kampf “ und „in einen Kampf ver -
+wickeln“ kann ein Ermittler eine Entkommen-Aktion nur gegen einen 
+mit ihm in einen Kampf verwickelten Gegner durchführen.
+Ereigniskarten
+Ereigniskarten stehen für taktische Aktionen, Manöver, Zaubersprüche, 
+Tricks und andere spontane Effekte, die einem Spieler zur Verfügung stehen.
+ = Falls eine Ereigniskarte nicht das Schlüsselwort Schnell hat, darf sie 
+nur durch eine Spielen-Aktion während des Zuges eines Spielers von 
+dessen Hand durchgeführt werden. Sämtliche Berechtigungen und 
+Einschränkungen für das Spielen der Karte müssen dabei beachtet 
+werden.
+ = Eine Ereigniskarte mit Schnell darf jederzeit nach den Anweisungen 
+zum Spielen der Karte von der Hand eines Spielers gespielt werden 
+(siehe „Schnell“ auf Seite 18).
+ = Immer wenn ein Spieler eine Ereigniskarte spielt, werden ihre Kosten 
+bezahlt, ihre Effekte abgehandelt (oder aufgehoben) und die Karte 
+wird auf den Ablagestapel des Besitzers gelegt, nachdem diese Effekte 
+abgehandelt (oder aufgehoben) worden sind.
+ = Falls die Effekte einer Ereigniskarte aufgehoben werden, gilt die 
+Karte immer noch als gespielt und ihre Kosten als bezahlt. Nur die 
+Effekte werden aufgehoben.
+ = Das Spielen (oder Nichtspielen) einer Ereigniskarte von der Hand 
+ist für einen Spieler immer optional, falls das Ereignis in den 
+Spielanweisungen nicht das Wort „muss“ verwendet.
+ = Eine Ereigniskarte kann nicht gespielt werden, falls ihre Abhandlung 
+keine Möglichkeit hat, den Spielstatus zu verändern.
+Erfahrungspunkte
+Siehe „Kampagnenspiel“ auf Seite 14.
+Erhalten
+Das Wort „erhalten“ kommt in verschiedenen Zusammenhängen vor.
+ = Falls ein Spieler eine oder mehrere Ressourcen erhält, nimmt dieser 
+Spieler die angegebene Anzahl Ressourcen aus dem Markervorrat und 
+fügt sie seinem Ressourcenvorrat hinzu.
+ = Falls ein Ermittler eine Aktion erhält, darf dieser Ermittler im 
+angegebenen Zeitraum eine zusätzliche Aktion nehmen.
+ = Falls eine Karte eine Eigenschaft erhält (wie ein Symbol, ein 
+Merkmal, ein Schlüsselwort oder einen Fähigkeitstext), funktioniert 
+die Karte, als ob sie die erhaltene Eigenschaft besitzen würde. 
+ = „Erhaltene“ Eigenschaften gelten nicht als auf der Karte 
+„aufgedruckt“. Falls sich eine Fähigkeit auf die aufgedruckten 
+Eigenschaften einer Karte bezieht, bezieht sie sich nicht auf erhaltene 
+Eigenschaften.
+Ermitteln (Aktion)
+„Ermitteln“ ist eine Aktion, die ein Ermittler während seines Zuges in der 
+Ermittlungsphase nehmen darf.
+Immer wenn ein Ermittler diese Aktion nimmt, legt er eine Intellektprobe 
+gegen den Schleierwert dieses Ortes ab (siehe „Fertigkeitsproben“ auf Seite 11).
+Falls diese Probe gelingt, hat der Ermittler erfolgreich an dem Ort 
+ermittelt und er entdeckt dort einen Hinweis. (Dies passiert in Schritt 7 der 
+Fertigkeitsprobe, siehe „FP.7 Ergebnis der Fertigkeitsprobe anwenden“ auf 
+Seite 26.)
+Immer wenn ein Ermittler einen Hinweis entdeckt, nimmt er den Hinweis von 
+dem Ort und platziert ihn auf seine Ermittlerkarte unter seiner Kontrolle.
+Falls die Probe misslingt, hat der Ermittler keinen Erfolg beim Ermitteln an 
+dem Ort. Er entdeckt keine Hinweise in Schritt 7 der Fertigkeitsprobe.
+Ermittlerdeck
+Das „Ermittlerdeck“ eines Spielers ist das Deck, das dessen Vorteils-, 
+Ereignis-, Fertigkeits- und Schwächekarten enthält. Eine Anweisung,  
+die sich auf „dein Deck“ bezieht, bezieht sich auf das Ermittlerdeck unter der 
+Kontrolle des betreffenden Spielers.
+Ermittlungsleiter
+Der Ermittlungsleiter muss gelegentlich für das Szenario wichtige Entschei -
+dungen treffen. Zu Beginn eines Szenarios wählen die Ermittler einen 
+Ermittlungsleiter. Falls sie sich nicht einigen können, wird zufällig ein 
+Ermittlungsleiter bestimmt.
+ = Immer wenn es mehrere gültige Optionen für eine Wahl oder eine 
+Entscheidung gibt (zum Beispiel ein Jäger-Gegner, der sich in zwei 
+verschiedene Richtungen bewegen könnte) , hat der Ermittlungsleiter das 
+letzte Wort bei der Wahl zwischen diesen Optionen.
+ = Falls der Ermittlungsleiter ausscheidet, wählen die verbliebenen 
+Spieler (falls vorhanden) einen neuen Ermittlungsleiter.
+Ermittlungsphase
+Siehe „II. Ermittlungsphase“ auf Seite 24.
+Erscheinen
+Einige Gegner erscheinen an einem speziellen Ort, sobald sie vom Begeg -
+nungs  deck gezogen werden. Dieser Ort wird durch eine fett gedruckte 
+„Erscheinen “-Anweisung im Textfeld angegeben.
+ = Die Erscheinen-Anweisung eines Gegners wird abgehandelt, sobald 
+der Gegner ins Spiel kommt, unabhängig davon, auf welche Weise dies 
+geschieht.
+ = Falls ein Gegner keine Erscheinen-Anweisung hat, erscheint er mit 
+dem Ermittler, der ihn gezogen hat, in einen Kampf verwickelt.
+ = Falls es keinen legalen Ort gibt, an dem ein Gegner erscheinen 
+kann (z. B. falls in seiner Erscheinen-Anweisung ein spezieller Ort 
+angegeben ist, der aber nicht im Spiel ist, oder kein Ort im Spiel 
+seine Erscheinen-Anweisung erfüllt), erscheint er nicht und wird 
+stattdessen abgelegt.
+ = Falls mehrere Orte die Erscheinen-Anweisung erfüllen, entscheidet 
+sich der Ermittler, der den Gegner erscheinen lässt, zwischen diesen 
+Orten.
+ = Falls eine Kartenfähigkeit die Spieler anweist einen Gegner an 
+einem bestimmten Ort erscheinen zu lassen ( Beispiel: „Durchsuche 
+das Begegnungsdeck nach einer Kopie von Akolyth und lasse sie in der 
+Südstadt erscheinen“ ), behandelt man die Fähigkeit, welche die Karte 
+ins Spiel bringt, als die Erscheinen-Anweisung dieses Gegners, die 
+jede andere Erscheinen-Anweisungen überschreibt.
+9
+REFERENZHANDBUCH
+
+Erschöpfen, erschöpft
+Gelegentlich bewirkt eine Kartenfähigkeit oder ein Spielschritt, dass eine 
+Karte erschöpft wird, um anzuzeigen, dass sie verwendet worden ist, um eine 
+Funktion durchzuführen. Sobald eine Karte erschöpft wird, wird sie um 90° 
+gedreht. Eine Karte in diesem Zustand nennt man erschöpft.
+ = Eine erschöpfte Karte kann nicht erneut erschöpft werden, bis sie 
+wieder spielbereit ist (normalerweise durch einen Spielschritt oder 
+eine Kartenfähigkeit).
+Erzwungene Fähigkeiten
+Siehe „Fähigkeiten“ auf Seite 10.
+Fähigkeiten
+Eine Fähigkeit ist der spezielle Spieltext, der angibt, wie eine Karte das Spiel 
+beeinflusst.
+ = Kartenfähigkeiten interagieren nur mit dem Spiel, falls die Karte mit 
+der Fähigkeit im Spiel ist, es sei denn, die Fähigkeit (oder die Regel 
+für den entsprechenden Kartentyp) bezieht sich ausdrücklich auf die 
+Verwendung aus einer Zone heraus, die sich nicht im Spiel befindet.
+ = Kartenfähigkeiten interagieren nur mit anderen Karten, die im Spiel 
+sind, es sei denn die Fähigkeit bezieht sich ausdrücklich auf eine 
+Interaktion mit Karten in einer Zone außerhalb des Spiels.
+ = Falls sich mehrere Instanzen derselben Fähigkeit im Spiel befinden, 
+interagiert jede Instanz individuell mit dem Spielstatus (oder darf 
+individuell mit ihm interagieren).
+Folgende Typen von Kartenfähigkeiten gibt es: anhaltende Fähigkeiten, 
+erzwungene Fähigkeiten, Enthüllungsfähigkeiten, ausgelöste Fähigkeiten, 
+Schlüsselwörter und Anweisungen für Gegner (Erscheinen und Beute). Jeder 
+dieser Fähigkeitstypen wird im Folgenden detailliert beschrieben.
+Siehe auch: „Adjektive“ auf Seite 2, „Effekte“ auf Seite 7, „Kosten“ auf 
+Seite 15, „Selbstreferenzieller Text“ auf Seite 19.
+Anhaltende Fähigkeiten
+Anhaltende Fähigkeiten sind ohne besondere Formatierung auf der Karte 
+angegeben. Anhaltende Fähigkeiten interagieren immer mit dem Spielstatus, 
+solange sich die Karte im Spiel befindet. (Einige anhaltende Fähigkeiten 
+überprüfen dauerhaft eine bestimmte Bedingung; dies ist an Wörtern wie 
+„während“ oder „solange“ zu erkennen. Die Effekte einer solchen Fähigkeit 
+sind zu jeder Zeit aktiv, wenn die angegebene Bedingung erfüllt ist.) 
+Anhaltende Fähigkeiten haben keinen Initiierungszeitpunkt.
+Erzwungene Fähigkeiten
+Eine erzwungene Fähigkeit erkennt man an der fettgedruckten Anweisung 
+„Erzwungen  –“. Erzwungene Fähigkeiten werden automatisch initiiert 
+und interagieren automatisch zu einem festgelegten Zeitpunkt mit dem 
+Spielstatus. Diesen Zeitpunkt kann man normalerweise an Wörtern wie 
+„sobald“, „nachdem“, „falls“ oder „zu“ erkennen. 
+ = Falls eine erzwungene Fähigkeit nicht die Möglichkeit hat, den 
+Spielstatus zu verändern, wird sie nicht initiiert.
+ = Die Initiierung einer erzwungenen Fähigkeit, welche die Möglichkeit 
+hat, den Spielstatus zu verändern, ist jedes Mal verpf lichtend, wenn 
+der vorgegebene Zeitpunkt erfüllt ist.
+ = Eine erzwungene Fähigkeit mit einer Timing-Vorgabe, die mit  
+dem Wort „sobald ...“ beginnt, wird automatisch initiiert, sobald 
+die angegebene Timing-Vorgabe eintritt, aber noch bevor ihre 
+Auswirkungen auf den Spielstatus abgehandelt werden.
+ = Eine erzwungene Fähigkeit mit einer Timing-Vorgabe, die mit dem 
+Wort „nachdem ...“ beginnt, wird automatisch initiiert, nachdem die 
+Auswirkungen der Timing-Vorgabe auf den Spielstatus abgehandelt 
+worden sind.
+ = Zu jeder Timing-Vorgabe müssen alle erzwungenen Fähigkeiten, die 
+sich auf diese Timing-Vorgabe beziehen, abgehandelt werden, bevor 
+󲆍-Fähigkeiten (siehe unten), die sich auf dieselbe Timing-Vorgabe 
+beziehen, initiiert werden dürfen.
+Siehe „Priorität bei gleichzeitiger Abhandlung“ auf Seite 17.
+Enthüllungsfähigkeiten
+Eine Enthüllungsfähigkeit, zu erkennen an einem fettgedruckten  
+„Enthüllung  –“ auf einer Begegnungskarte oder Schwäche, wird initiiert, 
+wenn ein Ermittler diese Karte zieht (siehe „Enthüllung“ auf Seite 8).
+Ausgelöste Fähigkeiten
+Vor einer ausgelösten Fähigkeit steht entweder ein 󲅺-Symbol, ein 
+󲆍-Symbol oder ein 󲅹-Symbol. Falls die Fähigkeit eine oder mehrere 
+Voraussetzungen hat (Kosten und/oder Bedingungen), werden diese 
+im Text direkt hinter diesem Symbol angegeben. Spieler müssen diese 
+Voraussetzungen für ausgelöste Fähigkeiten immer erfüllen, um diese 
+Fähigkeit auslösen zu können. Es gibt drei Arten ausgelöster Fähigkeiten:
+Freie ausgelöste Fähigkeiten ( 󲅺): Eine freie ausgelöste Fähigkeit ( 󲅺) 
+darf in jedem Spielerfenster als Spielerfähigkeit ausgelöst werden. (Siehe 
+„Anhang II: Timing und Spiel“ auf Seite 22 für eine vollstän dige Liste der 
+Spielerfenster.)
+Reaktionsausgelöste Fähigkeiten ( 󲆍): Eine reaktionsausgelöste Fähigkeit 
+(󲆍) mit einer festgelegten Auslösebedingung darf zu jedem Zeitpunkt 
+ausgelöst werden, an dem die Auslösebedingung erfüllt ist.  
+Beispiel: „󲆍 Nachdem du einen Gegner besiegt hast:“
+ = Eine 󲆍-Fähigkeit mit einer Auslösebedingung, die mit dem Wort 
+„sobald ...“ beginnt, darf verwendet werden, nachdem die angegebene 
+Auslösebedingung initiiert worden ist, aber noch bevor ihre 
+Auswirkungen auf den Spielstatus abgehandelt werden.
+ = Eine 󲆍-Fähigkeit mit einer Auslösebedingung, die mit dem Wort 
+„nachdem ...“ beginnt, darf verwendet werden, sofort nachdem 
+die Auswirkungen ihrer Auslösebedingung auf den Spielstatus 
+abgehandelt worden sind.
+ = Jede 󲆍-Fähigkeit darf jedes Mal, wenn ihre angegebene Bedingung 
+erfüllt ist, nur ein Mal ausgelöst werden. Beispiel: Eine Fähigkeit die 
+ausgelöst wird, „nachdem X passiert ist“, darf jedes Mal, wenn X passiert 
+ist, nur ein Mal ausgelöst werden.
+Aktionsausgelöste Fähigkeiten ( 󲅹): Eine aktionsausgelöste Fähigkeit ( 󲅹) 
+darf nur während eines Spielerzuges in der Ermittlungsphase durch eine 
+Aktivieren-Aktion ausgelöst werden, und nur wenn der Ermittler 1 Aktion 
+für jedes in den Kosten der Fähigkeit angegebene 󲅹-Symbol verwendet.
+Für alle ausgelösten Fähigkeiten gelten folgende Regeln:
+ = Ausgelöste Fähigkeiten auf einer Karte, die ein Spieler kontrolliert, 
+werden von diesem Spieler entsprechend der Timing-Vorgabe, die in 
+der Fähigkeit angegeben ist, freiwillig ausgelöst.
+ = Eine ausgelöste Fähigkeit kann nur initiiert werden, falls ihr Effekt 
+die Möglichkeit hat, den Spielstatus zu ändern, und ihre Kosten 
+(falls vorhanden) vollständig gezahlt werden können, wobei aktive 
+Modifikatoren für Kosten beachtet werden müssen. Ob diese Mög -
+lichkeit besteht, wird überprüft, ohne die Konsequenzen der Zahlung 
+der Kosten oder die Interaktion mit anderen Fähigkeiten in Betracht 
+zu ziehen.
+ = Sobald eine Fähigkeit initiiert worden ist, müssen die Spieler ihre 
+Effekte soweit möglich abhandeln, außer wenn der Effekt das Wort 
+„darf “ enthält (siehe „Dürfen“ auf Seite 7).
+Schlüsselwörter
+Ein Schlüsselwort ist eine Kartenfähigkeit, die eine Karte mit speziellen 
+Regeln versieht (siehe „Schlüsselwörter“ auf Seite 18).
+10
+REFERENZHANDBUCH
+
+Erscheinen- und Beute-Anweisungen
+Erscheinen-Anweisungen enthalten Informationen darüber, wo ein Gegner 
+erscheint, wenn er ins Spiel kommt (siehe „Erscheinen“ auf Seite 9).
+Beute-Anweisungen enthalten Informationen darüber, welchen Ermittler ein 
+Gegner verfolgt und/oder in einen Kampf verwickelt, falls er die Wahl hat 
+(siehe „Beute“ auf Seite 5).
+Aktionskennzeichen
+Einige Fähigkeiten enthalten fett gedruckte Aktionskennzeichen (wie 
+Kampf, Entkommen, Ermitteln oder Bewegen). Durch die Aktivierung 
+einer solchen Fähigkeit wird die bezeichnete Aktion wie in den Regeln 
+beschrieben durchgeführt, allerdings wird sie auf die in der Fähigkeit 
+angegebene Weise modifiziert.
+Fertigkeitskarten
+Fertigkeitskarten stehen für angeborene oder erlernte Attribute oder 
+Charaktermerkmale, welche die Fertigkeitsproben eines Ermittlers 
+verbessern. 
+Fertigkeitskarten werden nicht von der Hand eines Spielers gespielt. 
+Um ihre Fähigkeiten abzuhandeln, müssen Fertigkeitskarten zu einer 
+Fertigkeitsprobe  beigetragen  werden.
+Falls eine Fertigkeitskarte zu einer Fertigkeitsprobe beigetragen wird, darf 
+ihre Fähigkeit während der Abhandlung dieser Fertigkeitsprobe wie auf der 
+Karte angegeben angewendet werden.
+Siehe „Timing für Fertigkeitsproben (FP)“ auf Seite 26.
+Fertigkeitsproben
+Viele Situationen im Spiel erfordern, dass ein Ermittler eine Fertig  keits  probe 
+gegen eine seiner vier Fertigkeiten ablegt: Willenskraft ( 󲅰), Intellekt ( 󲅲), 
+Kampf (󲅳) oder Beweglichkeit ( 󲅱). Bei Fertigkeitsproben wird mit 
+dem Wert eines Ermittlers für eine bestimmte Fertigkeit gegen einen 
+Schwierigkeitswert angetreten, der von der Fähigkeit oder dem Spielschritt 
+bestimmt wird, der/die diese Probe initiiert hat. Der Ermittler versucht den 
+Schwierigkeitswert zu erreichen oder zu übertreffen, um bei dieser Probe 
+erfolgreich zu sein.
+Eine Fertigkeitsprobe wird oft als Probe gegen diese Fertigkeit angegeben. 
+(Beispiel : „Beweglichkeitsprobe “, „Kampfprobe “, „Willenskraftprobe “ oder 
+„Intellektprobe “.)
+Siehe „Timing für Fertigkeitsproben (FP)“ auf Seite 26.
+Gegner in einen Kampf verwickeln
+Solange eine Gegnerkarte im Spiel ist, ist sie entweder in einen Kampf 
+mit einem Ermittler verwickelt (und liegt in der Bedrohungszone dieses 
+Ermittlers) oder sie befindet sich an einem Ort (und liegt an diesem Ort). Jeder 
+Gegner in der Bedrohungszone eines Ermittlers gilt als am selben Ort wie 
+dieser Ermittler. Sollte sich der Ermittler bewegen, bleibt der Gegner mit ihm 
+in einem Kampf verwickelt und bewegt sich gleichzeitig mit dem Ermittler an 
+den neuen Ort.
+Immer wenn sich ein spielbereiter, nicht in einen Kampf verwickelter 
+Gegner am selben Ort wie ein Ermittler befindet, verwickelt er den Ermittler 
+in einen Kampf und wird in dessen Bedrohungszone platziert. Falls sich 
+mehrere Ermittler am selben Ort wie ein spielbereiter, nicht in einen 
+Kampf verwickelter Gegner befinden, entscheidet die Beute-Anweisung 
+des Gegners darüber, welchen dieser Ermittler der Gegner in einen Kampf 
+verwickelt. Es gibt keine Obergrenze für die Anzahl der Gegner, die mit 
+einem Ermittler in einen Kampf verwickelt sein können.
+Beispiel: Ein spielbereiter, nicht in einen Kampf verwickelter Gegner verwickelt 
+einen Ermittler in einen Kampf, falls:
+ = Er am selben Ort erscheint, an dem sich der Ermittler befindet.
+ = Er sich an denselben Ort bewegt, an dem sich der Ermittler befindet.
+ = Ein Ermittler sich an denselben Ort bewegt, an dem sich der Gegner 
+befindet.
+Ein erschöpfter, nicht in einen Kampf verwickelter Gegner verwickelt keinen 
+Ermittler in einen Kampf, aber falls ein erschöpfter Gegner, der sich am 
+selben Ort befindet wie ein Ermittler, spielbereit gemacht wird, verwickelt er 
+den Ermittler sofort in einen Kampf. 
+ = Hinweis: Ein Gegner mit dem Schlüsselwort Zurückhaltend verwickelt 
+Ermittler nicht wie oben angegeben in einen Kampf.
+Gegnerkarten
+Gegnerkarten stehen für Schurken, Kultisten, Nichtsnutze, fürchterliche 
+Monster und die unvorstellbarsten Wesenheiten aus anderen Dimensionen 
+oder dem Kosmos.
+Sobald ein Ermittler eine Gegnerkarte zieht, muss er diesen Gegner 
+erscheinen lassen und dabei die Erscheinen-Anweisung der Karte beachten 
+(siehe „Erscheinen“ auf Seite 9). Falls der Gegner keine Erscheinen-  Anweisung 
+enthält, erscheint er mit dem Ermittler, der auf diese Karte getroffen ist, in 
+einen Kampf verwickelt und wird in die Bedrohungszone dieses Ermittlers 
+platziert.
+Siehe „1.4 Jeder Ermittler zieht 1 Begegnungskarte“ auf Seite 24.
+ = Ein spielbereiter, nicht in einen Kampf verwickelter Gegner ver -
+wickelt einen Ermittler in einen Kampf, wenn er sich am selben Ort 
+wie dieser befindet (siehe „Gegner in einen Kampf verwickeln “ auf 
+Seite 11).
+ = Falls ein Ermittler mit einem Gegner in einen Kampf verwickelt ist 
+und eine Aktion für etwas anderes als kämpfen , entkommen  oder die 
+Aktivierung einer Verhandlung - oder Aufgeben -Fähigkeit nimmt, 
+macht jeder dieser Gegner einen Gelegenheitsangriff  
+(siehe „Gelegenheitsangriff “ auf Seite 12).
+ = Gegner mit dem Schlüsselwort Jäger bewegen sich in der 
+Gegnerphase (siehe „III. Gegnerphase“ auf Seite 25).
+ = In einen Kampf verwickelte Gegner greifen während der Gegnerphase 
+an (siehe „III. Gegnerphase“ auf Seite 25).
+Gegnerphase
+Siehe „III. Gegnerphase“ auf Seite 25.
+Geistige Gesundheit und Horror
+Geistige Gesundheit steht für die mentale und emotionale Widerstandskraft 
+einer Karte. Horror hält fest, welcher Schaden der Seele einer Karte durch die 
+Konfrontation mit den Mächten des Mythos zugefügt wurde. 
+ = Sobald eine Karte Horror nimmt, werden Horrormarker in Höhe 
+der gerade genommenen Horrormenge auf die Karte platziert (siehe 
+„Schaden/Horror zufügen“ auf Seite 17).
+ = Falls ein Ermittler Horror in Höhe seiner geistigen Gesundheit (oder 
+mehr) hat, ist dieser Ermittler besiegt. Sobald ein Ermittler besiegt 
+worden ist, scheidet er aus dem Szenario aus (siehe „Ausscheiden“ auf 
+Seite 4).
+ = Im Kampagnenspiel erleidet ein Ermittler, der durch Horror in 
+Höhe seiner geistigen Gesundheit besiegt worden ist, 1 seelisches 
+Trauma. Durch das Erleiden seelischer Traumata kann ein Ermittler 
+wahnsinnig  werden (siehe „Kampagnenspiel“ auf Seite 14).
+11
+REFERENZHANDBUCH
+
+ = Falls eine Vorteilskarte mit einem Wert für geistige Gesundheit 
+Horror in Höhe ihrer geistigen Gesundheit (oder mehr) hat, ist sie 
+besiegt und wird auf den Ablagestapel ihres Besitzers gelegt.
+ = Die „verbliebene geistige Gesundheit“ einer Karte ist ihr Grundwert 
+für geistige Gesundheit abzüglich der Menge Horror darauf, plus oder 
+minus aktiver Modifikatoren für geistige Gesundheit.
+ = Eine Vorteilskarte ohne Wert für geistige Gesundheit gilt nicht  
+als eine Karte mit einer geistigen Gesundheit von 0, sie kann keine 
+geistige Gesundheit erhalten und ihr kann kein Horror zugewiesen 
+werden.
+Siehe auch: „Direkter Schaden, Direkter Horror“ auf Seite 7.
+Gelegenheitsangriff
+Jedes Mal wenn ein Ermittler mit einem oder mehreren spielbereiten 
+Gegnern in einen Kampf verwickelt ist und eine andere Aktion nimmt als 
+Kampf  oder Entkommen  oder eine Verhandeln - oder Aufgeben -Fähigkeit 
+aktiviert, führt jeder dieser Gegner einen Gelegenheitsangriff gegen den 
+Ermittler durch; die Reihenfolge der Angriffe bestimmt dabei der Ermittler. 
+Jeder Angriff fügt dem Ermittler den Schaden und Horror des Gegners zu.
+ = Ein Gelegenheitsangriff wird sofort, nachdem alle Kosten für das 
+Initiieren der Aktion, die diesen Angriff provoziert hat, gezahlt 
+worden sind, aber bevor die Effekte dieser Aktion angewendet 
+werden, durchgeführt.
+ = Eine Fähigkeit, die mehr als eine Aktion kostet, provoziert nur einen 
+Gelegenheitsangriff von jedem Gegner, der in einen Kampf verwickelt 
+ist.
+ = Ein Gegner wird nicht erschöpft, solange er einen Gelegenheits  angriff 
+macht. 
+ = Nachdem alle Gelegenheitsangriffe gemacht worden sind, wird das 
+Spiel mit der Abhandlung der Aktion, welche die Angriffe initiiert 
+hat, fortgesetzt.
+ = Im Bezug auf Kartenfähigkeiten zählen Gelegenheitsangriffe  
+als Gegnerangriffe.
+Getötete/Wahnsinnige Ermittler
+Im Kampagnenspiel müssen Ermittler, die getötet oder wahnsinnig 
+geworden sind, im Kampagnenlogbuch notiert werden und können für den 
+Rest der Kampagne nicht mehr verwendet werden.
+ = Ein Ermittler mit körperlichen Traumata in Höhe seiner 
+aufgedruckten Ausdauer (oder höher) wird getötet.
+ = Ein Ermittler mit seelischen Traumata in Höhe seiner aufgedruckten 
+geistigen Gesundheit (oder höher) wird wahnsinnig.
+ = Ein Ermittler kann auch durch Kartenfähigkeiten oder die Auf lösung 
+eines Szenarios getötet oder wahnsinnig werden.
+ = In Einzelszenarien besteht praktisch kein Unterschied  
+zwischen getötet, wahnsinnig oder besiegt werden.
+Siehe „Kampagnenspiel“ auf Seite 14.
+Gewaltig
+Gewaltig ist eine Schlüsselwortfähigkeit. Ein spielbereiter Gegner mit dem 
+Schlüsselwort Gewaltig wird behandelt, als sei er mit jedem Ermittler am 
+selben Ort wie er in einen Kampf verwickelt. 
+ = Ein erschöpfter Gegner mit dem Schlüsselwort Gewaltig wird nicht 
+behandelt, als sei er mit Ermittlern am selben Ort wie er in einen 
+Kampf verwickelt.
+ = Ein Gegner mit dem Schlüsselwort Gewaltig kann nicht in die 
+Bedrohungszone eines Ermittlers platziert werden.
+ = Sobald ein Gegner mit dem Schlüsselwort Gewaltig während der 
+Gegnerphase angreift, wird sein (vollständiger) Angriff gegen jeden 
+Ermittler, mit dem er in einen Kampf verwickelt ist, nacheinander 
+abgehandelt. Der Ermittlungsleiter wählt die Reihenfolge, in der die 
+Angriffe abgehandelt werden. Der Gegner mit Gewaltig wird nicht 
+erschöpft, bis sein letzter Angriff der Phase abgehandelt worden ist.
+ = Sobald ein Gegner mit dem Schlüsselwort Gewaltig einen Gelegen -
+heits angriff durchführt, wird dieser Angriff nur gegen den Ermittler 
+abgehandelt, der den Angriff provoziert hat.
+ = Ein Gegner mit Gewaltig bewegt sich nicht gemeinsam mit einem 
+mit ihm in einen Kampf verwickelten Ermittler, der sich vom Ort des 
+Gegners mit Gewaltig wegbewegt.
+ = Falls einem Ermittler eine Kampfprobe gegen einen Gegner mit 
+Gewaltig misslingt, wird den mit dem Gegner in einen Kampf 
+verwickelten Ermittlern kein Schaden zugefügt.
+Gewinnen und Verlieren
+Jedes Szenario hat mehrere verschiedene mögliche Enden. 
+Das Szenendeck steht für den Fortschritt, den die Ermittler in einem 
+Szenario machen können. Einige Anweisungen im Szenendeck (sowie 
+auf anderen Begegnungskartentypen) enthalten Auflösungspunkte in 
+folgendem Format: „(→ A#)“. Das vorrangige Ziel der Spieler ist es, im 
+Szenendeck vorzurücken, bis eine (hoffentlich vorteilhafte) Auf lösung 
+erreicht wird. Sollte das Szenendeck eine Auf lösung hervorrufen, haben 
+die Spieler das Szenario abgeschlossen (und vielleicht sogar gewonnen). 
+Anweisungen für die Abhandlung der angegebenen Auf lösung befinden 
+sich im Kampagnenhandbuch im Abschnitt „Achtung! Nicht vor Ende des 
+Szenarios weiterlesen.“ 
+Das Agendadeck steht für den Fortschritt und die Ziele der bösen 
+Mächte, denen die Ermittler in einem Szenario gegenüberstehen. Einige 
+Anweisungen im Agendadeck (sowie auf anderen Begegnungskartentypen) 
+enthalten ebenfalls Auflösungspunkte in folgendem Format: „(→ A#)“. Sollte 
+das Agendadeck eine (normalerweise finsterere) Auflösung hervorrufen, 
+haben die Spieler das Szenario verloren. Anweisungen für die Abhandlung 
+der angegebenen Auf lösung befinden sich im Kampagnenhandbuch im 
+Abschnitt „Achtung! Nicht vor Ende des Szenarios weiterlesen.“
+Sollte das Szenario ohne Auf lösung enden ( zum Beispiel, falls alle Ermittler 
+ausgeschieden sind oder aufgegeben haben ), befinden sich Anweisungen für die 
+Abhandlung im Kampagnenhandbuch im Abschnitt „Achtung! Nicht vor 
+Ende des Szenarios weiterlesen.“
+ = Falls die Spieler eine Kampagne spielen, fahren sie unabhängig  
+vom Ausgang dieses Szenarios mit dem nächsten Szenario in der 
+Kampagne fort. Auch wenn die Spieler ein Szenario „verlieren“,  
+setzen sie die Kampagne trotzdem fort (allerdings mit den negativen 
+Konsequenzen ihrer Niederlage).
+ = Wird ein Einzelszenario gespielt, können die Spieler das Szenario 
+gewinnen oder verlieren. Sie gewinnen, falls sie auf einer Szenenkarte 
+eine Auf lösung abschließen. Jede andere Auf lösung gilt als 
+Niederlage (siehe „Einzelspielszenario“ auf Seite 8).
+Siehe „Szenendeck und Agendadeck“ auf Seite 20.
+Grundwert
+Der Grundwert ist der Wert eines Elementes, bevor Modifikatoren 
+ange wendet werden. Wenn nicht anders angegeben, ist der Grundwert 
+eines Elementes, das von einer Karte abgeleitet ist, der auf dieser Karte 
+aufgedruckte Wert.
+12
+REFERENZHANDBUCH
+
+Handkartenlimit
+Siehe „IV. Unterhaltsphase“ auf Seite 25.
+Heilen
+„Heilen“ ist eine Anweisung, die eine angegebene Menge Schaden oder eine 
+angegebene Menge Horror von einer Karte entfernt.
+ = Falls eine Karte um mehr Schaden oder Horror geheilt wird, als sie 
+aktuell auf sich hat, wird so viel von der angegebenen Menge wie 
+möglich entfernt.
+Hinweise
+Hinweise stellen den Fortschritt dar, den die Ermittler bei der Lösung 
+eines Geheimnisses, der Aufdeckung einer Verschwörung und/oder dem 
+Vorrücken im Szenario machen können.
+ = Wenn ein Ermittler zum ersten Mal einen Ort betritt, wird dieser 
+Ort enthüllt (auf die Vorderseite gedreht) und es werden Hinweise 
+in Höhe des Hinweiswertes des Ortes auf ihn platziert (aus dem 
+Markervorrat). Die meisten Hinweiswerte sind Werte „pro Ermittler 
+(󲆃)“. Dies kann auch in der Vorbereitung passieren.
+ = Man kann einen Hinweis auf einem Ort entdecken, indem an einem 
+Ort erfolgreich ermittelt wird (siehe „Ermitteln (Aktion)“ auf Seite 9), 
+oder durch die Fähigkeit einer Karte. Falls ein Ermittler einen 
+Hinweis entdeckt, nimmt er den Hinweis von dem Ort und platziert 
+ihn auf seine Ermittlerkarte unter seiner Kontrolle.
+ = Falls es keine „ Ermittlungsziel  –“-Voraussetzungen für das 
+Vorrücken der aktuellen Szene gibt, dürfen die Ermittler während 
+des Ermittlerzugs eines beliebigen Ermittlers die benötigte Anzahl 
+Hinweise von ihren Ermittlerkarten ausgeben (normalerweise als 
+Wert „pro Ermittler“ angegeben), um im Szenendeck vorzurücken. 
+Dies passiert normalerweise als 󲅺-Spielerfähigkeit. Ein oder alle 
+Ermittler dürfen eine beliebige Anzahl Hinweise zur Gesamtzahl 
+der Hinweise beitragen, die benötigt werden, um im Szenendeck 
+vorzurücken.
+ = Eine Kartenfähigkeit, die sich auf Hinweise „an einem Ort“ bezieht, 
+bezieht sich auf die noch nicht entdeckten Hinweise, die sich aktuell 
+auf dem Ort befinden.
+Siehe auch: „Szenendeck und Agendadeck“ auf Seite 20, „Marker, keine mehr 
+übrig“ auf Seite 16.
+Im Spiel/Nicht im Spiel
+Die Karten, die ein Spieler in seiner Spielzone kontrolliert, gelten als  
+im Spiel. 
+Die aktuelle Szene, die aktuelle Agenda, jeder Ort in der Spielzone und jede 
+Begegnungskarte in der Bedrohungszone eines Ermittlers oder an einem Ort 
+gelten alle als im Spiel.
+Nicht im Spiel bezieht sich auf Karten auf der Hand eines Spielers, in einem 
+Deck, auf einem Ablagestapel, im Siegpunktestapel und beiseitegelegte oder 
+aus dem Spiel entfernte Karten.
+ = Eine Karte kommt ins Spiel, sobald sie von einer nicht im Spiel 
+befindlichen Zone zu einer Zone wechselt, die im Spiel ist.
+ = Eine Karte verlässt das Spiel, sobald sie von einer Zone, die im Spiel 
+ist, zu einer nicht im Spiel befindlichen Zone wechselt.
+ = Marker auf Karten, die im Spiel sind, gelten als im Spiel. Ressourcen 
+im Ressourcenvorrat jedes Ermittlers gelten ebenfalls als im Spiel.
+Immun
+Falls eine Karte immun gegen bestimmte Effekt-Arten ist ( zum Beispiel  
+„Immun gegen Verratskarteneffekte“ oder „Immun gegen Spielerkarten -
+effekte“ ), kann sie nicht für Effekte dieser Art gewählt oder von ihnen 
+betroffen werden. Nur die Karte selbst ist geschützt; Spielelemente, die in 
+direktem Zusammenhang mit der immunen Karte stehen (wie angehängte 
+Vorteilskarten, Marker auf der Karte oder Fähigkeiten, deren Quelle die 
+immune Karte ist), sind selbst nicht immun.
+ = Falls eine Karte eine Immunität gegen einen Effekt erhält, werden 
+bestehende andauernde Effekte, die bereits vorher auf die Karte 
+angewendet worden sind, nicht entfernt. Falls eine Karte eine  
+Immunität gegen einen Effekt verliert, werden bestehende 
+andauernde Effekte dieser Art nicht auf die Karte angewendet.
+ = Immunität beschützt eine Karte nur vor Effekten. Sie beschützt eine 
+Karte nicht vor Kosten.
+In einen Kampf verwickeln (Aktion)
+„In einen Kampf verwickeln“ ist eine Aktion, die ein Ermittler in seinem Zug 
+in der Ermittlungsphase nehmen darf.
+Um einen Gegner am selben Ort in einen Kampf zu verwickeln, platziert ein 
+Ermittler den gewählten Gegner in seine Bedrohungszone. (Z. B. um einen 
+Gegner mit Zurückhaltend in einen Kampf zu verwickeln oder um einen Gegner 
+in einen Kampf zu verwickeln, der erschöpft oder mit einem anderen Ermittler in 
+einen Kampf verwickelt ist .) Der Ermittler und der Gegner sind jetzt in einen 
+Kampf verwickelt.
+ = Ein Ermittler darf die Aktion „in einen Kampf verwickeln“ 
+durchführen, um einen Gegner in einen Kampf zu verwickeln, der am 
+selben Ort mit einem anderen Ermittler in einen Kampf verwickelt 
+ist. Der Gegner löst sich gleichzeitig vom vorherigen Ermittler und 
+verwickelt den Ermittler, der die Aktion durchführt, in einen Kampf.
+ = Ein Ermittler kann die Aktion „in einen Kampf verwickeln“ nicht 
+verwenden, um einen Gegner in einen Kampf zu verwickeln, mit dem 
+er bereits in einen Kampf verwickelt ist.
+In Spielerreihenfolge
+Falls die Spieler angewiesen werden eine Reihe von Handlungen „in Spieler -
+reihenfolge“ durchzuführen, führt der Ermittlungsleiter seinen Teil der 
+Handlungen zuerst durch und die anderen Spieler sind im Uhrzeigersinn 
+danach an der Reihe. Der Begriff „der nächste Spieler“ bezieht sich in 
+diesem Zusammenhang auf den nächsten Spieler, der (im Uhrzeigersinn) in 
+Spielerreihenfolge handelt.
+Ins Spiel bringen
+Einige Kartenfähigkeiten bewirken, dass eine Karte „ins Spiel gebracht 
+wird“. Diese Fähigkeiten bringen die Karte direkt aus einer Zone außerhalb 
+des Spiels ins Spiel.
+ = Die Ressourcenkosten der Karte, die ins Spiel gebracht wird,  
+werden nicht bezahlt .
+ = Falls von der „Ins Spiel bringen“-Fähigkeit nichts anders angegeben 
+wird, werden diese Karten in einer Zone ins Spiel gebracht, 
+welche die normalen Spielregeln für das Spielen oder (im Fall von 
+Begegnungskarten) Ziehen dieser Karte erfüllt.
+ = Eine Karte, die ins Spiel gebracht worden ist, gilt nicht als gespielt 
+oder gezogen.
+13
+REFERENZHANDBUCH
+
+Ins Spiel kommen
+Der Begriff „ins Spiel kommen“ bezieht sich auf jeden Zeitpunkt, an dem eine 
+Karte aus einer Zone außerhalb des Spiels auf eine Spielzone übergeht (siehe 
+„Im Spiel/Nicht im Spiel“ auf Seite 13).
+ = Falls eine Fähigkeit (entweder auf der Karte selbst oder von einer 
+anderen Karte) eine Karte in einem anderen Zustand als durch die 
+Regeln angegeben ins Spiel kommen lässt, gibt es keinen Übergang zu 
+diesem Status. Sie kommt einfach in diesem Zustand ins Spiel.
+Jäger
+Jäger ist eine Schlüsselwortfähigkeit.
+Während der Gegnerphase (im Rahmenschritt 3.2, Seite 25) bewegt 
+sich jeder spielbereite, nicht in einen Kampf verwickelte Gegner mit dem 
+Schlüsselwort Jäger auf kürzestem Weg in Richtung des nächstgelegenen 
+Ermittlers auf einen verbundenen Ort. Gegner an einem Ort mit einem oder 
+mehreren Ermittlern bewegen sich nicht.
+ = Falls es mehrere gleich weit entfernte Ermittler gibt, die alle als 
+„nächstgelegene Ermittler“ in Frage kommen, bewegt sich der Gegner 
+auf den Ermittler zu, der seine „Beute“-Anweisung am besten erfüllt. 
+Falls dies keiner tut oder falls der Gegner keine Beute-Anweisung 
+hat, darf der Ermittlungsleiter entscheiden, in Richtung welches 
+Ermittlers sich der Gegner bewegt.
+ = Falls sich ein Jäger-Gegner auf einen Ort bewegen müsste, der Weg 
+auf diesen Ort aber durch eine Kartenfähigkeit versperrt ist, bewegt 
+sich der Gegner nicht.
+Siehe auch: „Beute“ auf Seite 5.
+Kampagnenspiel
+Eine Kampagne ist eine Reihe von miteinander verbundenen Szenarien, in 
+denen jeder Spieler von einem Szenario zum nächsten denselben Ermittler 
+spielt. Im Verlauf der Kampagne erhält der Ermittler Erfahrungspunkte und 
+Traumata, was sich durch Veränderungen seines Decks widerspiegelt. Jede 
+Entscheidung, die in einer Kampagne getroffen worden ist, kann in späteren 
+Szenarien Auswirkungen haben.
+Sobald man eine Kampagne beginnt, werden die Anweisungen für die 
+Vorbereitung der Kampagne im Kampagnenleitfaden befolgt. Nachdem man 
+ein Szenario in einer Kampagne durchgespielt hat, werden die Ergebnisse im 
+Kampagnenlogbuch notiert.
+Erfahrung
+Nachdem die Ermittler die Ergebnisse eines Szenarios notiert haben, können 
+sie mit ihrer gewonnenen Erfahrung neue Karten für ihre Decks erwerben. 
+Dazu werden die folgenden Schritte in angegebener Reihen  - 
+folge durchgeführt:
+1. Erfahrungspunkte zählen:  Jeder Ermittler verdient Erfahrungspunkte 
+in Höhe der Summe der Siegpunktewerte auf allen Karten im 
+Siegpunktestapel, modifiziert durch Boni und Mali, die im 
+Kampagnenleitfaden für diese Auf lösung angegeben sind. Diese Summe 
+wird zu eventuell noch nicht ausgegebenen Erfahrungspunkten des 
+Ermittlers addiert, die er in vorherigen Szenarien dieser Kampagne 
+gewonnen hat.
+2. Neue Karten erwerben:  Nun dürfen neue Karten erworben und dem 
+Deck des Spielers hinzugefügt werden, indem man Erfahrungspunkte 
+in Höhe der Kartenstufe ausgibt (erkennbar an der Anzahl der weißen 
+Punkte oben links auf der Karte). Beim Erwerben neuer Karten beachtet 
+man folgende Regeln:
+ = Die Deckbaurichtlinien des Ermittlers (auf der Rückseite der 
+Ermittler  karte) müssen beim Erwerb neuer Karten beachtet werden. 
+Man darf nur Karten erwerben, auf die der Ermittler Zugriff hat. Die 
+Anforderungen für die Deckgröße müssen ebenfalls beachtet werden, 
+indem für jede (nicht dauerhafte) Karte, die erworben und dem Deck 
+hinzugefügt worden ist, eine andere Karte aus dem Deck entfernt 
+wird. Schwächekarten und Karten, die dem Deck eines Ermittlers 
+hinzugefügt werden müssen, dürfen nicht für neu erworbene Karten 
+entfernt werden.
+ = Jede Karte kostet Erfahrungspunkte in Höhe der Kartenstufe, bis 
+zu einem Minimum von 1 (der Kauf einer Karte der Stufe Null kostet 
+trotzdem 1 Erfahrungspunkt). Die Anzahl der weißen Punkte unter 
+den Kosten einer Karte gibt die Stufe der Karte an. 
+ = Sobald man eine Karte erwirbt, die eine höherstufige Version einer 
+Karte mit demselben Kartennamen ist, darf der Ermittler diese Karte 
+„verbessern“, indem er nur die Differenz der Erfahrung zwischen 
+den beiden Karten zahlt (bis zu einem Minimum von 1) und die 
+niedrigerstufige Version aus seinem Deck entfernt.
+ = Neue Karten werden einzeln erworben (oder verbessert). Falls ein 
+Ermittler mehr als 1 Kopie einer neuen Karte erwerben möchte, muss 
+er für jede Kopie einzeln zahlen und für jede erworbene Kopie eine 
+Karte aus seinem Deck entfernen.
+ = Ein Spieler kann sein Deck im Verlauf einer Kampagne nur durch die 
+oben angegebenen Schritte und durch besondere Anweisungen im 
+Kampagnenleitfaden verändern.
+3. Nicht ausgegebene Erfahrungspunkte notieren:  Jeder Ermittler 
+notiert seine nicht ausgegebenen Erfahrungspunkte im Kampagnen -
+logbuch. Diese Erfahrungspunkte können zu einem späteren Zeitpunkt 
+in der Kampagne ausgegeben werden.
+Trauma
+Trauma steht für dauerhaften Schaden an der Ausdauer oder der Psyche eines 
+Ermittlers. 
+Falls ein Ermittler in einem Szenario besiegt wird, scheidet dieser Ermittler aus 
+dem Szenario, aber nicht unbedingt aus der Kampagne aus.
+Falls ein Ermittler durch Schaden in Höhe seiner Ausdauer besiegt worden ist, 
+erleidet er 1 körperliches Trauma (wird im Kampagnenlogbuch notiert). Für 
+jedes körperliche Trauma des Ermittlers beginnt dieser jedes künftige Szenario 
+mit 1 Schaden. Falls ein Ermittler körperliche Traumata in Höhe seiner 
+aufgedruckten Ausdauer hat, wird der Ermittler getötet.
+Falls ein Ermittler durch Horror in Höhe seiner geistigen Gesundheit besiegt 
+worden ist, erleidet er 1 seelisches Trauma (wird im Kampagnenlog  buch 
+notiert). Für jedes seelische Trauma des Ermittlers, beginnt dieser jedes 
+künftige Szenario mit   Horror. Falls ein Ermittler seelische Traumata in Höhe 
+seiner aufgedruckten geistigen Gesundheit hat, ist der Ermittler wahnsinnig 
+geworden.
+Falls ein Ermittler besiegt worden ist, indem er gleichzeitig Schaden in Höhe 
+seiner Ausdauer und Horror in Höhe seiner geistigen Gesundheit erhalten hat, 
+wählt er, welches Trauma er erleidet.
+Falls ein Ermittler getötet oder wahnsinnig geworden ist, muss der Spieler 
+einen neuen Ermittler für das nächste Szenario wählen und für diesen ein 
+neues Deck erstellen. Getötete oder wahnsinnige Ermittler können für den 
+Rest der Kampagne nicht verwendet werden (siehe „Getötete/Wahnsinnige 
+Ermittler“ auf Seite 12).
+Falls ein Spieler einen neuen Ermittler wählen möchte und sich keine  
+weiteren Ermittler im Kartenpool befinden, haben die Spieler verloren  
+und die Kampagne endet.
+Besiegt durch eine Kartenfähigkeit
+Ein Ermittler kann durch eine Kartenfähigkeit besiegt werden. Ein besiegter 
+Ermittler scheidet aus dem Spiel aus (siehe „Ausscheiden“ auf Seite 4). Sollte dies 
+eintreten, befolgt man die Anweisungen der Karten  fähig  keit, um festzustellen, 
+ob dies langfristige Konsequenzen zur Folge hat.
+14
+REFERENZHANDBUCH
+
+Zum nächsten Szenario vorrücken
+Nachdem man ein Szenario abgeschlossen hat, die Auf lösung durchgeführt, 
+das Kampagnenlogbuch auf den neusten Stand gebracht und neue Karten 
+erworben hat, rückt man zum nächsten Szenario (in der Reihen  folge) der 
+Kampagne vor, falls die Auf lösung des Szenarios die Ermittler nicht direkt zu 
+einem anderen Szenario leitet.
+Einer Kampagne beitreten oder sie verlassen
+Hat eine Kampagne erst einmal begonnen, können die Spieler zwischen zwei 
+Szenarien der Kampagne beitreten oder sie verlassen.
+Falls ein Spieler eine Kampagne verlässt, werden die Informationen über 
+diesen Spieler nicht aus dem Kampagnenlogbuch gelöscht, da er zu einem 
+späteren Zeitpunkt wieder zwischen zwei Szenarien einsteigen darf. 
+Falls ein neuer Spieler einer Kampagne beitritt, muss er einen Ermittler 
+wählen, der in dieser Kampagne zuvor noch nicht verwendet worden ist. 
+Dieser Spieler beginnt das Spiel, als ob es sich für ihn um das erste Szenario 
+der Kampagne handeln würde, ohne Erfahrung und ohne Traumata.
+ Kampf (Aktion)
+„Kampf “ ist eine Aktion, die ein Ermittler in seinem Zug in der 
+Ermittlungsphase nehmen darf. 
+Um gegen einen Gegner an seinem Ort zu kämpfen, handelt ein Ermittler 
+einen Angriff gegen den Gegner ab, indem er eine Kampfprobe gegen den 
+Kampfwert dieses Gegners ablegt (siehe „Fertigkeitsproben“ auf Seite 11).
+Falls die Probe gelingt, ist der Angriff erfolgreich und dem angegriffenen 
+Gegner wird Schaden zugefügt. Normalerweise wird durch einen Angriff 
+1 Schaden zugefügt. Einige Waffen, Zauber oder andere Spezial  angriffe 
+können diesen Schaden modifizieren. (Dies passiert in Schritt 7 der 
+Fertigkeitsprobe „FP.7 Ergebnis der Fertigkeitsprobe anwenden“ auf 
+Seite 26.)
+Falls die Probe misslingt, wird dem angegriffenen Gegner kein Schaden 
+zugefügt. Falls aber einem Ermittler diese Probe gegen einen Gegner, der mit 
+einem einzelnen anderen Ermittler in einen Kampf verwickelt ist, misslingt, 
+wird der Schaden dem Ermittler zugefügt, der mit dem Gegner in einen 
+Kampf verwickelt ist.
+ = Ein Ermittler darf gegen einen beliebigen Gegner an seinem Ort 
+kämpfen: den Gegner, mit dem er in einen Kampf verwickelt ist, einen 
+Gegner am selben Ort, der nicht in einen Kampf verwickelt ist, oder 
+einen Gegner, der mit einem anderen Ermittler am selben Ort in 
+einen Kampf verwickelt ist. 
+Kann nicht/Können nicht
+Der Begriff „kann nicht“ hat absolute Gültigkeit und kann nicht von anderen 
+Fähigkeiten widerrufen werden.
+Karten ziehen
+Sobald ein Spieler angewiesen wird eine oder mehrere Karten zu ziehen, zieht 
+er diese Karten oben von seinem Ermittlerdeck und fügt sie seiner Hand 
+hinzu. 
+Sobald ein Spieler angewiesen wird eine oder mehrere Begegnungs  karten 
+zu ziehen, zieht er diese Karten oben vom Begegnungsdeck und handelt 
+diese nach den Regeln für das Ziehen von Begegnungskarten im Rahmen -
+ereignisschritt „1.4 Jeder Ermittler zieht 1 Begegnungskarte“ auf Seite 24 
+ab.
+ = Sobald ein Spieler zwei oder mehr Karten als Ergebnis einer einzigen 
+Fähigkeit oder eines Spielschrittes zieht, werden diese Karten 
+gleichzeitig gezogen. Falls ein Deck währenddessen leer wird, wird 
+es zunächst neu gemischt und dann werden die restlichen Karten 
+gezogen.
+ = Es gibt kein Limit, wie viele Karten ein Spieler in jeder Runde ziehen 
+darf.
+ = Falls ein Ermittler mit einem leeren Ermittlerdeck eine Karte ziehen 
+muss, mischt er seinen Ablagestapel zurück in sein Deck und zieht 
+dann die Karte. Nachdem das Ziehen vollständig abgeschlossen ist, 
+nimmt er 1 Horror.
+Kartentypen
+Informationen über die Kartentypen des Spiels und ihren genauen Auf bau 
+befinden sich in Anhang IV (siehe „Anhang IV: Auf bau der Karten“ auf 
+Seite 28).
+ = Falls eine Fähigkeit dafür sorgt, dass eine Karte ihren Kartentyp 
+ändert, verliert sie alle anderen Kartentypen, die sie möglicherweise 
+hat, und funktioniert genau wie andere Karten des neuen Kartentyps.
+Siehe auch: „Vorteilskarten“ auf Seite 21, „Gegnerkarten“ auf Seite 11, 
+„Ereigniskarten“ auf Seite 9, „Ortskarten“ auf Seite 17, „Fertigkeitskarten“ 
+auf Seite 11, „Verratskarten“ auf Seite 21.
+Kontrolle
+Siehe „Besitz und Kontrolle“ auf Seite 5.
+Kopie
+Eine Kopie einer Karte wird durch ihren Kartennamen bestimmt. Eine 
+zweite Kopie einer Karte ist eine andere Karte mit demselben Karten  namen, 
+unabhängig von Kartentyp, Text, Bild oder anderen Eigenschaften der Karte.
+Kosten
+Es gibt zwei Arten von Kosten im Spiel: Ressourcenkosten und 
+Fähigkeitskosten.
+Die Ressourcenkosten einer Karte entsprechen ihrem numerischen Wert, 
+der (in Ressourcen) bezahlt werden muss, um diese Karte von der Hand zu 
+spielen. Um die Ressourcenkosten zu bezahlen, nimmt ein Ermittler eine 
+bestim  mte Anzahl Ressourcen aus seinem Ressourcenvorrat und legt sie  
+in den Markervorrat zurück.
+Einige ausgelöste Kartenfähigkeiten haben das Format „Kosten: Effekt“. 
+In diesem Fall gibt der Teil vor dem Doppelpunkt die Kosten der Fähigkeit 
+an, die bezahlt werden müssen, sowie Auslösebedingungen, die erfüllt sein 
+müssen, um die Fähigkeit auszulösen. Der Teil nach dem Doppelpunkt ist 
+der Effekt.
+ = Falls mehrere Kosten für eine einzelne Karte oder Fähigkeit bezahlt 
+werden müssen, müssen diese Kosten gleichzeitig bezahlt werden.
+ = Nur der Spieler, der eine Karte oder Fähigkeit kontrolliert, darf ihre 
+Kosten bezahlen. Es dürfen keine Spielelemente verwendet werden, 
+die andere Spieler kontrollieren, um Kosten zu bezahlen.
+ = Sobald ein Spieler Karten erschöpft, opfert oder anderweitig 
+verwendet, um Kosten zu bezahlen, dürfen nur Karten im Spiel und 
+unter der Kontrolle jenes Spielers verwendet werden, falls die Kosten 
+nicht ausdrücklich den Status außerhalb des Spiels angeben.
+ = Falls zum Bezahlen von Kosten ein Spielelement benötigt wird, 
+das nicht im Spiel ist, darf der Spieler, der die Kosten bezahlt, nur 
+Spielelemente verwenden, die sich in seinen Spielzonen befinden (wie 
+seine Hand oder sein Deck), um die Kosten zu bezahlen.
+ = Falls die Ermittler angewiesen werden Kosten als Gruppe zu 
+bezahlen, darf jeder Ermittler (oder jeder Ermittler der durch die von 
+der Fähigkeit definierten Gruppe) zu den Kosten beitragen.
+ = Eine Fähigkeit kann nicht initiiert werden und ihre Kosten nicht 
+bezahlt werden, falls das Abhandeln ihrer Effekte den Spielstatus 
+nicht ändern.
+15
+REFERENZHANDBUCH
+
+ = Falls ein Ermittler als Kosten Schaden oder Horror nimmt und 
+einen Teil davon auf eine Vorteilskarte umverteilt, gelten die Kosten 
+trotzdem als bezahlt.
+Leer
+Falls das aufgedruckte Textfeld einer Karte durch eine Fähigkeit behandelt 
+wird, als ob es „leer“ wäre, wird dieses Textfeld behandelt, als ob es keinen 
+aufgedruckten Inhalt hätte. Text und/oder Symbole, die aus anderen Quellen 
+stammen, werden dadurch nicht geleert.
+ = Das Textfeld einer Karte enthält Merkmale, Schlüsselwörter,  
+Kartentexte und Fähigkeiten.
+Leerer Ort
+Ein leerer Ort ist ein Ort, an dem sich keine Gegner oder Ermittler befinden.
+Marker, keine mehr übrig
+Es gibt keine Begrenzungen für die Anzahl der Marker (jeder Art), die sich 
+zu einem Zeitpunkt in der Spielzone befinden können. Falls die Spieler keine 
+von den mitgelieferten Markern mehr übrig haben, können andere Marker, 
+Zähler oder Münzen verwendet werden, um den aktuellen Spielstatus 
+festzuhalten.
+Merkmale
+Die meisten Karten haben 1 oder mehrere Merkmale, die oben im Textfeld in 
+fett-kursiv  gedruckt sind.
+ = Merkmale haben keinen eigenständigen Effekt auf das Spiel.  
+Stattdessen beziehen sich einige Kartenfähigkeiten auf Karten,  
+die spezielle Merkmale besitzen.
+Modifikatoren
+Einige Fähigkeiten modifizieren Werte oder Mengen von Eigenschaften. 
+Der Spielstatus fragt ständig variable Werte und Mengen ab und bringt (falls 
+nötig) die modifizierten Werte auf den neusten Stand.
+Immer wenn ein neuer Modifikator angewendet (oder entfernt) wird, 
+wird das gesamte Ergebnis komplett neu berechnet, ausgehend vom nicht 
+modifizierten Grundwert und unter Beachtung aller Modifikatoren.
+ = Sobald ein Wert berechnet wird, gelten alle Modifikatoren als 
+gleichzeitig angewendet. Bei der Berechnung werden jedoch alle 
+Modifikatoren, die etwas addieren oder subtrahieren, durchgeführt, 
+bevor ein Wert verdoppelt oder halbiert wird.
+ = Bruchzahlen werden aufgerundet, nachdem alle Modifikatoren 
+angewendet worden sind.
+ = Eine Mengenangabe auf einer Karte (wie ein Eigenschaftswert, 
+ein Symbol, die vorhandene Anzahl eines Merkmals oder 
+Schlüsselwortes) kann nicht funktional unter Null fallen. Negative 
+Modi  fi katoren, die über die aktuelle Anzahl des Wertes hinaus  gehen, 
+werden zwar angewendet, aber ein negatives Ergebnis wird nach der 
+Anwendung aller Modifikatoren behandelt, als ob der Wert Null wäre. 
+(Beispiel: Hans-Werner legt eine Beweglichkeitsprobe ab und deckt einen 
+Chaosmarker mit dem Wert –8 auf. Sobald dieser Modifikator auf seine 
+Beweglichkeit von 4 angewendet wird, würde dies seinen Fertigkeitswert 
+auf –4 senken. Seine Beweglichkeit kann aber nicht so weit gesenkt 
+werden, dass sie funktional unter Null liegen würde. Auch wenn der 
+Modifikator von –8 existiert, wird seine Beweglichkeit wie Null behandelt. 
+Falls Hans-Werner nun Glückspilz! spielen würde, um einen Bonus von 
++2 zu erhalten, würde dieser Bonus allerdings nicht auf den funktionalen 
+Wert der Fertigkeit von Null angewendet, sondern gemeinsam mit allen 
+anderen aktiven Modifikatoren. Hans-Werners Beweglichkeit würde dann 
+folgendermaßen berechnet werden: Grundfertigkeitswert 4, –8 durch den 
+Chaosmarker, +2 durch „Glückspilz!“ was ein Ergebnis von –2 ergeben 
+würde, was immer noch wie Null behandelt wird.)
+Müssen
+Falls ein Ermittler angewiesen wird, dass er zwischen mehreren Optionen 
+wählen „muss“, ist er verpf lichtet eine Option zu wählen, welche die 
+Möglichkeit hat, den Spielstatus zu verändern.
+ = Falls eine Form des Wortes „müssen“ fehlt, sobald eine Auswahl 
+zwischen mehreren Möglichkeiten getroffen wird, kann man bei der 
+Abhandlung dieses Effektes jede Möglichkeit wählen – selbst eine 
+Möglichkeit, die den Spielstatus nicht ändert.
+Mulligan
+Nachdem ein Spieler während der Vorbereitung seine Starthand gezogen hat, 
+erhält dieser Spieler einmalig einen Mulligan: Er darf eine beliebige Anzahl 
+der gezogenen Karten auswählen, die er nicht auf seiner Starthand behalten 
+will. Diese Karten werden beiseitegelegt und er zieht genauso viele Karten 
+nach und fügt sie seiner Starthand hinzu. Die beiseitegelegten Karten werden 
+dann zurück in das Deck dieses Spielers gemischt.
+ = Die Spieler nehmen ihren Mulligan (oder verzichten darauf) in 
+Spielerreihenfolge.
+Mythosphase
+Siehe „I. Mythosphase“ auf Seite 24.
+Nachdem
+Das Wort „nachdem“ bezieht sich auf den Zeitpunkt direkt nachdem die 
+angegebene Timing-Vorgabe oder auslösende Bedingung vollständig 
+abgehandelt worden ist.
+(Beispiel: Eine Fähigkeit mit dem Text: „Nachdem du eine Gegnerkarte gezogen 
+hast“ wird sofort initiiert, nachdem alle Schritte für das Ziehen einer Gegnerkarte 
+abgehandelt worden sind – seine Enthüllungsfähigkeit abgehandelt worden ist, 
+Monster erschienen sind, u. s. w.)
+Siehe auch: „Fähigkeiten“ auf Seite 10, „Priorität bei gleichzeitiger 
+Abhandlung“ auf Seite 17.
+Nachrüsten
+Nachrüsten ist eine Schlüsselwortfähigkeit.
+Nachdem eine Begegnungskarte mit dem Schlüsselwort Nachrüsten gezogen 
+und abgehandelt worden ist, muss ein Ermittler eine weitere Karte vom 
+Begegnungsdeck ziehen.
+ = Falls eine Karte mit Nachrüsten während der Vorbereitung gezogen 
+wird, handelt man das Schlüsselwort Nachrüsten ab.
+Nächstgelegen
+Einige Karten beziehen sich auf die „nächstgelegene“ Entität. Nächst -
+gelegen bezieht sich auf die Entität der angegebenen Art an dem Ort, der mit 
+den wenigsten Verbindungen erreicht werden kann, selbst wenn eine oder 
+mehrere dieser Verbindungen durch eine andere Kartenfähigkeit blockiert 
+sind. Der Weg zur nächstgelegenen Entität ist der „kürzeste“ Weg zu dieser 
+Entität.
+16
+REFERENZHANDBUCH
+
+Ortskarten
+Ortskarten stehen für die Orte, welche die Ermittler im Verlauf eines 
+Szenarios erkunden. 
+ = Die kleinen Ermittlerkarten werden verwendet, um anzuzeigen,  
+an welchem Ort sich der jeweilige Ermittler befindet.
+ = Solange sich ein Ermittler an einem Ort befindet, befindet sich der 
+entsprechende Ermittler, alle seine Vorteilskarten und jede Karte in 
+der Bedrohungszone dieses Ermittlers am selben Ort.
+ = Orte kommen mit dem Spielstatus „verhüllt“ ins Spiel, also mit der 
+Seite ohne Schleier- und/oder Hinweiswert nach oben. Zu diesem 
+Zeitpunkt wird die enthüllte Seite noch nicht gelesen.
+ = Das erste Mal wenn ein Ermittler einen Ort betritt, wird der 
+entsprechende Ort enthüllt, indem er auf die andere Seite gedreht 
+wird, und es werden Hinweise entsprechend des Hinweiswertes des 
+Ortes auf ihn platziert (dies kann auch während der Vorbereitung 
+passieren). Die meisten Hinweiswerte sind Werte „pro Ermittler“ ( 󲆃).
+ = Ein Ort, dessen Seite mit Schleier-/Hinweiswert oben liegt, hat den 
+„enthüllt en“ Status.
+Priorität bei gleichzeitiger Abhandlung
+Falls ein Effekt gleichzeitig Auswirkungen auf mehrere Spieler hat, aber 
+die Spieler individuell Entscheidungen treffen müssen, um den Effekt 
+abzuhandeln, trifft man diese Entscheidungen in Spielerreihenfolge. Sobald 
+alle notwendigen Entscheidungen getroffen sind, wird der Effekt gleichzeitig 
+auf alle betroffenen Entitäten angewendet.
+ = Falls man zwei oder mehr erzwungene Fähigkeiten (einschließlich 
+aufgeschobene Effekte) gleichzeitig abhandeln würde, bestimmt 
+der Ermittlungsleiter, in welcher Reihenfolge man die Fähigkeiten 
+abhandelt.
+ = Falls man zwei oder mehr anhaltende Fähigkeiten und/oder 
+anhaltende Effekte nicht gleichzeitig anwenden kann, bestimmt der 
+Ermittlungsleiter die Reihenfolge, in der man sie anwendet.
+Pro Ermittler (󲆃)
+Sobald das 󲆃-Symbol nach einem Wert erscheint, wird dieser Wert mit der 
+Anzahl der Spieler multipliziert, die zu Beginn des Szenarios im Spiel waren.
+ = Die Multiplikation „pro Ermittler“ erfolgt vor allen anderen 
+Modifikatoren und das Ergebnis dieser Multiplikation wird 
+behandelt, als wäre es der aufgedruckte Wert dieser Karte.
+ = Bei Text, der den Begriff „pro Ermittler“ enthält, zählt man die 
+Anzahl der Ermittler zu Beginn des Szenarios und er wird vor allen 
+anderen Modifikatoren angewendet.
+ = Falls Ermittler aus dem Szenario ausgeschieden sind, zählen sie bei 
+der Bestimmung des Wertes „pro Ermittler“ weiterhin mit.
+Ressourcen
+Ressourcen bieten den Ermittlern Möglichkeiten, neue Karten zu erwerben, 
+die ihnen im weiteren Spielverlauf dann zur Verfügung stehen: Vorräte, Geld, 
+Werkzeuge, Wissen, Spruchkomponenten, u.s.w. 
+ = Um eine Karte zu spielen oder eine Fähigkeit zu verwenden, die 
+Ressourcenkosten hat, muss ein Ermittler ihre Ressourcenkosten 
+bezahlen, indem er die angegebene Anzahl Ressourcen aus seinem 
+Ressourcenvorrat nimmt und sie zurück in den Markervorrat legt 
+(siehe „Kosten“ auf Seite 15).
+ = Ressourcen kann man durch die Ressourcen-Aktion erhalten (siehe 
+„Ressourcen (Aktion)“ auf Seite 17).
+ = Die Ermittler erhalten außerdem in jeder Unterhaltsphase 
+1 Ressource (siehe „4.4 Jeder Ermittler zieht 1 Karte und erhält 
+1 Ressource“ auf Seite 25).
+Siehe auch: „Marker, keine mehr übrig“ auf Seite 16.
+Ressourcen (Aktion)
+„Ressource“ ist eine Aktion, die ein Ermittler in seinem Zug in der Ermittler -
+phase nehmen darf.
+Sobald ein Ermittler diese Aktion nimmt, erhält dieser Ermittler 
+eine Ressource, die er aus dem Markervorrat nimmt und seinem 
+Ressourcenvorrat hinzufügt.
+Sammlung
+Falls eine Fähigkeit sich auf die Sammlung eines Spielers bezieht (Beispiel: 
+„durchsuche die Sammlung“),  wird die Kartensammlung verwendet, aus der 
+das Spielerdeck des betreffenden Spielers gebaut wurde. 
+Beispiel: Hans-Werner und Rudolf verwenden jeweils ein Deck, das aus der 
+Kartensammlung von Hans-Werner erstellt wurde. Falls Rudolf angewiesen wird 
+„die Sammlung zu durchsuchen“, durchsucht er Hans-Werners Sammlung.
+Schaden/Horror nehmen
+„Du nimmst X Schaden“ ist eine Abkürzung für „füge deinem Ermittler 
+X Schaden zu“. „Du nimmst X Horror“ ist eine Abkürzung für „füge deinem 
+Ermittler X Horror zu“.
+Siehe „Schaden/Horror zufügen“ auf Seite 17.
+Schaden/Horror zufügen
+Ermittler können in diesem Spiel auf zwei Arten in Bedrängnis geraten: 
+Durch Schaden und durch Horror. Schaden betrifft die Ausdauer eines 
+Ermittlers, Horror die geistige Gesundheit.
+Sobald einem Ermittler oder einem Gegner Schaden und/oder Horror 
+zugefügt wird, befolgt man die nachstehenden Schritte in der angegebenen 
+Reihenfolge:
+1. Schaden/Horror zuweisen: Man bestimmt die Menge an Schaden 
+und/oder Horror, die zugefügt wird. Schadens- und/oder Horrormarker 
+in Höhe des zugefügten Schadens/Horrors werden neben die Karte, 
+welcher der Schaden/Horror zugefügt wird, platziert. 
+ = Sobald einem Ermittler Schaden oder Horror zugefügt wird, darf 
+dieser Ermittler ihn beliebigen gültigen Vorteilskarten zuweisen, 
+die er kontrolliert. Damit eine Vorteilskarte gültig ist Schaden 
+zugewiesen zu bekommen, muss sie Ausdauer haben. Damit sie 
+gültig ist Horror zugewiesen zu bekommen, muss die Karte Geistige 
+Gesundheit haben.
+ = Einer Vorteilskarte kann nicht mehr Schaden und/oder Horror 
+zugewiesen werden, als nötig wäre, um diese Karte zu besiegen. 
+ = Sämtlicher Schaden/Horror, der keiner Vorteilskarte zugewiesen 
+werden kann, muss dem Ermittler zugewiesen werden.
+2. Schaden/Horror anwenden: Zugewiesener Schaden/Horror, der nicht 
+verhindert worden ist, wird nun gleichzeitig auf alle Karten platziert, 
+denen er zugewiesen worden ist. Falls in diesem Schritt kein Schaden/
+Horror angewendet wird, ist kein Schaden/Horror erfolgreich zugefügt 
+worden.
+ = Fähigkeiten, die zugeteilten Schaden und/oder Horror verhindern, 
+senken oder umverteilen, werden zwischen Schritt 1 und Schritt 2 
+abgehandelt.
+17
+REFERENZHANDBUCH
+
+ = Falls ein Ermittler, nachdem Schaden/Horror angewendet worden 
+ist, Schaden in Höhe seiner Ausdauer oder höher oder Horror in Höhe 
+seiner geistigen Gesundheit oder höher erhalten hat, ist er besiegt. 
+Sobald ein Ermittler besiegt worden ist, scheidet er aus dem Szenario 
+aus (siehe „Ausscheiden“ auf Seite 4).
+ = Falls ein Gegner, nachdem Schaden/Horror angewendet worden 
+ist, Schaden in Höhe seiner Ausdauer oder höher hat, ist er besiegt 
+und wird auf den Begegnungs-Ablagestapel gelegt (oder auf den 
+Ablagestapel ihres Besitzers, falls der Gegner eine Schwäche-Karte 
+ist).
+ = Falls eine Vorteilskarte, nachdem Schaden/Horror angewendet 
+worden ist, Schaden in Höhe ihrer Ausdauer oder höher oder Horror 
+in Höhe ihrer geistigen Gesundheit oder höher hat, ist sie besiegt und 
+wird auf den Ablagestapel ihres Besitzers gelegt.
+Schlüsselwörter
+Ein Schlüsselwort ist eine Kartenfähigkeit, die eine Karte mit speziellen 
+Regeln versieht. Für jedes Schlüsselwort gibt es eigene Regeln, die im  
+Abschnitt des jeweiligen Schlüsselwortes in diesem Glossar gefunden werden 
+können. Die Schlüsselwörter in diesem Spiel sind: Zurückhaltend, Schnell, 
+Jäger, Gewaltig, Wagnis, Zurückschlagen, Nachrüsten, Anwendungen.
+ = Außerdem gibt es zwei Schlüsselwörter beim Deckbau: 
+Außergewöhnlich und Dauerhaft. Schlüsselwörter für den Deckbau 
+beeinf lussen die individuelle Gestaltung während des Baus und/
+oder Hochstufens eines Decks. Während des Spiels haben sie keine 
+Effekte. Im Grundspiel gibt es keine Karten mit den Schlüsselwörtern 
+Außergewöhnlich oder Dauerhaft – diese Schlüsselwörter werden in 
+zukünftigen Erweiterungen eingeführt.
+ = Eine Karte, die dasselbe Schlüsselwort durch verschiedene Quellen 
+mehrfach hat/erhält, funktioniert, als ob sie 1 Instanz dieses 
+Schlüsselwortes hätte.
+ = Die Initiierung eines Schlüsselwortes, welches eine Form des 
+Wortes „dürfen“ enthält, ist optional. Die Anwendung aller übrigen 
+Schlüsselwörter ist verpflichtend.
+Siehe „Fähigkeiten“ auf Seite 10.
+Schnell
+Schnell ist eine Schlüsselwortfähigkeit. Das Spielen einer Karte mit Schnell 
+kostet keine Aktion und sie wird nicht durch die Aktion „Spielen“ gespielt.
+ = Eine Ereigniskarte mit Schnell darf jederzeit nach den Anweisungen 
+zum Spielen der Karte von der Hand eines Spielers gespielt 
+werden. Falls die Anweisungen Angaben wie „sobald/nachdem“ 
+in Verbindung mit einer Timing-Vorgabe enthalten, darf die Karte 
+gespielt werden, als ob der beschriebene Zeitpunkt die Auslöse -
+bedingung für das Spielen dieser Karte wäre. Falls die Anweisungen 
+eine Dauer oder einen Zeitraum enthalten, darf die Karte in jedem 
+Spielerfenster innerhalb dieses Zeitraums gespielt werden. Falls die 
+Anweisungen sowohl eine Angabe über einen Zeitpunkt, als auch 
+über eine Dauer oder einen Zeitraum enthalten, darf die Karte immer 
+dann gespielt werden, sobald die angegebene Auslösebedingung 
+innerhalb dieses Zeitraums auftritt. 
+ = Eine Vorteilskarte mit Schnell darf von einem Ermittler in jedem 
+Spielerfenster in seinem Zug gespielt werden. 
+ = Weil Karten mit Schnell keine Aktionen kosten, um gespielt 
+zu werden, provozieren sie keine Gelegenheitsangriffe (siehe 
+„Gelegenheits  angriff “ auf Seite 12).
+Schwäche
+Schwäche ist eine Kartenunterart. Diese Karten stehen für die 
+Charakterschwächen, Flüche, Wahnsinn, Verletzungen, Verpflichtungen, 
+Gegner oder Storyelemente, die Teil der Hintergrundgeschichte eines 
+Ermittlers sind oder im Verlauf einer Kampagne erworben werden. 
+Schwächekarten werden unterschiedlich abgehandelt, abhängig von ihrem 
+Kartentyp.
+ = Sobald ein Ermittler eine Schwäche zieht, die eine Begegnungs  karte 
+ist (zum Beispiel eine Gegner- oder Verratsschwäche ), handelt er diese 
+Karte ab, als ob sie gerade vom Begegnungsdeck gezogen worden 
+wäre.
+ = Sobald ein Ermittler eine Schwäche zieht, die eine Spielerkarte ist 
+(zum Beispiel eine Vorteils-, Ereignis- oder Fertigkeitsschwäche ), handelt 
+er sämtliche Enthüllungseffekte auf der Karte ab und fügt sie der 
+Hand des Ermittlers hinzu. Die Karte darf dann wie jede andere 
+Spielerkarte ihrer Art verwendet werden.
+ = Falls eine Schwächekarte anders als durch das Ziehen einer Karte 
+auf die Hand des Ermittlers kommt, muss der Ermittler die Karte 
+abhandeln (einschließlich aller Enthüllungsfähigkeiten), als ob er sie 
+gerade gezogen hätte.
+ = Der Träger einer Schwäche ist der Ermittler, der das Spiel mit dieser 
+Schwäche in seinem Deck oder seiner Spielzone begonnen hat.
+ = Falls eine Schwäche einem Spielerdeck, einer Hand oder einer 
+Bedrohungszone während des Durchspielens eines Szenarios hinzu -
+gefügt wird, bleibt sie für den Rest der Kampagne Teil des Decks 
+dieses Ermittlers (außer wenn sie durch eine Kartenfähigkeit oder 
+eine Szenarioauf lösung aus der Kampagne entfernt wird).
+ = Ein Spieler kann sich nicht dafür entscheiden, eine Schwächekarte 
+von seiner Hand abzulegen, falls eine Karte nicht ausdrücklich etwas 
+anderes besagt.
+ = Schwächen, die Begegnungskarten sind, werden wie andere 
+Begegnungskarten nicht von einem Spieler kontrolliert. Schwächen, 
+die Spielerkarten sind, werden von ihrem Träger kontrolliert.
+ = Einige Karten- und Spieltexte beziehen sich auf „Grundschwächen“. 
+Eine Grundschwäche kann man an dem Begriff „Grundschwäche“ 
+und dem unten abgebildeten Symbol erkennen.
+ © 2016 FFGIllus. Chris Peuler 96
+VERR AT
+GRUNDSCHWÄCHE
+Warte ... wo bin ich? Was habe ich getan?
+Enthüllung – Wähle alle bis auf 1 Karte von 
+deiner Hand und lege sie ab.
+Wahnsinn.
+Amnesie
+Schwierigkeit (Fertigkeitsprobe)
+Die Schwierigkeit einer Fertigkeitsprobe ist die Zahl, die ein Ermittler 
+mit seinem modifizierten Fertigkeitswert zu erreichen oder zu übertreffen 
+versucht, damit er die Probe besteht.
+ = Sobald man einen Gegner angreift, wird als Grundschwierigkeit für 
+die Fertigkeitsprobe der Kampfwert des Gegners verwendet.
+ = Sobald man an einem Ort ermittelt, wird als Grundschwierigkeit für 
+die Fertigkeitsprobe der Schleierwert des Ortes verwendet.
+ = Beim Versuch, einem Gegner zu entkommen, wird als 
+Grundschwierigkeit der Entkommen-Wert des Gegners verwendet.
+18
+REFERENZHANDBUCH
+
+ = Beim Abhandeln einer Fertigkeitsprobe, die durch eine Karten -
+fähigkeit erzeugt wird, steht die Grundschwierigkeit in Klammern 
+hinter der Angabe, auf welche Fertigkeit die Probe abgelegt wird. 
+Beispiel: Intellekt (3).
+Siehe „Timing für Fertigkeitsproben“ auf Seite 26 für die vollständigen 
+Regeln für Fertigkeitsproben.
+Schwierigkeits(grad)
+In Arkham Horror: Das Kartenspiel gibt es vier Schwierigkeitsgrade:  
+Einfach, Normal, Schwer und Experte. Die Spieler wählen zu Beginn einer 
+Kampagne oder eines Einzelszenarios den gewünschten Schwierigkeitsgrad. 
+Der Abschnitt Kampagnenvorbereitung im Kampagnen- oder 
+Szenarioführer gibt an, welche Chaosmarker beim Spiel für die jeweiligen 
+Schwierigkeitsgrade in den Chaosbeutel gelegt werden sollen.
+ = Beim Spiel mit dem Schwierigkeitsgrad Einfach oder Normal wird 
+die Seite „Einfach/Normal“ der jeweiligen Szenarioübersichtskarte 
+verwendet. Beim Spiel mit dem Schwierigkeitsgrad Schwer oder 
+Experte wird stattdessen die Seite „Schwer/Experte“ der jeweiligen 
+Szenarioübersichtskarte verwendet.
+Selbstreferenzieller Text
+Sobald sich der Text einer Kartenfähigkeit auf ihren eigenen Namen bezieht, 
+bezieht er sich nur auf die Karte selbst, nicht auf andere Kopien der Karte 
+(nach Na me).
+Selbstreferenzielle Fähigkeiten, die das Wort „diese(r)“ verwenden (z. B. 
+„diese Karte“) beziehen sich nur auf die Karte mit dieser Fähigkeit, nicht auf 
+andere Kopien dieser Karte.
+Siegpunkte, Siegpunktestapel
+Einige Begegnungskarten sind Siegpunkte wert. Der Text Sieg X zeigt an, das 
+eine Karte X Siegpunkte wert ist.
+Eine Begegnungskarte, die Siegpunkte wert ist und die durch einen Ermittler 
+überwunden wird, wird bis zum Ende des Szenarios auf den Siegpunktestapel 
+gelegt. Der Siegpunktestapel ist eine Zone außerhalb des Spiels, die sich 
+alle Spieler teilen. Sobald ein Szenario beendet wird, liefern die Karten im 
+Siegpunktestapel Erfahrungspunkte, die verwendet werden können, um das 
+Deck eines Ermittlers zu verbessern (siehe „Kampagnenspiel“ auf Seite 14).
+ = Wird ein Siegpunkte-Gegner besiegt, wird die Karte auf den 
+Siegpunktestapel statt auf den Ablagestapel platziert.
+ = Am Ende eines Szenarios wird jeder enthüllte Siegpunkte-Ort im 
+Spiel, der keine Hinweise hat, auf den Siegpunktestapel platziert.
+ = Ist die Abhandlung einer Siegpunkte-Verratskarte abgeschlossen, 
+wird sie auf den Siegpunktestapel statt auf den Ablagestapel platziert.
+Jede dieser Karten ist 1 Siegpunkt wert.
+ © 2016 FFGIllus. Yoann Boissonnet 10/16 113
+ORT
+Der blutige Kadaver einer missgestalteten Bestie hängt an 
+einem Fleischerhaken von der Decke. Darunter steht ein 
+kleines Fass, in das langsam das Blut des Kadavers tropft  .
+Sieg 1.
+Erzwungen – Nachdem du den Dachboden 
+betreten hast: Nimm 1 Horror.
+Dachboden
+1 2󲆃󲆃
+ © 2016 FFGIllus. 118Reiko Murakami 15/16
+GEGNER
+Eine monströse Kreatur labt sich am 
+verro/t_t  enden Kadaver auf dem Dachboden.
+Erscheinen – Dachboden.
+Humanoid. Monster. Ghul.
+Fleischfresser
+Sieg 1.
+4 4 1
+Slots
+Jeder Ermittler hat eine Anzahl bestimmter Slots, die mit Karten gefüllt 
+werden können. Jede Vorteilskarte in der Spiel- oder Bedrohungszone eines 
+Ermittlers mit einem Slotsymbol befindet sich auf einem Slot dieser Art. 
+Slots begrenzen die Anzahl der Vorteilskarten, die ein Ermittler gleichzeitig 
+im Spiel haben kann.
+Die Slots, die einem Ermittler normalerweise zur Verfügung stehen, sind:
+ = 1 Zubehörslot
+ = 1 Körperslot
+ = 1 Verbündeter-Slot
+ = 2 Handslots
+ = 2 arkane Slots
+Falls eine Vorteilskarte kein Slotsymbol hat, benötigt sie keinen der  
+oben genannten Slots. Es gibt keine Begrenzung für die Anzahl von 
+Vorteilskarten ohne Slotsymbol, die ein Ermittler im Spiel haben kann.  
+Folgende Symbole (auf Vorteilskarten) geben an, welchen Slot diese 
+Vorteilskarte füllt:
+1 Verbündeter-Slot1 Körperslot
+1 Zubehörslot
+1 Handslot
+1 arkaner Slot 2 arkane Slots
+2 Handslots
+Falls durch das Spielen oder das Erhalten einer Vorteilskarte ein Ermittler 
+sein Limit der Slotart jener Vorteilskarte überschreitet, muss er andere 
+Vorteilskarten, die er kontrolliert, wählen und ablegen. Dies geschieht zum 
+selben Zeitpunkt, an dem die neue Vorteilskarte ins Spiel kommt.
+Sobald
+Das Wort „sobald“ bezieht sich auf den Moment direkt nachdem die 
+angegebene Timing-Vorgabe oder Auslösebedingung initiiert worden ist, 
+aber bevor die Auswirkungen auf den Spielstatus abgehandelt werden. Die 
+Abhandlung einer „sobald“-Fähigkeit unterbricht die Abhandlung ihrer 
+Timing-Vorgabe oder Auslösebedingung. (Beispiel: Eine Fähigkeit, die besagt 
+„Sobald du eine Gegnerkarte ziehst“, wird sofort initiiert, nachdem man die 
+Gegnerkarte gezogen hat, aber bevor ihre Enthüllungsfähigkeit, ihr Erscheinen 
+u. s. w. abgehandelt werden).
+Siehe auch: „Fähigkeiten“ auf Seite 10, „Priorität bei gleichzeitiger 
+Abhandlung“ auf Seite 17.
+Spiel
+Ein „Spiel“ besteht aus einem einzelnen Szenario, nicht aus einer gesamten 
+Kampagne. In einer Kampagne bedeutet der Beginn eines neuen Szenarios 
+auch den Beginn eines neuen Spiels.
+19
+REFERENZHANDBUCH
+
+Spielbereit
+Eine Karte in aufrechter Position, sodass der Spieler, der die Karte 
+kontrolliert, den Text von links nach rechts lesen kann, gilt als spielbereit.
+ = Spielbereit ist der normale Zustand einer Karte, in dem sie ins  
+Spiel kommt. 
+ = Sobald eine erschöpfte Karte spielbereit gemacht wird, wird sie 
+in die aufrechte Position zurückgedreht. Diese Karte ist dann im 
+spielbereiten Status. 
+ = Eine spielbereite Karte kann nicht erneut spielbereit gemacht werden 
+(sie muss zuerst erschöpft werden, normalerweise durch einen 
+Spielschritt oder eine Kartenfähigkeit).
+Spieleinschränkungen, Berechtigungen und Anweisungen
+Viele Karten und Fähigkeiten enthalten spezielle Anweisungen, wann oder 
+wie sie verwendet oder nicht verwendet werden dürfen, oder Angaben zu 
+speziellen Bedingungen, die erfüllt sein müssen, um sie zu verwenden. Um 
+eine solche Fähigkeit zu verwenden oder eine solche Karte zu spielen, müssen 
+alle Spieleinschränkungen beachtet werden. 
+Eine Berechtigung ermöglicht es einem Spieler, außerhalb der normalen 
+Timing-Angaben durch die Spielregeln diese Karte zu spielen oder diese 
+Fähigkeit zu nutzen.
+Eine Spielanweisung beschreibt den Zeitpunkt oder den Zeitraum,  
+an/in dem eine Ereigniskarte gespielt werden darf.
+Spielen
+Um eine Karte zu spielen, muss ein Ermittler die Ressourcenkosten der 
+Karte bezahlen und sonstige Einschränkungen und Bedingungen der Karte 
+beachten. Die meisten Karten können nur durch die Verwendung einer 
+Spielen-Aktion gespielt werden (siehe „Spielen (Aktion)“ auf Seite 20).
+Karten mit dem Schlüsselwort Schnell werden nicht während einer 
+Spielen-Aktion gespielt. Eine solche Karte darf immer gespielt werden, 
+wenn ihre angegebene Auslösebedingung erfüllt ist, oder, falls sie keine 
+Auslösebedingung hat, während eines passenden Spielerfensters (siehe 
+„Schnell“ auf Seite 18).
+Immer wenn eine Ereigniskarte gespielt wird, werden ihre Effekte 
+abgehandelt und sie wird dann auf den Ablagestapel ihres Besitzers gelegt. 
+Immer wenn eine Vorteilskarte gespielt wird, wird sie in die Spielzone des 
+Ermittlers platziert und bleibt solange im Spiel, bis eine Fähigkeit oder ein 
+Spieleffekt dafür sorgt, dass sie das Spiel verlässt. Die meisten Vorteils  karten 
+benötigen einen oder mehrere Slots, solange sie sich im Spiel befinden (siehe 
+„Slots“ auf Seite 19).
+Fertigkeitskarten werden nicht „gespielt“. Diese Karten werden von der Hand 
+eines Spielers zu Fertigkeitsproben beigetragen , um ihre Fähigkeiten zu nutzen. 
+Siehe auch: „Anhang I: Abfolge einer Initiierung“ auf Seite 22, „Spiel -
+einschränkungen, Berechtigungen und Anweisungen“ auf Seite 20.
+Spielen (Aktion)
+„Spielen“ ist eine Aktion, die ein Ermittler in seinem Zug in der 
+Ermittlungsphase nehmen darf.
+Sobald ein Ermittler diese Aktion nimmt, sucht er eine Vorteils- oder 
+Ereigniskarte auf seiner Hand aus, zahlt die Ressourcenkosten und spielt sie 
+(siehe „Spielen“ auf Seite 20).
+ = Karten mit dem Schlüsselwort Schnell werden nicht unter Verwendung 
+dieser Aktion gespielt (siehe „Schnell“ auf Seite 18) .
+ = Fertigkeitskarten werden nicht „gespielt“. Diese Karten werden  
+von der Hand eines Spielers zu Fertigkeitsproben beigetragen ,  
+um ihre Fähigkeiten zu nutzen. 
+Statt/anstatt
+Die Wörter „statt“ und „anstatt“ zeigen einen Ersatzeffekt an. Ein 
+Ersatzeffekt ist ein Effekt, der die Abhandlung einer ausgelösten Bedingung 
+mit einer anderen Abhandlung ersetzt.
+ = Falls mehrere Ersatzeffekte aufgrund derselben Auslösebedingung 
+initiiert werden und so ein Konf likt entsteht, wie die 
+Auslösebedingung abgehandelt wird, wird der neueste Ersatzeffekt 
+für die Abhandlung der Auslösebedingung verwendet.
+ = Das Wort „würde“ wird verwendet, um die Auslösebedingung einiger 
+Fähigkeiten zu definieren, und setzt eine höhere Priorität dieser 
+Fähigkeiten gegenüber Fähigkeiten mit derselben Auslöse  bedingung 
+ohne das Wort „würde“. (Beispiel: „Sobald X passieren würde“ wird 
+vor „Sobald X passiert“ abgehandelt.)
+ = Falls ein Ersatzeffekt, der das Wort „würde“ verwendet, das Wesen 
+einer Auslösebedingung verändert, wird die ursprüngliche Auslöse -
+bedingung durch die neue Auslösebedingung ersetzt. Es dürfen 
+keine weiteren Fähigkeiten angewendet werden, die sich auf die 
+ursprüngliche Auslösebedingung beziehen.
+Stimmungstext
+Stimmungstext ist zusätzlicher Text auf einer Karte, der thematischen 
+Kontext zu der Karte und/oder ihrer Fähigkeit bietet. Stimmungstext 
+interagiert in keiner Weise mit dem Spiel. 
+Suchen
+Sobald ein Spieler angewiesen wird eine Karte zu suchen, darf dieser Spieler 
+alle Karten in der Zone, in der gesucht wird, ansehen, ohne diese Karten für 
+andere Spieler zu enthüllen.
+ = Falls ein Effekt ein ganzes Deck durchsuchen lässt, muss man das 
+Deck nach Abschluss der Suche mischen.
+ = Sobald ein Suchen-Effekt abgehandelt wird, ist ein Spieler verpf lichtet 
+das gesuchte Objekt zu finden, falls sich ein oder mehrere gültige 
+Objekte in der Zone befinden, in der man sucht.
+ = Solange man gerade in einer Anzahl Karten sucht, werden diese 
+Karten nicht als Karten behandelt, die ihre ursprüngliche Spielzone 
+verlassen haben.
+Szenendeck und Agendadeck
+Das Szenendeck steht für den Fortschritt, den die Ermittler in einem 
+Szenario machen können. Das Agendadeck steht für den Fortschritt und 
+die Ziele der finsteren Mächte, denen die Ermittler in einem Szenario 
+gegenüberstehen.
+Das Vorrücken im Szenendeck ist normalerweise gut für die Ermittler, ein 
+Vorrücken im Agendadeck hingegen schlecht.
+ = Im Szenendeck rücken die Ermittler vor, falls sie als Gruppe die 
+erforderliche Anzahl Hinweise ausgeben (die auf der Szenenkarte 
+angegeben ist). Eine Szenenkarte kann hierfür einen festen Wert 
+(wie zum Beispiel „4“) oder einen Wert pro Ermittler (erkennbar 
+an dem 󲆃-Symbol) angeben. Dies passiert normalerweise als 
+󲅺-Spielerfähigkeit. Ein oder alle Ermittler können eine beliebige 
+Anzahl Hinweise zur Gesamtzahl der Hinweise beitragen, die benötigt 
+werden, um von einer Szene aus vorzurücken. Falls die Szene eine 
+„Ermittlungsziel – “-Anweisung enthält, überschreibt diese das 
+Ausgeben von Hinweisen oder fügt zusätzliche Voraussetzungen hinzu.
+ = Das Agendadeck rückt vor, falls sich die erforderliche Anzahl 
+Verder bens marker im Spiel befindet (Verderbensmarker auf der 
+Agendakarte und Verderbensmarker auf anderen Karten im Spiel), 
+die auf der Agendakarte angegeben ist. Eine Agendakarte kann 
+einen festen Wert oder einen Wert pro Ermittler angeben. Falls 
+20
+REFERENZHANDBUCH
+
+die Agendakarte eine „ Ermittlungsziel  – “-Anweisung enthält, 
+überschreibt  diese die Verderbensmarker-Voraussetzung oder sie fügt 
+zusätzliche Voraussetzungen hinzu.
+ = Die oberste Szenen-/Agendakarte des Szenen-/Agendadecks 
+bezeichnet man als „aktuelle“ Szene/„aktuelle“ Agenda.
+Um im Szenendeck oder Agendadeck vorzurücken, werden folgende Schritte 
+in der angegebenen Reihenfolge befolgt:
+1. Alle Marker werden von der Karte, von der aus vorgerückt werden soll, 
+entfernt. Falls im Agendadeck vorgerückt wird, werden alle Verderbens -
+marker von jeder Karte im Spiel entfernt.
+2. Die Karte, von der aus vorgerückt wird, wird umgedreht und man folgt 
+den Anweisungen auf der Rückseite („b“-Seite).
+ = Falls die Rückseite der Szenen- oder Agendakarte eine Begegnungs -
+karte ist, folgt man den Regeln für das Ziehen des entsprechenden 
+Begegnungskartentyps. Ansonsten folgt man einfach den 
+Anweisungen auf der Karte.
+3. Manchmal gibt die Szenen-/Agendakarte, von der aus vorgerückt wird, 
+an, welche Karte zur nächsten Szene/Agenda wird. Falls sie dies nicht 
+tut, wird die nächste Karte im Deck automatisch zur „aktuellen“ Szene/
+Agenda. Wenn eine neue Karte zur aktuellen Szene/Agenda wird, 
+wird die Karte, von der aus vorgerückt wird, gleichzeitig aus dem Spiel 
+entfernt.
+ = Einige Anweisungen im Szenen- oder Agendadeck (sowie auf anderen 
+Begegnungskartentypen) enthalten Auflösungspunkte in folgendem 
+For mat: “(→A#)”. Falls ein Auf lösungspunkt erreicht wird, endet 
+das Szenario. Im Kampagnenleitfaden wird dann die entsprechende 
+Auflösung nachgelesen.
+Siehe auch: „Hinweise“ auf Seite 13, „Verderben“ auf Seite 21.
+Träger
+Der Träger einer Schwäche ist der Ermittler, der das Spiel mit dieser  
+Schwäche in seinem Deck oder seiner Spielzone begonnen hat.
+Siehe „Schwäche“ auf Seite 18.
+Trauma
+Siehe „Kampagnenspiel“ auf Seite 14.
+Unterhaltsphase
+Siehe „IV. Unterhaltsphase“ auf Seite 25.
+Verderben
+Verderben steht für den Fortschritt der Mächte des Mythos bei der 
+Durchführung ihrer üblen Rituale, der Beschwörung kosmischer 
+Wesenheiten und/oder der Erfüllung der Agenda in einem Szenario.
+ = Während jeder Mythosphase wird 1 Verderbensmarker auf die 
+aktuelle Agenda platziert (siehe „I. Mythosphase“ auf Seite 24).
+ = Falls es keine „ Ermittlungsziel  – “-Voraussetzungen für das 
+Vorrücken der aktuellen Agenda gibt und die angegebene Anzahl 
+Verderbens  marker im Spiel ist (auf der Agenda und allen anderen 
+Karten im Spiel), rückt man während des „Verderbensschwellenwert 
+über prüfen“-Schrittes in der Mythosphase in der Agenda vor. Dies ist 
+die einzige Möglichkeit, das Agendadeck vorzurücken, falls nicht eine 
+Karte ausdrücklich angibt, dass sie das Agendadeck vorrückt.
+ = Verderbensmarker auf Karten außer der Agenda (wie zum Beispiel auf 
+Gegnern, Verbündeten oder Orten) zählen mit bei der Bestimmung 
+der Verderbensmarker im Spiel.
+Siehe auch „Szenendeck und Agendadeck“ auf Seite 20, „ Marker, keine mehr 
+übrig“ auf Seite 16.
+Verhandlung
+Einige Fähigkeiten haben das Aktionskennzeichen Verhandlung . Solche 
+Fähigkeiten können durch die Verwendung der Aktivieren-Aktion initiiert 
+werden (siehe „Aktivieren (Aktion)“ auf Seite 2).
+Verratskarten
+Verratskarten stehen für Flüche, Heimsuchungen, Wahnsinn, Hindernisse, 
+Katastrophen und andere unerwartete Vorkommnisse, auf die ein Ermittler 
+im Verlauf eines Szenarios treffen kann. 
+Sobald ein Ermittler eine Verratskarte zieht, muss er ihren Effekt abhandeln. 
+Dann wird die Karte auf ihren Ablagestapel gelegt, falls durch die Fähigkeit 
+nichts anderes angegeben wird.
+Siehe „1.4 Jeder Ermittler zieht 1 Begegnungskarte“ auf Seite 24.
+Vorteilskarten
+Vorteilskarten stehen für Gegenstände, Verbündete, Talente, Zauber und 
+andere Dinge, die dem Ermittler helfen oder von ihm in einem Szenario 
+verwendet werden dürfen.
+ = Sobald man eine Vorteilskarte spielt, platziert man sie in seine Spiel -
+zone. Normalerweise bleiben Vorteilskarten im Spiel, wenn sie nicht 
+durch eine Kartenfähigkeit oder einen Spielschritt abgelegt werden.
+ = Einige Vorteilskarten haben Werte für Ausdauer und/oder Geistige 
+Gesundheit. Sobald einem Ermittler Schaden oder Horror zugefügt 
+wird, darf dieser Ermittler einen Teil davon oder den kompletten 
+Schaden oder Horror einer gültigen Vorteilskarte zuweisen, die er 
+kontrolliert (siehe „Schaden/Horror zufügen“ auf Seite 17).
+ = Die meisten Vorteilskarten benötigen einen oder mehrere Slots, 
+solange sie sich im Spiel befinden (siehe „Slots“ auf Seite 19).
+ = Einige Vorteilskarten haben ein Begegnungssetsymbol und keine 
+Stufenanzeige. Solche Vorteilskarten nennt man Storyvorteile. 
+Storyvorteile sind Teil eines Begegnungssets und dürfen nicht zu 
+Spielerdecks hinzugefügt werden, es sei denn, die Auf lösung oder die 
+Vorbereitung eines Szenarios erlaubt dies dem Spieler.
+Wagnis
+Wagnis ist eine Schlüsselwortfähigkeit.
+Solange das Ziehen einer Begegnungskarte mit dem Schlüsselwort Wagnis 
+abgehandelt wird, kann sich ein Ermittler nicht mit anderen Spielern beraten. 
+Diese Spieler können keine Karten spielen, Fähigkeiten auslösen oder 
+Karten zu Fertigkeitsproben des Ermittlers beitragen, solange die Wagnis-
+Begegnung abgehandelt wird.
+X (Buchstabe)
+Der Wert des Buchstaben X wird durch eine Kartenfähigkeit oder durch 
+Wahl der Spieler definiert. Falls X nicht definiert ist, ist sein Wert 0.
+ = Bei Kosten, die den Buchstaben X enthalten, ist X durch die 
+Kartenfähigkeit oder die Wahl des Spielers definiert. Danach darf die 
+zu zahlende Menge durch Effekte modifiziert werden, ohne dass dies 
+den Wert von X verändert.
+Ziehen (Aktion)
+„Ziehen“ ist eine Aktion, die ein Ermittler in seinem Zug in der Ermittlungs -
+phase nehmen darf.
+Sobald ein Ermittler diese Aktion nimmt, zieht er eine Karte von  
+seinem Deck.
+REFERENZHANDBUCH
+21
+
+Ziel
+Der Begriff „wählen“ zeigt an, dass man ein oder mehrere Ziele wählen muss, 
+damit man eine Fähigkeit abhandeln kann. Der Spieler, der die Fähigkeit 
+abhandelt, muss ein Spielelement (normalerweise eine Karte) wählen, welche 
+die Zielvoraussetzungen der Fähigkeit erfüllt.
+ = Falls eine Fähigkeit die Auswahl eines Zieles erfordert und es kein 
+gültiges Ziel (oder nicht genügend gültige Ziele) gibt, kann die 
+Fähigkeit nicht initiiert werden.
+ = Falls es erforderlich ist, dass mehrere Ziele vom selben Spieler gewählt 
+werden, werden diese gleichzeitig gewählt.
+ = Ein Effekt, der „eine beliebige Anzahl“ Ziele auswählen kann,  
+wird nicht erfolgreich abgehandelt (und kann den Spielstatus nicht 
+ändern), falls null dieser Ziele gewählt werden.
+ = Eine Karte ist kein gültiges Ziel für eine Fähigkeit, falls die 
+Abhandlung des Effektes dieser Fähigkeit den Zustand der Karte 
+nicht ändern könnte. (Beispiel: Ein erschöpfter Gegner könnte nicht 
+als Ziel eines Effektes gewählt werden, dessen Text lautet: „wähle und 
+erschöpfe einen Gegner“. ) 
+Zurückhaltend
+Zurückhaltend ist eine Schlüsselwortfähigkeit. Ein Gegner mit dem 
+Schlüsselwort Zurückhaltend verwickelt Ermittler am selben Ort nicht 
+automatisch in einen Kampf.
+ = Sobald ein Gegner mit Zurückhaltend erscheint, erscheint dieser, 
+ohne in einen Kampf verwickelt zu sein.
+ = Ein Ermittler darf die Aktion „In einen Kampf verwickeln“ oder eine 
+Kartenfähigkeit verwenden, um einen Gegner mit Zurückhaltend in 
+einen Kampf zu verwickeln.
+ = Ein Ermittler kann einen Gegner mit Zurückhaltend nicht angreifen, 
+solange dieser Gegner nicht mit einem Ermittler in einen Kampf 
+verwickelt ist.
+Zurückschlagen
+Zurückschlagen ist eine Schlüsselwortfähigkeit. 
+Immer wenn einem Ermittler eine Fertigkeitsprobe misslingt, während er 
+einen spielbereiten Gegner mit dem Schlüsselwort Zurückschlagen angreift, 
+führt dieser Gegner einen Angriff gegen den angreifenden Ermittler durch, 
+nachdem alle Ergebnisse der Fertigkeitsprobe angewendet worden sind. Ein 
+Gegner wird nicht erschöpft, nachdem er einen Zurückschlagen-  
+Angriff durchgeführt hat.
+ = Dieser Angriff geschieht unabhängig davon, ob der Gegner mit dem 
+angreifenden Ermittler in einen Kampf verwickelt ist oder nicht.
+Anhang I:  
+Abfolge einer Initiierung
+Sobald ein Spieler eine ausgelöste Fähigkeit initiieren oder eine Karte spielen 
+möchte, erklärt dieser Spieler zunächst seine Absicht. Es müssen zunächst 
+zwei Bestätigungen erfolgen, ehe der Prozess der Initiierung einer Fähigkeit 
+oder des Spielens einer Karte beginnen kann. Diese sind: 
+ = Spieleinschränkungen überprüfen: Man bestimmt, ob die 
+Karte gespielt oder ob die Fähigkeit initiiert werden kann. 
+(Dazu gehört auch sicherzustellen, dass die Abhandlung des 
+Effektes die Möglichkeit hat, den Spielstatus zu ändern.) Falls 
+die Spieleinschränkungen nicht erfüllt sind, wird der Prozess 
+abgebrochen.
+ = Kosten (möglicherweise mehrere) für das Spielen der Karte oder das 
+Initiieren der Fähigkeit bestimmen. Falls sichergestellt ist, dass die 
+Kosten (unter Beachtung von Modifikatoren) gezahlt werden können, 
+wird mit den übrigen Schritten dieser Abfolge fortgefahren. 
+Sobald beide der oben angegebenen Bestätigungen erfolgt sind, werden 
+folgende Schritte in der angegebenen Reihenfolge durchgeführt:
+1. Mögliche Modifikatoren auf die Kosten anwenden.
+2. Kosten bezahlen. Falls dieser Schritt erreicht wird und die Kosten 
+nicht gezahlt werden können, wird dieser Prozess, ohne die Kosten zu 
+bezahlen, abgebrochen. 
+ = Nach Abschluss dieses Schrittes werden mögliche Gelegenheits -
+angriffe abgehandelt.
+3. Es wird begonnen, die Karte zu spielen, oder versucht, die Fähigkeit zu 
+initiieren.
+4. Die Effekte der Fähigkeit (falls nicht in Schritt 3 aufgehoben) beenden 
+ihre Initiierung und werden abgehandelt. Gleichzeitig mit dem Ende 
+dieses Schrittes betrachtet man die Karte als gespielt (und ins Spiel 
+gebracht oder auf den Ablagestapel ihres Besitzers gelegt, falls sie eine 
+Ereigniskarte ist) und die Fähigkeit gilt als abgehandelt.
+ = Falls sich die Fähigkeit, die initiiert wird, auf einer Karte im Spiel 
+befindet, bricht man den Ablauf nicht ab, falls die Karte während des 
+Ablaufs das Spiel verlässt.
+Anhang II: Timing und Spiel
+Die „Timingstruktur: Phasenablauf “ verdeutlicht die Phasen und Schritte 
+einer Spielrunde. Immer wenn ein Ermittler eine Fertigkeitsprobe ablegt, 
+wird die Timingstruktur für Fertigkeitsproben verwendet, die im Abschnitt 
+„Timing für Fertigkeitsproben (FP)“ genau erläutert wird.
+Nummerierte Punkte in grauen Kästen nennt man Rahmenereignisse. 
+Rahmenereignisse sind verpflichtend eintretende Zeitpunkte, die durch die 
+Spielstruktur vorgegeben sind. 
+Die roten Kästen stellen Spielerfenster dar. Die Spieler dürfen 󲅺 
+ausgelöste Fähigkeiten in diesen Fenstern verwenden.
+Einzelheiten zu jedem dieser Schritte befinden sich ab Seite 24.
+22
+REFERENZHANDBUCH
+
+1.1 Runde beginnt. Mythosphase beginnt.
+1.2 Auf der aktuellen Agenda 1 Verderbensmarker platzieren.
+1.3 Verderbensschwellenwert überprüfen.
+1.4 Jeder Ermittler zieht 1 Begegnungskarte.
+󲅺SPIELERFENSTER
+1.5 Mythosphase endet.
+2.1 Ermittlungsphase beginnt.
+II. Ermittlungsphase
+󲅺 SPIELERFENSTER
+2.2.1 Der aktive Ermittler darf eine Aktion nehmen, falls 
+möglich. Falls eine Aktion genommen wurde, kehrt man zum 
+vorherigen Spielerfenster zurück. Falls keine Aktion genommen 
+worden ist, wird das Spiel mit Schritt 2.2.2 fortgesetzt.
+2.2.2 Zug des Ermittlers endet. Falls ein Ermittler seinen Zug 
+in dieser Phase noch nicht genommen hat, wird das Spiel bei 
+Schritt 2.2 fortgesetzt. Falls jeder Ermittler seinen Zug in dieser 
+Phase genommen hat, wird das Spiel bei Schritt 2.3 fortgesetzt.
+2.2 Zug des nächsten Ermittlers beginnt.
+2.3 Ermittlungsphase endet.
+III. Gegnerphase
+3.1 Gegnerphase beginnt.
+3.2 Jäger-Gegner bewegen sich.
+󲅺SPIELERFENSTER
+3.3 Der nächste Ermittler handelt die Angriffe der mit ihm 
+in Kämpfe verwickelten Gegner ab. Falls ein Ermittler 
+in dieser Phase noch keine Gegner-Angriffe abgehandelt 
+hat, kehrt man zum vorherigen Spielerfenster zurück. 
+Nachdem der letzte Ermittler Angriffe durch in Kämpfe 
+verwickelte Gegner abgehandelt hat, wird das Spiel mit 
+dem nächsten Spieler  fenster fortgesetzt.
+󲅺 SPIELERFENSTER
+3.4 Gegnerphase endet.
+IV. Unterhaltsphase
+4.1 Unterhaltsphase beginnt.
+4.2 Aktionen zurücksetzen.
+󲅺 SPIELERFENSTER
+4.3 Alle erschöpften Karten spielbereit machen.
+4.4 Jeder Ermittler zieht 1 Karte und erhält1 Ressource.
+4.5 Jeder Ermittler überprüft sein Handkartenlimit.
+4.6 Unterhaltsphase endet. Runde endet.
+󲅺 SPIELERFENSTER
+I.  Mythosphase (diese Phase wird während der  
+ersten Runde des Spiels übersprungen) 
+Das Spiel wird mit der Ermittlungsphase fortgesetzt.
+Das Spiel wird mit der Gegnerphase fortgesetzt. Das Spiel wird mit der Mythosphase  
+der nächsten Runde fortgesetzt.
+Das Spiel wird mit der Unterhaltsphase fortgesetzt.
+23
+REFERENZHANDBUCH
+
+Genaue Erläuterung der 
+Rahmenereignisse
+Dieser Abschnitt erläutert im Detail, wie die einzelnen Rahmen  ereignis -
+schritte im Ablaufdiagramm abgehandelt werden. Die einzelnen Rahmen -
+ereignisse werden in der Reihenfolge erläutert, in der sie im Spiel auftreten.
+I. Mythosphase
+In der ersten Runde des Spiels wird die Mythosphase übersprungen.
+1.1 Mythosphase beginnt.
+Dieser Schritt stellt den formalen Beginn der Mythosphase dar. Da dies das 
+erste Rahmenereignis der Runde ist, stellt er auch den formalen Beginn einer 
+neuen Spielrunde dar.
+Der Beginn einer Phase ist ein wichtiger Meilenstein, auf den sich 
+Kartentexte beziehen können. Dies geschieht entweder als der Zeitpunkt, 
+an dem eine Fähigkeit abgehandelt werden darf oder muss oder als der 
+Zeitpunkt, an dem ein aufgeschobener Effekt abgehandelt wird oder ein 
+andauernder Effekt abläuft.
+1.2 Auf der aktuellen Agenda 1 Verderbensmarker platzieren.
+Man nimmt 1 Verderbensmarker aus dem Markervorrat und platziert ihn auf 
+die aktuelle Agendakarte.
+1.3 Verderbensschwellenwert überprüfen.
+Man vergleicht die Gesamtzahl der Verderbensmarker im Spiel (auf 
+der aktuellen Agenda und auf jeder anderen Karte im Spiel) mit dem 
+Schwellen  wert für Verderben auf der aktuellen Agenda. Falls die Anzahl 
+der Verderbensmarker im Spiel den Schwellenwert für Verderben auf der 
+aktuellen Agenda erreicht oder übertrifft, rückt man im Agendadeck vor.
+Sobald man im Agendadeck vorrückt, werden alle Verderbensmarker aus 
+dem Spiel entfernt und zurück in den Markervorrat gelegt. Die aktuelle 
+Agenda wird umgedreht, der Storytext gelesen und die Anweisungen 
+befolgt, um das Spiel fortzusetzen. Falls die Vorrückanweisungen nicht 
+ausdrücklich etwas anderes sagen, wird die Vorderseite der als nächstes 
+folgenden Agendakarte zur neuen aktuellen Agenda und die alte Agenda wird 
+gleichzeitig aus dem Spiel entfernt. 
+Hinweis: Dies ist die einzige Möglichkeit, um im Agendadeck vorzurücken, falls 
+nicht eine Karte ausdrücklich besagt, dass man im Agendadeck vorrückt.
+1.4 Jeder Ermittler zieht 1 Begegnungskarte.
+In Spielerreihenfolge zieht jeder Ermittler die oberste Karte des Begegnungs -
+decks, handelt Enthüllungsfähigkeiten auf dieser Karte ab und folgt den 
+unten stehenden Anweisungen abhängig vom Kartentyp.
+Immer wenn ein Ermittler eine Begegnungskarte zieht, führt man die 
+folgenden Schritte in der nachstehenden Reihenfolge durch:
+1. Karte vom Begegnungsdeck ziehen.
+2. Überprüfen, ob die gezogene Karte das Schlüsselwort Wagnis hat. (Falls 
+die Karte das Schlüsselwort Wagnis hat, kann sich der Ermittler, der 
+diese Karte gezogen hat, nicht mit anderen Spielern beraten. Die anderen 
+Spieler können keine Karten spielen, Fähigkeiten auslösen oder Karten 
+zu Fertigkeitsproben des Ermittlers beitragen, solange die Wagnis-
+Begegnung abgehandelt wird.)
+3. Enthüllungsfähigkeit auf der gezogenen Karte abhandeln.
+4. Falls die Karte ein Gegner  ist, erscheint er unter Beachtung der 
+Erscheinen-Anweisung auf der Karte. (Eine Erscheinen-Anweisung 
+ist jeder Kartentext, dem das Wort „Erscheinen“ vorausgeht.) Falls der 
+Gegner keine Erscheinen-Anweisung hat, wird der Gegner mit dem 
+Ermittler, der auf diese Karte getroffen ist, in einen Kampf verwickelt 
+ins Spiel gebracht und in der Bedrohungszone dieses Ermittlers 
+platziert. Falls die Karte ein Verrat ist, legt man sie auf den Begegnungs-
+Ablagestapel, falls die Fähigkeit nichts anderes angibt.
+5. Falls die gezogene Karte das Schlüsselwort Nachrüsten hat, muss der 
+Ermittler eine weitere Karte ziehen. Dieser Ablauf wird dann erneut bei 
+Schritt 1 gestartet.
+1.5 Mythosphase endet.
+Dieser Schritt stellt das formale Ende der Mythosphase dar. Das Ende einer 
+Phase ist ein wichtiger Punkt im Spiel, auf den sich Kartentexte beziehen 
+können, entweder als der Zeitpunkt, an dem eine Fähigkeit abgehandelt 
+werden darf oder muss, oder als der Zeitpunkt, an dem ein aufgeschobener 
+Effekt abgehandelt wird oder ein andauernder Effekt abläuft.
+II. Ermittlungsphase
+2.1 Ermittlungsphase beginnt.
+Dieser Schritt stellt den Beginn der Ermittlungsphase dar.
+2.2 Zug des nächsten Ermittlers beginnt.
+Die Ermittler dürfen ihre Züge in beliebiger Reihenfolge nehmen. Die 
+Ermittler entscheiden, wer von ihnen seinen Zug nimmt. Diese Entscheidung 
+stellt den Beginn des Zuges dieses Ermittlers dar. Der Ermittler, der gerade 
+seinen Zug nimmt, wird aktiver Ermittler genannt.
+Sobald ein Ermittler seinen Zug beginnt, muss dieser Ermittler seinen Zug 
+vollständig abschließen, bevor ein anderer Ermittler seinen Zug nehmen 
+darf. Jeder Ermittler nimmt 1 Zug pro Runde. 
+2.2.1 Der Ermittler nimmt eine Aktion, falls möglich.
+Während seines Zuges darf ein Ermittler drei Aktionen nehmen. Eine 
+Aktion kann für eine der folgenden Handlungen verwendet werden:
+ = An seinem Ort ermitteln .
+ = Sich auf einen verbundenen Ort bewegen .
+ = Ziehen (1 Karte ziehen).
+ = Ressource  (1 Ressource erhalten).
+ = Eine Vorteils- oder Ereigniskarte von seiner Hand spielen .
+ = Eine 󲅹-Kosten-Fähigkeit  auf einer Karte im Spiel, die er kontrolliert, 
+auf einer Begegnungskarte an seinem Ort, auf einer Karte in seiner 
+Bedrohungszone, auf der aktuellen Szenenkarte oder auf der 
+aktuellen Agendakarte aktivieren . 
+ =  Gegen einen Gegner an seinem Ort kämpfen .
+ = Einen Gegner an seinem Ort in einen Kampf verwickeln .
+ = Versuchen einem Gegner, mit dem er in einen Kampf verwickelt ist, 
+zu entkommen . 
+Die drei Aktionen, die ein Ermittler während seines Zuges durchführt, 
+dürfen eine beliebige Kombination aus den oben genannten Aktionen in 
+beliebiger Reihenfolge sein. Es ist auch möglich, dieselbe Aktion drei Mal 
+hintereinander durchzuführen.
+Wichtig: Sobald ein Ermittler mit einem oder mehreren spielbereiten 
+Gegnern in einen Kampf verwickelt ist und etwas anderes macht, als die 
+Aktion Kampf oder Entkommen  zu nehmen oder eine Verhandlungs - 
+oder Aufgeben fähigkeit zu aktivieren, kann jeder dieser Gegner einen 
+Gelegenheitsangriff gegen den Ermittler durchführen. Die Reihenfolge der 
+Angriffe wählt dabei der Ermittler.
+24
+REFERENZHANDBUCH
+
+Nachdem ein Ermittler eine Aktion genommen hat, kehrt man ins vorherige 
+Spielerfenster zurück. Ein Ermittler darf seinen Zug vorzeitig beenden, falls 
+er keine weiteren Aktionen durchführen möchte. Falls der Ermittler keine 
+Aktion nehmen kann oder möchte, setzt man das Spiel mit Schritt 2.2.2 fort.
+2.2.2 Der Zug des Ermittlers endet.
+Die kleine Ermittlerkarte des aktiven Ermittlers wird auf ihre farblose Seite 
+gedreht, um anzuzeigen, dass der Zug dieses Ermittlers abgeschlossen ist. 
+Falls es einen Ermittler gibt, der seinen Zug in dieser Runde noch nicht 
+genommen hat, wird das Spiel bei Schritt 2.2 fortgesetzt. Falls jeder Ermittler 
+in dieser Runde seinen Zug genommen hat, wird das Spiel bei Schritt 2.3 
+fortgesetzt. 
+2.3 Ermittlungsphase endet
+Dieser Schritt stellt das formale Ende der Ermittlungsphase dar.
+III. Gegnerphase
+3.1 Gegnerphase beginnt.
+Dieser Schritt stellt den formalen Beginn der Gegnerphase dar.
+3.2 Jäger-Gegner bewegen sich.
+Das Schlüsselwort Jäger wird auf allen spielbereiten, nicht in einen Kampf 
+verwickelten Gegnern abgehandelt, die das Schlüsselwort Jäger haben (siehe 
+„Jäger“ auf Seite 14).
+3.3 Der nächste Ermittler handelt die Angriffe der mit ihm in Kämpfe  
+verwickelten Gegner ab.
+In Spielerreihenfolge werden die Angriffe der mit in Kämpfe verwickelten 
+Gegner abgehandelt. Jeder Spieler handelt dabei alle Gegner ab, mit denen er 
+in einen Kampf verwickelt ist, ehe der nächste Spieler an der Reihe ist. 
+Jeder spielbereite, in einen Kampf verwickelte Gegner macht einen Angriff 
+gegen den Ermittler, mit dem er in einen Kampf verwickelt ist. Sobald ein 
+Gegner angreift, fügt er seinen Angriff (Schaden und Horror gleichzeitig) 
+dem Ermittler zu, mit dem er in einen Kampf verwickelt ist. Nachdem 
+er seinen Angriff vollständig zugefügt hat (und alle durch den Angriff 
+ausgelöste Fähigkeiten), wird der Gegner erschöpft. Falls ein Ermittler mit 
+mehreren Gegnern in einen Kampf verwickelt ist, wählt der angegriffene 
+Ermittler die Reihenfolge der Angriffe. 
+Nachdem ein Ermittler die Angriffe der Gegner, mit denen er in einen Kampf 
+verwickelt ist, abgehandelt hat, kehrt man zum vorherigen Spielerfenster 
+zurück. Nachdem der letzte Ermittler die Angriffe der Gegner, mit denen 
+er in einen Kampf verwickelt ist, abgehandelt hat, wird das Spiel mit dem 
+nächsten Spielerfenster fortgesetzt. 
+3.4 Gegnerphase endet.
+Dieser Schritt stellt das formale Ende der Gegnerphase dar.
+IV. Unterhaltsphase
+4.1 Unterhaltsphase beginnt.
+Dieser Schritt stellt den formalen Beginn der Unterhaltsphase dar.
+4.2 Aktionen zurücksetzen.
+Die kleinen Ermittlerkarten werden zurück auf ihre farbige Seite gedreht. 
+Dies zeigt an, dass die Aktionen der Ermittler für ihren nächsten Zug 
+zurückgesetzt worden sind.
+4.3 Erschöpfte Karten spielbereit machen.
+Man macht gleichzeitig alle erschöpften Karten spielbereit.
+4.4 Jeder Ermittler zieht 1 Karte und erhält 1 Ressource.
+In Spielerreihenfolge zieht jeder Ermittler 1 Karte. Sobald die Karten 
+gezogen worden sind, erhält jeder Ermittler 1 Ressource.
+4.5 Jeder Ermittler überprüft sein Handkartenlimit.
+In Spielerreihenfolge wählt jeder Ermittler mit mehr als 8 Karten in der 
+Hand so viele Karten aus und legt sie ab, bis er nur noch 8 Karten hat.
+4.6 Unterhaltsphase endet.
+Dieser Schritt stellt das formale Ende der Unterhaltsphase dar.
+Da die Unterhaltsphase die letzte Phase der Runde ist, stellt dieser Schritt 
+auch das formale Ende der Runde dar. Alle aktiven, andauernden „bis zum 
+Ende der Runde“-Effekte laufen zu diesem Zeitpunkt ab.
+Nachdem dieser Schritt abgeschlossen ist, geht das Spiel mit dem Beginn der 
+Mythosphase der nächsten Spielrunde weiter.
+25
+
+Timing für Fertigkeitsproben (FP)
+FP.1 Fertigkeit für die Probe bestimmen.  
+Die Probe auf diese Fertigkeit beginnt jetzt.
+Dieser Schritt stellt den formalen Beginn der Fertigkeitsprobe dar. Es gibt 
+vier Arten von Fertigkeitsproben: Willenskraftproben, Intellektproben, 
+Kampfproben und Beweglichkeitsproben. Die Kartenfähigkeit oder die 
+Spielregel bestimmt, welche Probe nötig ist und damit beginnt eine Probe 
+dieser Art.
+FP.2 Karten von der Hand zur Fertigkeitsprobe beitragen. 
+Der Ermittler, der die Fertigkeitsprobe durchführt, darf eine beliebige 
+Anzahl Karten von seiner Hand mit dem entsprechenden Fertigkeits  symbol 
+zur Probe beitragen.
+Jeder andere Ermittler am selben Ort wie der Ermittler, der die Probe ablegt, 
+darf eine Karte von seiner Hand mit dem entsprechenden Fertigkeitssymbol 
+zur Probe beitragen. 
+Ein entsprechendes Fertigkeitssymbol ist entweder eins, das der Probe 
+entspricht, oder ein Jokersymbol. Der Ermittler, der die Probe durchführt, 
+bekommt +1 auf seinen Fertigkeitswert für diese Probe pro entsprechendem 
+Fertigkeitssymbol, das zu dieser Probe beigetragen wird.
+Karten, denen das entsprechende Fertigkeitssymbol fehlt, dürfen nicht 
+zur Probe beigetragen werden. Wird eine Karte zu einer Fertigkeitsprobe 
+beigetragen, werden keine Ressourcenkosten für die Karte gezahlt.
+FP.3 Chaosmarker enthüllen.
+Der Ermittler, der die Probe durchführt, enthüllt einen zufälligen Chaos -
+marker aus dem Chaosbeutel.
+FP.4 Chaossymbol-Effekte abhandeln.
+Die Effekte, die durch das Symbol auf dem enthüllten Chaosmarker ini  tiiert 
+werden, werden angewendet. Jedes der folgenden Symbole zeigt an, dass eine 
+Fähigkeit auf der Szenarioübersichtskarte initiiert werden muss:  
+󲅻, 󲅼, 󲆀, oder 󲅾.
+Das 󲅿-Symbol zeigt an, dass die 󲅿-Fähigkeit auf der Ermittlerkarte des 
+Spielers, der diese Probe durchführt, initiiert werden muss.
+Falls keines der oben angegebenen Symbole enthüllt worden ist oder falls das 
+Symbol keine entsprechende Fähigkeit hat, wird dieser Schritt ohne Effekt 
+abgeschlossen.
+FP.5 Modifizierten Fertigkeitswert des Ermittlers bestimmen.
+Man beginnt mit dem Grundwert der Fertigkeit (der abzulegenden Probe) des 
+Ermittlers, der die Probe durchführt, und wendet alle aktiven Modifikatoren 
+an, einschließlich der entsprechenden Symbole, die zur Probe beigetragen 
+wurden, der Effekte von enthüllten Chaosmarkern und allen aktiven 
+Kartenfähigkeiten, die den Fertigkeitswert des Ermittlers modifizieren.
+FP.6 Bestimmen, ob die Fertigkeitsprobe gelingt/misslingt.
+Der modifizierte Fertigkeitswert wird mit der Schwierigkeit der 
+Fertigkeitsprobe verglichen.
+Falls der modifizierte Fertigkeitswert der Schwierigkeit der Probe entspricht 
+oder höher ist (angegeben auf der Karte oder durch den Spielmechanismus, 
+der diese Probe hervorgerufen hat), gelingt dem Ermittler die Probe.
+ = Falls einem Ermittler eine Probe durch eine Kartenfähigkeit 
+automatisch gelingt, gilt die Gesamtschwierigkeit der Probe als 0.
+Falls der Fertigkeitswert des Ermittlers niedriger ist als die Schwierigkeit 
+dieser Probe, misslingt dem Ermittler die Probe. 
+ = Falls einem Ermittler eine Fertigkeitsprobe durch eine Karten -
+fähigkeit oder das Enthüllen des 󲅽-Symbols automatisch misslingt, 
+ist der Gesamt-Fertigkeitswert des Ermittlers für diese Probe 0.
+FP.7 Ergebnis der Fertigkeitsprobe anwenden.
+Die Kartenfähigkeit oder Spielregel, die eine Fertigkeitsprobe initiiert 
+hat, gibt normalerweise die Konsequenz eines Erfolges und/oder eines 
+Misserfolges dieser Probe an. (Außerdem können zu diesem Zeitpunkt 
+einige andere Karten zusätzliche Konsequenzen beitragen oder bestehende 
+Konsequenzen verändern.) Die entsprechenden Konsequenzen (des in 
+FP.6 bestimmten Erfolges oder Misserfolges) werden zu diesem Zeitpunkt 
+abgehandelt. 
+Falls mehrere Ergebnisse in diesem Schritt angewendet werden müssen, 
+wählt der Ermittler, der die Probe durchführt, in welcher Reihenfolge  
+die Ergebnisse angewendet werden. 
+FP.8 Die Fertigkeitsprobe endet.
+Dieser Schritt stellt das formale Ende der Fertigkeitsprobe dar. Alle Karten, 
+die zur Probe beigetragen worden sind, werden abgelegt und alle enthüllten 
+Chaosmarker werden zurück in den Chaosbeutel gelegt.
+Timing für Fertigkeitsproben (FP) 
+FP.1 Fertigkeit für die Probe bestimmen.  
+Die Probe auf diese Fertigkeit beginnt jetzt.
+󲅺 SPIELERFENSTER
+FP.2 Karten von der Hand zu dieser Fertigkeitsprobe beitragen.
+󲅺 SPIELERFENSTER
+FP.3 Chaosmarker enthüllen.
+FP.4 Chaossymbol-Effekte abhandeln.
+FP.5 Modifizierten Fertig  keitswert des Ermittlers bestimmen.
+FP.6 Bestimmen, ob die Fertigkeitsprobe gelingt/misslingt.
+FP.7 Ergebnis der Fertigkeitsprobe anwenden.
+FP.8 Die Fertigkeitsprobe endet.
+26 REFERENZHANDBUCH
+
+Anhang III: 
+Spielvorbereitung
+Um ein Spiel vorzubereiten, werden folgende Schritte in 
+angegebener Reihenfolge durchgeführt:
+1. Ermittler wählen. Jeder Spieler wählt einen anderen Ermittler 
+und platziert die entsprechende Ermittlerkarte in seine 
+Spielzone. 
+2. Schaden/-Horror durch Traumata nehmen. Im 
+Kampagnenspiel platziert jeder Spieler Schaden in Höhe seines 
+körperlichen Traumas und Horror in Höhe seines seelischen 
+Traumas auf seiner Ermittlerkarte.
+3. Einen der Ermittler als Ermittlungsleiter für dieses Spiel 
+wählen.
+4. Ermittlerdecks erstellen und mischen.
+5. Markervorrat erstellen. Die Schadens-, Horror-, Hinweis-/
+Verderbens- und Ressourcenmarker werden für jeden Spieler 
+leicht erreichbar bereitlegt.
+6. Chaosbeutel erstellen. Die in der Kampagnenvorbereitung 
+angegebenen Chaosmarker werden in den Chaosbeutel 
+gelegt. Die übrigen Chaosmarker kommen zurück in die 
+Spielschachtel.
+ = Im Kampagnenmodus wird der Chaosbeutel so verwendet, 
+wie er am Ende des vorherigen Szenarios war.
+7. Startressourcen nehmen. Jeder Ermittler erhält 5 Ressourcen 
+aus dem Markervorrat.
+8. Starthand ziehen. Jeder Spieler zieht 5 Karten. Jeder Spieler 
+darf in Spielerreihenfolge einen Mulligan nehmen. 
+ = Jede Schwächekarte, die in diesem Schritt gezogen wird, 
+wird ignoriert, beiseitegelegt (ohne sie abzuhandeln) 
+und durch eine neu gezogene Karte vom Deck ersetzt. 
+Nach Abschluss dieses Schrittes wird jede gezogene 
+Schwächekarte zurück in das Deck ihres Besitzers gemischt. 
+9. Szenarioeinführung im Kampagnenhandbuch lesen.
+10. Die im Kampagnenhandbuch angegebenen Schritte 
+zur Szenariovorbereitung durchführen. Dazu gehört 
+das Heraussuchen der in den Vorbereitungsanweisungen 
+angegebenen Begegnungssets, die Platzierung der Orte, die 
+Platzierung der kleinen Ermittlerkarten an den Orten, an 
+denen jeder Ermittler das Spiel beginnt, das Beiseite  legen 
+von dafür angegebenen Karten und das Mischen der übrigen 
+Begegnungskarten, um das Begegnungsdeck zu erstellen.
+11. Agendadeck vorbereiten. Das Agendadeck wird in der 
+angegebenen Reihenfolge zusammengestellt, jeweils mit der 
+Seite nach oben, die das Kartenbild zeigt. Agenda 1a ist nun 
+die oberste Karte des Decks. Ein Spieler liest den Storytext auf 
+Agenda 1a vor.
+12. Szenendeck vorbereiten. Das Szenendeck wird in der 
+angegebenen Reihenfolge zusammengestellt, jeweils mit der 
+Seite nach oben, die das Kartenbild zeigt. Szene 1a ist nun die 
+oberste Karte des Decks. Ein Spieler liest den Storytext auf 
+Szene 1a vor .
+13. Szenarioübersichtskarte neben das Agendadeck platzieren.  
+Während der Vorbereitung gibt es kein Spielerfenster. Die Spieler 
+dürfen während der Vorbereitung nur Spielerkartenfähigkeiten 
+auslösen oder Karten von der Hand spielen, falls die spezielle 
+Auslösebedingung der Karte oder der Fähigkeit erfüllt ist.
+27
+
+© 2016 FFGIllus. Yoann Boissonnet 10/16 113
+ORT
+Der blutige Kadaver einer missgestalteten Bestie hängt an 
+einem Fleischerhaken von der Decke. Darunter steht ein 
+kleines Fass, in das langsam das Blut des Kadavers tropft.
+Erzwungen – Nachdem du den Dachboden 
+betreten hast: Nimm 1 Horror.
+Dachboden
+Sieg 1.
+11 22
+© 2016 FFGIllus. Yoann Boissonnet
+ORT
+Der Gestank von verwesendem Fleisch dringt in deine Nase, 
+als du dich der Treppe zum Dachboden näherst.
+Dachboden
+Ort
+Verhüllter Ort
+Aufbau von Szenariokarten
+1. Begegnungssetsymbol: Gibt 
+an, zu welchem Begegnungsset 
+die Karte gehört.
+2. Kartentyp: Gibt an, wie sich 
+eine Karte im Spiel verhält 
+oder wie sie im Spiel verwendet 
+werden darf.
+3. Name: Der Name dieser Karte.
+4. Merkmale: Attribute, auf 
+die sich Kartenfähigkeiten 
+beziehen können.
+5. Fähigkeit: Die spezielle Art, 
+auf die diese Karte mit dem 
+Spiel interagiert.
+6. Kampfwert eines Gegners: 
+Bestimmt die Schwierigkeit 
+einer Fertigkeitsprobe, um 
+diesen Gegner anzugreifen.
+7. Ausdauer eines Gegners: 
+Die Ausdauer des Gegners, 
+die seine körperliche 
+Widerstandskraft angibt.
+8. Entkommen-Wert eines 
+Gegners: Bestimmt 
+die Schwierigkeit einer 
+Fertigkeitsprobe, um diesem 
+Gegner zu entkommen.
+9. Schaden: Die Menge an 
+Schaden, die dieser Gegner mit 
+seinem Angriff zufügt.
+10. Horror: Die Menge Horror, 
+die dieser Gegner mit seinem 
+Angriff zufügt.
+11. Schleier:  Bestimmt die 
+Schwierigkeit bei einer 
+Fertigkeitsprobe, um an 
+diesem Ort zu ermitteln.
+12. Hinweiswert: Die Anzahl der 
+Hinweise, die auf diesen Ort 
+platziert werden, sobald er zum 
+ersten Mal enthüllt wird.  
+13. Verbindungssymbole:  
+Zeigen die Verbindungen für 
+die Bewegung zwischen den 
+Orten an.
+14. Szenen-/Agendaabfolge: Gibt 
+die Reihenfolge der Karten im 
+Szenen-/Agendadeck an.
+15. Hinweisschwellenwert: Die 
+Anzahl der Hinweise,  
+die ausgegeben werden 
+müssen, um von dieser Szene 
+vorzurücken
+16. Verderbensschwellenwert: 
+Die Anzahl der 
+Verderbensmarker, die im Spiel 
+sein müssen, um von dieser 
+Agenda vorzurücken.
+17. Erweiterungssymbol : Gibt 
+an, aus welchem Produkt die 
+Karte stammt.
+18. Begegnungsset-Nummer:  
+Gibt die Anzahl der Karten 
+eines Begegnungssets und die 
+Nummer der Karte innerhalb 
+des Begegnungskartensets an.
+Anhang IV:  
+Aufbau der Karten
+In diesem Abschnitt findet ihr detaillierte Angaben zum Auf bau jedes Kartentyps. 
+Auf den Seiten 28–29 werden Szenariokarten erläutert, auf den Seiten 30–31 
+Ermittler-/Spielerkarten. 
+Szenenkarten, Agendakarten, Ortskarten, Verratskarten, Gegnerkarten und die 
+Szenarioübersichtskarte sind Szenariokarten.
+Ermittlerkarten, kleine Ermittlerkarten, Vorteilskarten, Ereigniskarten und 
+Fertigkeitskarten sind Spielerkarten. 
+28
+REFERENZHANDBUCH
+
+© 2016 FFGIllus. 122Sasha Jones 3/20
+Agenda 2a
+Die Zeit wird knapp
+Die Minuten rasen während deiner 
+Ermittlungen nur so dahin.
+󲅹󲅹: Aufgeben. Du willst keine 
+weiteren Verzögerungen riskieren, 
+also bringst du dich mit den 
+Informationen, die du gesammelt  
+hast, in Sicherheit.
+88
+© 2016 FFGIllus. 4/20Romana Kendelic 123
+Dir bleibt eine Nacht, um die Mitglieder des 
+Kultes zu finden und ihren Plan aufzudecken.  
+Je mehr Mitglieder des Kultes du vor Mitternacht 
+finden und verhören kannst, desto besser.
+󲅹󲅹 Die Ermittler geben als Gruppe 
+2 󲆃󲆃 Hinweise aus: Ziehe die oberste Karte  
+des Kultisten-Decks.
+Ermittlungsziel – Finde so viele einzig -
+artige Kultist-Gegner, wie du kannst, 
+und füge sie dem Siegpunktestapel hinzu. 
+Falls sich 6 einzigartige Kultist-Gegner 
+im Siegpunktestapel befinden, rücke vor. 
+(Hinweis: Nicht alle 6 befinden sich im  
+Kultisten­ Deck.)
+Die Verschwörung aufdecken
+Szene 1a
+
+© 2016 FFGIllus. 166Michael Komarck 1/3
+VERR AT
+Dunkle Mächte erheben sich gegen dich. Falls du nicht 
+schnell handelst, wird ein finsterer Plan vollendet.
+Enthüllung – Platziere 1 Verderbensmarker  
+auf die aktuelle Agenda. Durch diesen Effekt 
+kann die aktuelle Agenda vorrücken.
+Omen.
+Böses aus uralter Zeit
+Verrat Gegner
+© 2016 FFGIllus. 116Illus. 13/16Chun Lo
+GEGNER
+Sieg 2.
+Eine Gestalt in einer roten Robe mit einer  
+Knochenmaske. Sie brabbelt etwas und faucht,  
+dann springt sie auf dich zu und greift an.
+Beute – Höchster 󲅳󲅳-Wert.
+Jäger. Zurückschlagen.
+Humanoid. Monster. Ghul. Elite.
+Ghulpriester
+44 55
+ 44
+Agenda (Seite „a“) Szene (Seite „a“)
+AGENDA 
+2BDie Uhr schlägt  
+Mitternacht
+Zwölf Glockenschläge ertönen über der Stadt. Es ist  
+Mitt ernacht. Dir bleibt keine Zeit mehr, um in der Stadt 
+zu ermitteln. Du musst jetzt auf Grundlage der Informa­
+tionen von den Kultisten, die du gefunden hast, handeln.
+(→A2)
+SZENE 1B
+Aufgedeckte Geheimnisse
+Du hast die Identitäten aller hochrangigen Mitglieder des 
+Kultes in Arkham aufgedeckt. Der Mann, der dich durch 
+die Stadt verfolgt hat, war fest von der Sache überzeugt, 
+so wie Herman, der T otengräber des Friedhofes. Andere 
+schienen gezwungen worden zu sein dem Kult zu helfen. 
+Der Bestatterin Ruth wurde gedroht, dass ihre Familie 
+getötet werden würde, wenn sie die Ghule nicht mit frischen 
+Leichen versorgt hätte. Zum Glück konntest du ihr helfen 
+aus dem Hospital zu entkommen. Peter, der Professor, 
+musste erst überzeugt werden, dass seine Mitarbeit bei 
+der Sache des Kultes mehr Schaden als Nutzen bringen 
+würde. Victorias Besessenheit von okkulten Artefakten 
+hat sie in die Fänge des Kultes getrieben. Als du Drew im 
+Sanatorium aufgesucht hast, hat er dich angegriffen 
+–  aber 
+interessanterweise, weil er dich für einen T eil des Kultes 
+gehalten hat. Je tiefer du in diese Verschwörung vordringst, 
+desto klarer wird dir, dass viele Leben ruiniert wurden.
+(→A1)
+Agenda (Seite „b“) Szene (Seite „b“)
+29
+REFERENZHANDBUCH
+
+Aufbau von Spielerkarten
+1. Kosten:  Die Ressourcen -
+kosten für das Spielen der 
+Karte.
+2. Stufe : Die benötigten 
+Erfahrungspunkte, um 
+die Karte für ein Deck zu 
+erwerben.
+3. Kartentyp : Gibt an, wie sich 
+eine Karte im Spiel verhält 
+oder wie sie im Spiel verwendet 
+werden darf. 
+4. Klassensymbol : Gibt an, 
+zu welcher Klasse die Karte 
+gehört. Neutrale Karten haben 
+kein Klassensymbol.
+5. Name: Der Name der Karte.
+6. Untertitel : Eine weitere 
+Bezeichnung für die Karte.
+7. Fertigkeiten : Die Werte 
+des Ermittlers für seine 
+Fertigkeiten in der 
+Reihenfolge: Willenskraft ( 󲅰), 
+Intellekt ( 󲅲), Kampf ( 󲅳), 
+Beweglichkeit ( 󲅱).
+8. Merkmale : Attribute, auf 
+die sich Kartenfähigkeiten 
+beziehen können.
+9. Fähigkeit : Die spezielle Art, 
+auf die diese Karte mit dem 
+Spiel interagiert.
+10. Älteres-Zeichen-Fähig -
+keit: Die Fähigkeit 
+dieses Ermittlers für den 
+Älteres-Zeichen-Marker.
+11. Ausdauer : Die Ausdauer 
+dieser Karte, die ihre 
+körperliche Widerstands  kraft 
+angibt.
+12. Geistige Gesundheit : Der 
+Wert für geistige Gesundheit 
+dieser Karte, der die mentale 
+Widerstandskraft angibt.
+13. Fertigkeitsprobensymbol:  
+Modifizieren die Fertigkeits -
+werte, solange sie zu einer 
+Fertigkeitsprobe beigetragen 
+werden.
+14. Erweiterungssysmbol :  
+Gibt an, aus welchem Produkt 
+die Karte stammt.
+© 2020 FFGIllus. Aleksander Karcz 2
+2253Die Bibliothekarin
+Miskatonic.
+󲆁󲆁Daisy Walker
+„Ich kenne Bücher, die so mächtig 
+sind, dass sie die Realität 
+umschreiben können.“
+Du darfst in deinem Zug eine 
+zusätzliche Aktion nehmen, die 
+nur für Buch-󲅹󲅹-Fähigkeiten 
+verwendet werden kann.
+󲅿󲅿-Effekt: +0. Falls die Probe 
+gelingt, ziehe 1 Karte für jedes 
+Buch, das du kontrollierst.
+9955
+Kleine Ermittlerkarte
+Ermittler
+30
+REFERENZHANDBUCH
+
+© 2016 FFGIllus. 54Paco Rico T orres
+VORTEIL
+Der Löwe von Louisiana
+„Ich stamme eigentlich aus Mississippi.  
+Louisiana klang nur besser.“
+Du darfst in deinem Zug eine zusätzliche  
+Aktion nehmen.
+Verbündeter. Krimineller.
+󲆁󲆁Leo De Luca
+2222
+55
+© 2016 FFGIllus. 64Magali Villeneuve
+„Wir leben auf einer schönen Insel der Unwissenheit 
+inmitten eines unendlichen Meeres, und es war nicht 
+gedacht, dass wir zu weit herumsegeln.“
+– H. P . Lovecraft, „Cthulhus Ruf“
+Ziehe die oberste Karte des Begegnungsdecks. 
+Entdecke dann 2 Hinweise an deinem Ort.
+Erkenntnis.
+Von der Flamme angezogen
+EREIGNIS
+00
+© 2016 FFGIllus. 81David Auden Nash
+Falls diese Fertigkeitsprobe während eines 
+Entkommen-Versuchs gelingt, darf sich der 
+entkommende Ermittler sofort von jedem 
+anderen Gegner lösen, der mit ihm in einen 
+Kampf verwickelt ist, und er darf sich zu 
+einem verbundenen Ort bewegen. 
+Angeboren.
+Überlebensinstinkt
+FERTIGKEIT
+Vorteil
+Ereignis
+Fertigkeit
+31
+REFERENZHANDBUCH
+
+® & © 2021 Fantasy Flight Games. Gamegenic und das Gamegenic-Logo 
+sind TM & © von Gamegenic GmbH, Deutschland. Spielmaterial kann von 
+Abbildung abweichen . 
+FANTASY
+FLIGHT
+GAMES
+PROOF OF 
+PURCHASE
+AHC60  
+Arkham Horror
+Das Kartenspiel
+Inhalt
+A
+Ablagestapel  ....................................2
+Adjektive  ..........................................2
+Agendadeck  .....................................2
+Aktion  ...............................................2
+Aktionskennzeichen  ...................11
+Aktivieren (Aktion)  ......................2
+Aktiver Spieler  ................................3
+Andauernde Effekte  ......................3
+Angreifer, angegriffen  ..................3
+Anhängen an  ...................................3
+Anhaltende Fähigkeit  ...................3
+Anwendungen (X „Art“)  .............3
+Aufgeben  ..........................................3
+Aufgedruckt  ....................................3
+Aufgeschobene Effekte  ................3
+Aufheben  .........................................4
+Aus dem Spiel entfernt  .................4
+Ausdauer und Schaden  .................4
+Ausgelöste Fähigkeiten  ................4
+Auslösebedingung  .........................4
+Ausscheiden  ....................................4
+Außergewöhnlich  ..........................4
+Automatischer  
+Erfolg/Misserfolg  ..........................5
+B
+Bedrohungszone  ............................5
+Begegnungsdeck  ............................5
+Begegnungsset  ................................5 
+Beiseitelegen  ...................................5
+Beschränkung  
+und Maximum  ................................5
+Besiegt  ..............................................5
+Besitz und Kontrolle  .....................5
+Beute .................................................5
+Bewegen  ...........................................6
+Bewegen (Aktion)  .........................6
+C
+Chaosmarker ...................................6
+D
+Dann ..................................................6
+Das Spiel verlassen  ........................6
+Dauerhaft  .........................................7
+Deckbau  ...........................................7
+Decks  .................................................7
+Du/Dein  ...........................................7
+Direkter Schaden/Horror  ...........7
+Dürfen  ...............................................7
+E
+Effekte  ...............................................7
+Ein, eine  ............................................8
+Einzelspielszenario  .......................8
+Einzigartig (*)  .................................8
+Enthüllung  .......................................8
+Enthüllungsfähigkeit  ..................10
+Entkommen,  
+Entkommen (Aktion)  ..................8
+Ereigniskarten  ................................9
+Erfahrungspunkte  .........................9
+Erhalten  ............................................9
+Ermitteln (A ktion) ........................9
+Ermittlerdeck  ..................................9
+Ermittlungsleiter  ...........................9
+Ermittlungsphase  ..........................9
+Erscheinen  .......................................9
+Erschöpfen, erschöpft  .................10
+Erzwungene Fähigkeiten  ...........10
+F
+Fähigkeiten  ....................................10
+Fertigkeitskarten  .........................11
+Fertigkeitsproben  ........................11
+G
+Gegner in einen Kampf  
+verwickeln  .....................................11
+Gegnerkarten  ................................11
+Gegnerphase  .................................11
+Geistige Gesundheit  
+und Horror  ....................................11
+Gelegenheitsangriff  ....................12
+Getötete/Wahnsinnige  
+Ermittler  .........................................12
+Gewaltig  .........................................12
+Gewinnen und Verlieren  ...........12
+Grundwert  .....................................12
+H
+Handkartenlimit .........................13
+Heilen ..............................................13
+Hinweise  ........................................13
+Horror  
+(s. Geistige Gesundheit)  ............11
+I
+Immun  ............................................13
+Im Spiel/Nicht im Spiel  .............13
+In einen Kampf  
+verwickeln (Aktion)  ...................13
+In Spielerreihenfolge  ..................13
+Ins Spiel bringen  ..........................13
+Ins Spiel kommen  ........................14
+J
+Jäger .................................................14
+K
+Kampagnenspiel  ..........................14
+Kampf (Aktion)  ...........................15
+Kann nicht/Können nicht  ........15
+Karten ziehen  ................................15
+Kartentypen  ..................................15
+Klassen (s. Deckbau)  ....................7
+Kontrolle  ........................................15
+Kopie ...............................................15
+Kosten  .............................................15
+L
+Leer ..................................................16
+Leerer Ort  ......................................16
+M
+Marker, keine mehr übrig  ..........16
+Merkmale  .......................................16
+Modifikatoren  ..............................16
+Müssen  ............................................16
+Mulligan  .........................................16
+Mythosphase .................................16
+N
+Nachdem ........................................16
+Nachrüsten  ....................................16
+Nächstgelegen  ..............................16
+O
+Ortskarten  .....................................17
+P
+Priorität bei gleichzeitiger
+Abhandlung  ...................................17
+Pro Ermittler ( 󲆃) ........................17
+Proben(s. Fertigkeitsproben)  ...11
+R
+Ressourcen  ....................................17
+Ressourcen (Aktion)  ..................17
+S
+Sammlung  ......................................17
+Schaden (s. Ausdauer)  ..................4
+Schaden/Horror nehmen  ..........17
+Schaden/Horror zufügen  ..........17
+Schlüsselwörter  ............................18
+Schnell  ............................................18
+Schwäche ........................................18
+Schwierigkeit  
+(Fertigkeitsprobe)  .......................18
+Schwierigkeits(grad)  ..................19
+Selbstreferenzieller Text  ............19
+Siegpunkte, Siegpunktestapel  .19
+Slots .................................................19
+Sobald .............................................19
+Spiel .................................................19
+Spielbereit  .....................................20
+Spieleinschränkungen, 
+Berechtigungen und Anweisungen  
+20
+Spielen............................................ 20
+Spielen (Aktion)  ......................... 20
+Statt/anstatt  ................................. 20
+Stimmungstext  ............................20
+Suchen............................................ 20
+Szenendeck und Agendadeck  ..20
+T
+Träger ..............................................21
+Trauma ...........................................21
+U
+Unterhaltsphase  ...........................21
+V
+Verderben.......................................21
+Verhandlung ..................................21
+Verratskarten  ................................21
+Vorrücken im Szenen-/  
+Agendadeck (s. Szenendeck)  ... 20
+Vorrücken zum nächsten Szenario  
+(s. Kampagnenspiel)  ...................15
+Vorteilskarten  ...............................21
+W
+Wagnis  ............................................21
+X
+X (Buchstabe)  ...............................21
+Z
+Ziehen (Aktion)  ...........................21
+Ziel .................................................. 22
+Zurückhaltend  .............................22
+Zurückschlagen ........................... 22
+32
+REFERENZHANDBUCH

@@ -1,0 +1,2686 @@
+
+
+Die wache Welt ist nur eine Realität …
+„Im leichten Schlummer stieg er die siebzig Stufen zur Kaverne der 
+Flamme hinab und sprach den bärtigen Priestern von Nasht und 
+Kaman-Thah von diesem Vorhaben. Und die Priester schüttelten ihre 
+pshent-tragenden Häupter und erklärten feierlich, dies bedeute de n Tod 
+seiner Seele.“
+– H. P. Lovecraft, Die Traumsuche nach dem unbekannten Kadath
+Die Kampagnen-Erweiterung Die Traumfresser  besteht aus zwei 
+Kampagnen für  Arkham Horror: Das Kartenspiel . Dieser Kampagnenleit-
+faden beinhaltet Kampagne/uni00A0A – Die Traumsuche , welche aus 4/uni00A0Szenarien 
+besteht: „Hinter den Toren des Schlafes“, „Die Suche nach Kadath“, „Die 
+dunkle Seite des Mondes“ und „Wo Götter wohnen“. Diese Szenarien 
+können auch als eigen ständige Szenarien gespielt werden. Es ist aber 
+auch möglich, sie mit den 4/uni00A0Szenarien aus Kampagne/uni00A0B im Rahmen einer 
+achtteiligen Kampagne als miteinander verwobene Szenar ien zu spielen.
+Die anderen 4/uni00A0Szenarien befinden sich im Kampagnenleitfaden/uni00A0B – Das 
+Netz der Träume .
+Inhalt
+Zusätzliche Regeln und Klarstellungen  ..............................2
+Prolog ............................................................................................3
+Vorbereitung für Kampagne A  ...............................................4
+Szenario 1–A: Hinter den Toren des Schlafes  ...................5
+Zwischenspiel I: Die schwarze Katze  ...................................9
+Szenario 2–A: Die Suche nach Kadath  ..............................10
+Zwischenspiel II: Die Traumreisenden  .............................14
+Szenario 3–A: Die dunkle Seite des Mondes  ...................16
+Zwischenspiel III: Die Großen  ............................................19
+Szenario 4–A: Wo Gö/t_ter wohnen  .....................................20
+Szenario-Zwischenspiel: Überwältigendes Werk  ...........21
+Epilog  .........................................................................................24
+Erfolge  ....................................................................................... 26
+Anmerkungen der Entwicklerin
+    ........................................ 26
+Kampagnenlogbuch ................................................................27
+Begegnungssetsymbole        ........................................................ 28
+Schnellübersicht & Credits        ..................................................28
+Alarmiert
+Immer wenn einem Ermittler eine Fertigkeitsprobe misslingt, währe nd 
+er versucht, einem Gegner mit dem Schlüsselwort „Alarmiert“ zu 
+entkommen, führt jener Gegner nach der Anwendung aller Ergebnisse 
+jener Fertigkeitsprobe einen Angriff gegen den Ermittler durch, der z u 
+entkommen versucht. Ein Gegner wird nicht erschöpft, nachdem er einen 
+Alarmiert-Angriff durchgeführt hat. Dieser Angriff wird durchge führt, 
+egal ob der Gegner mit dem entkommenden Ermittler in einen Kampf 
+verwickelt ist oder nicht.
+Handlungskarten
+Handlungskarten dienen dem Zweck, die Kampagne 
+mit noch mehr erzählter Handlung zu füllen. Sie 
+befinden sich normaler weise auf der Rückseite 
+einer anderen Szenariokarte. Sobald die Spieler 
+die Anweisung erhalten, eine Handlungskarte 
+abzuhandeln, wird der Handlungstext auf der 
+Karte vorgelesen und der Spieltext auf dieser Karte 
+abgehandelt.
+Ausschwärmen X
+Ein Gegner mit dem Schlüsselwort Ausschwärmen/uni00A0X ist Teil einer größe-
+ren Gruppe von Gegnern, die gemeinsam vorgehen. Nachdem ein Spieler 
+einen Gegner mit dem Schlüsselwort Ausschwärmen/uni00A0X ins Spiel gebracht 
+hat, werden die obersten X/uni00A0Karten des entsprechenden Spielerdecks als 
+sogenannte Schwarmkarten verdeckt unter dem Gegner platziert, ohn e 
+sie sich anzusehen. Der Gegner, unter dem die Schwarmkarten liegen, 
+wird „Wirtsgegner“ genannt. Manche Szenariokarteneffekte könn en 
+einen Spieler dazu anweisen, einem Gegner Schwarmkarten hinzuzu-
+fügen. Dies geschieht nach demselben Verfahren.
+ Æ Falls unklar ist, welcher Ermittler Schwarmkarten hinzufügen soll , 
+macht dies der Ermittlungsleiter.
+ Æ Jede Schwarmkarte unter dem Wirtsgegner agiert für die meisten 
+Zwecke als eigenständige Instanz jenes Gegners. Jede Schwarmkarte 
+hat die gleichen Werte und den gleichen Text wie die Wirtskarte. 
+HANDLUNG
+Die Probe von Kaman-Thah
+Falls du mit Kaman-Thah verhandelt hast, lies das 
+Folgende:„Dein Geist ist stark“, gibt der Wächter zu, „aber bist du 
+auch bereit dazu, das Konzept der Wahrheit abzustreifen? 
+Das Konzept der Realität? Wenn ja, dann ändere deine 
+Kleidung.“ Verwirrt willst du protestieren. „Das ist ein 
+Land des Willens“, fährt der Priester fort. „Wenn deine Ent-
+schlossenheit stark genug ist, beweise es mir.“ Du schließt 
+deine Augen und denkst an andere Kleidung. Du strengst 
+dich an, dir das Gewebe, die Farbe und den Geruch genau 
+vorzustellen. Bis hin zu jeder einzigen Faser. Als du deine 
+Augen wieder öffnest, trägst du das, was du dir ausgedacht 
+hast. „Gut“, sagt Kaman-Thah und tritt zur Seite.
+Füge diese Karte dem Siegpunktestapel hinzu.
+Falls du Kaman-Thah besiegt hast, lies das 
+Folgende:
+Der Priester geht für ein paar Augenblicke auf deine 
+alberne Vorstellung von Widerstand ein, bevor es in seinen 
+Augen zu lodern beginnt. Er selbst ist völlig unversehrt. 
+„Du bist stürmisch. Aber mit Wildheit allein kommst du 
+nicht weit. Du darfst passieren, aber beherzige meinen Rat: 
+Nicht alle Probleme können mit Gewalt gelöst werden.“
+Füge diese Karte dem Siegpunktestapel hinzu.
+Zusätzliche Regeln und Klarstellungen
+Erweiterungssymbol
+Die Karten aus der Kampagne Die Traumfresser  können an diesem 
+Symbol vor jeder Setnummer erkannt werden:
+DIE TRAUMFRESSER
+Kampagnenleitfaden A — Die Traumsuche
+
+(Beispiel: Ist ein Ermittler mit einem Wirtsgegner in einen Kampf 
+verwickelt, der 2 Schwarmkarten unter sich liegen hat, ist der Ermittle r 
+mit insgesamt 3 Gegnern in einen Kampf verwickelt.)
+ Æ Jede Schwarmkarte greift einzeln an, sobald Gegner während der Gegner-
+phase angreifen. Haben der Wirts gegner und alle seine Schwarm karten in 
+diesem Schritt angegriffen, werden sie alle erschöpft.
+ Æ Jede Schwarmkarte kann unabhängig voneinander angegriffen 
+werden und man kann jeder Schwarmkarte unabhängig voneinander 
+Schaden zufügen, aber der Wirtsgegner kann nicht besiegt werden, 
+solange er noch Schwarmkarten unter sich liegen hat. Sobald eine 
+Schwarmkarte besiegt wird, darf überschüssiger Schaden einer 
+anderen Schwarmkarte unter demselben Wirtsgegner oder dem 
+Wirtsgegner selbst zugefügt werden. (Beispiel: Tony Morgan verwendet 
+eine 41er Derringer, um einen Heimlichen Zoog mit 2 Schwarmkarten 
+anzugreifen. Der Angriff fügt 2 Schaden zu. Der erste Schadenspunkt 
+besiegt 1 der 2 Schwarmkarten. Überschüssiger Schaden darf der andere n 
+Schwarmkarte zugefügt werden, was ausreicht, um auch sie zu besiegen.)
+ Æ Jedes Mal wenn eine Schwarmkarte das Spiel verlässt, wird sie unter 
+das Deck ihres Besitzers platziert. Falls unklar ist, wer der Besitzer 
+einer Schwarmkarte ist, darf man sie sich ansehen, um ihren Besitzer 
+zu bestimmen.
+ Æ Der Wirtsgegner und alle seine Schwarmkarten werden als Einheit 
+bewegt, in Kämpfe verwickelt und erschöpft. (Beispiel: Gelingt es 
+einem Ermittler, einem Wirtsgegner oder einer seiner Schwarmkarte n zu 
+entkommen, werden alle Karten dieser Einheit erschöpft und von dem 
+Ermittler gelöst.)
+Verborgen
+Eine Begegnungskarte oder Schwäche mit dem Schlüsselwort Verborge n 
+hat eine Enthüllung -Fähigkeit, die du geheim deiner Hand  hinzufügst. 
+Dies sollte geschehen, ohne den anderen Ermittlern die Karte oder ihren 
+Text zu enthüllen.
+ Æ Solange sich eine Verborgen-Verratskarte auf deiner Hand befindet , 
+wird sie so behandelt, als ob sie sich in deiner Bedrohungs zone befände. 
+Ihre anhaltenden Fähigkeiten sind aktiv und Fähigkeiten auf ihr 
+können ausgelöst werden, aber nur von dir.
+ Æ Solange sich eine Verborgen-Gegnerkarte auf deiner Hand befindet, 
+gilt sie nicht als mit dir in einen Kampf verwickelt oder in deiner 
+Bedrohungszone befindlich. Der Gegner greift nicht an, außer es ist 
+etwas anderes angegeben. Seine anhaltenden Fähigkeiten sind aber 
+aktiv und Fähigkeiten auf ihm können ausgelöst werden, aber nur von 
+den dir.
+ Æ Eine Verborgen-Karte zählt bei der Bestimmung deiner Hand karten 
+mit, kann aber nicht von der Hand abgelegt werden, außer auf die 
+auf der Karte beschriebene Art. Sobald Verborgen-Kar ten abgelegt 
+werden, werden sie auf den entsprechenden Ablagestapel gelegt.
+Für ein optimales Spielerlebnis sollten die Spieler  ihre Charaktere „ver-
+körpern“ und keine Informationen über Verborgen-Kar ten auf ihrer Hand 
+mit anderen Spielern teilen.
+Halt!
+Zu diesem Zeitpunkt werden noch keine Ermittler gewählt 
+oder Ermittlerdecks zusammengestellt.  Zunächst muss 
+der folgende Prolog gelesen werden. Die Spieler wer den nach 
+Abschluss des Prologs dazu angewiesen, Ermittler zu  wählen und 
+die Ermittlerdecks zu erstellen.
+Freitag, 13. Februar 1925
+Irgendetwas Seltsames ging in Arkham, Massachusetts vor sich.
+Das war für die Bewohner der trostlosen Stadt in New England keine 
+Überraschung, denn Arkham war schon immer bekannt für seine eigen-
+artigen – manche würden sie übernatürlich nennen – Vorkommnisse. Doch 
+dieser Umstand war alles andere als gewöhnlich.
+Alles begann mit der neusten Ausgabe der  Geschichten aus Nimmermehr.  
+Ein Autor namens Virgil Gray beschrieb darin eine Reise, die sich in seinen 
+Träumen ereignet hatte – eine Reise, von der er behauptete, sie sich nicht 
+ausgedacht zu haben. Er schrieb über eine lange Wendeltreppe, über eine 
+unerträglich heiße, mit Verstand gesegnete Säule aus Feuer, über eine n Baum, 
+der vom Mond kam, und über eine merkwürdige sprechende Katze … um 
+nur einige der wenig glaubhaften Dinge zu erwähnen. Aber es war nicht die 
+außergewöhnliche Geschichte, die dein Interesse an der Sache geweck t hatte. 
+Kurz nach der Veröffentlichung der Erzählung erreichte ein Brief nach d em 
+anderen die Redaktion von Geschichten aus Nimmermehr . Die Leser von 
+Virgils Geschichte behaupteten in den ebenfalls veröffentlichte n Briefen, genau 
+den gleichen Traum gehabt zu haben. Es dauerte nicht lange, da griff der 
+Arkham Advertiser  die Geschichte auf, sodass die Neuigkeit dieses seltsamen 
+Phänomens schon bald Experten zu Ohren kam. 
+Virgil Gray wurde davon überzeugt, sich im örtlichen Sanatorium einer 
+Therapie zu unterziehen. Auch viele andere, welche unter derselben Ps ychose 
+wie der Autor litten, wurden dort eingewiesen. Die vorherrschende Theorie der 
+Wissenschaftler ist, dass sich Virgils Traum so echt anfühlte, dass er ih n nicht 
+mehr von der Realität unterscheiden konnte, und das s durch seine Schriften 
+seine Wahnvorstellungen wie bei einer Massenhysterie auf andere übe rtragen 
+werden konnten. Dich überzeugt das nicht. Schließlich ist nicht wirkli ch viel 
+über den schlichten Akt des Träumens bekannt. Mediziner haben weit aus-
+einandergehende Theorien, was den Zustand des Gehir ns im Schlaf betrifft. 
+Erst kürzlich haben Experten, darunter auch Sigmund Freud, die These 
+aufgestellt, dass Träume Manifestationen eigener un terbewusster Sehnsüchte, 
+Ängste oder Obsessionen sein könnten. Wahrsager haben ihrerseit s schon lange 
+daran geglaubt, dass man Träume durchleuchten und interpretieren ka nn, um 
+damit die Vergangenheit oder Zukunft des Träumers zu erkennen. Wenn die se 
+Theorien aber stimmen sollten, wie können dann unterschiedliche Leu te – in 
+ganz verschiedenen Lebensumständen – die gleichen geteilten Erfah rungen 
+in ihren Träumen erleben? Was wäre, wenn unser heutiges Verständnis übe r 
+den Schlaf falsch wäre? Was wäre, wenn es wirklich einen Ort in unserem 
+Unterbewusstsein gäbe, zu dem wir im Schlaf reisen könnten – in ein Land der 
+Träume, das nur jenseits unserer wachen Welt existieren würde?
+Du und deine Gefährten sind zusammengekommen, um di esem seltsamen 
+Phänomen auf den Grund zu gehen. Wenn andere in der Stadt in ihren 
+Träumen in eine andere Welt reisen können, könnt ihr das vielleicht auch.  
+Ihr habt die Gegebenheiten von Virgils Reise nahezu perfekt nachgeste llt.  
+Wenn alles gut geht, wird die eine Hälfte von euch eine Reise in dieses „Traum-
+land“ und wieder zurück unternehmen, während die an dere Hälfte  
+in der wachen Welt verbleibt und das Schlafverhalten ihrer Gefährten üb er-
+wacht, um sicherzugehen, dass nichts schiefgeht …
+Diese Erweiterung besteht aus 2/uni00A0voneinander getrennten vierteiligen 
+Kampagnen: Kampagne A und Kampagne B.
+Kampagne A wird Die Traumsuche  genannt und besteht aus den Szenarien 
+1–A, 2–A, 3–A und 4–A. Diese Kampagne erzählt die Geschichte 
+der Ermittler, die in die Welt der Träume reisen, und wird in diesem 
+Kampagnenleitfaden beschrieben.
+Kampagne B wird Das Netz der Träume  genannt und besteht aus den 
+Szenarien 1–B, 2–B, 3–B und 4–B. Diese Kampagne erzählt die Geschichte 
+der Ermittler, die in der wachen Welt zurückbleiben, und wird im 
+Kampagnenleitfaden/uni00A0B beschrieben.
+Die Szenarien dieser Erweiterung können auf 3/uni00A0verschiedene Arten 
+gespielt werden: entweder als jeweils eigenständige vierteilige K ampagne  
+(A oder B) oder als eine verwobene achtteilige Kampagne (A und B), 
+Prolog
+3
+
+in der eine Gruppe aus 1–4 Spielern die Kontrolle über 2/uni00A0verschiedene 
+Ermittlergruppen übernimmt und sich zwischen diesen beiden Gruppen 
+abwechselt.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird:
+ = Fahre mit Vorbereitung für Kampagne A  weiter unten fort.  
+Fahre nach jedem Szenario mit dem A-Szenario mit der nächst-
+höheren Nummer fort, wie bei der Auf lösung des Szenarios 
+angegeben. Achte darauf, nicht die vier/uni00A0B-Szenarien zu spielen. 
+Diese gehören zu einer eigenständigen Kampagne.
+ Æ Falls Das Netz der Träume  als vierteilige Kampagne gespielt wird:
+ = Fahre mit Vorbereitung für Kampagne B  auf Seite/uni00A04 im 
+„Kampagnenleitfaden/uni00A0B – Das Netz der Träume“ fort. Fahre 
+nach jedem Szenario mit dem B-Szenario mit der näch sthöheren 
+Nummer fort, wie bei der Auf lösung des Szenarios an gegeben. 
+Achte darauf, nicht die vier/uni00A0A-Szenarien zu spielen. Diese gehören 
+zu einer eigenständigen Kampagne.
+ Æ Falls Die Traumfresser als achtteilige Kampagne gespielt wird :
+ = Jeder Spieler sollte für jede Kampagne ein eigenes Ermittler deck 
+erstellen. Einer seiner Ermittler ist Teil von Kampagne/uni00A0A und ein 
+anderer Ermittler Teil von Kampagne/uni00A0B. (Um noch mehr Chaos 
+ins Spiel zu bringen, können die Spieler zufällig bestimmen, 
+welcher Ermittler in welcher Kampagne mitspielt.)
+ = Beide Kampagnen haben ihren eigenen Chaosbeutel, wie  in den 
+jeweiligen Vorbereitungsanweisungen beschrieben. Es  ist aber 
+nicht nötig, 2/uni00A0Chaosbeutel gleichzeitig zu füllen. Im Abschnitt 
+„Chaosbeutel“ jedes Kampagnenlogbuchs kann der aktuelle 
+Inhalt jedes Chaosbeutels notiert werden, damit er zwischen den 
+Szenarien leichter ausgetauscht werden kann.
+ = Fahre entweder mit Szenario 1–A: Hinter den Toren des 
+Schlafes  auf Seite/uni00A05 in diesem Leitfaden oder mit Szenario 1–B: 
+Erwachter Albtraum  auf Seite/uni00A05 im Kampagnenleitfaden/uni00A0B fort 
+(eure Wahl). Nach jedem Szenario werden die Anweisungen der 
+Auf lösung befolgt, um festzustellen, wann zwischen den beiden 
+Gruppen gewechselt wird. Entscheidungen der einen Gruppe 
+haben manchmal Auswirkungen auf die andere Gruppe.
+Vorbereitung für Kampagne A
+Um die Kampagne Die Traumsuche  vorzubereiten, werden folgende 
+Schritte in der angegebenen Reihenfolge durchgeführt .
+1. Ermittler wählen.
+2. Jeder Spieler stellt sein Ermittlerdeck zusammen.
+3. Schwierigkeitsgrad wählen.
+4. Chaosbeutel für die Kampagne zusammenstellen.  
+ = Einfach ( Ich möchte die Geschichte erleben ):  
++1, +1, 0, 0, 0, –1, –1, –2, –2, , , , , .
+ = Normal (Ich möchte eine Herausforderung ):  
++1, 0, 0, –1, –1, –2, –2, –3, –4, , , , , .
+ = Schwer (Ich möchte einen echten Albtraum ):  
+0, 0, –1, –1, –2, –2, –3, –3, –4, –5, , , , , .
+ = Experte ( Ich möchte den Arkham-Horror ):  
+0, –1, –1, –2, –2, –3, –4, –4, –5, –6, –8, , , , , .
+Nun könnt ihr mit Szenario 1–A: Hinter den Toren des Schlafes 
+beginnen.
+Die Traumfresser mit 
+2 Spielergruppen spielen
+Neben dem eigentlichen Spielmodus ist es auch möglich, die 
+Kampagne Die Traumfresser  mit 2/uni00A0unterschiedlichen Spieler-
+gruppen (aus je 1–4 Spielern) zu erleben. Die eine Gruppe 
+spielt Kampagne/uni00A0A, während die andere Gruppe Kampagne/uni00A0B 
+spielt. In diesem Format werden die Regeln zur Vorbereitung 
+der verwobenen achtteiligen Kampagne mit den folgend en 
+Ausnahmen verwendet:
+ Æ Nach jedem Szenario muss jede Gruppe warten, bis die 
+jeweils andere Gruppe das Szenario mit der gleichen 
+Nummer beendet hat, bevor sie weiter machen kann. Beide 
+Gruppen fahren dann mit dem Szenario mit der nächst-
+höheren Nummer ihrer Kampagne fort oder mit einem 
+Zwischenspiel, falls sie dazu aufgefordert werden. (Beispiel: 
+Hat Gruppe A Szenario 1–A  beendet, muss sie warten, bis 
+die andere Gruppe Szenario 1–B  beendet hat, bevor sie 
+weitermachen kann.)
+ Æ Jede Gruppe benötigt nur den Kampagnenleitfaden ihrer 
+eigenen Kampagne.
+ Æ Zwischenspiele sollten beide Gruppen zusammen lesen. 
+Dabei trifft jede Gruppe die Entscheidungen, die für ihre 
+Kampagne relevant sind.
+ Æ Für ein optimales Spielerlebnis sollte der anderen Gruppe 
+nicht mitgeteilt werden, was in der eigenen Kampagne 
+passiert ist. Dadurch können die Gruppen nach Ende des 
+Zyklus die Kampagnen tauschen, um bei einem erneuten 
+Durchspielen die andere Seite der Geschichte zu erleben.
+4 4
+
+Æ Überlebender-( )-Traum: Du fliehst durch einen engen, dunklen und 
+mit Ranken bedeckten Flur. Etwas Unerklärliches verfolgt dich durch d ie 
+Düsternis. Du bist zu verängstigt, um dich umzudrehen und deinen Ver-
+folger anzusehen. Dennoch weißt du, dass es deinen Tod bedeuten würde, 
+wenn dich das Wesen einholen sollte. Es würde dein Herz durchstoßen, 
+dich ausbluten lassen und dann deine Eingeweide verschlingen. Diese r 
+Gedanke lässt dich weiterlaufen, schneller als du jemals zuvor gerann t 
+bist. Es darf dich nicht erreichen. Es darf dich nicht fressen. Plötzlich 
+erkennst du einen Ausweg: eine stabile, von Ranken umgebene Holztür.
+ = Durchsuche dein Deck nach einer -Karte und spiele sie  
+(zahle ihre Kosten) .
+ Æ Krimineller -Traum: Sirenengeheul hallt hinter dir durch die Straßen. Sie 
+holen auf. Sie waren dir schon immer dicht auf den Fersen, aber du warst 
+ihnen immer einen Schritt voraus …bis jetzt. Du ren nst die Gasse entlang, 
+dicht gefolgt von einem hellen, roten Licht. Sie we rden dich kriegen. Sie wer-
+den dich in eine Zelle sperren und den Schlüssel we gwerfen. Deine Freiheit, 
+deinen Lebensstil, alles, was dich ausmachst und wa s du liebst, werden sie 
+dir wegnehmen. Und warum? Wann haben sie jemals all es richtig gemacht? 
+Kurz bevor dich die Bullen schnappen können, biegst  du um eine Ecke und 
+entdeckst den Eingang zu einem Backsteingebäude.
+ = Durchsuche dein Deck nach einer Krimineller - oder Illegal -Karte 
+und spiele sie (zahle ihre Kosten) .
+ Æ Herumtreiber -Traum: Du schlenderst über eine Blumenwiese, begleitet 
+von einer warmen Frühlingsbrise, die dich zum Weitergehen aufzuforde rn 
+scheint. Bahngleise teilen das Feld. Als du die Schienen erreichst, hör st 
+du das tosende Geratter aus Dampf und Eisen auf dich zukommen. 
+Während der Zug an dir vorbeifährt, hältst du dich an einer Leiter fest 
+und ziehst dich auf einen der rostigen, verwitterten Waggons. Das Inner e 
+des Zuges hat jedoch nichts mehr mit dem Äußeren zu tun. Hier herrschen 
+Luxus und Wohlstand: Persische Teppiche hängen als Dekoration von 
+den Wänden, marmorne Treppen winden sich in schwind elerregende 
+Höhen und ein Kristallleuchter taucht den Raum in spektralen Glanz. 
+Unter dem Kronleuchter befindet sich ein Durchgang, dessen vergolde te 
+Verzierung einen Fuchs in einem Wald darstellt.
+ = Du darfst eine Grundschwäche in deinem Deck durch eine andere 
+zufällige Grundschwäche ersetzen. Falls du dies tust, erleidest du 
+1/uni00A0Trauma deiner Wahl.
+ Æ Jäger-Traum: Du stellst deiner Beute in einem baufälligen Haus nach, dessen 
+Flure nach Schimmel und Staub riechen. Die Kreatur,  der du nachjagst, ist eine 
+Abscheulichkeit aus einer unnatürlichen Welt. Mit i hrer Anwesenheit allein 
+bedroht sie die bloße Existenz der Menschheit. Du k annst ihre unheimliche 
+Gestalt in einer der Türöffnungen im oberen Stockwe rk erkennen. Jetzt kann 
+sie dir nicht mehr entkommen – sie gehört dir. Aber als du ihren Unterschlupf 
+betrittst, findest du nichts weiter als einen schmu tzigen, gesplitterten Spiegel 
+und dein müdes, sorgenvolles Antlitz, das sich im G las reflektiert. Wohin kann 
+die Monstrosität nur verschwunden sein? Du bist dir  sicher, dass sie sich hierhin 
+zurückgezogen hat und dennoch … du wendest dich wie der dem Eingang zu 
+und bist überrascht, eine Tür zu sehen, die zuvor n och nicht da war.
+ = Durchsuche dein Deck nach einer Waffe-Karte und spiele sie  
+(zahle ihre Kosten) .
+ Æ Mediziner - oder Assistent -Traum: Du stehst vor einem geschlossenen Sarg. 
+Schwarz gekleidete Trauernde stehen in einer Reihe neben dir und warten 
+darauf, dass du die letzten Worte sprichst. Unter T ränen legst du deine Hand 
+auf den Sarg. Das harte, kalte Holz fühlt sich tot an. Sie hat sich dir anver-
+traut. Sie hat sich auf dich verlassen. Und als sie  dich am nötigsten brauchte, 
+hast du sie enttäuscht. All das – der kalte Sarg, d ie trauernden Freunde und 
+Familienangehörigen – all das geschieht nur wegen d ir. Aber als du den Sarg 
+öffnest, befindet sich keine Leiche darin: nur ein langer Durchgang aus Stein, 
+der tief in den Untergrund führt. Plötzlich schubst  dich einer der Trauernden 
+und du fällst über die Kante des Sarges in das Loch  darunter. Schmerzhaft 
+landest du auf deiner Seite. Als du aufstehst, erke nnst du deinen einzigen 
+Ausgang: ein Steinbogen, der zu einem völlig andere n Ort führt …
+ = Wähle einen anderen Ermittler. Er beginnt dieses Szenario  
+mit 2/uni00A0zusätzlichen Ressourcen und 1/uni00A0zusätzlichen Karte auf  
+seiner Starthand.
+In Spielerreihenfolge wählt jeder Ermittler einen d er folgenden Traum -
+berichte, der zu dem entsprechenden Ermittler passt, und liest ihn laut 
+vor. „Neutrale“ Träume dürfen von jedem Ermittler gewählt werden. 
+Jeder Ermittler muss falls möglich einen unterschiedlichen Traum 
+wählen. Dann fahre mit der Vorbereitung  fort.
+ Æ Wächter-( )-Traum: Du umrundest einen in Dunkelheit getauchten und 
+von Nebel umhüllten Hügel, der jedes Geräusch zu verschlucken scheint . Du 
+weißt nicht, was unter dem Hügel ruht, aber es fühlt sich älter als diese Welt 
+an und es scheint dich zu beobachten. Du wagst es nicht, den Grabhügel 
+anzusehen. Dennoch kannst du den Ort nicht verlassen, also läufst du schi er 
+endlos um ihn herum. In den umgebenden Hecken erhaschst du flüchtige 
+Blicke auf hin und her huschende Schatten, aber immer wenn du die Fackel 
+in ihre Richtung hältst, verschwinden sie. Du fängst an zu rennen, erstar rst 
+aber, als du ein lautes Klopfen hinter dir vernimmst. Als du dich umdrehst, 
+teilt sich der Nebel und du kannst endlich den Fuß des Hügels erkennen, wo 
+eine schwere, verwitterte Schiefertür darauf wartet, dass du eintri ttst.
+ = Durchsuche dein Deck nach einer -Karte und spiele sie  
+(zahle ihre Kosten).
+ Æ Sucher-( )-Traum: Du eilst durch die Flure einer Universität, die du 
+kaum wiedererkennst. Du hast einige Lehrbücher unter dem Arm und 
+hastest an anderen Studenten und Fakultätsmitarbeit ern vorbei. Dir ist 
+schleierhaft, wie du das Datum deiner Prüfung vergessen konntest. Wen n 
+du nicht schnell ankommst, ist dir klar, dass du durchfallen wirst. Irgen d-
+wie kannst du dicht nicht mehr an den Lehrstoff des Kurses oder an den 
+Studienplan erinnern. Du weißt aber, dass es das Ende des Semesters ist. 
+Es ist gar nicht deine Art, Vorlesungen zu schwänzen oder das Lernen zu 
+vergessen. Im Vorbeieilen kannst du die anderen Studenten miteinand er 
+kichern hören. Als du das Ende des Flures erreichst, siehst du die Tür des 
+Hörsaals unheilvoll vor dir aufragen. 
+ = Durchsuche dein Deck nach einer -Karte und spiele sie  
+(zahle ihre Kosten) .
+ Æ Schurke-( )-Traum: Du musst dir ein Grinsen verkneifen, als du dir deine 
+Karten ansiehst. Karo Bube und Pik Dame für die derzeit bestmögliche 
+Straße. Der Chip-Stapel vor dir wird mit jeder Hand höher. Diesmal wird 
+es nicht anders sein. Gebote werden abgegeben, bis nur noch du und der 
+Mann im weißen Anzug dir gegenüber im Spiel seid. „Sind Sie sich ganz 
+sicher?”, stichelt er und faltet seine Hände. Du schiebst alle deine Chip s 
+in die Mitte und deckst deine Straße mit dem König auf. „Wie schade.“ Er 
+schnalzt mit der Zunge und deckt ein Pärchen auf. „Es sieht wohl so aus, 
+als ob Sie alles verloren hätten.“ Du protestierst und deutest auf deine we it 
+bessere Hand. Aber als du sie dir wieder anschaust, hat sie sich verändert. 
+Die Figuren auf den Bildkarten haben sich in monströse Gestalten ohne 
+Augen und ohne Mund, dafür aber mit Tentakeln verwandelt. Auf den 
+Karten steht: „9 ♥-10♣-F♦-C♠-N
+“. Schockiert starrst du auf die Karten, 
+als du vom Tisch weggebracht und zur Tür geleitet wirst.
+ = Durchsuche dein Deck nach einer -Karte und spiele sie  
+(zahle ihre Kosten) .
+ Æ Mystiker-( )-Traum: Du wanderst auf einem Pfad voller Farben 
+und Schwingungen. Irrlichter schweben in der Luft u nd hüpfen auf und 
+ab, als du dich ihnen näherst. Allen Naturgesetzen widersprechend 
+verkümmert mit jedem deiner Schritte die Flora am W egesrand. Gerade 
+noch blühende Blumen verwelken und Ranken verdorren , während du an 
+ihnen vorbeigehst. Die Irrlichter verspotten dich o b deiner Unwissenheit, 
+dennoch verlangsamst du deine Schritte nicht. Als d u dir die prächtigen 
+Bäume ansiehst, lassen sie ihre Blätter fallen. Das  einst grüne Gras ist 
+trocken, braun und geknickt. Doch auch wenn der ges amte Wald dabei 
+sterben sollte, macht es die Sache wert, seine ande re Seite zu erreichen. Als 
+du es endlich geschafft hast, endet der Pfad plötzl ich an einer verzierten 
+Holztür, die in den Stamm eines großen Mammutbaums geschnitzt ist.
+ = Durchsuche dein Deck nach einer -Karte und spiele sie  
+(zahle ihre Kosten) .
+Szenario 1–A:  
+Hinter den Toren des Schlafes
+5
+
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Hinter den Toren des Schlafes , Anhänger von Nyarlathotep , Zoogs ,  
+Der Fluch des Träumers , Traumlande und Grabeskälte . Diese Sets  
+sind an folgenden Symbolen zu erkennen:  
+ 
+ 
+ Æ Die Orte Siebzig Stufen (Leichter Schlummer)  und Die Kaverne der 
+Flamme werden ins Spiel gebracht. Jeder Spieler beginnt das Spiel auf 
+den Siebzig Stufen (Leichter Schlummer) .
+ Æ Die folgenden Karten werden als nicht im Spiel befindlich beiseite-
+gelegt: die Storyvorteilskarte Randolph Carter  (Meisterhafter 
+Träumer), der Gegner Arbeitender Gug, die 2/uni00A0doppelseitigen 
+Gegnerkarten (Nasht und Kaman-Thah) und 
+alle übrigen Orte.
+ = Hinweis: Nasht und Kaman-Thah sind 
+doppel seitig und haben Handlungskarten 
+auf ihrer Rückseite. Für ein optimales Spiel-
+erlebnis sollte die Rückseite erst angesehen 
+werden, wenn ein Effekt dazu auffordert.
+ Æ Dieses Szenario beginnt ohne Begegnungsdeck im Spiel. Alle übrigen 
+Begegnungskarten werden auf einem einzigen Stapel beiseitegeleg t. 
+Zu einem späteren Zeitpunkt werden sie zusammengemischt und 
+bilden dann das Begegnungsdeck. (Siehe dazu „Stufen des Schlum-
+mers“ weiter unten.)
+Stufen des Schlummers
+Zu Beginn des Szenarios gibt es kein Begegnungsdeck. Das bedeutet, 
+dass Ermittler keine Fähigkeiten verwenden können, die mit dem 
+Begegnungsdeck auf jegliche Weise interagieren. (Beispiel: Effekte, die 
+das Begegnungsdeck durchsuchen, Karten vom Begegnun gsdeck ziehen oder 
+Karten aus dem Begegnungsdeck ansehen lassen, schla gen fehl.)
+Szene/uni00A01a hat zusätzlich den Text: „Ziehe während der Mythosphase keine 
+Karten vom Begegnungsdeck.“
+Zu einem bestimmten Zeitpunkt im Szenario werden die Ermittler dazu 
+angewiesen, das Begegnungsdeck zu erstellen. Dann ist der obige Text 
+nicht mehr aktiv. Von diesem Zeitpunkt an können die Ermittler ganz 
+normal mit dem Begegnungsdeck interagieren.
+© 2024 FFG
+Illus. Andreas Roch
+a
+58 20/25
+GE GNE R
+Zurückhaltend. Zurückschlagen.
+: Verhandlung. Lege eine - oder -Probe (2) ab, um zu 
+beweisen, dass du würdig bist, die T raumlande zu betreten. Diese 
+Probe bekommt +1  Schwierigkeit. Falls die Probe gelingt, drehe 
+Nasht um und handle den Text auf der anderen Seite ab. Falls die 
+Probe misslingt, greift Nasht jeden Ermittler an seinem Ort an. 
+Erzwungen – Nachdem du Nash
+t besiegt hast: Drehe ihn 
+um und handle den Text auf der anderen Seite ab.
+Traumlande. Wärter. E
+lite.
+Priester der T raumlandeNasht
+223322
+© 2024 FFG
+Illus. Henning Ludvi
+gsen
+57 19/25
+GE GNE R
+Zurückhaltend. Zurückschlagen.
+: Verhandlung. Lege eine - oder -Probe (2) ab, um zu 
+beweisen, dass du würdi
+g bist, die T raumlande zu betreten. Diese 
+Probe bekommt +1 
+ Schwierigkeit. Falls die Probe g
+elingt, 
+drehe Kaman-Thah um und h
+andle den Text auf der anderen Seite 
+ab. Falls die Probe mi
+sslingt, greift Kaman-Thah j
+eden Ermittler 
+an seinem Ort an.
+Erzwungen – Nachdem du Kaman-Thah besieg
+t hast: 
+Drehe ihn um und h
+andle den Text auf der 
+anderen Seite ab.
+Traumlande. Wärter. E
+lite.
+Priester der T raumlande
+Kaman-Thah
+223322
+ Æ Miskatonic - oder Gelehrter -Traum: Du befindest dich in einer vergessenen 
+Bibliothek, umgeben von uraltem Wissen. Hunderttausende von Büche rn 
+ruhen in Regalen, die um dich herum bis in die Leere über dir emporragen. 
+Die düsteren Hallen riechen nach modrigem Papier und geschmolzenem 
+Wachs. Du nimmst einen der großen Wälzer aus einem Regal in der Nähe 
+und fängst an, darin zu blättern. Du kannst zwar kein einziges Wort davon 
+lesen, bist aber gänzlich von der Geschichte gefesselt, welche die Seit en 
+weben. Deine Umgebung löst sich mit der Zeit in Belanglosigkeit auf. Nich ts 
+ist mehr wichtig, bis auf die Formen der blutroten Tinte; alles andere ist 
+bedeutungslos im Vergleich zu diesen reinen Wahrheiten. Um dich herum 
+brennt die Bibliothek bis auf die Grundmauern ab. Gerade als dich die 
+Flammen erreichen, springt dir eine Tür, die aus der Bibliothek hinaus-
+führt, ins Auge. Die Flammen scheinen ihr nichts anhaben zu können.
+ = Durchsuche dein Deck nach einer Buch-Karte und spiele sie  
+(zahle ihre Kosten) .
+ Æ Veteran-Traum: Du befindest dich in einem schlammigen, verrußten 
+Schützengraben. Um dich herum tobt der donnernde und nicht enden 
+wollende Lärm des Krieges. Die Gräben sind mit Toten übersät: Freunde und 
+Kampfgefährten, die ihr Leben für rein gar nichts verloren haben, in eine m 
+Land fern der Heimat. Du spähst über den Rand des Schützengrabens in 
+das Niemandsland hinaus, auf eine karge , zerstörte und verkohlte Einöd e, 
+wo einem der Tod gewiss ist. Und dort erkennst du sie: eine einzelne Holztür 
+zwischen Schutt und Schmutz. Du weißt, dass sie dein einziger Weg hier raus 
+ist. Du packst dein Gewehr und stürzt dich Hals über Kopf in einen Hagel aus 
+tödlichen Kugeln, während Explosionen den Boden um dich herum aufreiß en.
+ = Durchsuche dein Deck nach bis zu 2/uni00A0Taktik- und/oder Vorrat-
+Karten und beginne dieses Szenario mit ihnen als zusätzliche 
+Karten auf deiner Starthand.
+ Æ Wanderer-Traum: Du stapfst durch einen brackigen Sumpf. Das Wasser 
+reicht dir bis an die Brust. Unmöglich große Rohrkolben ragen über dir auf 
+und Schwärme seltsamer schillernder Insekten schwirren durch die üb el 
+riechende Luft. Mit jedem Schritt sinkst du tiefer in den weichen Schlamm 
+ein, der dich hinabzuziehen droht. Du kannst spüren, wie etwas Glitschi ges 
+und Kaltes über dein Bein gleitet. Hastig versuchst du, ein trockenes Stü ck 
+Land zu erreichen – aber je mehr du dich bemühst, desto weiter sinkst du 
+ein. Augenblicklich wirst du vom Moor verschlungen und fällst dennoch 
+immer weiter hinab. Endlich landest du in einer kle inen Schlammlawine 
+auf einem Steinboden. Du befindest dich in einer geschlossenen Kammer , 
+die durch das hellblaue Leuchten seltsamer Hieroglyphen erhellt wird . Die 
+Symbole umrahmen eine aufwendig gestaltete, goldene Tür. Die Tür zur 
+Krypta, nach der du gesucht hast.
+ = Durchsuche dein Deck nach einer Wanderer - oder Relikt -Karte  
+und spiele sie (zahle ihre Kosten) .
+ Æ Neutraler Traum: Die wirfst dich in deinem Bett umh er, kannst aber keinen 
+Schlaf finden. In deinem Kopf schwirren unangenehme  und düstere Gedanken 
+umher: Gedanken über Scheitern, Unfähigkeit und Ver lust. Schweiß rinnt 
+dir deine Stirn hinab. Egal wie du dich hinlegst, d ir ist entweder zu heiß 
+oder zu kalt. Der vergeblichen Mühen überdrüssig st ehst du auf, um dir am 
+Waschbecken etwas Wasser ins Gesicht zu spritzen. D a erkennst du, dass dein 
+Zimmer nicht mehr wie zuvor aufgebaut ist – die Tür zu deinem Badezimmer 
+ist durch ein großes Tor aus Onyx und Marmor ersetz t worden.
+ = Du beginnst dieses Szenario mit 2/uni00A0zusätzlichen Ressourcen.
+ Æ Neutraler Traum: Du sitzt auf der Terrasse hinter dem Zuhause deiner 
+Kind heit, aber etwas stimmt nicht. Du erkennst dei ne Familie nicht wieder … 
+die Pflanzen im Hinterhof wachsen an der falschen S telle … und der Himmel 
+ist ein Flickwerk aus verwesenden Leichen, von dem abgetrennte Körperteile 
+auf die Landschaft hinabregnen. Deine Nicht-Familie nmitglieder beobachten 
+diesen grausigen Niederschlag in aller Seelenruhe u nd unterhalten sich 
+dabei übers Wetter, als ob dieser Vorfall das Norma lste der Welt wäre. Sie 
+hören auch nicht damit auf, als das unregelmäßige A ufschlagen der Hände 
+und Füße aufs Dach deines Hauses noch durch eine Fl ut von verstümmelten 
+Rümpfen verstärkt wird und dabei die Decke zum Absa cken bringt. Du läufst 
+davon, weichst dem tödlichen Niederschlag aus und s teuerst instinktiv auf die 
+Grenze des Grundstücks deiner Eltern zu. Als du hör st, wie das Haus hinter 
+dir einstürzt, schiebst du an einer altvertrauten S telle Gliedmaßen zur Seite 
+und bist erleichtert, das verwitterte Holz einer Ke llertür zu finden.
+ = Du beginnst dieses Szenario mit 1/uni00A0zusätzlichen Karte auf deiner 
+Starthand.
+6
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auf lösung erreicht wurde, weil alle Ermittler 
+besiegt wurden: Du erlangst dein Bewusstsein zurück, als dich 
+eine alte, vernarbte Katze anstupst. „Hey. Ist alles in Ordnung mit 
+dir, Mensch?“
+Ich träume, erinnerst du dich, sodass dir die sprechende Katze schon 
+weniger bizarr erscheint. Erschöpft mühst du dich aufzustehen und 
+klopfst dir den Schmutz von den Kleidern. „Du hattest Glück, nicht 
+zu Schaden gekommen zu sein, bevor wir ankamen“, spricht dich 
+eine menschliche Stimme an, die einem blonden Mann in einem 
+braunen Reisemantel gehört. Er lehnt an einem Baumstamm. „Die 
+Wälder sind nichts für Leute mit schwachen Nerven.“ Die vernarbte 
+Katze läuft zu dem Mann, der sich bückt, um sie über den Rücken 
+zu streicheln.
+Du fragst den Mann, wo du dich befindest und wie du an diesen 
+Ort gekommen bist, aber er unterbricht dich. „Das wirst du noch 
+alles rechtzeitig erfahren. Jetzt müssen wir uns aber auf den Weg 
+nach Ulthar machen. In der Stadt ist es sicher, relativ gesehen. Dort 
+kannst du dich von deiner Tortur erholen.“ Er wendet sich der Katze 
+zu und sagt zu ihr ein Wort in einer seltsamen Sprache – eine Art 
+Passwort, nimmst du an – aber die Katze geht einfach nur auf eine 
+Hecke zu, bei der noch mehrere andere Katzen versammelt sind. 
+„Mach es doch selbst“, antwortet sie ihm. 
+„Achte nicht auf die Katzen“, flüstert dir der Mann zu, als die 
+Katzen sich entfernen. „Sie sind nützliche Verbündete, aber auch 
+recht unabhängige Kreaturen, die weder auf dich noch auf mich 
+angewiesen sind. Wenn wir in Ulthar ankommen, lernst du viel-
+leicht noch andere ihrer Art kennen. Aber eins nach dem anderen.“ 
+Zusammen lasst ihr den Verwunschenen Wald hinter euch.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler wurden 
+von Randolph Carter gerettet.
+ Æ Einer der Ermittler darf Randolph Carter (Meisterhafter 
+Träumer)  ( Die Traumfresser , 59) seinem Deck hinzufügen. 
+Diese Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Zwischenspiel I: Die schwarze Katze fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verwobene 
+achtteilige Kampagne gespielt wird …
+ = … und du noch nicht Szenario 1–B: Erwachter  
+Albtraum  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 1–B: Erwachter Albtraum  
+gespielt hast, fahre stattdessen mit Zwischenspiel I:  
+Die schwarze Katze fort.
+Auf lösung 1:  Die Kreaturen unterhalten sich aufgeregt mit-
+einander. Nach einer Weile zieht sich etwa ein Dutzend von ihnen 
+hinter den großen Baum am Rande eines ausgetretenen Pfades 
+zurück. Kurze Zeit später kehren sie mit einer Auswahl von 
+Auerhahn-, Wachtel- und Fasanenfleisch zwischen ihren Mäulern 
+zurück. Du bist dir fast sicher, verrückt zu werden. Aber das 
+Schauspiel geht noch weiter. Die Kreaturen legen ihren „Tribut“ 
+aus Vögeln ängstlich vor den Katzen nieder und ziehen sich ruhig 
+wieder zurück. „Ich muss mich im Namen der Zoogs entschuldigen“, 
+sagt der Mann, als er sich nähert. „Es sind neugierige Wesen, 
+die gewöhnlich nicht so … aufgebracht sind. Nur gut, dass wir 
+vorbeigekommen sind.“ Der Anführer der Katzen springt auf einen 
+Baumstumpf und fügt hinzu: „Ja, ja. Diese gemeinen Zoogs haben 
+ihre Schuldigkeit getan. Es wird Zeit, von diesem verlassenen Ort zu 
+verschwinden. Was meint ihr?“
+Du kannst deine Aufregung nicht verbergen. Zoogs, sprechende 
+Katzen – alles, wovon du gelesen hast, ist real. Du willst den Mann 
+mehr über diese Welt fragen, aber er unterbricht dich. „Das wirst du 
+noch alles rechtzeitig erfahren. Jetzt müssen wir uns aber auf den 
+Weg nach Ulthar machen. In der Stadt ist es sicher, relativ gesehen. 
+Dort kannst du dich von deinen Reisen erholen.“ Er wendet sich der 
+Katze zu und sagt zu ihr ein Wort in einer seltsamen Sprache – eine 
+Art Passwort, nimmst du an – und die Katze antwortet ihm mit 
+einem Nicken. Die anderen Katzen nehmen mit dem Tribut in ihren 
+Mäulern eine schützende Kreisformation um dich herum ein und 
+zusammen entkommt ihr aus dem Verwunschenen Wald.
+ Æ Im Kampagnenlogbuch wird notiert: Die Katzen haben 
+ihren Tribut von den Zoogs eingefordert.
+ Æ Einer der Ermittler darf Randolph Carter (Meisterhafter 
+Träumer)  ( Die Traumfresser , 59) seinem Deck hinzufügen. 
+Diese Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Zwischenspiel I: Die schwarze Katze fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verwobene 
+achtteilige Kampagne gespielt wird …
+ = … und du noch nicht Szenario 1–B: Erwachter  
+Albtraum  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 1–B: Erwachter Albtraum  
+gespielt hast, fahre stattdessen mit Zwischenspiel I:  
+Die schwarze Katze fort.
+7
+
+Auflösung 2:  Du hältst den neuen Besuchern eine Hand hin, weil du 
+glaubst, die Lage alleine entschärfen zu können. Hä ttest du von Anfang 
+an gewusst, dass diese nagetierartigen Kreaturen in telligent sind, 
+hättest du schon viel früher versucht, dich mit ihn en zu unterhalten. Du 
+teilst ihnen mit, dass du nur ein Reisender in dies em fernen Land bist 
+und dass du nur in Frieden weitergehen willst. Kurz e Zeit unterhalten 
+sich die Kreaturen aufgeregt miteinander: „Ist doch  ganz nett!“, 
+„Gehört auch nicht zur schwarzen Katze!“, „Ruft den  Rat der Weisen 
+ein!“. Kurze Zeit später erscheinen noch mehr von i hnen, alle mit 
+sprödem grauen Fell und gebrechlicher dünner Gestal t. Die Älteste von 
+ihnen wirft einen Blick hinter dich und verkündet, dass sie dir helfen 
+werden, solltest du es schaffen, die Katzen zum Geh en zu bewegen.
+Irgendwie schaffst du es, deine Ungläubigkeit zu verbergen, und bit-
+test die Katzen höflich, zu einer anderen Zeit wiederzukommen. „In 
+Ordnung“, antwortet die vernarbte Katze, „wir sind uns aber nicht 
+das letzte Mal begegnet.“ Die Katzen ziehen sich an den Rand des 
+Waldes zurück, aber ihr menschlicher Gefährte bleibt bei dir zurück. 
+Als die Katzen außer Hörweite sind, bietet dir einer der Ältesten eine 
+Kürbisflasche mit etwas an, das fermentiertes Baumharz zu sein 
+scheint, was du dankbar annimmst.
+„Das ist Wein des Mondbaums“, erklärt der Mann hinter dir ruhig 
+und macht einen Schritt nach vorne. „Die Zoogs machen solche 
+Geschenke nicht leichtfertig. Es sind neugierige Wesen, denen eine 
+gewisse Weisheit nicht abzusprechen ist. Da du jetzt offen mit den 
+Ältesten sprechen kannst, würde ich ihnen Fragen stellen. Sie wissen 
+mehr darüber, was in dem Land vor sich geht, als du glauben magst.“
+Du beschreibst ihnen den Schriftsteller Virgil Gray und fragst die 
+Zoogs, ob ein Mann, auf den diese Beschreibung passt, durch diese 
+Wälder gekommen ist. Möglicherweise sogar mehrmals, wie du 
+hinzufügst. Stille senkt sich über die Zoogs, manche von ihnen ziehen 
+sich sogar tief ins Blattwerk zurück. „Wir haben diesen Menschen 
+getroffen“, antwortet dir einer der Ältesten, kaum lauter als im 
+Flüsterton. „Er ist hier oft vorbeigekommen. Er ist nett, aber dumm. 
+Folge der Straße nach Ulthar. Dort wirst du ihn vielleicht finden.“ 
+Dann fügt er noch mit einem leichten Knurren hinzu: „… aber hüte 
+dich vor der Katze, die ihm folgt. Alle Katzen sind Lügner, aber die 
+schwarze Katze ist besonders verlogen.“ Du dankst dem uralten 
+Zoog für seine weisen Worte und machst dich im Gefolge des blonden 
+Mannes und seiner tierischen Begleitung auf den Weg. Seit deiner 
+Unterhaltung mit den Zoogs beäugt sie dich misstrau isch. Endlich 
+bricht der Mann das unangenehme Schweigen. „Wenn du nach 
+Ulthar unterwegs bist, um deinen Freund zu finden, dann biete ich 
+mich als Führer an. In der Stadt ist es sicher, relativ gesehen. Dort 
+kannst du dich von deinen Reisen erholen.“
+Zoogs. Sprechende Katzen. Das kannst du dir nicht alles nur 
+einbilden. Irgendwie kannst du ein Fünkchen Wahrheit in all 
+dieser Absurdität erkennen. Fakt ist, dass der Rat der Zoogs deine 
+Situation bestätigt hat: Die Traumlande sind echt und Virgil Gray 
+befindet sich hier.
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler haben 
+mit den Zoogs gesprochen.
+ Æ Einer der Ermittler darf Randolph Carter (Meisterhafter 
+Träumer)  ( Die Traumfresser , 59) seinem Deck hinzufügen. 
+Diese Karte zählt nicht gegen die Deckgröße des Ermittlers.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Zwischenspiel I: Die schwarze Katze fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verwobene 
+achtteilige Kampagne gespielt wird …
+ = … und du noch nicht Szenario 1–B: Erwachter  
+Albtraum  gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 1–B: Erwachter Albtraum  
+gespielt hast, fahre stattdessen mit Zwischenspiel I:  
+Die schwarze Katze  fort. 
+8
+
+„Es ist eine wunderbare Stadt“, beschreibt er euch , wobei seine Augen zu leuchten 
+beginnen, „aus Gold und so schön, wie nichts, das ich seitdem gesehen habe. Eine 
+Stadt jenseits der Gipfel des unbekannten Berges Ka dath, wo noch niemand 
+gewesen ist. Dort, verhüllt in Nebel und von den St ernen gekrönt, liegt die Onyxfeste 
+der Großen.“
+Virgil streichelt beiläufig eine Katze, die in der Nähe auf der Theke sitzt, während 
+er gebannt Randolphs Geschichte zuhört. Sie ist ein e schlanke Kreatur mit 
+glänzendem schwarzen Fell, dunkel wie die Leere des  Alls selbst. „Dann müssen wir 
+diesen Ort finden! Auch wenn wir dort keinen Beweis  finden, hört es sich nach dem 
+Abenteuer des Lebens an. Genug, um hunderte Seiten zu füllen, wenn nicht mehr!“
+Du erklärst Virgil und Randolph, dass du zuerst in die wache Welt zurück kehren 
+musst, um deinen Gefährten von deinen Erlebnissen z u berichten, bevor du ein 
+solches Abenteuer angehen kannst. Plötzlich vernimm st du eine andere Stimme, wie 
+sie geheimnisvoll leise zu sprechen beginnt: „Oh, du kannst nicht aufwachen. Das 
+Auge ruht nun auf dir.“
+Du und die anderen wenden ihre Köpfe dem Ursprung d er Stimme zu. War es der 
+Wirt hinter der Theke? Ein anderer Gast? Virgils sc hwarze Katze streckt sich und 
+setzt sich auf. Ihre gelben Augen spiegeln das Sonn enlicht wider, das durch die 
+Fenster von draußen hereindringt. „Lange habe ich d arauf gewartet, dass du auf die 
+Suche nach Kadath gehst“, sagt sie.
+„Du kannst sprechen?“, fragt Virgil, wobei er fast seinen Hocker umwirft, als er 
+überrascht aufspringt.
+„Ich bin eine Katze, du Tölpel. Natürlich kann ich sprechen“, antwortet die 
+schwarze Katze und leckt sich gelangweilt ihre Pfot e. „Du hast schon tausende 
+Katzen vor mir in Ulthar getroffen. Und jetzt bist du überrascht?“
+„Aber …ich dachte … “ Virgil wischt sich mit der Han dfläche über die Stirn.
+„Achte nicht auf ihn“, sagt die schwarze Katze und wendet sich direkt dir zu. „Ich 
+versichere dir, dass du nicht mehr in die wache Welt wechseln kannst, bevor du 
+Kadath gefunden hast. Das ist der einzige Ausweg. I n der Zwischenzeit werde ich 
+zurückkehren und deinen Gefährten von deiner bevors tehenden Suche berichten.“ 
+Sie springt vom Tresen und läuft selbstbewusst auf den Ausgang zu. „Aber ich 
+befürchte, dass ihnen eine noch schwierigere Aufgab e bevorsteht … “
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als verwobene 
+Kampagne gespielt werden: Fahre mit Die schwarze Katze 2  fort.
+ Æ Ansonsten verschwindet die rätselhafte Katze durch die Tür, bevor 
+du ihr antworten kannst. Fahre mit Szenario 2–A: Die Suche nach 
+Kadath  fort.
+Die schwarze Katze 2:  „Was soll ich deinen Freunden in der wachen Welt 
+ausrichten?“
+ Æ Der Ermittlungsleiter muss entscheiden (wähle eins):
+ = Du erzählst deinen Gefährten von deiner Suche, dein er Notlage 
+und deinem Wagnis. Die schwarze Katze wird zu dir z urückkehren, 
+nachdem sie die Botschaft überbracht hat. Es könnte  deine 
+Gefährten übermäßig belasten. Im Kampagnenlogbuch f ür Die 
+Traumsuche (Kampagne/uni00A0A) wird notiert: Die schwarze Katze hat die 
+Neuigkeit über deine Notlage überbracht.
+ = Du erzählst deinen Gefährten von deinen neuen Freun den und 
+über die Traumlande. Im Kampagnenlogbuch für Die Traumsuche 
+(Kampagne/uni00A0A) wird notiert: Die schwarze Katze hat das Wissen über 
+die Traumlande geteilt.
+ = Du erzählst deinen Gefährten, dass sie in Gefahr sind, du aber 
+in Sicherheit bist. Die schwarze Katze wird bei ihnen bleiben, 
+nachdem sie die Botschaft überbracht hat. Das könnte deine 
+Suche etwas schwieriger machen. Im Kampagnenlogbuch für Die 
+Traumsuche (Kampagne/uni00A0A) wird notiert: Die schwarze Katze hat die 
+anderen gewarnt.
+ = Du traust dieser Kreatur nicht über den Weg. Du drohst der 
+schwarzen Katze und warnst sie, sich deinen Freunden auf keinen 
+Fall zu nähern. Die schwarze Katze gähnt und verschwindet durch 
+die Tür. Im Kampagnenlogbuch für Die Traumsuche (Kampagne/uni00A0A) 
+wird notiert: In Ordnung, gut, dann mach doch, was du willst.
+ Æ Fahre mit Die schwarze Katze 3  auf Seite/uni00A09 im Kampagnen-
+leitfaden/uni00A0B fort.
+ Æ Falls Die Traumsuche und Das Netz der Träume als verwobene achtteilige 
+Kampagne gespielt wird oder falls Die Traumsuche (Kampagne/uni00A0A) als 
+vierteilige Kampagne gespielt wird: Fahre mit Die schwarze Katze 1 fort.
+Die schwarze Katze 1:  S/e.a/t.a/z.a/t.a /n.a/a.a/c.a/h.a Szenario 1–A  /a.a/n.a, /a.a/l.a/s.a /d.a/i.a/e.a 
+T/r.a/u00E4.a/u.a/m.a/e.a/r.a /s.a/i.a/c.a/h.a /a.a/u.a/f.a /i.a/h.a/r.a/e.a/r.a R/e.a/i.a/s.a/e.a /j.a/e.a/n.a/s.a/e.a/i.a/t.a/s.a /d.a/e.a/s.a V/e.a/r.a/w.a/u.a/n.a/s.a/c.a/h.a/e.a/n.a/e.a/n.a 
+W/a.a/l.a/d.a/e.a/s.a /b.a/e.a/f.a/i.a/n.a/d.a/e.a/n.a …
+Als du den Verwunschenen Wald verlässt, wanderst du  durch eine hügelige Wiesen-
+landschaft. Am strahlend blauen Himmel ist keine Wo lke zu sehen. Auf deiner 
+Reise nach Süden unterhältst du dich mehrere Stunde n mit dem blonden Mann, 
+der sich als Randolph Carter vorstellt. Bei der Sta dt Nir, wie sie Randolph nennt, 
+überquerst du einen breiten Fluss über eine Steinbr ücke. Da der Mann freundlich 
+wirkt und sich in dieser wie in deiner Welt auszuke nnen scheint, erklärst du ihm 
+deine Situation, dass du den Erzählungen eines Mann es namens Virgil Gray gefolgt 
+bist, um dieses seltsame Land zu erreichen und selb st zu erleben, ob die Geschichte 
+wahr ist. „In Ulthar gibt es einen Ort, wo du den Mann persönlich treffen kannst“, 
+antwortet Randolph. „Wenn wir in Ulthar ankommen, z eige ich ihn dir.“ 
+Die Stadt Ulthar ist nicht gerade das, was du dir v orgestellt hast. Eine Straße aus 
+Kopfsteinpflaster bildet die Grenze der Stadt, welc he die malerischen Hütten 
+von der hügeligen Wiesenlandschaft trennt. In der S tadt sind die gepflasterten 
+Straßen fast vollständig mit Katzen sämtlicher Farb en bevölkert, die dir den Weg 
+freimachen, wenn du dich ihnen näherst. Alte Spitzg iebeldächer und einander 
+zugeneigte obere Stockwerke bilden eine Art Bogenga ng über den buckligen Straßen. 
+Die gesamte Stadt scheint eine planlose Aneinander reihung von Wohnungen und 
+altmodischen Geschäften zu sein. Als du den Marktpl atz in der Mitte der Stadt 
+erreichst, hält dich Randolph an und wendet sich mi t einem jugendlichen Lächeln 
+an dich. „Willkommen in Ulthar“, verkündet er. „Wie ich bereits vorher erwähnt 
+habe, ist es recht sicher hier. Es gibt hier nur eine wichtige Regel, an die du dich 
+halten solltest, wenn du dich an diesem Ort aufhält st: In der Stadt Ulthar darf 
+niemand eine Katze töten.“ Wegen des Umstands, dass die Straßen mit Katzen 
+übersät sind, willst du wissen, ob die Stadt von Ka tzen regiert wird. „Nicht ganz“, 
+antwortet dir Randolph, nachdem er über deine Frage  nachgedacht hat, „obgleich 
+man die Stadt als Zentrum der Katzengesellschaft in  den Traumlanden ansehen 
+kann. Der Grund für die Existenz dieses Gesetzes is t eine andere Geschichte – Ich 
+glaube, dass wir diesen Virgil bei Einar finden wer den.“
+Randolph führt dich über den Marktplatz, der von Ge bäuden gesäumt wird, die mit 
+Statuen, Schildern und sogar Buntglasfenstern mit K atzenmotiven verziert sind. 
+Schließlich kommt ihr an ein solches Gebäude, auf d essen Schild „Einars Platz“ 
+prangt. Im Inneren befindet sich eine mit langen Ho lztischen ausgestattete mittel -
+alterliche Taverne. Du entdeckst mehrere Gäste und genauso viele Katzen. Einer 
+der Gäste füttert an der Holztheke eine der Katzen mit getrockneten Fleischstreifen. 
+Er ist ein stattlicher Mann in den frühen Dreißiger n mit kurzem schwarzen Haar 
+und ausgeprägten, spitz zulaufenden Wangenknochen. Du erkennst ihn sofort als 
+den Autor Virgil Gray. Im Hinterkopf nagt die Frage  an dir, ob diese Begegnung 
+zufällig oder doch vorherbestimmt ist – zum Guten o der zum Schlechten.
+Wie dem auch sei, du näherst dich dem Mann zusammen  mit Randolph und stellst 
+euch vor. Mit einem fröhlichen Lächeln schüttelt Vi rgil dir und Randolph die Hand. 
+„Seid gegrüßt, werte Mitträumer!“, sagt der Autor mit leichter Aufregung in der 
+Stimme. „Ich freue mich, andere zu treffen, die auc h an die Sache glauben. Ich habe 
+es satt, in der Zeitung ständig immer nur von meine r ‚Krankheit‘ lesen zu müssen.“
+Du nickst zustimmend und teilst Virgil mit, dass du  einen Beweis für deine 
+Entdeckung suchst, die du in die wache Welt mitnehm en kannst. „Glaubst du etwa 
+nicht, dass ich das nicht schon versucht habe?“, antwortet er matt. „Leider ist es für 
+jemanden, der schläft, unmöglich, etwas aus diesem Reich in die reale Welt mitzu-
+nehmen. Das hier ist alles Einbildung, verstehst du ? Ideen, Konzepte, Fantasien. Du 
+kannst keinen Gedanken in der Hand festhalten, nicht  wahr?“
+Randolph mischt sich ins Gespräch mit ein. „In den Traumlanden gibt es einen Ort, 
+der euch den Beweis liefern kann, den ihr sucht. Ic h habe ihn in meinen Träumen 
+gesehen. Ich habe ihn drei Mal besucht, immer nur g anz kurz, bevor ich von der 
+aufgehenden Sonne zurückgeholt wurde … aber was ich  auch versuche, ich kann 
+den Weg dorthin nicht mehr finden. Ich habe viele N ächte mit der Suche danach 
+verbracht.“
+„Oh?“, fragt Virgil neugierig. „Und was ist das für ein Ort?“
+Zwischenspiel I: Die schwarze Katze
+9
+
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die Ermittler mit den Zoogs gesprochen haben  oder falls  
+die Ermittler von Randolph Carter gerettet wurden , fahre mit  
+Einführung 5 fort.
+ Æ Falls die Katzen ihren Tribut von den Zoogs eingefordert haben ,  
+fahre mit Einführung 6  fort.
+Einführung 4:  Am nächsten Morgen triffst du Virgil und Randolph auf 
+dem Marktplatz vor Einars Herberge, wo sie sich angeregt unterhalten. D u 
+weißt immer noch nicht, was du von den beiden halten sollst, doch zumindest 
+scheinen sie mit diesem absonderlichen Land vertraut zu sein. Also frag st du 
+sie, wie es weitergehen soll. „Wir sollten mit dem Hohepriester Atal im Tem pel 
+der Älteren sprechen“, schlägt Randolph vor. „Seine Weisheit überst eigt alle 
+Vorstellungskraft. Vielleicht weiß er, wo der Ort, den wir suchen, zu fin den 
+ist.“ Du fragst dich laut, wie weit es bis zum Tempel sein könnte.
+„Überhaupt nicht weit“, antwortet Randolph. „Er liegt auf dem höchste n 
+Hügel von Ulthar. Mir nach, ich kenne den Weg!“ Angeführt von Randolph 
+macht ihr euch zum Tempel der Älteren auf, einem runden Turm aus elfen-
+beinverkleidetem Stein, der von einem kleinen Heer von Katzen bewacht w ird. 
+Die Katze an der Spitze der Formation ist keine andere als das alte, vernarbt e 
+Tier, das du zuvor in den Wäldern getroffen hast. Sie tritt nach vorn, um 
+dir und deinen Reisebegleitern den Weg zu versperren und euch mit großer 
+Missbilligung zu mustern.
+„So sieht man sich wieder“, sagt die alte Katze mit scharfer Stimme. „Ich 
+nehme an, ihr wollt hier hinein.“
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die Ermittler mit den Zoogs gesprochen haben  oder falls  
+die Ermittler von Randolph Carter gerettet wurden , fahre mit  
+Einführung 5  fort. 
+ Æ Falls die Katzen ihren Tribut von den Zoogs eingefordert haben ,  
+fahre mit Einführung 6  fort.
+Einführung 5:  „Tja, zu dumm“, sagt die Katze und reckt ihren Schwanz 
+in die Höhe. Von links und rechts kommen weitere Katzen herbei, von denen 
+einige böse fauchen. Ihr Fell sträubt sich und ihre Augen funkeln vor Zorn. 
+„Es ist unsere Pflicht, diesen Ort vor ungestümen Fremden wie euch zu 
+beschützen. Ihr seid hier nicht willkommen.“
+„Bitte, seid doch vernünftig“, fleht Randolph. „Wir wollen doch nur mit A tal 
+sprechen. Wir haben nichts Böses im Sinn.“
+„Man kann das eine im Sinn haben und doch das andere tun.“ Die vernarbte 
+Katze streift auf und ab. „Und jetzt schleicht euch und kommt bloß nicht 
+wieder.“
+Die Ermittler müssen entscheiden (wähle eins):
+ Æ Gehe mit leeren Händen. Fahre mit Einführung 7  fort.
+ Æ Verschaffe dir gewaltsam Zutritt zum Tempel.  
+Fahre mit Einführung 8  fort.
+Einführung 6:  Du erklärst der Katze, dass ihr nur hier seid, um mit Atal zu 
+sprechen, und nichts Böses im Sinn habt. „Keine Sorge, mein lieber Mensch “, 
+sagt die Katze mit einem herzhaften Gähnen – wie nur eine Katze es zustande 
+bringt, ohne ihr majestätisches Aussehen zu verlieren. „Ihr seht mir ni cht wie 
+Unruhestifter aus. Abgesehen davon bin ich beschäftigt.“ Vor der Katz e siehst 
+du einen kleinen Klumpen liegen: einen blutigen, halb gefressenen Fas an. Du 
+widerstehst dem Drang, die Nase zu rümpfen, und dankst deinem Glücksste rn 
+dafür, dass du dich gut mit der Katze gestellt hast. „Na los, geht schon rein“, s agt 
+sie und leckt sich die Lippen vor lauter Vorfreude auf den Rest ihrer Mahlzei t.
+Fahre mit Einführung 9  fort.
+Einführung 7:  Resigniert lasst ihr den Tempel auf der Hügelkuppe hinter 
+euch. „Dann müssen wir eben ohne Atals Ratschläge auskommen“, sagt 
+Randolph seufzend. „Wie dem auch sei, aller Wahrscheinlichkeit nach l iegt 
+unser Ziel in weiter Ferne – vielleicht sogar auf einem anderen Kontinent . Wir 
+sollten uns eine Schiffspassage besorgen. Ich schlage vor, wir reisen n ach Süden, 
+in die Hafenstadt Dylath-Leen. Dort können wir unsere nächsten Schrit te 
+planen.“ Du nickst und wirfst einen letzten Blick auf den steinernen Temp el. 
+Niemals wirst du erfahren, welches Wissen dir entgangen ist.
+Fahre mit der Vorbereitung  fort.
+Einführung 1:  Du verbringst die Nacht in Einars Herberge, was leider 
+nicht besonders erholsam ist. Selbst wenn es möglich wäre, in einem Traum 
+einzuschlafen, dir gelingt es einfach nicht. Sorgen über die bevorste hende 
+Suche quälen deinen Geist. Immer wieder musst du an die Warnung der 
+schwarzen Katze denken, eine Warnung vor Gefahren in der wachen Welt. 
+Dann schweifen deine Gedanken zu den anderen, die Virgil Gray die Stufen 
+des Schlummers hinab und durch den Verwunschenen Wald gefolgt sind. Ob 
+sie wohl ebenfalls hier sind? Sollte es dir gelingen, die Onyxfeste zu find en und 
+mit Beweisen für die Existenz der Traumlande zurückzukehren, kannst d u sie 
+vielleicht alle retten: dich selbst, deine Freunde und auch die anderen T räumer.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die schwarze Katze an deiner Seite ist,  fahre mit Einführung 2  fort.
+ Æ Falls der obere Punkt nicht zutrifft und sich Luke Robinson in deiner 
+Gruppe befindet, fahre mit Einführung 3 fort.
+ Æ Falls keiner der oberen Punkte zutrifft, fahre mit Einführung 4  fort.
+Einführung 2:  Als der Morgen hereinbricht und erste Lichtstrahlen durch 
+die Vorhänge ins Zimmer fallen, nimmst du einen katzenförmigen Umriss 
+vor dem Fenster sitzend wahr. Als du dich an die Helligkeit gewöhnt hast, bis t 
+du ganz und gar fasziniert von ihren stechenden gelben Augen, die wie die 
+Morgensonne strahlen. Der Statur nach müsste es Virgils sprechende Ka tze 
+sein. Du fragst die schwarze Katze, wie lange sie schon dort sitzt.
+„Lange genug, um zu wissen, dass du weder wach noch schlafend bist“, 
+antwortet sie paradoxerweise.
+Die Naturgesetze dieser Welt verwirren dich immer noch. Ist es überhaup t 
+möglich, in den Traumlanden zu schlafen? Und wenn ja, wovon würde man 
+träumen? Neugierig gibst du die Frage an die Katze weiter.
+„Für diejenigen, die hier ihren physischen Körper haben, ist es möglich , doch 
+du bist etwas vollkommen anderes. Aber das nur nebenbei. Kommen wir zum 
+Geschäftlichen.“ Die schwarze Katze springt auf dein Bett. „Ich habe de inen 
+Freunden die Warnung überbracht, um die du mich gebeten hattest. Mir 
+scheint, auch sie machen sich derzeit für eine Reise in die Traumlande bere it. 
+Vorerst werde ich bei dir bleiben. Irgendjemand muss ja schließlich auf di ch 
+und meinen Hausmenschen aufpassen.“
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls sich Luke Robinson in deiner Gruppe befindet, fahre mit 
+Einführung 3  fort.
+ Æ Ansonsten fahre mit Einführung 4  fort.
+Einführung 3:  Am Morgen triffst du Virgil und Randolph auf dem Markt-
+platz vor Einars Herberge, wo sie sich angeregt unterhalten. Du weißt imm er 
+noch nicht, was du von den beiden halten sollst, doch zumindest hast du eine 
+gewisse Vorstellung davon, was als Nächstes zu tun ist. Schließlich ist d as 
+nicht deine erste Exkursion in das sagenhafte Land der Träume. Du wendest 
+dich an Randolph und schlägst vor, mit dem Hohepriester Atal im nahe-
+gelegenen Tempel der Älteren zu sprechen. Diesen Namen hast du bei deinem 
+letzten Besuch in Ulthar gehört, auch wenn es damals keinen Grund für dich 
+gab, den Priester aufzusuchen. Randolph wirft dir einen verdutzten Bl ick zu, 
+der sich schnell in ein Schmunzeln verwandelt. 
+„Wie ulkig“, sagt er. „Genau das wollte ich auch gerade vorschlagen. Atal s 
+Weisheit übersteigt alle Vorstellungskraft. Vielleicht weiß er, w o der Ort, den wir 
+suchen, zu finden ist.“
+Voller Abenteuerlust klatscht Virgil in die Hände: „Na dann, worauf war ten 
+wir? Hier entlang, Freunde!“
+Du nickst und machst dich zum Tempel auf, einem runden Turm aus elfenbein -
+verkleidetem Stein, der auf dem höchsten Hügel der Stadt thront. Ein klei nes 
+Heer von Katzen patrouilliert um das Gemäuer herum. Die Katze an der Spitze 
+der Formation ist keine andere als das alte, vernarbte Tier, das du zuvor in de n 
+Wäldern getroffen hast. Sie tritt nach vorn, um dir und deinen Reisebegle itern 
+den Weg zu versperren und euch mit großer Missbilligung zu mustern.
+„So sieht man sich wieder“, sagt die alte Katze mit scharfer Stimme. „Ich 
+nehme an, ihr wollt hier hinein.“
+Szenario 2–A: Die Suche nach Kadath
+10
+
+Einführung 11:  Atal weigert sich, weitere Ratschläge zu geben, und so 
+beschließt ihr, den Tempel auf der Hügelkuppe hinter euch zu lassen. „Wir 
+haben viel erfahren, doch was den genauen Standort des Kadath betrifft, s ind 
+wir keinen Schritt weiter“, sagt Randolph seufzend. „Höchstwahrsc heinlich 
+liegt unser Ziel in weiter Ferne – vielleicht sogar auf einem anderen Konti nent. 
+Wir sollten uns eine Schiffspassage besorgen. Ich schlage vor, wir reis en nach 
+Süden, in die Hafenstadt Dylath-Leen. Dort können wir unsere nächsten 
+Schritte planen.“
+Fahre mit der Vorbereitung  fort.
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Die Suche nach Kadath, Anhänger von Nyarlathotep, Korsaren, Traum-
+lande, Geflüster des Hypnos und Zoogs . Diese Sets sind an folgenden 
+Symbolen zu erkennen:  
+ 
+ 
+ Æ Die Orte Ulthar, Skai und Dylath-Leen werden ins Spiel gebracht.
+ = Jeder Ermittler beginnt das Spiel in Ulthar.
+ Æ Alle übrigen Orte werden als nicht im Spiel befindlich beiseitegelegt .
+ Æ Folgende Gegner werden als nicht im Spiel befindlich beiseitegelegt : 
+Katzen von Ulthar, Pirschender Mantikor, Der kriechende Nebel, 
+Horde der Nacht, Wesen von Ib, beide Kopien von Finsterer Dunkel-
+dürrer, beide Kopien von Korsar von Leng und alle 3/uni00A0Kopien von 
+Priester der Tausend Masken.
+ Æ Die herausgesuchten Begegnungskarten werden nach 1/uni00A0Kopie von 
+Voonith- Schwarm durchsucht, die am Skai erscheint. Falls sich 
+3/uni00A0oder 4 Ermittler im Spiel befinden, werden die herausgesuchten 
+Begegnungs karten zusätzlich nach einer weiteren Kopie von Voonit h-
+Schwarm durchsucht, die in Dylath-Leen erscheint.
+ Æ Der Ermittlungsleiter übernimmt die Kontrolle über die Storyvorte ils-
+karte Virgil Gray (Autor seltsamer Geschichten)  und bringt sie ins Spiel.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Orte im Szenario „Die Suche nach Kadath“
+Jeder Ort in diesem Szenario hat keine verhüllte Seite. Deshalb kommen sie 
+mit ihrer enthüllten Seite nach oben ins Spiel. Statt einer verhüllten Seite 
+haben diese Orte Handlungskarten auf ihrer Rückseite. Immer wenn in 
+diesem Szenario ein Ort ins Spiel kommt (auch während der Vorbereitung), 
+werden wie üblich Hinweise in Höhe des Hinweiswertes des Ortes darauf 
+platziert.
+Orte können auf zwei Arten umgedreht werden. Die meisten Orte werden durch 
+das Schlüsselwort V erschleiert wie unten beschrieben umgedreht. Manche Orte 
+werden aber durch die auf dem Ort aufgedruckte Fähigkeit umgedreht.
+Ist ein Ort erst einmal umgedreht und der T ext der Handlungskarte 
+gelesen worden, kann dieser Ort für den Rest des Spiels nicht erneut 
+umgedreht werden, außer es ist etwas anderes angegeben.
+Verschleiert
+Viele Orte in diesem Szenario haben das Schlüsselwort Verschleiert. Dieses 
+Schlüssel wort gibt an, dass an diesem Ort unbekanntes Wissen oder Dinge 
+verborgen sind, welche die Ermittler erst finden müssen, bevor sie genutzt 
+werden können.
+Ein Ermittler darf an einem verschleierten Ort ohne Hinweise darauf diesen 
+als -Fähigkeit umdrehen und den T ext auf der Rückseite abhandeln.
+Gegner mit Ausschwärmen X und Sieg X
+Sobald auf einem ausschwärmenden Gegner der T ext Sieg X  auftaucht, ist er 
+nur für die Wirtskarte aktiv. Schwarmkarten können den Siegpunktestapel 
+nicht betreten und sind niemals Siegpunkte wert.
+Einführung 8:  Du lässt die Katze wissen, dass du den Tempel so oder so 
+betreten wirst und dich von einer einfachen Katze nicht aufhalten lässt . „Wollen 
+wir wetten?“, knurrt sie und setzt zum Sprung an. Andere Katzen, die den 
+Tempel bewachen, werden auf den Tumult aufmerksam und umzingeln dich. 
+Es ist nicht dein Wunsch, den Katzen wehzutun, aber du wirst auch nicht 
+zulassen, dass sie dich von deinem Ziel fernhalten. Mit einem letzten Nic ken in 
+Richtung deiner Kameraden rennst du wie verrückt auf das Tempeltor zu. Ei n 
+fauchender, wütend kreischender Sturm erhebt sich und die Katzen nehm en 
+eine erbitterte Verteidigungsformation ein. Ein Wall aus winzigen K rallen und 
+Zähnen versperrt dir den Weg, doch du kämpfst dich unerschrocken weiter 
+voran. Als du das steinerne Tor hinter dir zuschlägst, hörst du die alte Katz e 
+von der anderen Seite brüllen: „Na schön, Mensch! Besuche deinen Priest er! 
+Aber glaube bloß nicht, dass wir deine Schandtat vergessen werden!“ 
+Im Kampagnenlogbuch wird notiert:  
+Die Ermittler haben sich gewaltsam Zutritt zum Tempel verschafft. 
+Fahre mit Einführung 9  fort.
+Einführung 9:  In der höchsten Kammer des Tempels, auf einer Elfenbein-
+empore, empfängt euch der Hohepriester Atal. Er ist ein sehniger, gebre chlicher 
+Mann mit einem langen, schütteren schwarzen Bart, eingefallenen Wan gen und 
+den milchig-bleichen Augen eines Menschen, der mit Blindheit geschlagen ist. 
+„Lass dich von seinem Aussehen nicht täuschen“, flüstert Randolph, al s ihr vor 
+der Empore Platz nehmt. „Atal ist zwar schon über drei Jahrhunderte alt, ve rfügt 
+aber noch immer über einen scharfen Verstand und ein gutes Gedächtnis.“
+Du stellst dem Priester Fragen über deine Suche und beschreibst das Ziel de iner 
+Reise: die Feste, die Randolph in seinen Träumen gesehen hat. „Du sprichs t von 
+der Ruhestätte der Großen Götter, hoch über dem unb ekannten Kadath. Selbst 
+mir ist ihr genauer Standort nicht bekannt. Und das ist auch gut so, denn der 
+Lohn für den Aufstieg wäre ein äußerst bitterer. Mein Gefährte Barzai erk lomm 
+einst einen Gipfel, der bei Weitem nicht so heilig war, und wurde dennoch nie 
+wieder gesehen. Die Götter des Kadath mögen machtlos erscheinen, doch s ie 
+werden beschützt von den Anderen Göttern von Außerhalb, von denen man 
+besser nicht spricht. Es wäre ratsamer, die Götter in Frieden zu lassen und d ieses 
+törichte Vorhaben aufzugeben.“
+Dass Atal immer wieder von „Göttern“ spricht, macht dich neugierig. Lau t fragst 
+du dich, welche Art von Gott an einem Ort wie diesem existieren könnte.
+Der Priester schüttelt den Kopf. „Es sind nicht unsere Götter, sondern di e Götter 
+der Erde, denn dieses Land ist nur ein Spiegelbild des deinen.“
+Du bohrst weiter nach, um noch mehr von Atals Weisheit zu erfahren, doch er 
+lässt sich nicht darauf ein. „Ich habe bereits mehr preisgegeben, als ich s ollte“, 
+betont er. „Ich bitte euch, um euretwillen, lasst ab von diesem Wahnsinn. “
+Im Kampagnenlogbuch wird unter „Beweis von Kadath“ 1/uni00A0Zählstrich 
+notiert.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die Ermittler mit den Zoogs gesprochen haben,  fahre mit  
+Einführung 10  fort.
+ Æ Falls die Katzen ihren Tribut von den Zoogs eingefordert haben   
+oder falls die Ermittler von Randolph Carter gerettet wurden ,  
+fahre mit Einführung 11  fort.
+Einführung 10:  In einem plötzlichen Geistesblitz fällt dir der Mo ndwein ein, 
+den du von den Zoogs im Verwunschenen Wald erhalten hast. Du bietest Atal 
+etwas davon an und er nimmt dankend an. Während du nur so tust, als würdest 
+du trinken, leert der Priester ein Glas nach dem an deren. Schließlich wird Atal 
+redselig und plappert verbotene Dinge aus, die er o hne den Wein niemals verraten 
+hätte. Er erzählt dir von einem Bildnis, das in den  Fels des Berges Ngranek 
+auf der Insel Oriab gehauen ist – ein Abbild der Ge sichtszüge der Erdgötter, so 
+behauptet er zumindest. Er erzählt von den Säulen v on Kadatheron, auf denen die 
+Geschichte der irdischen Traumlande niedergeschrieb en ist, und von jenen, die von 
+den Horden der Nacht erschlagen wurden und nun in den Krypten von Zulan-
+Thek, der Stadt der Toten, bestattet sind. Und er e rzählt von einem unheilvollen 
+Stern über einer vergessenen Stadt, die auf keiner Landkarte verzeichnet ist. 
+„Wenn ihr wirklich nicht davon abzubringen seid, den Kadath in der Kalten Öde 
+zu suchen“, sagt er trunken, „solltet ihr nach Dylath-Leen reisen. Das ist eine Stadt 
+an der Südküste. Dort werdet ihr eine Schiffspassag e bekommen.“
+Im Kampagnenlogbuch wird unter „Beweis von Kadath“ 1/uni00A0Zählstrich notiert.  
+Jeder Ermittler verdient 2/uni00A0Erfahrungspunkte. Fahre mit der Vorbereitung fort.
+11
+
+Vorbereitung: Verbotene Lande
+ Æ Jeder Ermittler verliert alle seine Hinweise.
+ Æ Jeder Ort im Spiel wird aus dem Spiel entfernt (oder dem Siegpunkte stape l 
+hinzugefügt, falls er Sieg X  hat und sich keine Hinweise auf ihm befinden). 
+Jeder Gegner und jede Verstärkung an jenen Orten werden abgelegt. 
+Ermittler werden während dieses Prozesses nicht besiegt.
+ Æ Jeder beiseitegelegte Verboten-Ort wird ins Spiel gebracht (Ilek-Vad,  
+Die Verbotenen Lande und Zulan-Thek). 
+ = Jeder Ermittler wird auf Ilek-Vad platziert.
+ Æ Der beiseitegelegte Gegner Pirschender Mantikor erscheint am Ort  
+Die Verbotenen Lande.
+ Æ Der beiseitegelegte Gegner Horde der Nacht erscheint in Zulan-Thek.
+ Æ Die Ermittler rücken zu Szene 2a – Auf der Suche nach der Nacht vor.
+Vorbereitung: Zeitloses Königreich
+ Æ Jeder Ermittler verliert alle seine Hinweise.
+ Æ Jeder Ort im Spiel wird aus dem Spiel entfernt (oder dem Siegpunkte stape l 
+hinzugefügt, falls er Sieg X  hat und sich keine Hinweise auf ihm befinden). 
+Jeder Gegner und jede Verstärkung an jenen Orten werden abgelegt. 
+Ermittler werden während dieses Prozesses nicht besiegt.
+ Æ Die Orte Celephais, Serannian und Hazuth-Kleg werden ins Spiel gebrac ht.
+ = Jeder Ermittler wird auf Celephais platziert.
+ Æ Der beiseitegelegte Gegner Der kriechende Nebel wird in das Begegnung s-
+deck gemischt.
+ Æ Das Begegnungsdeck wird nach 1/uni00A0Kopie von Priester der Tausend Masken 
+durchsucht, die in Hazuth-Kleg erscheint. Falls sich 3/uni00A0oder/uni00A04 Ermittler im 
+Spiel befinden, wird das Begegnungsdeck zusätzlich nach einer weite ren 
+Kopie von Priester der Tausend Masken durchsucht, die in Celephais 
+erscheint. Das Begegnungsdeck wird gemischt.
+ Æ Die Ermittler rücken zu Szene 2a – Der Erlass des Königs vor.
+Vorbereitung: Oriab
+ Æ Jeder Ermittler verliert alle seine Hinweise.
+ Æ Jeder Ort im Spiel wird aus dem Spiel entfernt (oder dem 
+Siegpunkte stapel hinzugefügt, falls er Sieg X  hat und sich 
+keine Hinweise auf ihm befinden). Jeder Gegner und jede 
+Verstärkung an jenen Orten werden abgelegt. Ermittler 
+werden während dieses Prozesses nicht besiegt.
+ Æ Jeder beiseitegelegte Oriab -Ort wird ins Spiel gebracht 
+(Baharna, Ngranek und Namenlose Ruinen). 
+ = Jede Ermittler wird auf Baharna platziert.
+ Æ Das Begegnungsdeck wird nach 1/uni00A0Kopie von Nachtreiter 
+durchsucht, die am Ngranek erscheint. Falls sich 3/uni00A0oder 
+4/uni00A0Ermittler im Spiel befinden, wird das Begegnungsdeck 
+zusätzlich nach einer weiteren Kopie von Nachtreiter 
+durchsucht, die in den Namenlosen Ruinen erscheint.  
+Das Begegnungsdeck wird gemischt.
+ Æ Die Ermittler rücken zu Szene 2a – Die Insel Oriab vor.
+Vorbereitung: Mnar
+ Æ Jeder Ermittler verliert alle seine Hinweise.
+ Æ Jeder Ort im Spiel wird aus dem Spiel entfernt (oder dem 
+Siegpunkte stapel hinzugefügt, falls er Sieg X  hat und sich 
+keine Hinweise auf ihm befinden). Jeder Gegner und jede 
+Verstärkung an jenen Orten werden abgelegt. Ermittler 
+werden während dieses Prozesses nicht besiegt.
+ Æ Jeder beiseitegelegte Mnar-Ort wird ins Spiel gebracht 
+(Kadatheron, Sarnath und Ruinen von Ib).
+ = Jeder Ermittler wird auf Kadatheron platziert.
+ Æ Der beiseitegelegte Gegner Wesen von Ib erscheint in den 
+Ruinen von Ib.
+ Æ Die Ermittler rücken zu Szene 2a – Das Verderben, das 
+zuvor kam vor.
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine 
+anderen Vorbereitungs- und Auf lösungsanweisungen 
+verwendet werden sollen, können die unten stehen -
+den Informationen bei der Vorbereitung und während 
+des Spiels dieses Szenarios verwendet werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern 
+zusammengestellt:  
++1, 0, 0, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  , 
+ ,  .
+ Æ Die schwarze Katze ist nicht an deiner Seite.
+ Æ Die Ermittler wurden von Randolph Carter gerettet.
+Halt!
+Zu diesem Zeitpunkt kann mit dem Spielen von  
+Die Suche nach Kadath  begonnen werden. Die 
+4/uni00A0zusätzlichen Vorbereitungsanweisungen werden 
+zunächst ignoriert. Die Spieler werden zu einem 
+späteren Zeitpunkt während des Szenarios dazu 
+angewiesen, diese abzuhandeln.
+12
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Bevor du irgendeine andere Auf lösung abhandelst, falls 
+mindesten s 1 Ermittler besiegt wurde:  Die besiegten 
+Ermittler lesen zuerst  Besiegter Ermittler  vor .
+Besiegter Ermittler:  Als du aufwachst, bist du mit dicken 
+Hanfseilen gefesselt und liegst auf hartem, feuchtem Holz. Unter dir 
+schwankt der Boden und du hörst Wellen gegen die Wände schwap-
+pen. Man hat dich auf eine Art Galeere verschleppt. Aber wozu?
+ Æ Im Kampagnenlogbuch wird für jeden besiegten Ermittler 
+notiert: (Name des Ermittlers) wurde gefangen genommen.
+ Æ Falls sich im Deck eines besiegten Ermittlers Randolph 
+Carter befindet und mindesten s 1 Ermittler aufgegeben hat, 
+wird Randolph Carter an einen Ermittler weitergegeben, 
+der aufgegeben hat. Jener Ermittler ist jetzt der Besitzer von 
+Randolph Carter.
+ Æ Fahre mit der Auf lösung fort, welche die Ermittler erreicht 
+haben. Falls keine Auf lösung erreicht wurde … 
+ = … und mindestens 1 Ermittler aufgegeben hat, fahre mit  
+Auf lösung 1  fort.
+ = … und jeder Ermittler besiegt wurde, fahre mit  
+Auf lösung 2  fort.
+Falls keine Auf lösung erreicht wurde, weil jeder Ermittler 
+aufgegeben hat: Fahre mit Auf lösung 1  fort.
+Auf lösung 1  (jeder besiegte Ermittler sollte zuerst den 
+Abschnitt Besiegter Ermittler abhandeln) :  Du bist weit 
+herumgekommen, von den beschaulichen, gepflasterten  Städtchen 
+des Königreiches am Skai zu all den wundersamen Ländern, die du 
+dir in hundert Jahren nicht hättest erträumen können. Du hast viel 
+über die Traumlande gelernt und auch über die Götter, die auf dem 
+unbekannten Kadath wohnen. Auch wenn du deinem Ziel näher 
+gekommen bist, kennst du immer noch nicht den genauen Standort 
+des Berges. Indessen wird mit jedem verstreichenden Tag die Suche 
+gefährlicher. Wohin du auch gehst, blasphemische, a lbtraumhafte 
+Kreaturen verfolgen dich über Land und auf See. Geflügelte Bestien 
+ohne Gesichter, gehörnte Korsaren mit rasiermessers charfen Säbeln 
+und mächtigen schwarzen Galeeren – die Boten deines Verderbens 
+haben viele Gestalten. Du beschließt zum Schiff zurückzukehren, 
+wo du vor den vielen Gefahren der Traumlande sicher bist … oder 
+sicher zu sein glaubst. Leider erweist sich das Schiff nicht als die 
+erhoffte Zuflucht. Als du zurückkehrst, fehlt von Kapitän und 
+Mannschaft jede Spur. Anzeichen eines Kampfes gibt es nicht. 
+Virgil, der schon früher zum Schiff zurückgekehrt ist, um sich für 
+die nächste Fahrt bereitzumachen, ist ebenfalls verschwunden. 
+„Ich befürchte das Schlimmste“, klagt Randolph. „Wenn sie tatsäch-
+lich von diesen teuflischen Korsaren entführt wurden, stecken sie in 
+großer Gefahr. Es sind Agenten der Anderen Götter von Außerhalb, 
+deren Seele und Bote das kriechende Chaos Nyarlathotep  ist.“ 
+Bereits beim Klang dieses Namens bekommst du Gänsehaut, auch 
+wenn du nicht weißt, warum. Du fragst, wohin man sie verschleppt 
+haben könnte. „Zum Mond“, antwortet er, als würde er über einen 
+gewöhnlichen Anlaufhafen sprechen. „Von dort segeln  die Bestien 
+mit ihren schwarzen Galeeren. Wenn wir Virgil und die anderen 
+retten wollen, ist das unser Ziel.“
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Für jedes Zeichen der Götter, das die Ermittler während 
+des Szenarios aufgedeckt haben, wird 1 Zählstrich unter 
+„Beweis von Kadath“ im Kampagnenlogbuch notiert.
+ Æ Im Kampagnenlogbuch wird notiert: Virgil wurde gefangen 
+genommen.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph konnte der 
+Gefangenschaft entgehen.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Szenario 3–A: Die dunkle Seite des Mondes  
+fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als  
+verwobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 2–B: Tausend Formen 
+des Schreckens  gespielt hast, fahre mit jenem Szenario 
+fort.
+ =  und du schon Szenario 2–B: Tausend Formen 
+des Schreckens  gespielt hast, fahre stattdessen mit 
+Zwischenspiel II: Die Traumreisenden   fort.
+Auf lösung 2:  Nach kurzem Umsehen steht fest, dass deine 
+Reise begleiter, Virgil und Randolph, ebenfalls gefangen genomm en 
+wurden. Im Moment sind sie nicht bei Bewusstsein, aber vielleicht 
+könnt ihr gemeinsam einen Fluchtplan schmieden, wenn sie wieder 
+aufwachen. Schließlich hast du trotz aller Rückschläge viel über 
+die Traumlande und die Götter, die auf dem unbekann ten Kadath 
+wohnen, gelernt. Auch wenn du seinen genauen Standort immer 
+noch nicht kennst, hoffst du deine Suche fortsetzen zu können, 
+sobald du von dieser schändlichen Galeere entkommen bist. Du 
+schluckst einen Kloß der Verzweiflung herunter und betest, dass dies 
+nicht das Ende deiner Reise sein möge …
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Für jedes Zeichen der Götter, das die Ermittler während 
+des Szenarios aufgedeckt haben, wird 1 Zählstrich unter 
+„Beweis von Kadath“ im Kampagnenlogbuch notiert.
+ Æ Im Kampagnenlogbuch wird notiert: Virgil wurde gefangen 
+genommen .
+ Æ Im Kampagnenlogbuch wird notiert: Randolph wurde 
+gefangen genommen.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Szenario 3–A: Die dunkle Seite des Mondes  
+fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume als  
+verwobene achtteilige Kampagne gespielt werden…
+ = … und du noch nicht Szenario 2–B: Tausend Formen 
+des Schreckens  gespielt hast, fahre mit jenem Szenario 
+fort.
+ Æ … und du schon Szenario 2–B: Tausend Formen des 
+Schreckens  gespielt hast, fahre stattdessen mit Zwischen -
+spiel II: Die Traumreisenden  fort.
+13
+
+Lies dieses Zwischenspiel nur, falls du Die Traumsuche  und Das Netz 
+der Träume als verwobene achtteilige Kampagne spielst und wenn du 
+sowohl Szenario 2–A: Die Suche nach Kadath als auch Szenario 2–B: 
+Tausend Formen des Schreckens abgeschlossen hast.
+Beginnt dieses Zwischenspiel mit dem Lesen von  Die Traumreisenden 1 
+auf Seite 13 im Kampagnenleitfaden B.
+Die Traumreisenden 2: Setzt nach Szenario 2–A  an, als die 
+Träumer zu unbekannten Landen lossegeln …
+Geweckt vom schrillen Miauen einer Katze öffnest du die Augen. Du bist 
+weggedämmert … wenn auch nicht eingeschlafen. Trotz – oder vielleicht 
+gerade wegen – deines Traumzustands gelingt es dir nicht, in diesem Land zu 
+schlafen. Als du zu dir kommst, kannst du die Quelle des Miauens ausmachen: 
+Virgils Katze, schwarz wie die Leere zwischen den Sternen, sitzt einen gu ten 
+Meter von dir entfernt und wartet auf deine Aufmerksamkeit. „Na endlich “, 
+ruft sie aus. „Wird aber auch Zeit, dass du etwas anderes wahrnimmst als die 
+Dinge, die sich in deinem Kopf abspielen. Spitz die Ohren, ich habe dir etwas 
+Wichtiges zu sagen.“
+Überprüfe das Kampagnenlogbuch für Die Traumsuche  (Kampagne A). 
+Lies den zu deiner Situation passenden unten stehenden Abschnitt. Dan n 
+fahre mit dem Text auf der nächsten Seite fort
+.
+Falls mindestens 1 Ermittler nicht gefangen genommen 
+wurde:
+„Halt, warte, wo ist mein Mensch?“, fragt die Katze und reckt den 
+Hals, um sich an Deck deines Schiffes umzusehen. „Habe ich ihn nicht 
+in deiner Obhut gelassen?“
+Du erklärst ihr, dass Virgil von den Korsaren verschleppt wurde, wor-
+auf die Katze ohne allzu große Bekümmerung ihre Pfote leckt. „Ach ja, 
+stimmt. Gut, dass wir wieder auf dem gleichen Stand sind.“
+Falls alle Ermittler gefangen genommen wurden:
+Jeder Versuch, die schwarze Katze zum Schweigen zu bringen, wird 
+geflissentlich ignoriert. „Nur die Ruhe. Deine Entführer sind im 
+Augenblick alle an Deck.“ Frustriert fragst du die Katze, warum sie 
+deine missliche Lage so sehr auf die leichte Schulter nimmt, und bittest 
+sie um Hilfe. „Ach, nein. Das übernimmt schon ein anderer, wenn ich 
+mich recht entsinne“, antwortet sie rätselhaft.
+Falls die schwarze Katze eine Ahnung hat und  
+Randolph der Gefangenschaft entgehen konnte:
+Die schwarze Katze sieht Randolph am Steuerrad stehen und beäugt 
+ihn misstrauisch. Laut fragst du dich, was mit ihr los ist. „Normaler-
+weise mag ich den Geruch von Fisch, aber das hier stinkt  doch 
+gewaltig. Irgendetwas ist falsch. Es sollte nicht zwei von ihnen geben. 
+Aber meine Erinnerung ist verschwommen … “ Wenn du vorher schon 
+verwirrt warst, bist du jetzt völlig durch den Wind. Zwei Randolphs? 
+„Ja“, bestätigt die schwarze Katze. „Dieser da und ein weiterer in 
+der wachen Welt. Das ist doch etwas seltsam.“ Die schwarze Katze 
+neigt wohl zur Untertreibung. „Ich glaube, irgendetwas versucht hie r 
+Einfluss zu nehmen. Ich muss der Sache auf den Grund gehen.“ Und 
+mit diesen Worten springt die Katze davon.
+Überspringe den Rest des Zwischenspiels.  
+In beiden Kampagnenlogbüchern wird notiert:  
+Die schwarze Katze sucht nach der Wahrheit.
+Zwischenspiel II: Die Traumreisenden
+14
+
+„Wo waren wir stehen geblieben? Ach ja, genau. Ich hatte einen netten klein en 
+Plausch mit deinen Gefährten. Sie sind jetzt auch in den Traumlanden und 
+lassen etwas ausrichten.“
+Überprüfe das Kampagnenlogbuch für Das Netz der Träume (Kampagne B). 
+Lies den zu deiner Situation passenden Abschnitt au f dieser Seite.
+Nachdem du den passenden Abschnitt gelesen hast, fahre entweder mit 
+Szenario 3–A: Die dunkle Seite des Mondes  oder mit Szenario 3–B: 
+Kein Zurück mehr  fort.
+Falls die schwarze Katze die anderen um Hilfe gebet en hat:
+„Deine Freunde stecken ein klein wenig in der Klemme. Sie haben 
+eine Reise ohne Rückfahrschein an einen ziemlich un gemütlichen Ort 
+hinter sich, und ich weiß nicht, ob sie sich ohne meine Hilfe zurecht-
+finden werden. Ja, ich weiß, mit deiner Suche geht es gerade auch nicht 
+so prächtig voran, aber wenn ich ihnen nicht helfe, wird es keinen 
+Unterschied machen, ob du den Kadath erreichst oder nicht. Viel 
+Glück. Versuch einfach, nicht zu sterben.“ Mit diesen Worten springt 
+die schwarze Katze aus deinem Sichtfeld.
+Überprüfe beide Kampagnenlogbücher.
+ Æ Falls in keinem Kampagnenlogbuch notiert ist, dass die 
+schwarze Katze an deiner Seite ist , wird im Kampagnenlogbuch 
+für Das Netz der Träume  (Kampagne B) notiert, dass die 
+schwarze Katze an deiner Seite ist . Den Chaosbeuteln beider 
+Kampagnen wird für den Rest der Kampagnen je 1   -Marker 
+hinzugefügt.
+ Æ Falls im Kampagnenlogbuch für Die Traumsuche  (Kam -
+pagne A) notiert ist, dass die schwarze Katze an deiner Seite 
+ist , wird dieser Eintrag durchgestrichen und stattdessen im 
+Kampagnenlogbuch für Das Netz der Träume  (Kampagne B) 
+notiert. In den Chaosbeuteln beider Kampagnen wird je 
+1   -Marker durch je 1   -Marker ersetzt.
+ Æ Falls im Kampagnenlogbuch für Das Netz der Träume  
+(Kampagne B) notiert ist, dass die schwarze Katze an deiner 
+Seite ist , wird nichts verändert.
+Falls die schwarze Katze die anderen gewarnt hat:
+„Deinen Freunden geht es den Umständen entsprechend gut. Aber 
+sie machen sich große Sorgen um dich, und das nicht ohne Grund, wie 
+es scheint. Rechne nicht damit, dass sie dir in nächster Zeit aus der 
+Patsche helfen können. Stattdessen wollen sie, dass ich noch ein biss-
+chen bei dir bleibe und dir unter die Arme greife. Irgendjemand muss 
+ja dafür sorgen, dass du überlebst. Denn wenn nicht … “, sie macht eine 
+lange Sprechpause, „… darüber schweigen wir besser.“
+Überprüfe beide Kampagnenlogbücher. 
+ Æ Falls in keinem Kampagnenlogbuch notiert ist, dass die 
+schwarze Katze an deiner Seite ist , wird im Kampagnenlogbuch 
+für Die Traumsuche  (Kampagne A) notiert, dass die schwarze 
+Katze an deiner Seite ist. Den Chaosbeuteln beider Kampagnen 
+wird für den Rest der Kampagnen je 1   -Marker hinzugefügt.
+ Æ Falls im Kampagnenlogbuch für Das Netz der Träume  
+(Kampagne B) notiert ist, dass die schwarze Katze an deiner 
+Seite ist , wird dieser Eintrag durchgestrichen und stattdessen 
+im Kampagnenlogbuch für Die Traumsuche  (Kampagne A) 
+notiert. In den Chaosbeuteln beider Kampagnen wird je 
+1   -Marker durch je 1   -Marker ersetzt.
+ Æ Falls im Kampagnenlogbuch für Die Traumsuche  (Kampagne A) 
+notiert ist, dass die schwarze Katze an deiner Seite ist , wird  
+nichts verändert.
+Falls die schwarze Katze das Wissen über die Unterw elt 
+geteilt hat:
+Die schwarze Katze erzählt dir alles über den Teil der Traumlande, 
+in dem deine Gefährten gelandet sind. „Die Welt, die du in letzter 
+Zeit erforscht hast, war nur das obere Traumland. Es überspannt die 
+Unterwelt wie ein hübsches Seidenkleid, das von einer verwesten Leich e 
+getragen wird. Es gibt keinen Grund für dich, dorthin zu reisen, und 
+das ist auch gut so, denn es ist kein besonders einladender Ort. Wenn 
+ich so darüber nachdenke, könnte es gut sein, dass du an einem Ein-
+gang in die Unterwelt vorbeispaziert bist – damals, im Verwunschenen 
+Wald. Es gibt noch viele weitere Eingänge: unter einem alten Kloster in 
+Leng, in den Ruinen von Sarkomand … “
+Im Kampagnenlogbuch für Die Traumsuche  (Kampagne A) wird 
+notiert: Die Träumer kennen einen anderen Weg.
+Überprüfe beide Kampagnenlogbücher.
+ Æ Falls im Kampagnenlogbuch für Die Traumsuche  (Kampa -
+gne A) notiert ist, dass die schwarze Katze an deiner Seite ist , 
+wird dieser Eintrag durchgestrichen. Aus den Chaosbeuteln 
+beider Kampagnen wird je 1   -Marker entfernt.
+ Æ Falls im Kampagnenlogbuch für Das Netz der Träume   
+(Kampagne B) notiert ist, dass die schwarze Katze an deiner 
+Seite ist , wird dieser Eintrag durchgestrichen. Aus den Chaos-
+beuteln beider Kampagnen wird je 1   -Marker entfernt.
+ Æ Falls in keinem Kampagnenlogbuch notiert ist, dass die 
+schwarze Katze an deiner Seite ist , wird nichts verändert.
+15
+
+Einführung 2:  Du hast keine Wahl. Wenn du deine Reisebegleiter aus 
+den Fängen der Korsaren retten willst, musst du zum Mond segeln und sie 
+befreien, ehe sie von den Bestien, die dort hausen, versklavt werden. „Das s ind 
+böse Kreaturen, die einem noch größeren Bösen dienen“, erklärt Randol ph, 
+während du die Segel setzt. „In Hafenstädten wie Dylath-Leen gibt es viel e, die 
+Geschäfte mit ihnen machen, aber nur wenige kennen ihre wahre Gestalt, de nn 
+sie tragen Verkleidungen, um ihre Hässlichkeit zu verschleiern.“ 
+Vielleicht hatte der Kapitän, mit dem ihr quer durch die Traumlande gerei st 
+seid, schon einmal geschäftlich mit ihnen zu tun. Oder vielleicht auch ni cht. 
+Um deiner eigenen geistigen Gesundheit willen solltest du dich nicht in Z weifel 
+und Verdächtigungen hineinsteigern.
+„Wie segelt man überhaupt zum Mond?“, fragst du verwirrt. Nach all den 
+Wochen, die du in den Traumlanden, ihren Städten, Wäldern und noch 
+absonderlicheren Orten verbracht hast, sind dir ihre Merkwürdigkei ten nicht 
+mehr fremd. Doch selbst wenn du die Gesetze der Physik und Astronomie 
+außer Acht lässt, tust du dich schwer mit der Vorstellung, ein Schiff könne i n 
+den Weltraum segeln.
+„Es wird eine lange Fahrt“, antwortet Randolph. „Weit über dem Meer liegen 
+die Basalt säulen des Westens. Zwischen diesen Säulen stürzt der Ozea n wie 
+ein Wasserfall ins Nichts, und wenn wir dort hindurchsegeln, gelangen w ir in 
+die Leere des Alls.“
+Es sollte dich nicht erstaunen, dass die irdischen Traumlande eine Schei be 
+sind; schließlich entstammt hier alles dem Reich der Fiktion. Dennoch b ist du 
+skeptisch. „Ich bin schon einmal auf dieser Route gesegelt“, sagt Rando lph, 
+der deine Vorbehalte zu spüren scheint. „Aber ich fürchte, dieses Mal kön nte 
+es eine Fahrt ohne Wiederkehr werden, zumal wir keine Mannschaft haben. 
+Vielleicht müssen wir einen anderen Weg zum unbekannten Kadath finden . 
+Bist du bereit?“
+Dein Blick schweift zum Horizont, wo sich das azurblaue Meer mit dem 
+Himmel vermählt. Irgendwo da draußen wird deine Hilfe gebraucht. Zudem 
+könnte der Beweis, den du suchst, jenseits des Meeres, hinter dem Rand der 
+Welt, zu finden sein. Du machst dich bereit.
+Fahre mit der Vorbereitung  fort.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls mindesten s 1 Ermittler gefangen genommen wurde,  fahre mit 
+Einführung 1 fort.
+ Æ Falls kein Ermittler gefangen genommen wurde,  fahre mit  
+Einführung 2  fort.
+Einführung 1:  Im Laufe der nächsten Tage erfährst du mehr über deine Ent-
+führer, jedoch nichts über den Zielhafen der schwarzen Galeere. Es sche int, als 
+wären die Korsaren, die dich gejagt und verschleppt haben, nur Agenten – od er 
+gar Sklaven – eines viel größeren Übels: einer Rasse von gräulich-weiße n, 
+augenlosen Krötenwesen mit glitschiger Haut, die si e unter langen Seiden -
+gewändern verbergen. Für gewöhnlich bleiben sie unter Deck und lassen s ich 
+niemals zu einem Gespräch mit dir herab. Wenn sie tatsächlich die Herren de r 
+Korsaren sind, verheißt das nichts Gutes für dich. Virgil wird getrennt vo n dir 
+gefangen gehalten, vielleicht sogar auf einem ganz anderen Schiff.
+Noch mehr Tage vergehen. Du kannst nicht sagen, wie lange du schon in 
+der Gewalt deiner Entführer bist. Zu essen gibt man dir genug – sofern man 
+bitteren Haferbrei in einer schmutzigen Tonschale als „Essen“ bezei chnen 
+mag. Was dich am meisten verstört, ist das Schiff selbst. Obwohl du ganz 
+sicher eine Bewegung spürst, fühlst du weder das Schaukeln der Wellen, no ch 
+hörst du das Rauschen des Meeres oder das Kreischen von Möwen an der 
+Küste. Im Grunde hörst du fast gar nichts, nur den gelegentlichen Befehl ei nes 
+der Wesen unter Deck oder den Antwortruf eines Korsaren. Kein aufgewühl tes 
+Meer. Kein Wind in den Segeln. Einfach gar nichts.
+Panik ergreift dich. Was, wenn ihr einen fremdartigen Hafen ansteuert , von 
+dem es keine Rückkehr gibt? Könntet ihr von der Oberfläche des Planeten 
+fortgesegelt sein? Du musst etwas unternehmen. Irgendwie entkomme n. 
+Verzweifelt versuchst du, einen Plan zu schmieden, doch es ist vergeben s. Die 
+Korsaren patrouillieren gewissenhaft vor den Zellen, und selbst wen n es dir 
+gelänge, deine Fesseln abzustreifen und an ihnen vorbei zuschleic hen, wohin 
+solltest du gehen?
+Gerade als dich die Hoffnung verlässt, steigt ein bekanntes Gesicht vom O ber-
+deck herab. Es ist der Schiffskapitän, den du in Dylath-Leen angeheuert h ast: 
+ein beleibter Bursche mittleren Alters mit einem buschigen Bart und lan gen 
+Haaren, die auf dem Scheitel zu einem Dutt zusammengebunden sind. Er 
+sieht sich um, stellt fest, dass er allein mit dir ist, und kommt zu dir. „Es tut mir 
+so leid, mein Freund“, stammelt er leise. „Ich hatte ja keine Ahnung, mit wem 
+ich es zu tun hatte. Man hat mich reingelegt, das schwöre ich. Ich wusste nicht , 
+dass sie … Ich wusste es nicht … “ Seine Stimme versagt und sein Gesicht wird 
+rot vor Scham. Du weißt nicht genau, was er meint, aber offensichtlich hatt e 
+er etwas mit deiner Entführung zu tun. Nichtsdestotrotz ist er deine einz ige 
+Hoffnung auf Rettung. Du versprichst, ihm alles zu verzeihen, wenn er dir 
+jetzt hilft. Für einen Moment denkt er nach und schaut sich um, dann nickt er 
+schließlich und durchtrennt deine Fesseln mit einem gekrümmten Mess er.
+Noch nie war der Duft der Freiheit so süß. Du streckst deine schmerzenden 
+Glieder und hältst Ausschau nach deinen Habseligkeiten, doch es bleib t 
+nicht viel Zeit. Dein Retter, der nun Schmiere steht, flüstert: „Auf dem 
+Oberdeck gibt es ein Ruderboot, aber wenn wir dort hinwollen, müssen wir 
+mucksmäuschenstill sein. Sollten sie uns bemer… “ Die Worte bleiben ih m 
+im Halse stecken, zusammen mit einer scharfen, gezackten Klinge. Er stö ßt 
+ein scheußliches Gurgeln aus, als Blut aus seinem Mund sprudelt, und bric ht 
+zusammen. Hinter ihm blitzt das sadistische Grinsen eines Korsaren au f, der 
+sich bereits seinem nächsten Opfer zuwendet: dir.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls mindestens 1 Ermittler nicht gefangen genommen wurde , fahre mit  
+Einführung 2  fort.
+ Æ Ansonsten fahre mit der Vorbereitung  fort.
+Szenario 3–A:  
+Die dunkle Seite des Mondes
+16
+
+Alarmstufe
+Bei der Vorbereitung dieses Szenarios werden die Spieler dazu 
+angewiesen, 1 Verderben auf jede Ermittlerkarte zu platzieren. Dies er 
+Marker gibt die aktuelle „Alarmstufe“ des jeweiligen Ermittlers an. 
+Während die Ermittler versuchen, sich aus den Fängen der Mondbestien 
+zu befreien, kann sich die Alarmstufe eines Ermittlers erhöhen oder ver -
+ringern, abhängig von den Aktionen und Entscheidungen des jeweilige n 
+Ermittlers. Eine höhere Alarmstufe bedeutet, dass der Ermittler 
+näher daran ist, entdeckt zu werden, was die Fluchtversuche erheblich 
+erschweren wird.
+Falls ein Effekt die Alarmstufe eines Ermittlers um eine beliebige Anza hl 
+erhöht, wird so viel Verderben auf der Ermittlerkarte platziert, um die s 
+anzuzeigen. Falls ein Effekt die Alarmstufe eines Ermittlers um eine 
+beliebige Anzahl senkt, wird die gleiche Anzahl Verderben von der 
+Ermittlerkarte entfernt.
+Auch wenn Verderbensmarker verwendet werden, um die Alarmstufe 
+eines Ermittlers anzuzeigen, zählen diese Marker nicht als Verderbe n und 
+zählen nicht gegen den Verderbensschwellenwert der aktuellen Agenda.
+Die Alarmstufe hat für sich genommen keinen Effekt, kann aber die 
+Effekte von Begegnungskarten verändern oder verstärken.
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Die dunkle Seite des Mondes, Korsaren, Der Fluch des Träumers und Böses 
+aus uralter Zeit . Diese Sets sind an folgenden Symbolen zu erkennen:
+ 
+ 
+ 
+ Æ Die folgenden Orte werden ins Spiel gebracht: Stadt der Mond-
+bestien, Tempel der Mondechse, Mondwald und Der dunkle Krater.
+ = Jeder andere Ort wird als nicht im Spiel befindlich beiseitegelegt.
+ Æ Überprüfe das Kampagnenlogbuch.
+ = Falls mindestens 1 Ermittler gefangen genommen wurde , wird der 
+beiseite gelegte Ort Galeere der Mondbestien mit der enthüllten 
+Seite nach oben ins Spiel gebracht. Dieser Ort hat keine verhüllte 
+Seite – statt einer verhüllten Seite hat er eine Handlungskarte auf 
+seiner Rückseite. (Für ein optimales Spielerlebnis sollte der Text auf 
+der Rückseite erst gelesen werden, wenn ein Effekt dazu auffordert.)
+ = Jeder Ermittler, der gefangen genommen wurde, beginnt das Spiel 
+auf der Galeere der Mondbestien. Für jeden Ermittler, der das Spiel 
+auf der Galeere der Mondbestien beginnt, werden 2 zusätzliche 
+Hinweise (aus dem Markervorrat)  darauf platziert.
+ = Jeder andere Ermittler beginnt das Spiel im Mondwald.
+ Æ Überprüfe das Kampagnenlogbuch.
+ = Falls Randolph gefangen genommen wurde , wird jedes Ermittlerdeck 
+nach Randolph Carter  (Meisterhafter Träumer)  durchsucht und als 
+nicht im Spiel befindlich beiseitegelegt.
+ Æ Folgende Karten werden als nicht im Spiel befindlich beiseite-
+gelegt: der Gegner Mondechse, die Storyvorteils karten Virgil Gra y 
+(Wahrhaftig inspiriert)  und Der Kapitän sowie die Schwäche Falsches 
+Erwachen.
+ Æ Auf jeder Ermittlerkarte wird 1 Verderben platziert. Dieses 
+Verderben steht für die aktuelle Alarmstufe des jeweiligen Ermittle rs 
+(siehe Alarmstufe weiter unten) . Diese Marker zählen nicht als 
+Verderben und zählen nicht gegen den Verderbensschwellenwert der 
+aktuellen Agenda.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine anderen 
+Vorbereitungs- und Auf lösungsanweisungen verwendet 
+werden sollen, können die unten stehenden Informatio nen 
+bei der Vorbereitung und während des Spiels dieses Szenarios 
+verwendet werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern zusammen -
+gestellt:  
++1, 0, 0, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  ,  ,  .
+ Æ Die Ermittler müssen entscheiden (wähle eins):
+Jeder Ermittler wurde gefangen genommen und Randolph wurde 
+gefangen genommen.  Diese Wahl macht das Spiel schwieriger.
+Keiner der Ermittler wurde gefangen genommen  und Randolph konnte 
+der Gefangenschaft entgehen.  Diese Wahl macht das Spiel einfacher.
+17
+
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auflösung erreicht wurde (alle Ermittle r wurden 
+besiegt): Trotz aller Bemühungen war die Zahl der Verfolger z u 
+groß, um ihnen unbemerkt zu entkommen. Ihr werdet u mzingelt 
+und festgenommen. Virgil wehrt sich nach besten Krä ften, während 
+Randolph sich widerstandslos ergibt, wohlwissend, d ass es ohnehin 
+zwecklos wäre zu kämpfen. Ihr werdet auf die dunkle  Seite des Mondes 
+in einen großen, kuppelgekrönten Tempel gebracht, u nd vor einer 
+der Mondbestien auf die Knie gezwungen. Sie ist in graue Roben und 
+schwere Tücher gehüllt, doch dahinter siehst du ihr  wahres Gesicht: 
+ihre glitschige, feuchte Haut und die triefenden, w ulstigen Lippen. 
+„Wunderbar“, sagt sie lobend zu ihren Handlangern. „Unser Herr wird 
+zufrieden sein.“ Hinter euch versperren die Korsare n den Ausgang, 
+während links und rechts geflügelte Wesen in einer Reihe Aufstellung 
+nehmen und rhythmisch krächzend mit den Flügeln sch lagen. Es ist, 
+wie du vermutest, die Vorbereitung einer unangenehm en Reise.
+Die Mondbestie lässt euch von ihren Sklaven auf den  geflügelten 
+Kreaturen festbinden. „Schafft diese erbärmlichen W ichte zu den 
+Opfergruben“, befiehlt sie. „Ihre Ketzerei muss bes traft werden. Die 
+Mondechse wird heute Nacht ein Festmahl bekommen.“
+„Was? Nein, das ist nicht richtig.“ Randolph knirsc ht mit den Zähnen.
+Plötzlich gibt es einen grellen Lichtblitz und du wachst auf . Du sitzt 
+aufrecht in einem ungemütlichen, fremden Bett. Das Erste, was du 
+fühlst, ist Erleichterung. Bist du etwa endlich aus  diesem ewigen Traum 
+erwacht? Doch dann spürst du sie, die stille, eiska lte Umarmung 
+der Leere, und du begreifst, wo du wirklich bist. S tatt vier Wänden 
+und einer Decke umgibt dich der helle, sternengespi ckte Kosmos. 
+In der Ferne siehst du Galaxien und Nebel, die dich  mit gefühlloser 
+Grausamkeit anstarren. Dein Bett hängt an dünnsten Silberfäden, 
+und zu deinen Füßen sitzt Virgils Katze. „Du bist n icht wach“, sagt die 
+schwarze Katze. „Noch nicht.“
+Ein weiterer Lichtblitz. Die Mondbestie lässt dich von ihren Sklaven 
+auf einer geflügelten Kreatur festbinden. „Bringt d iese erbärmlichen 
+Wichte zum Hohepriester in der Kalten Öde“, befiehl t sie. „Ihre 
+Ketzerei muss bestraft werden.“
+„Keine Sorge“, flüstert Randolph dir zu. „Hast du d as gehört? Die 
+Kalte Öde. Dort liegt der unbekannte Kadath. Mit et was Glück werden 
+sie uns direkt an unser Ziel bri… “ Randolph wird jä h unterbrochen, als 
+die Mondbestie ihn packt und auf die Füße zerrt. 
+„Nein, du nicht. Dich  kenne ich. Du wirst ein Geschenk sein. Futter für 
+die Mondechse. Komm.“ Vor deinen Augen schleift sie  Randolph davon. 
+Seine Schreie hallen von den Tempelmauern wider und  verklingen erst, 
+als er im Untergrund verschwunden ist. Und dann wir st du auch schon 
+von grauenhaften Fledermausschwingen emporgehoben u nd in die 
+Leere des Alls getragen. 
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler wurden 
+in die Kalte Öde gebracht.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph hat die Reise 
+nicht überlebt. Falls sich im Deck eines Ermittlers Randolph 
+Carter (Meisterhafter Träumer)  ( Die Traumfresser , 59) befindet, 
+wird er für den Rest der Kampagne aus jenem Deck en tfernt.
+ Æ Der Ermittlungsleiter hat die Schwäche Falsches Erwachen 
+( Die Traumfresser , 233) verdient (zählt nicht gegen seine 
+Deckgröße). Sie wird dem Deck des Ermittlungsleiters 
+hinzugefügt.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Szenario 4–A: Wo Götter wohnen  fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als  
+verwobene achtteilige Kampagne gespielt werden…
+ = … und du noch nicht Szenario 3–B: Kein Zurück mehr  
+gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 3–B: Kein Zurück mehr  
+gespielt hast, fahre stattdessen mit Zwischenspiel III: 
+Die Großen  fort.
+Auflösung 1:  Während das Weiße Schiff lautlos zur Erde zurück-
+segelt, stimmt der Kapitän ein sanftes, klangvolles  Seemannslied an 
+und die Ruderer singen mit. Du scheinst die Sprache  gut zu verstehen, 
+obwohl du sie noch nie zuvor gehört hast. Auf deine  Frage nach dem 
+Kurs reagiert der bärtige Mann nicht und singt einf ach weiter. Über-
+zeugt von der ungemeinen Wichtigkeit deines Auftrag s flehst du ihn an, 
+dir bei der Suche nach dem unbekannten Kadath zu he lfen. „Man sollte 
+die Götter nicht stören“, sagt der Mann, nachdem er  seinen Gesang 
+unterbrochen hat. „Ihre Belange gehen weit über uns ere hinaus. Siehst 
+du denn nicht, wie töricht dein Bestreben ist?“ Noc h einmal wiederholst 
+du deine inständige Bitte, erklärst ihm, dass du ei nen Beweis für die 
+Existenz der Traumlande brauchst und ohne die Hilfe  der Götter nicht 
+heimkehren kannst. „Wäre es denn so bitter hierzubl eiben? Sieh dich 
+nur um.“
+Du tust wie geheißen und was du siehst, ist so beza ubernd schön, dass 
+es dir den Atem verschlägt. Unter dir glitzert das Meer im Mondlicht 
+wie ein Ozean aus Diamanten. Am Horizont reihen sic h kristall-
+klare Küsten, idyllische Landschaften, blühende Geb irgsketten und 
+s maragdgrüne Gärten auf. Die Luft ist frisch und küh l, als ihr die 
+Wolkendecke durchdringt, und der süße Blütenduft de r nahegelegenen 
+Küste lässt dein Herz höherschlagen. Nie in all den  Jahren der „Reali-
+tät“ hast du etwas als so real  empfunden.
+Vielleicht wäre es gar nicht so schlimm, hierbleibe n zu müssen. Du hast 
+bereits Wochen – nein, Monate – in diesem Land verb racht. Ja, es gab 
+auch schwere Zeiten, doch könntest du wirklich in d ie triste Realität 
+zurückkehren, nach allem, was du in diesem wundersa men Land 
+gesehen und erlebt hast?
+Und dann siehst du ihn, weit im Norden. Knapp über dem Horizont, 
+oder gar jenseits aller irdischen Träume. Ein weiße r Gipfel, auf dem 
+ein azurblaues Leuchtfeuer aus gebrochenem Mondsche in brennt. Der 
+bärtige Mann folgt deinem Blick. „So soll es sein“,  sagt er seufzend. 
+Er ändert den Kurs und folgt nun einem Vogel, desse n Gefieder dem 
+strahlenden Himmel gleicht. „Wir segeln also ins Re ich der Götter.“
+ Æ Im Kampagnenlogbuch wird notiert: Die Ermittler sind in 
+die Kalte Öde gereist.
+ Æ Im Kampagnenlogbuch wird notiert: Randolph hat die Reise 
+überlebt .
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Im Kampagnenlogbuch werden unter „Beweis von Kadath“  
+3 Zählstriche notiert.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+fahre mit Szenario 4–A: Wo Götter wohnen  fort.
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als  
+verwobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 3–B: Kein Zurück mehr  
+gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 3–B: Kein Zurück mehr  
+gespielt hast, fahre stattdessen mit Zwischenspiel III: 
+Die Großen  fort.
+18
+
+Du fragst die schwarze Katze, ob sie weiß, was dich auf dem Kadath erwartet. „In 
+groben Zügen“, antwortet sie. „Schon vor langer Zeit habe ich deine Ankunft auf dem 
+Kadath vorhergesehen. Um ehrlich zu sein, ich habe eine Menge hiervon gesehen. 
+Aber … nun ja, nicht alles entwickelt sich so, wie ich es gesehen habe. Oder vielleicht 
+sehe ich es auch einfach mit anderen Augen. Wie dem auch sei, du bist auf dem 
+rechten Weg. Schließlich ist es der einzige Weg, der noch übrig ist. Ein paar Dinge 
+habe ich noch gesehen, die sich ereignen werden, wenn du dein Ziel erreichst. Doch 
+ich fürchte, wenn ich sie dir verrate, wirst du sie ebenfalls mit anderen Augen sehen. 
+Mach dir keine Sorgen. Du machst das gut. Reise zum  Kadath. Finde das Land 
+der Großen Götter. Alles andere wird sich ergeben. Solange du nicht versagst. Die 
+Wesenheiten, denen du gegenübertreten wirst und der en Namen ich nicht nennen 
+will, sie bedrohen nicht nur die Traumlande. Nein, die ganze Existenz ist durch sie 
+bedroht. Aber wenn du mich jetzt entschuldigen würdest, ich habe noch etwas vor.“
+ Æ Überprüfe das Kampagnenlogbuch. Falls die schwarze Katze eine Ahnung 
+hat, springt sie davon in die Leere des Alls, ehe du s ie noch etwas fragen 
+kannst.
+ Æ Ansonsten bietet die schwarze Katze an, deinen Gefä hrten eine Nachricht 
+zu überbringen. Der Ermittlungsleiter muss entschei den (wähle eins):
+ = Du lässt deinen Gefährten ausrichten, in welcher Ge fahr du dich 
+befindest. Die schwarze Katze wird nach dem Überbri ngen der 
+Nachricht zu dir zurückkehren, doch für deine Gefäh rten könnte 
+dies eine zusätzliche Belastung darstellen. Im Kamp agnenlogbuch 
+für Die Traumsuche (Kampagne A) wird notiert: Die schwarze Katze 
+hat von Nyarlathotep gesprochen.
+ = Du lässt deinen Gefährten ausrichten, dass sie sich  keine Sorgen 
+um dich machen sollen. Die schwarze Katze wird bei ihnen bleiben, 
+nachdem sie die Nachricht überbracht hat. Dadurch k önnte deine 
+Aufgabe etwas schwieriger werden. Im Kampagnenlogbu ch für Die 
+Traumsuche (Kampagne A) wird notiert Die schwarze Katze hat von 
+Atlach-Nacha gesprochen.
+ Æ Fahre mit Die Großen 2 auf Seite 16 im Kampagnenleitfaden B fort.
+Lies dieses Zwischenspiel nur, falls du Die Traumsuche  und Das Netz 
+der Träume als verwobene achtteilige Kampagne spielst und wenn 
+du sowohl Szenario 3–A: Die dunkle Seite des Mondes als auch 
+Szenario 3–B: Kein Zurück mehr abgeschlossen hast.
+Die Großen 1: Setzt nach Szenario 3–A  an, als die Träumer  
+auf dem Weg in die Kalte Öde sind, wo der unbekannte  
+Kadath liegt …
+Ein pelziges Köpfchen reißt dich aus deiner schlaflosen Träumerei. Du b lickst 
+nach unten und siehst die schwarze Katze. „He. Ich sehe, du hast Fortschrit te 
+gemacht.“ Du weißt nicht, ob du es wirklich als Fortschritt bezeichnen 
+würdest. Einerseits bist du endlich auf dem Weg in die Kalte Öde, anderersei ts 
+hast du immer noch nicht herausgefunden, wo genau sich der Kadath erhebt 
+und was dich dort erwartet.
+Überprüfe das Kampagnenlogbuch für  Die Traumsuche  (Kampagne A). 
+Lies den zu deiner Situation passenden unten stehenden Abschnitt. Fal ls 
+keine Situation passt, überspringe diese Abschnitte.
+Falls die Träumer schwächer werden:
+„Oh“, sagt die Katze plötzlich. „Du siehst aber gar nicht gut aus.“ Mit 
+neu gierigen, wenn auch nicht sonderlich besorgten Augen mustert si e 
+dich. Du fragst sie, was sie damit meint. „Das weißt du nicht? Du siehst 
+kränklich aus. Isst du auch ordentlich? Ach, was soll’s, nicht so wichtig. 
+Du kannst dich auf den Beinen halten, nicht wahr? Das genügt.“
+Abhängig vom Schwierigkeitsgrad wird dem Chaosbeutel für  
+Die Traumsuche (Kampagne A) folgender Marker hinzugefügt:  
+Einfach (–3), Normal (–4), Schwer (–5), Experte (–7).
+Falls Randolph die Reise nicht überlebt hat und  falls 
+die schwarze Katze nach der Wahrheit sucht:
+„Wo ist … wie heißt er doch gleich?“, fragt die Katze und hält nach 
+Randolph Ausschau. Du willst erzählen, was passiert ist, doch die 
+Worte bleiben dir im Halse stecken. „Ist schon gut, ich verstehe“, sagt 
+die Katze und scheint über die Situation nachzusinnen, ohne allzu 
+bestürzt über Randolphs tragisches Schicksal zu sein. „Nun, dann 
+wird die Sache, die ich erwähnen wollte, eben unerwähnt bleiben“, 
+sagt sie rätselhaft.
+In beiden Kampagnenlogbüchern wird  
+Die schwarze Katze sucht nach der Wahrheit durchgestrichen.
+Falls du es so gewollt hast:
+„Lass dich nicht stören. Ich wollte nur mal sehen, ob du noch lebst.“ 
+Du beginnst der schwarzen Katze von deinen Sorgen zu erzählen 
+und mit einem Ausdruck von katzenhafter Neugier neigt sie ihren 
+Kopf. „Was? Das ist ulkig. Habe ich gesagt, dass mich dein Gewäsch 
+interessiert? Ich glaube nicht. Ach, sei’s drum. Dann werde ich mich 
+eben deutlicher ausdrücken: Mich interessiert nur, ob du in der Lage 
+bist, deine Pflicht zu erfüllen. Deine Gefühle sind mir egal.“ Die 
+funkelnden Augen der Katze scheinen niemals zu blinzeln. „Na dann, 
+viel Glück. Du wirst es brauchen.“ Und damit springt sie in einen 
+Schatten und ist verschwunden.
+Überspringe den Rest dieses Zwischenspiels.  
+Fahre entweder mit Szenario 4–A: Wo Götter wohnen   
+oder mit Szenario 4–B: Weber des Kosmos  fort.
+Zwischenspiel III: Die Großen
+19
+
+Vorbereitung
+ Æ Es werden alle Karten aus folgenden Begegnungssets herausgesucht: 
+Wo Götter wohnen, Anhänger von Nyarlathotep, Der Fluch des 
+Träumers, Geflüster des Hypnos und Dunkler Kult . Diese Sets sind an 
+folgenden Symbolen zu erkennen:  
+ 
+ 
+ Æ Die folgenden Orte werden ins Spiel gebracht: Plateau von Leng, 
+Kalte Öde, Monasterium von Leng, Onyxtor und Onyxschloss (siehe 
+dazu den Vorschlag für die Platzierung der Orte) .
+ = Jeder Ermittler beginnt das Spiel auf dem Plateau von Leng.
+ = Die 6 Orte Verlassener Turm werden als nicht im Spiel befindlich 
+beiseitegelegt.
+ Æ Die folgenden Karten werden als nicht im Spiel befindlich beiseite-
+gelegt: der Gegner Der unsägliche Hohepriester, alle 5 Kopien des 
+Gegners Nyarlathotep, alle 4 Kopien der Verratskarte Flüsterndes 
+Chaos, beide Kopien der Verratskarte Unzählige Gestalten und der 
+Gegner Der kriechende Nebel.
+ Æ Die übrigen Begegnungskarten werden zum Begegnungsdeck 
+zusammengemischt.
+Überprüfe das Kampagnenlogbuch.
+ Æ Falls die Ermittler in die Kalte Öde gebracht wurden , fahre mit  
+Einführung 1  fort.
+ Æ Falls die Ermittler in die Kalte Öde gereist sind , fahre mit  
+Einführung 2  fort.
+Einführung 1:  Es dauert viele Flugstunden, bis eure Reittiere ih r Ziel erreichen. 
+Einen Fluchtversuch wagst du nicht, schließlich wür de ein Sturz aus dieser Höhe 
+den sicheren Tod bedeuten. Abgesehen davon könnte d ies deine einzige Chance sein, 
+den Kadath zu erreichen. Die Kreaturen tauchen unte r Torbögen aus gewebtem 
+Schatten hindurch, gleiten über azurblaue Meere, di e im Mondschein glitzern, und 
+durchstoßen dichte, weite Nebelschwaden. Schließlic h erreicht ihr einen Kontinent 
+hoch im Norden, den selbst euer furchtloser Kapitän  noch nie bereist hat. Riesen-
+hafte Geschöpfe hausen in den dunklen Tiefen des Oz eans – eine fürchterliche 
+Gefahr für jedes Schiff, das sich in diese grauenvo llen Gewässer verirrt.
+Eure Reittiere gleiten über eine öde Eis- und Schne elandschaft, ehe sie zur Lan-
+dung ansetzen. In der Ferne kannst du, verschwommen  hinter dem Schneetreiben, 
+die vagen Umrisse eines Kuppelbaus erkennen. Eine d er geflügelten Kreaturen 
+deutet in Richtung der unheilvollen Ruine und gebie tet dir schweigend, darauf 
+zuzugehen. Die anderen stehen hinter dir, lautlos u nd mit absoluter Geduld, 
+um dir falls nötig den Fluchtweg abzuschneiden. Doc h du hast ohnehin nicht 
+die Absicht wegzulaufen. Du bist fest entschlossen,  den Gipfel des unbekannten 
+Kadath zu erklimmen oder bei dem Versuch unterzugeh en.
+Fahre mit der Vorbereitung  fort.
+Einführung 2:  Schwerelos gleitet das Weiße Schiff durch den Äthe r. Es fliegt 
+durch Torbögen aus gewebtem Schatten, über azurblau e Meere, die im Mondschein 
+glitzern, und durch dichte, weite Nebelschwaden. Sc hließlich erreicht ihr einen 
+Kontinent hoch im Norden, den selbst euer furchtlos er Kapitän noch nie bereist hat. 
+Riesenhafte Geschöpfe hausen in den dunklen Tiefen des Ozeans – eine fürchter-
+liche Gefahr für jedes Schiff, das sich in diese gr auenvollen Gewässer verirrt. Über 
+einer öden Eis- und Schneelandschaft wirft der Kapi tän des fliegenden Schiffes 
+den Anker. Mondstrahlen schießen aus dem weißen Rum pf hervor und bilden 
+eine Landungsbrücke in die darunterliegende Tundra.  In der Ferne kannst du, 
+verschwommen hinter dem Schneetreiben, die vagen Um risse eines Kuppelbaus 
+erkennen. „Willkommen auf dem schrecklichen Plateau  von Leng“, sagt der ältere 
+Kapitän ohne einen Anflug von Bedauern. „Weder Frie den noch Freude wirst du 
+hier finden. Nur den Tod. Bitte, ein letztes Mal be schwöre ich dich, lass ab von 
+deiner Suche und kehre zurück in beschaulichere Lan de. Bist du sicher, dass du hier 
+von Bord gehen willst?“
+Du nickst, worauf der Kapitän mit einem Seufzen rea giert. „Ich verstehe. Nie 
+wieder wird das Weiße Schiff an diesen verfluchten Gestaden anlanden, denn sie 
+erschüttern mich bis ins Mark. Von hier an bist du auf dich gestellt. Lebe wohl und 
+viel Glück, mein Weggefährte.“ Du setzt einen Fuß auf die gleißenden Mondstrahlen 
+und marschierst auf die weite Einöde zu. Du bist fe st entschlossen, den Gipfel des 
+unbekannten Kadath zu erklimmen oder bei dem Versuc h unterzugehen.
+Fahre mit der Vorbereitung  fort.
+Szenario 4–A: Wo Götter wohnen
+Einzelspielszenario
+Falls ein Einzelspielszenario gespielt wird und keine anderen 
+Vorbereitungs- und Auf lösungsanweisungen verwendet 
+werden sollen, können die unten stehenden Informatio nen 
+bei der Vorbereitung und während des Spiels dieses Szenarios 
+verwendet werden:
+ Æ Der Chaosbeutel wird aus folgenden Markern zusammen -
+gestellt:  
++1, 0, 0, –1, –1, –2, –2, –3, –4,  ,  ,  ,  ,  ,  ,  ,  .
+ Æ Die schwarze Katze ist nicht an deiner Seite.
+ Æ Randolph hat die Reise überlebt.
+ Æ Die Ermittler sind in die Kalte Öde gereist.
+ Æ Unter „Beweis von Kadath“ sind keine Zählstriche notiert.
+© 2024 FFGIllus. Michael Komarck
+ORT
+„Dann kam ein breiter Einschni/t_t im Gebirgsmassiv, wo ein 
+schändlicher Pass, durch den blasse Sterne schimmerten,  
+die grässlichen Bereiche des transmontanen Leng mit der 
+kalten Öde auf dieser Seite verband.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Kalte Öde
+Leng.
+© 2024 FFGIllus. David Auden Nash
+ORT
+„… auf dem Eiswüstenplateau von Leng, welches kein 
+getroster Mensch besucht, und dessen schlimme Feuer man 
+nachts von ferne sieht.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Leng.
+Plateau von Leng
+© 2024 FFGIllus. Sergey Glushakov
+ORT
+Als du im Schnee endlich den überkuppelten T empel 
+erreichst, bist du bestürzt, als die Türen fest verschlossen sind 
+und kein Schlüsselloch oder Vergleichbares zu /f_inden ist. 
+Vielleicht gibt es noch einen anderen Weg hinein.
+Die Tür zum Monasterium von Leng ist fest 
+verschlossen. Du kannst das Monasterium von 
+Leng nicht betreten.
+Monasterium von Leng
+© 2024 FFGIllus. Sergey Glushakov
+ORT
+„Wo sie wohnten, musste die kalte Öde nahe sein  
+und in ihr der unbekannte Kadath und sein Onyxschloss  
+für die Großen.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Onyxtor
+Leng. Kadath.
+© 2024 FFGIllus. Stanislav Dikolenko
+ORT
+„In der Vergangenheit hätte kein Mensch den Kadath gefunden, und 
+es mochte sich als ebenso gut erweisen, wenn ihn auch in Zukunft 
+keiner fand. Solche Gerüchte, wie sie über das Onyxschloss der Großen 
+erzählt würden, klängen in keinster Weise ermutigend.“
+– H. P . Lovecraft, Die T raumsuche nach dem unbekannten Kadath
+Der Weg zum Onyxschloss ist verborgen.  
+Du kannst das Onyxschloss nicht betreten.
+Onyxschloss
+Kadath.
+Vorschlag für die Platzierung der Orte
+Halt!
+Zu diesem Zeitpunkt kann mit dem Spielen von Wo Götter 
+wohnen  begonnen werden. Das Zwischenspiel und der unten 
+stehende Regeltext sollten zunächst nicht gelesen we rden. 
+Die Spieler werden zu einem späteren Zeitpunkt während des 
+Szenarios dazu angewiesen, diese Texte zu lesen.
+20
+
+Szenario-Zwischenspiel: Überwältigendes Werk
+Lies dieses Zwischenspiel erst, wenn du dazu aufgefordert wirst.
+Überwältigendes Werk 1:  Höher und immer höher steigst du in das 
+nördliche Gebirge empor. Ein fahles Licht scheint von der Spitze eines 
+mächtigen schwarzen Turmes, der das vielfarbige Firmament durchbo hrt. 
+In diesem Moment wird dir klar, dass deine Suche zu Ende ist. Zahllose 
+Stunden kämpfst du dich über schneebedeckte Hänge, bis du endlich die 
+verbotenen Stufen erreichst, die zur Großen Halle führen. Das Schloss t hront 
+auf einem Steilhang, der den gesamten Kontinent und  das dahinterliegende 
+Meer überblickt. Es ist ein majestätischer Anblick. Unzählige finst ere Türme, 
+umhüllt von einem Wirbel aus Schnee und Hagel, wachsen vor dir empor. Du 
+stapfst einen vereisten, schneebedeckten Pfad entlang, der schon ba ld einem 
+glatten, blank polierten Onyxboden weicht. Der beißende Wind verstu mmt zu 
+einem Flüstern und du tauchst in die wundersame Finsternis ein, welche di e 
+Weiten des Schlosses durchdringt. Schon bald gibt es nichts mehr außer de m 
+Echo deiner Schritte auf den Onyxfliesen und der totenstillen Einsamk eit des 
+Thronsaals. Obwohl du kein Portal durchschritten hast, weißt du genau , wo 
+du bist: in den Hallen der Großen Götter. Du hattest mit Wachen gerechnet, 
+mit Dienern der Götter oder gar mit leibhaftigen höheren Wesen, doch du 
+wirst nur von Einsamkeit und einem Gefühl drohenden Unheils begrüßt, da s 
+dich nicht weniger frösteln lässt als der eiskalte Wind von draußen. Imme r 
+weiter gehst du, bis du schließlich das Ende der Halle erreichst. Und hier 
+findest du, flankiert von glatten Onyxsäulen … nichts.
+Die Götter sind nicht hier. Dieser Ort ist schon lange verlassen.
+Virgil steht der Mund offen. „Ich … ich begreife das nicht.“
+ Æ Enthülle den Ort Onyxschloss und platziere jeden Ermittler auf die 
+enthüllte Seite: Die Große Halle.
+ Æ Entferne jeden Ort bis auf Die große Halle aus dem Spiel.
+ Æ Überprüfe das Kampagnenlogbuch.
+ = Falls Randolph die Reise überlebt hat , fahre mit  
+Überwältigendes Werk 2  fort.
+ = Falls Randolph die Reise nicht überlebt hat , fahre mit  
+Überwältigendes Werk 3  fort.
+Überwältigendes Werk 2:  Hilfesuchend wendest du dich an Randolph. 
+Seit deiner Ankunft in diesem irrsinnigen Land ist er dein Führer gewesen . 
+Bestimmt weiß er, was hier vor sich geht. „Endlich“, sagt er und blickt mit 
+großen Augen durch den Saal. „Hier sind wir, in den Hallen der Großen 
+Götter, die zu erblicken den Menschen nicht gestattet ist. Wir wussten, d ass es 
+verboten ist, und doch sind wir hier. Unsere Suche ist zu Ende.“ Er wendet sich 
+an Virgil. „War es das wert? Hast du nun den Beweis, den du wolltest?“
+Virgil macht einen Schritt zurück. „Wovon redest du da, Randolph? War das 
+nicht deine Idee? Du hast uns doch zu dieser Suche angestiftet.“
+Randolph lächelt und legt eine Hand auf Virgils Schulter. „Ja, das habe ich . 
+Aber ich bin nicht Randolph Carter.“ Er zieht seinen anderen Arm zurück und 
+ehe du reagieren kannst, rammt er Virgil Gray eine rasiermesserscharf e Onyx-
+klinge in die Brust. Leblos sinkt Virgil auf den glänzenden Boden, seine Au gen 
+in ewiger, tragischer Erschrockenheit erstarrt. Nun wendet sich das W esen, das 
+niemals Randolph Carter war, in deine Richtung und sein Schatten fächer t 
+sich in Myriaden von Formen auf dem Boden auf. „Sieh her!“, ruft er mit 
+unzähligen Stimmen. „Dies ist dein wohlverdienter Lohn!“
+ Æ Falls sich im Deck eines Ermittlers Randolph Carter (Meisterhafter 
+Träumer) (Die Traumfresser , 59) befindet, wird er für den Rest der 
+Kampagne aus jenem Deck entfernt.
+ Æ Überprüfe das Kampagnenlogbuch.  
+ = Falls die schwarze Katze an deiner Seite ist , fahre mit  
+Überwältigendes Werk 4  fort.
+ = Ansonsten fahre mit Überwältigendes Werk 5  fort.
+Überwältigendes Werk 3:  Just in diesem Moment bricht hinter dir eine 
+Stimme das Schweigen, was deine Verwirrung nur noch größer macht. „Virg il 
+Gray. Du bist gekommen, um die Großen Götter zu sehen, doch dies ist den 
+Menschen nicht gestattet.“ Die Stimme gehört einer großen, schlanke n Gestalt 
+in den prächtigen bunten Gewändern eines antiken Pharaos. Auf ihrem Hau pt 
+schimmert eine goldene Doppelkrone, die aus sich selbst heraus glüht. „ Was 
+hattest du zu finden gehofft?“
+„Bist du einer der Götter, die in dieser Festung leben?“, fragt Virgil und nä hert 
+sich dem Wesen. „Warum ist hier alles so dunkel und verlassen?“
+Kurz gestattet sich die königliche Gestalt einen Anflug von Ärger in ihre m 
+Antlitz. „Die Götter, die du suchst, haben ihr Schloss auf dem unbekannte n 
+Kadath verlassen, um in einem anderen Land zu leben, einem Land, so 
+wunderbar, dass sie darüber vergaßen, Götter zu sein. Wirst du mir helfen , 
+die Dinge wieder ins Lot zu bringen?“, fragt die Gestalt. Bevor Virgil etwa s 
+entgegnen kann, zieht die Gestalt ihren Arm zurück und rammt eine rasier-
+messerscharfe Onyxklinge in Virgils Brust. Leblos sinkt er auf den glän zenden 
+Boden, seine Augen in ewiger, tragischer Erschrockenheit erstarrt . Nun wendet 
+sich die Gestalt in deine Richtung und ihr Schatten fächert sich in Myriade n 
+von Formen auf dem Boden auf. „Nein!“, ruft sie mit unzähligen Stimmen. „Es 
+ist nicht genug!“
+ Æ Überprüfe das Kampagnenlogbuch.  
+ = Falls die schwarze Katze an deiner Seite ist , fahre mit  
+Überwältigendes Werk 4  fort.
+ = Ansonsten fahre mit Überwältigendes Werk 5  fort.
+Überwältigendes Werk 4:  Währenddessen harrt die schwarze Katze auf 
+deiner Schulter aus und beobachtet alles mit eiskalten, zu Schlitzen ve rengten 
+Augen. Es ist, als hätte sie dieses Stück schon oft gelesen und würde jetzt zum 
+ersten Mal die Schauspieler auf der Bühne sehen. „Es tut mir leid, Virgil“, s agt 
+sie. Doch das ist nicht wahr.
+Fahre mit Überwältigendes Werk 5  fort.
+21
+
+Überwältigendes Werk 5:  Das kriechende Chaos zerfällt in Hundert-
+tausende Schatten und löst sich in kalte, feuchte Luft auf.
+ Æ Bestimme zufällig 1  Kopie plus 1 des beiseitegelegten Gegners 
+Nyarlathotep und mische sie ins Begegnungsdeck, ohne sie dir anzu-
+sehen. Entferne jede andere Kopie von Nyarlathotep aus dem Spiel.
+ Æ Mische den beiseitegelegten Gegner Der kriechende Nebel und jede 
+beiseite gelegte Kopie der Verratskarten Unzählige Gestalten un d 
+Flüsterndes Chaos zusammen mit dem Begegnungs-Ablagestapel in 
+das Begegnungsdeck.
+ Æ Mische die beiseitegelegten Orte Verlassener Turm, bestimme 
+zufällig 4 Kopien davon und bringe sie ins Spiel. Diese Orte sollten 
+um Die Große Halle in allen 4 Himmelsrichtungen (Norden, Süden, 
+Osten und Westen) angeordnet werden, ( siehe dazu den Vorschlag für 
+die Platzierung der Orte unten ).
+ Æ Bis zum Ende des Szenarios wird jeder Ort Verlassener Turm in 
+Bezug auf die Position von Die Große Halle aus wie folgt betrachtet:
+ = Der Ort oberhalb von Die Große Halle ist der „Nördliche Turm“.
+ = Der Ort rechts von Die Große Halle ist der „Östliche Turm“. 
+ = Der Ort unterhalb von Die Große Halle ist der „Südliche Turm“.
+ = Der Ort links von Die Große Halle ist der „Westliche Turm“.
+Vorschlag für die Platzierung der Orte in Szene 4 & 5
+© 2024 FFGIllus. Sergey Glushakov 14/41 299
+ORT
+„Bis auf das eine Turmzimmer lag das Onyxschloss oben auf 
+dem Kadath in Dunkelheit, und seine Gebieter waren fort.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Kadath.
+: Wähle einen anderen Ermittler an deinem 
+Ort. Füge der Hand des gewählten Ermittlers eine 
+Verborgen-Karte aus deiner Hand hinzu.
+Die Große Halle
+33 00
+© 2024 FFGIllus. Stanislav Dikolenko
+ORT
+Kadath.
+„Gewaltige Wände schossen empor, und da war die 
+Andeutung eines großen T ores, durch das die Reisenden 
+geschwemmt wurden. In dem titanischen Hof regierte  
+einzig die Nacht, und dann folgte die tiefere Schwärze  
+der innersten Anlagen, als ein mächtig gewölbtes Portal  
+die Kolonne verschlang.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Verlassener Turm
+© 2024 FFGIllus. Stanislav Dikolenko
+ORT
+Kadath.
+„Gewaltige Wände schossen empor, und da war die 
+Andeutung eines großen T ores, durch das die Reisenden 
+geschwemmt wurden. In dem titanischen Hof regierte  
+einzig die Nacht, und dann folgte die tiefere Schwärze  
+der innersten Anlagen, als ein mächtig gewölbtes Portal  
+die Kolonne verschlang.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Verlassener Turm
+© 2024 FFGIllus. Stanislav Dikolenko
+ORT
+Kadath.
+„Gewaltige Wände schossen empor, und da war die 
+Andeutung eines großen T ores, durch das die Reisenden 
+geschwemmt wurden. In dem titanischen Hof regierte  
+einzig die Nacht, und dann folgte die tiefere Schwärze  
+der innersten Anlagen, als ein mächtig gewölbtes Portal  
+die Kolonne verschlang.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Verlassener Turm
+© 2024 FFGIllus. Stanislav Dikolenko
+ORT
+Kadath.
+„Gewaltige Wände schossen empor, und da war die 
+Andeutung eines großen T ores, durch das die Reisenden 
+geschwemmt wurden. In dem titanischen Hof regierte  
+einzig die Nacht, und dann folgte die tiefere Schwärze  
+der innersten Anlagen, als ein mächtig gewölbtes Portal  
+die Kolonne verschlang.“
+– H. P . Lovecraft, Die T raumsuche nach  
+dem unbekannten Kadath
+Verlassener Turm
+Nördlicher Turm
+Östlicher 
+Turm
+Südlicher Turm
+Westlicher 
+Turm
+Achtung!  
+Nicht vor Ende des Szenarios weiterlesen.
+Falls keine Auf lösung erreicht wurde, weil alle Ermittler 
+besiegt wurden:  Du schreckst aus dem Schlaf, matt und 
+erschlagen vom Ausmaß des Traumes, der dich so lange in seinem 
+Bann hielt. Trotzdem fällt es dir schwer, dich an Einzelheiten zu 
+erinnern. Alles ist verschwommen, wie eine dunkle E rinnerung 
+an ein Jahrzehnte zurückliegendes Ereignis. Nur einzelne Bilder 
+sind geblieben. Ein schwarzes Schloss. Ein Schiff, das durch den 
+Weltraum segelt. Eine Treppenflucht. Eine schwarze Katze. Das 
+Einzige, woran du dich erinnerst, ist die Stimme in deinem Kopf. 
+Eine fundamentale, universelle Wahrheit, die nicht aus deinem 
+Gedächtnis zu verbannen ist. Sie spricht mit dir, selbst jetzt, da du 
+zitternd unter der Decke deines Krankenhausbettes l iegst: „Deine 
+Träume gehören mir!“
+ Æ Im Kampagnenlogbuch wird notiert: Nyarlathoteps Invasion 
+hat begonnen.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird,  
+verlieren die Ermittler die Kampagne .
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–B: Weber des Kosmos  
+gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–B: Weber des Kosmos 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auf lösung 1:  Die höhnische Präsenz verschwindet aus deinem 
+Geist und zieht sich in die Schatten zurück. Was bleibt, ist das über-
+wältigende Gefühl der Einsamkeit. Du wirst keine Beweise in den 
+weiten Hallen der Onyxfeste finden, außer vielleicht für Leid und 
+Verzweiflung. Hierherzukommen war töricht. Du trägst den toten 
+Virgil aus dem Schloss und begräbst ihn auf dem schneebedeckten 
+Gipfel des Kadath. Noch immer fragst du dich, was das Wesen, 
+das Nyarlathotep genannt wird, von ihm oder von dir wollte. Doch 
+zumindest kannst du nun die Traumlande verlassen … sofern das 
+dein Wunsch ist.
+ Æ Im Kampagnenlogbuch wird notiert: Die Träumer sind aus 
+den Fängen des Nyarlathotep entkommen.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel.
+ Æ Jeder Ermittler erleidet 2 seelische Traumata durch den 
+Kampf zwischen Wahrheit und Fiktion in seinen eigenen 
+Träumen.
+ Æ Die Ermittler müssen entscheiden (wähle eins):
+ = Aufwachen.  Fahre mit Auf lösung 3  fort.
+ = In den oberen Traumlanden bleiben.  Fahre mit  
+Auf lösung 4  fort.
+ = In die Unterwelt reisen, um deine Gefährten zu finden.   
+Du kannst diese Option nur wählen, falls im Kampagnen-
+logbuch notiert ist: Die Träumer kennen einen anderen Weg . 
+Fahre mit Auf lösung 5  fort.
+22
+
+Auf lösung 2:  Von der höhnischen Präsenz in deinem Geist ist 
+nichts mehr übrig. Was bleibt, ist das überwältigende Gefühl der 
+Einsamkeit. Du wirst keine Beweise in den weiten Hallen der 
+Onyxfeste finden, außer vielleicht für Leid und Verzweiflung. 
+Doch zumindest hast du das Wesen bezwungen, das dich an diesen 
+Ort lockte. Du begreifst jetzt, was es die ganze Zeit über im Sinn 
+hatte: Es wollte in deinen Verstand eindringen, deine Gestalt 
+abtasten und zusammen mit dir erwachen. Auf diese Weise wollte 
+es gleichermaßen über Traum und Wirklichkeit gebieten. Die 
+schwarze Katze – was auch immer sie wirklich war – muss dies 
+in ihren Visionen gesehen haben. Du trägst den toten Virgil aus 
+dem Schloss und begräbst ihn auf dem schneebedeckten Gipfel des 
+Kadath. Deine Suche ist zu Ende. Es gibt keinen Grund, länger zu 
+verweilen. Endlich kannst du die Traumlande verlassen … sofern 
+das dein Wunsch ist.
+ Æ Im Kampagnenlogbuch wird notiert: Die Träumer haben 
+Nyarlathotep verbannt.
+ Æ Jeder Ermittler verdient Erfahrungspunkte in Höhe des 
+Sieg-X-Wertes aller Karten im Siegpunktestapel. Jeder 
+Ermittler verdient 5 Bonus-Erfahrungspunkte , weil sie 
+Nyarlathoteps Plan ein für alle Mal vereitelt haben.
+ Æ Jeder Ermittler erleidet 2 seelische Traumata durch den 
+Kampf zwischen Wahrheit und Fiktion in seinen eigenen 
+Träumen.
+ Æ Die Ermittler müssen entscheiden (wähle eins):
+ = Aufwachen.  Fahre mit Auf lösung 3  fort.
+ = In den oberen Traumlanden bleiben.  Fahre mit  
+Auf lösung 4  fort.
+ = In die Unterwelt reisen, um deine Gefährten zu finden.   
+Du kannst diese Option nur wählen, falls im Kampagnen-
+logbuch notiert ist: Die Träumer kennen einen anderen Weg . 
+Fahre mit Auf lösung 5  fort.
+Auf lösung 3 : Du schreckst aus dem Schlaf, matt und erschlagen 
+vom Ausmaß des Traumes, der dich so lange in seinem Bann hielt. 
+Trotzdem fällt es dir schwer, dich an Einzelheiten zu erinnern. Alles 
+ist verschwommen, wie eine dunkle Erinnerung an ein Jahrzehnte 
+zurückliegendes Ereignis. Nur einzelne Bilder sind geblieben. Ein 
+schwarzes Schloss. Ein Schiff, das durch den Weltraum segelt. Eine 
+Treppenflucht. Eine schwarze Katze. Du erinnerst dich an eine 
+epische Suche, die du auf dich genommen und zu Ende gebracht 
+hast, doch dir will beim besten Willen nicht einfallen, worum es 
+dabei ging.
+ Æ Im Kampagnenlogbuch wird notiert: Die Träumer sind 
+erwacht.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+gewinnen die Ermittler die Kampagne !
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden …
+ = … und du noch nicht Szenario 4–B: Weber des Kosmos  
+gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–B: Weber des Kosmos 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auf lösung 4 : Du musst an deine weite Reise durch die Traumlande 
+denken und an die vielen wundersamen Dinge, die du dabei gesehen 
+hast: sagenhafte Wälder, prächtige Paläste, azurblaue Ozeane. 
+Hast du jemals etwas so Schönes in der wachen Welt erlebt? Wie 
+sollst du, nach allem, was dir hier widerfahren ist, jemals in ein all-
+tägliches Leben zurückfinden? Vielleicht wäre es besser zu bleiben. 
+Du könntest das gefürchtete Leng verlassen und in geruhsamere 
+Gefilde ziehen. In der zeitlosen Stadt Celephais könntest du leben, 
+dem Reich der ewigen Freuden, und niemals alt werden. Oder du 
+könntest zu den Katzen in das beschauliche Städtchen Ulthar 
+ziehen, wo einst deine Suche begann. Oder wie wäre es, weiter die 
+Traumlande zu erforschen und noch mehr von ihren Wundern zu 
+erfahren? Dein Entschluss steht fest. Niemals wirst du in die wache 
+Welt zurückkehren. Du willst niemals wieder fort von hier.
+ Æ Im Kampagnenlogbuch wird notiert: Die Träumer sind für 
+immer in den Traumlanden geblieben.
+ Æ Falls Die Traumsuche  als vierteilige Kampagne gespielt wird, 
+gewinnen die Ermittler die Kampagne ! Und niemand in 
+der wachen Welt hat je wieder etwas von ihnen gehört. 
+ Æ Falls Die Traumsuche  und Das Netz der Träume  als ver-
+wobene achtteilige Kampagne gespielt werden…
+ = … und du noch nicht Szenario 4–B: Weber des Kosmos  
+gespielt hast, fahre mit jenem Szenario fort.
+ = … und du schon Szenario 4–B: Weber des Kosmos 
+gespielt hast, fahre stattdessen mit dem Epilog  fort.
+Auf lösung 5 : Du erinnerst dich daran, was die schwarze Katze 
+über die Reise deiner Gefährten sagte. So ungern du die oberen 
+Traumlande auch verlässt, du willst jede mögliche Gelegenheit 
+nutzen, um deinen Freunden zu helfen. Also machst du dich an den 
+langen Abstieg von den nördlichsten Gipfeln von Leng und kehrst zu 
+dem verfallenen Monasterium zurück, wo du gegen Nyarlathoteps 
+Hohepriester kämpfen musstest. Dort, im Zentrum der Kammer, 
+klafft ein gähnendes Loch, das in die ungeahnten Tiefen der 
+Unterwelt führt. Irgendwo dort unten müssen deine Freunde sein … 
+nicht wahr?
+ Æ Im Kampagnenlogbuch wird notiert: Die Träumer sind in die 
+Tiefen unter dem Monasterium hinabgestiegen.
+ Æ Falls du Szenario 4–B: Weber des Kosmos  noch nicht 
+gespielt hast, fahre mit jenem Szenario fort.
+ Æ Falls du Szenario 4–B: Weber des Kosmos  schon gespielt 
+hast, fahre stattdessen mit dem Epilog  fort.  
+23
+
+Epilog 5 (in der wachen Welt): „Oh, du bist wach. Faszinierend. Ich hätte 
+nicht gedacht, dass du zurückkehren würdest. Vielleicht hättest du ble iben 
+sollen. Es gibt da etwas, das du wissen musst. Deine Gefährten … also, kurz 
+gesagt, es lief nicht ganz so wie geplant. Deine Welt gehört dir nicht mehr. Tu t 
+mir leid, das sagen zu müssen. Ich jedenfalls habe kein Interesse daran, ve rspeist 
+zu werden. Ich werde mich jetzt vom Acker machen. Was auch immer du tust, 
+verlasse nicht diesen Raum.“
+ Æ Jeder Ermittler aus Kampagne A wird getötet .
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Epilog 6 (in der wachen Welt): „Na, wenn das mal kein freudiges Wiedersehen 
+ist. Glückwunsch, ihr seid zurück in der wachen Welt. Endlich könnt ihr euc h 
+wieder dem sinnlosen Treiben widmen, das ihr ‚Leben‘ schimpft. Lasst eu re 
+Träume ruhig hinter euch wie einen verschmähten Happen, den man beim 
+nächsten Hunger verschlingt. Oder dämmert es euch l angsam, dass auch eure 
+Welt eine Welt der Fantasie ist? Nehmt mit, was ihr aus diesem Traum gelernt 
+habt, und nutzt es, um euer eigenes Schicksal zu formen. Was mich betrifft? 
+Ich werde nun in meine eigene Heimat zurückkehren. Keine Sorge. Ich bin mir 
+sicher, wir werden uns wiedersehen.“
+ Æ Die beiden Gruppen sind in der wachen Welt wieder vereint.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 7 (in der wachen Welt): Die schwarze Katze beobachtet dich aus der 
+Ferne. „Tut mir leid, dass du niemals erfahren wirst, was aus deinen Freund en 
+geworden ist. Du würdest dich ohnehin nicht an mich erinnern, hab ich recht? 
+Ich hoffe, du wirst bald wieder ruhig schlafen können. Immerhin wurde dein e 
+Welt gerettet. Es wäre doch ein Jammer, diese geschenkte Zeit zu vergeude n! 
+Auf, lebe dein Leben! Vergiss deine Freunde. Es gibt nichts, was du für sie tun 
+könntest.
+… Du kannst mich überhaupt nicht hören, oder?“
+ Æ Jeder Ermittler aus Kampagne B bleibt für immer verschwunden.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 8 (in den Traumlanden): „Du willst wirklich nie wieder zurückkehren? 
+Das ist aber ziemlich egoistisch von dir. Deine Gefährten sind in der reale n Welt 
+aufgewacht, und du bist immer noch hier und sonnst dich in den Wundern der 
+Traumlande. Nun, ich schätze, ich kann’s dir nicht verübeln. Wahrsche inlich 
+hätte ich an deiner Stelle genauso entschieden. Ich kann ihnen sagen, wo du b ist, 
+aber sie werden sich nicht an mich erinnern. Du bist also auf dich allein gestel lt. 
+Was mich betrifft? Ich werde nun in meine eigene Heimat zurückkehren. Kein e 
+Sorge. Ich bin mir sicher, wir werden uns wiedersehen.“
+ Æ Beide Gruppen haben überlebt, sind aber für immer getrennt.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 1 (in der wachen Welt): Die schwarze Katze mustert die allgegen-
+wärtige Verwüstung. „Eure Welt ist umkämpftes Gebiet. Genau genomme n war 
+sie das schon immer. Es gibt Mächte jenseits eurer Vorstellungskraft, d eren Krieg 
+schon länger andauert, als eure Gattung – oder auch meine – überhaupt ahnen 
+könnte. Lange haben sie um das Reich der Träume gekämpft, aber es gibt noch 
+viele andere Realitäten außerhalb der Traumlande und nur ein Einzelne r kann 
+über sie alle gebieten. Ich wusste immer, dass es hierzu kommen könnte. Das s 
+wir scheitern könnten. Aber zumindest kann ich sagen, dass ich mein Beste s 
+gegeben habe. Ganz ehrlich, mich trifft keine Schuld. Das habt ganz allei n ihr 
+zu verantworten.“
+ Æ Es gibt keine Überlebenden.
+ Æ Die Ermittler haben die Kampagne verloren.
+Epilog 2 (in der wachen Welt): „Du bist also wieder zu Hause. Ich hoffe, du 
+hattest eine angenehme Reise. Ja, deine ehemaligen Gefährten sind auf gewacht. 
+Aber sie haben sich verändert, nicht wahr? Natürlich haben sie das. Auch we nn 
+sie sich nicht an ihre Träume erinnern, macht sie das nicht ungeschehen. Si ehst 
+du nicht das Funkeln in ihren Augen? Ist dir nicht aufgefallen, dass sie flüs ternd 
+mit einer fremden Wesenheit sprechen, sobald du nicht hinsiehst? Ja, ge nau 
+diese. Du weißt, von wem ich spreche. Keine Sorge, dir bleibt noch ein kleine s 
+bisschen Zeit bis zum Weltuntergang. Und vergiss nicht: Ich habe dich gew arnt.“
+ Æ Die beiden Gruppen sind in der wachen Welt wieder vereint. Oder 
+doch nicht?
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Epilog 3 (in den Traumlanden): „Was? Ob ich ein schlechtes Gewissen habe? 
+Natürlich nicht. Klar, wenn ich nicht gewesen wäre, hätten deine Freund e 
+ein normales Leben führen können, ohne jemals die Wahrheit über die Welt 
+zu erfahren. Und Virgil auch. Aber ich bereue nichts. Ich habe getan, was 
+notwendig war. Ich habe versucht, sie zu retten. Ihr Blut klebt nicht an mein en 
+Händen.“ Die schwarze Katze wendet den Blick ab. „Zumindest müssen sie 
+nicht miterleben, wie die Welt im Chaos versinkt.“
+ Æ Jeder Ermittler aus Kampagne B bleibt für immer verschwunden.
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Epilog 4 (in den Traumlanden): „Was machst du denn hier, ausgerechnet in 
+dieser Stadt? Ah, ich verstehe. Du findest nicht zurück in die wache Welt. Nu n, 
+vielleicht ist das gar nicht so schlimm. Deine Freunde, musst du wissen, si nd 
+aufgewacht, aber leider hatten sie einen … heimlichen Mitreisenden. I st die 
+Frage denn wirklich notwendig? Du weißt, von wem ich spreche. Vertrau mir 
+und bleibe hier, in dieser Welt. Lass dein altes Leben hinter dir. Hier wird es di r 
+sehr viel besser gehen, das garantiere ich.“
+ Æ Jeder Ermittler aus Kampagne B führt ein unbekümmertes Leben, 
+ohne jemals zu erfahren, was mit der Erde geschehen ist.
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Lies diesen Epilog nur, falls Die Traumsuche  und Das Netz der Träume  als verwobene achtteilige Kampagne gespielt werden.
+Lies diesen Epilog erst, wenn sowohl Szenario 4–A: Wo Götter wohnen als auc h Szenario 4–B: Weber des Kosmos abgeschlossen sind.
+Überprüfe das Kampagnenlogbuch für beide Kampagnen. Verwende die un ten stehende Tabelle, um den Epilog zu finden, der zu deiner Situation pass t. 
+Dann fahre mit dem entsprechenden Epilog fort.
+Die Brücke wurde 
+fertiggestellt.
+Die Ermittler sind 
+in die Realität 
+zurückgekehrt.
+Die Ermittler 
+sind niemals 
+entkommen.
+Die Ermittler sind 
+immer noch in den 
+Traumlanden.
+Nyarlathoteps Invasion hat begonnen. Epilog 1 Epilog 2 Epilog 3 Epilog 4
+Die Träumer sind erwacht. Epilog 5 Epilog 6 Epilog 7 Epilog 8
+Die Träumer sind für immer in den 
+Traumlanden geblieben. Epilog 9 Epilog 10 Epilog 11 Epilog 12
+Die Träumer sind in die Tiefen unter 
+dem Monasterium hinabgestiegen. Epilog 13 Epilog 14 Epilog 15 Epilog 16
+Epilog
+24
+
+Epilog 14 (in den Traumlanden): „Was machst du denn hier unten? Nein, 
+deine Gefährten sind längst in deine Welt zurückgekehrt. Es war ein nette r 
+Gedanke, aber jetzt bist du auf dich gestellt. Ja, es gibt Auswege aus der Unte r-
+welt, aber sie sind nicht gerade einfach zu finden. Außerdem wären da noch 
+die Gugs und die Ghasts und die Ghule und … ach, du wirst schon sehen. Mal 
+ehrlich, warum bist du überhaupt hier? Ich hoffe, du findest irgendwann e inen 
+Weg nach draußen. Was mich betrifft? Ich werde nun in meine eigene Heimat 
+zurückkehren. Keine Sorge. Ich bin mir sicher, wir werden  
+uns wiedersehen.“
+ Æ Beide Gruppen haben überlebt, sind aber für immer getrennt.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 15 (in den Traumlanden): Die schwarze Katze beobachtet den Abstieg 
+mit angehaltenem Atem. „Oha. Damit hätte ich nun wirklich nicht gerechn et. 
+Erst haben sie ihr Leben für dich aufs Spiel gesetzt und jetzt riskierst du dei nes 
+für sie. Wie spannend. Vielleicht besteht doch noch Hoffnung für eure Gat tung.“ 
+Nach einer Weile wird ihr langweilig. „In Ordnung, das reicht jetzt. Ich habe 
+nicht den ganzen Tag Zeit. Du und die anderen, ihr kommt auch ohne meine 
+Hilfe zurecht, nicht wahr? Bitte tut mir den Gefallen und passt gut auf beide 
+Welten für mich auf, ja?“
+ Æ Die beiden Gruppen sind in den Traumlanden wieder vereint.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 16 (in den Traumlanden): „Welche Ironie des Schicksals! Ihr habt euch 
+knapp verpasst. Tja, jetzt bist du auf dich allein gestellt. Ja, es gibt Auswege aus 
+der Unterwelt, aber sie sind nicht gerade einfach z u finden. Außerdem wären da 
+noch die Gugs und die Ghasts und die Ghule und … ac h, du wirst schon sehen. 
+Mal ehrlich, warum bist du überhaupt hier? Ich hoff e, du findest irgendwann 
+einen Weg nach draußen. Was mich betrifft? Ich werd e nun in meine eigene Hei-
+mat zurückkehren. Keine Sorge. Ich bin mir sicher, wir werden uns wiedersehen.“
+ Æ Beide Gruppen haben überlebt, sind aber für immer getrennt.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 9 (in den Traumlanden): „Glaubst du wirklich, du könntest dich in 
+deinen Träumen verkriechen und müsstest niemals die Konsequenzen tr agen für 
+das, was passiert ist? Ein törichter Gedanke. Vergiss nicht, dass du nur sc hläfst. 
+Dein Körper ist nicht hier; du bist in beiden Welten gleichzeitig. Verste hst du 
+denn nicht? Ach, vielleicht ist es besser so. Bleibe hier und vergiss dein al tes 
+Leben. Ich garantiere dir, es wird dir besser gefallen als die Alternative .“
+ Æ Jeder Ermittler aus Kampagne A führt ein unbekümmertes Leben, 
+ohne jemals zu erfahren, was mit der Erde geschehen ist.
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Epilog 10 (in der wachen Welt): „Du willst wirklich niemals aufwachen? 
+Das ist aber ganz schön egoistisch von dir. Deine Gefährten sind in die wache 
+Welt zurückgekehrt, in dem Glauben, dich gerettet zu haben. Aber du wirst 
+dein Lebtag in diesem Krankenhauszimmer liegen und schlafen, nicht wa hr? 
+Nun, ich schätze, ich kann’s dir nicht verübeln. Wahrscheinlich hätte i ch an 
+deiner Stelle genauso entschieden. Keine Sorge, ich werde ihnen nichts v erraten. 
+Ansonsten würden sie nur weiter nach dir suchen. Was mich betrifft? Ich werde 
+nun in meine eigene Heimat zurückkehren. Keine Sorge. Ich bin mir sicher, w ir 
+werden uns wiedersehen.“
+ Æ Beide Gruppen haben überlebt, sind aber für immer getrennt.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 11 (in den Traumlanden): „Egal wie lange du suchst, du wirst sie 
+niemals finden. Sie sind tief unter der Erde. Um ehrlich zu sein, bin ich mir 
+nicht einmal sicher, ob sie überhaupt noch dort sind. Wer weiß das schon? Wie 
+dem auch sei, du solltest sie vergessen. Beide Welten wurden gerettet. Hur ra! 
+Lebe dein Leben und bereue nichts. Was mich betrifft? Ich werde nun in meine 
+eigene Heimat zurückkehren. Keine Sorge. Ich bin mir sicher, wir werden un s 
+wiedersehen.“ 
+ Æ Jeder Ermittler aus Kampagne B bleibt für immer verschwunden.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 12 (in den Traumlanden): „Ah, endlich habt ihr euch wiedergefunden. 
+Selbst in einem Land von so unermesslicher Größe wie den Traumlanden war es 
+unvermeidlich, dass ihr euch früher oder später über den Weg lauft. Werdet i hr 
+jetzt in eure eigene Welt zurückkehren? Nein? Das dachte ich mir. Warum sol ltet 
+ihr auch? Alles, was ihr euch je erträumen könntet, ist hier. Gemeinsam kön nt 
+ihr von den Säulen des Westens bis zu den Säulen des Ostens reisen und jedes 
+Wunder erleben, das die Welt der Träume zu bieten hat. Eines dürft ihr jedoch 
+nie vergessen: Es ist alles nur ein Traum.“
+ Æ Die beiden Gruppen sind in den Traumlanden wieder vereint.
+ Æ Die Ermittler haben die Kampagne gewonnen!
+Epilog 13 (in den Traumlanden): „Eine hübsche Idee, nur leider ist es dafür 
+zu spät. Die Plage hat sich ausge breitet und reicht inzwischen in jeden Wi nkel 
+des Universums. Diese Welt, eure Welt, die Zwischenwelt … ich wollte sie re tten, 
+doch es hat nicht gereicht. Offen gesagt wünschte ich, du hättest diese Wel t 
+niemals gesehen. Jetzt wirst du weder hier noch dort Frieden finden.“
+ Æ Jeder Ermittler aus Kampagne A wird wahnsinnig .
+ Æ Die Ermittler haben eine Art des Weltuntergangs verhindert, aber 
+nicht die andere.
+Falls (Name des Ermittlers) das Gesetz von Ulthar 
+gebrochen hat und du nicht getötet wurdest oder wahnsinnig 
+bist:
+Eines Nachts wirst du von einem Fauchen geweckt. Überall um dich 
+herum funkeln Katzenaugen in der Dunkelheit, die dich mit ihren 
+Blicken durchbohren. Eines der Geschöpfe springt dir auf die Brust 
+und bohrt seine Krallen schmerzhaft in deine Haut. „Hattest du 
+etwa geglaubt, wir würden dich nicht finden?“ Die Augen der Katze 
+blitzen. Sie bleckt die Zähne und die anderen Katzen rücken näher.
+Wie konntest du es wagen! Du wirst getötet.
+25
+
+Herzlichen Glückwunsch, ihr habt die Kampagne Die Traumfresser  
+abgeschlossen! Wie auch immer die Geschichte ausgegangen sein mag, ic h 
+hoffe, ihr hattet Spaß mit den Schrecken und Wundern der Traumlande.
+Von allen Erzählungen Lovecrafts ist Die Traumsuche nach dem 
+unbekannten Kadath  – an welche diese Kampagne stark angelehnt ist – die 
+wahrscheinlich außergewöhnlichste und einzigartigste. Es geht u m 
+sprechende Katzen statt um Tentakelmonster, um beschauliche Bauer n-
+dörfer statt um zyklopische Ruinen und um einen Protagonisten, der wohl 
+der erfahrenste und fachkundigste in allen Werken von Lovecraft ist. Aus 
+diesem Grund weicht die Kampagne auch vom Grundton der bisherigen 
+Kampagnen von Arkham Horror: Das Kartenspiel  ab.
+Die Traumlande sind ein beliebtes Setting, das einerseits viele Gefah ren 
+birgt, aber trotzdem ein fantastisches Land voller wundersamer Orte u nd 
+kurioser Bewohner ist. Eines meiner Hauptziele war es, so viel wie möglic h 
+von den Traumlanden in die Geschichte einzubauen, ohne diejenigen 
+Spieler, die Die Traumsuche nach dem unbekannten Kadath  nicht gelesen 
+haben, zu sehr zu verwirren. Das Ergebnis sind die doppelseitigen Orte 
+von Die Suche nach Kadath  und Kein Zurück mehr , die den Spielern tiefere 
+Einblicke in die Traumlande gewähren sollen.
+Da es bei dieser Kampagne nicht einen, sondern zwei Große Alte gibt, war 
+mein anderes Ziel, diese beiden Urkräfte klar voneinander zu trennen. 
+Atlach-Nacha hat nur ein Ziel vor Augen, nämlich mit ihrer Brut in 
+unsere Welt einzudringen, während Nyarlathotep ein listenreiche s und 
+manipulatives Wesen ist, das praktisch jede Gestalt annehmen und die 
+Ermittler an der Nase herumführen kann. Da es sich hier um Nyarlathotep 
+persönlich und nicht um einen seiner vielen Avatare handelt, habe ich 
+beschlossen, ihn in dieser Kampagne als den Inbegriff der Täuschung 
+darzustellen. Anders als die meisten Großen Alten, für die wir Menschen 
+nur bedeutungslose Ameisen sind (wenn sie uns denn überhaupt wahr -
+nehmen), begibt sich Nyarlathotep oft unter die Menschen und interagi ert 
+mit ihnen. Vielleicht hegt er sogar einen persönlichen Groll gegen unse re 
+Ermittler. Und selbst wenn es bisher noch nicht so war, jetzt tut er es 
+bestimmt …
+Ich hoffe, ihr hattest viel Spaß mit Die Traumfresser,  und ich freue mich 
+bereits auf das nächste Kapitel unserer epischen Saga! Mit etwas Glück 
+werden wir uns nach dem Aufwachen sogar daran erinnern …
+ – MJ Newman
+Anmerkungen der Entwicklerin
+Die folgende Liste enthält Erfolge, welche die Ermittler im Laufe einer 
+Kampagne von Die Traumsuche  erreichen können. Sobald ein Erfolg 
+erreicht wird, kann dies durch einen Haken im Kästchen daneben 
+gekennzeichnet werden. Es stellt eine wahre Herausforderung dar, al le 
+diese Erfolge zu erreichen!
+ /uni2610Befolgst du immer alle Befehle?: Komme in Hinter den Toren des 
+Schlafes nicht vom Pfad ab.
+ /uni2610Och, sie sind doch so niedlich!: Besiege in Hinter den Toren des Schlafes 
+keinen einzigen Zoog-Gegner.
+ /uni2610Losing My Religion : Finde und decke in einem einzigen Durchgang von 
+Die Suche nach Kadath alle 10 Zeichen der Götter auf.
+ /uni2610Fantasy Flight Games (®) billigt diesen Erfolg in keinster Weise : 
+Brich das Gesetz von Ulthar in Die Suche nach Kadath .
+ /uni2610Ungesehen das Schleichlevel abgeschlossen : Beende Die dunkle Seite 
+des Mondes, während alle Ermittler Alarmstuf e 0 haben.
+ /uni2610Mondechsen? Daran glaube ich nicht!: Besiege die Mondechse in  
+Die dunkle Seite des Mondes .
+ /uni2610„Barkham Horror“-Enthusiast: Besiege 1 oder mehr Katzen vom 
+Saturn, indem du eine Kampf-Fähigkeit eines „Hund“- oder „Katze“- 
+Verbündeten verwendest.
+ /uni2610Auf Nummer sicher gehen: Senke in Wo Götter wohnen die verbliebene 
+Ausdauer von Der unsägliche Hohepriester au f 1 und stoße ihn dann 
+trotzdem den Brunnen hinab.
+ /uni2610Jetzt haben sie was zum Reden: Schaffe es, in einer einzigen Runde 
+in Wo Götter wohnen alle verborgenen Formen von Nyarlathotep dem 
+Siegpunktestapel hinzuzufügen.
+ /uni2610Das ist noch nicht mal meine wahre Gestalt!: Entlarve Nyarlathoteps 
+wahre Gestalt und besiege sie in Wo Götter wohnen.
+ /uni2610Aber sag’s nicht weiter: Schaffe es in Wo Götter wohnen unter  
+Verwendung der Fähigkeit auf Die Große Halle , 6 verschiedene  
+Verborgen-Karten an einen anderen Ermittler zu gebe n.
+ /uni2610Spuren im … Sand : Gewinne die Kampagne Die Traumsuche mit 
+mindesten s 3 aktiven Ultimaten (aus anderen Arkham Horror:  
+Das Kartenspiel -Produkten).
+ /uni2610Traumlande-Experte : Gewinne die Kampagne Die Traumsuche auf dem 
+Schwierigkeitsgrad Experte. 
+ /uni2610Hüte dich vor der schwarzen Katze: Beende die Kampagne Die 
+Traumsuche mit folgendem Eintrag im Kampagnenlogbuch: In Ordnung, 
+gut, dann mach doch, was du willst .
+ /uni2610Wiedervereint … und es fühlt sich wirklich gut an : Gewinne die 
+Kampagne Die Traumsuche als verwobene achtteilige Kampagne, bei der 
+beide Gruppen im Epilog wiedervereint werden.
+Erfolge
+26
+
+Di e T ra u m suc h e
+Kampagnenlogbuch: 
+ERMITT L ER
+SPI ELERNA M E
+SPI ELERNA ME
+SPI ELER N AM E
+SPI ELERNA M E
+ER MIT TLER
+ER M ITTLER
+ER MIT TLER
+ER M ITTLER
+NICHT AUSGE GEB ENE EP
+NICHT A USGEGEBENE EP
+NICHT A USGEGEBENE EP
+NICHT AUSGE GEB ENE EP
+ T RAUM A
+ T RAUM A
+ T RAUM A
+ TRAUMA
+(Kör perlich)
+(Kör perlich)
+(Kör perlich)
+(Kör perlich)
+(Seeli s ch)
+(Seeli s ch)
+(Seeli s ch)
+(Seeli s ch)
+VERD. STOR YV OR TEI LE/SCH WÄ C H EN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+VERD . STORYV ORTEILE/ SC HWÄ CHEN
+K ampag n en n ot i z en
+Vervielfältigung zum privaten Gebrau/c_h ges tattet. © 2024 FFG.  
+Das Kampagnenlogbu/c_h kann auf unserer Website heruntergeladen werden.
+Hinter den Toren des Schlafes
+Die Suche nach Kadath
+Die dunkle Seite des Mondes
+Wo Götter wohnen
+Epilog
+GETÖTETE/WAHNSINNIGE ERMITTLER
+Prolog
+Die schwarze Katze
+Die Großen
+Tab. XXX IX.
+CHAOSBEUTEL
+Bew eis e v o n K a d ath
+Die Traumreisenden
+
+Schnellübersicht
+Alarmiert  .....................................................................................2
+Handlungskarten  ......................................................................2
+Ausschwärme n X  .......................................................................2
+Verborgen  ....................................................................................3
+Stufen des Schlummers (in Hinter den Toren des Schlafes)   .6
+Verschleiert (in Die Suche nach Kadath)  ............................11
+Gegner mit Ausschwärmen X und Sieg X  .........................11
+Vorbereitung der Regionen (in Die Suche nach Kadath)  .12
+Alarmstufe  ................................................................................17
+Credits
+Expansion Design and Development:  MJ Newman und Daniel Schaefer
+Producer : Molly Glover
+Editing : Jeremiah J. Shaw
+Proofreading: Alyssa Barringer
+Game Rules Specialist:  Alex Werner
+Product Line Manager:  Caitlyn McGrath
+Game Design Manager :Paul Klecker
+Expansion Graphic Design : Neal W. Rasmussen mit Ryann Collins
+Graphic Design Coordinator: Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art : Cristi Balanescu
+Art Direction : Jeff Lee Johnson
+Managing Art Director : Tony Bradt
+Arkham Horror  Story Review:  Dane Beltrami, Kara Centell-Dunk, Daniel 
+Lovat Clark, Josiah „Duke“ Harrist, Philip D. Henry  und Kate Swazee
+Cultural and Sensitivity Review:  Die Mitglieder des FFG Cultural Sensitivity 
+Panel
+Creative Director of Story and Setting : Katrina Ostrander
+Quality Assurance Specialist:  Zach Tewalthomas
+Production Management:  Justin Anger und Austin Litzler
+Visual Creative Director:  Brian Schomburg
+Director of Studio Operations:  John Franz-Wichlacz
+Product Strategy Director:  Jim Cartwright
+Executive Game Designer:  Nate French
+Head of Studio:  Chris Gerber
+Testspieler
+David Attali, Dalia Berkowitz, Dane Bicott, Cady Bielecki, Joe Bielec ki, Riley 
+„No More Spiders“ Colby, Stephen Coleman, Andrea Dell’Agnese, Julia 
+Faeta, Grant Flesland, Jeremy Fredin, Jason Horner, Julien Horner, Ja mes 
+„Gnarly-Hotep“ Howell, Charlotte Kirchhoff-Lukat, Casey „Chil l Presence“ 
+Lent, Grégoire Lefebvre, Brian Lewis, Jamie Lewis, Kenny Ling, Eric Mey ers, 
+Samuel L Olsen, Josh Parrish, Chad Reverman, Scarlett Reverman, Jim Rob erts, 
+Hans Schmidt, Vincent Schwartz, Avita Sharma, Shelley Shaw, Derek Shu ck, 
+Rahma Sinien, Alexander Skeggs, Aaron Strunk, Michael Strunk, Zacha ry 
+Varberg, Yu-Chi Wang, Ben Wilkinson, and Jeremy „58 actions“ Zwirn
+Ein besonderer Dank geht an alle unsere Beta-Testspieler.
+Asmodee Germany
+Redaktion:  Benjamin Fischer und Simon Blome
+Layout & Grafische Bearbeitung: Max Breidenbach
+Begegnungssetsymbole
+Böses aus 
+uralter Zeit
+Dunkler Kult
+Grabeskälte
+Der Fluch des 
+Träumers
+Traumlande
+Hinter den Toren 
+des Schlafes
+Anhänger von 
+Nyarlathotep
+Die Suche nach 
+Kadath
+Korsaren
+Die dunkle Seite 
+des Mondes
+Wo Götter 
+wohnen
+Geflüster des 
+Hypnos
+Zoogs
+Sets aus dem Grundspiel
+© 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG -Logo, Living Card Game, LCG und das LCG-Logo sind ® Fantasy Flight 
+Games. Spielmaterial kann von der Abbildung abweichen.
+FANTASY
+FLIGHT
+GAMES
+28

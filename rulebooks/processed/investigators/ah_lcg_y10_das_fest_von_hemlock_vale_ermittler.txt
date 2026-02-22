@@ -1,0 +1,186 @@
+DAS FEST VON HEMLOCK VALE
+Ermittler-Erweiterung
+Hinein in die Wälder
+„Eine unbestimmte Angst war in mir aufgestiegen, vielleicht wegen 
+meiner fremdartigen Abstammung und der Tristesse des Abends und 
+der wunderlichen Stille in dieser alten Stadt seltsamer Gebräuche.“
+– H. P. Lovecraft, Das Fest
+Die Ermittler-Erweiterung Das Fest von Hemlock Vale enthält neue 
+Ermittler- und Spielerkarten, mit denen ihr neue Ermittlerdecks 
+erstellen oder bereits bestehende neu gestalten könnt, um mit 
+ihnen nach Belieben Szenarien oder Kampagnen von Arkham 
+Horror: Das Kartenspiel zu bestreiten. 
+Zusätzliche Regeln und Klarstellungen
+Segensmarker und Fluchmarker
+In dieser Erweiterung werden 2 neue Chaosmarker eingeführt: 
+Segensmarker () und Fluchmarker ( ). Normaler  weise enthält der 
+Chaos beutel keine - oder -Marker. Durch bestimmte Karten -
+effekte können diese Marker dem Chaos  beutel hinzugefügt werden.
+Segensmarker ()
+ Fluchmarker ()
+ Æ-Marker, die während einer Fertigkeitsprobe enthüllt werden, 
+haben folgenden Effekt: „+2. Enthülle einen weiteren Marker. 
+Lege diesen Marker in den Markervorrat zurück, anstatt ihn in 
+den Chaosbeutel zurückzuschicken.“
+ = Insgesamt können sich nicht mehr als 10  -Marker gleichzeitig 
+im Chaosbeutel und/oder versiegelt auf Karten im Spiel befinden.
+ Æ-Marker, die während einer Fertigkeitsprobe enthüllt werden, 
+haben folgenden Effekt: „–2. Enthülle einen weiteren Marker. 
+Lege diesen Marker in den Markervorrat zurück, anstatt ihn in 
+den Chaosbeutel zurückzuschicken.“
+ = Insgesamt können sich nicht mehr als 10  -Marker gleichzeitig 
+im Chaosbeutel und/oder versiegelt auf Karten im Spiel befinden.
+ Æ- oder -Marker, die außerhalb einer Fertigkeitsprobe enthüllt 
+werden, haben keinen eigenständigen Effekt, es sei denn, ein 
+Karteneffekt besagt etwas anderes.
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Das Fest von Hemlock Vale 
+können an diesem Symbol vor jeder Setnummer erkannt werden:
+
+2
+Zähler für Segensmarker und Fluchmarker
+Diese Erweiterung beinhaltet einen Zähler, mit dem die Segens-
+und Fluchmarker, die sich aktuell im Chaosbeutel befinden, 
+nachgehalten werden können.
+Wenn ihr mit Karten spielt, die dem Chaosbeutel Segens -
+marker ( ) oder Fluchmarker ( ) hinzufügen oder aus ihm 
+entfernen, könnt ihr den Zähler verwenden und die Scheiben 
+passend einstellen, um jederzeit die aktuelle Anzahl dieser Marker 
+im Chaosbeutel im Blick zu haben.
+Schwer zu fassen
+Schwer zu fassen ist eine Schlüssel  wort fähigkeit, die auf manchen 
+Gegnern in dieser Erweiterung zu finden ist. Schwer zu fassende 
+Gegner sind solche Gegner, die den Kontakt zu Ermittlern ver -
+meiden wollen, um ihre eigenen Ziele zu verfolgen oder um einfach 
+zu überleben.
+Falls ein spielbereiter Gegner mit dem Schlüssel  wort Schwer zu 
+fassen angreift oder angegriffen wird, löst sich jener Gegner nach 
+der Abhandlung des Angriffs sofort von allen Ermittlern, bewegt 
+sich an einen verbundenen Ort (falls möglich an einen Ort ohne 
+Ermittler) und wird erschöpft. 
+ ÆDieser Effekt geschieht unabhängig davon, ob der Gegner mit 
+dem angreifenden oder angegriffenen Ermittler in einen Kampf 
+verwickelt ist oder nicht.
+Gebunden
+Karten mit dem Schlüsselwort Gebunden sind mit einer anderen 
+Spieler karte verknüpft. Sie haben keine Stufe und sind daher beim 
+Deckbau nicht verfügbar. Stattdessen werden sie von der Karte 
+ins Spiel gebracht, an die sie gebunden sind (deren Name steht in 
+Klammern hinter dem Schlüsselwort).
+Falls ein Deck eine Karte enthält, die 1 oder mehr gebundene 
+Karten ins Spiel bringen kann, sollten diese gebundenen Karten zu 
+Beginn des Spiels beiseitegelegt werden.
+Falls eine Schwächekarte mit dem Schlüsselwort Gebunden dem 
+Deck, der Hand, der Bedrohungs  zone oder der Spielzone eines 
+Ermittlers hinzugefügt wird, bleibt sie (anders als andere Schwä -
+chen) nicht für den Rest der Kampagne Teil des Ermittlerdecks. 
+Zu Beginn jedes Spiels wird sie mit den anderen gebundenen 
+Karten des Ermittlers beiseitegelegt.
+Beispiel: Messingdiener und Bewahrer des Schlüssels haben beide das 
+Schlüsselwort „Gebunden (Siegel der Älteren)“. Dies bedeutet, dass beide 
+Karten an die Karte Siegel der Älteren gebunden sind. Messingdiener und 
+Bewahrer des Schlüssels haben keine Stufe und sind daher nicht verfügbar, 
+wenn du dein Deck zusammenbaust. Das Siegel der Älteren kann eine der 
+Karten oder sogar beide ins Spiel bringen, sobald es gespielt wird. Daher 
+sollte ein Spieler, der Siegel der Älteren in seinem Deck hat, Messingdiener 
+und Bewahrer des Schlüssels zu Beginn des Spiels beiseitelegen. Diese 
+Karten sind nicht Teil des Ermittlerdecks und zählen daher auch nicht 
+gegen die Deckgröße des Ermittlers.
+
+3
+F: Kann ich Hand-Auge-Koordination verwenden, um die  -Fähigkeit 
+auf Mikroskop abzuhandeln, ohne Aktionen ausgeben zu müssen?
+A: Nein. Hand-Auge-Koordination erlaubt nur, die ersten  -Kosten 
+zu vermeiden, sobald du eine  -Fähigkeit auf einer Werkzeug - oder 
+Waffe-Vorteilskarte aktivierst. Du musst immer noch alle zusätzlichen 
+Kosten jener Fähigkeit zahlen. Das kann auch bedeuten, zusätzliche 
+Aktionen ausgeben zu müssen.
+Credits
+Expansion Design and Development:  Josiah „Duke“ Harrist mit Michael Boggs, 
+Nicholas Kory und MJ Newman
+Producer:  Molly Glover mit Eric Stanton
+Editing: Andrea Dell’Agnese und Julia Faeta
+Proofreading:  Alyssa Barringer
+Game Rules Specialist: Alex Werner
+Game Design Manager: Colin Phelps
+Arkham Horror  Story Review: Kara Centell -Dunk, Ryann Collins 
+und Philip D. Henry
+Cultural and Sensitivity Review: Zhui Ning Chang, James Mendez Hodes 
+und die Mitglieder des FFG Cultural Sensitivity Panel
+Creative Director of Story and Setting: Katrina Ostrander
+Expansion Graphic Design:  Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art: Mauro Dal Bo
+Art Direction: Steve Hamilton , Jeff Lee Johnson und Kate Swazee
+Managing Art Director: Tony Bradt
+Quality Assurance Specialist:  Zach Tewalthomas
+Production Management:  Justin Anger und Austin Litzler
+Visual Creative Director: Brian Schomburg
+Director of Studio Operations: John Franz-Wichlacz
+Product Strategy Director:  Jim Cartwright
+Executive Game Designer: Nate French
+Head of Studio: Chris Gerber
+Playtesters
+Kayli Ammen, Avita Amoeba, John Bagley, Dalia Berkowitz, Rhylie Colby, Ernie 
+Cottrell, Shelley Danielle, Alice Ding, Michael Feldman, Sam Fuhrman, Bradley 
+'Pax' Galbraith, Richard Harris, Grace Holdinghaus, James Howell, Josh Jones, 
+Chris Kowall, Henry Kuah, Nate Langreder, Casey Lent, Kenny Ling, Josh McCluey, 
+Caitlyn McGrath, Josh Parrish, Davi Paulino, Jamie Perconti, Chad Reverman, 
+Solomon Stein, Devin Stinchcomb, Aaron Strunk, Michael Strunk, Owen Weldon, 
+Ben Wiebracht, Ben Wilkinson und Jonathan Yasosky
+Asmodee Germany
+Redaktion:  Benjamin Fischer, Simon Blome und Steffen Trzensky
+Grafische Bearbeitung & Layout: Max Breidenbach
+© 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-
+Logo, Living Card Game, LCG und das LCG-Logo sind ® von Fantasy Flight Games. 
+Gamegenic und das Gamegenic-Logo sind TM/ ® & © von Gamegenic GmbH, 
+Deutschland. Spielmaterial kann von der Abbildung abweichen. 
+FANTASY
+FLIGHT
+GAMES
+Häufig gestellte Fragen
+F: Kann ich als Kate Winthrop Hinweise ausgeben, die ich auf meine 
+Vorteilskarten gelegt habe?
+A: Ja. Kate Winthrop kontrolliert alle Hinweise auf Vorteils  karten, die sie 
+kontrolliert, und darf diese Hinweise wie üblich ausgeben oder entfernen. 
+Sie kann Hinweise auf ihren Vorteils  karten z. B. ausgeben, um das 
+Szenendeck vorzurücken, oder jene Hinweise auf ihrem Ort platzieren, 
+wenn sie ihre Signaturschwäche Misslungenes Experiment enthüllt. 
+Denke auch daran, dass sobald eine von dir kontrollierte Vorteilskarte 
+mit Hinweisen darauf das Spiel verlässt, du wegen Kates Erzwungen -
+Fähigkeit alle Hinweise von der Karte auf ihrem Ort platzieren musst. 
+F: Ich trage als Alessandra Zorzi im Zuge der Verhandlung -Fähigkeit auf 
+Umgarnen die Karte Gut gekleidet bei. Würde Gut gekleidet    erhalten, 
+falls die Fertigkeit während einer Verhandlung- oder Entkommen-Aktion 
+beigetragen wird?
+A: Ja. Diese Aktion zählt im Bezug auf Karteneffekte immer noch als 
+eine Verhandlung.
+F: Kann ich als Hank Samson meine  -Fähigkeit auslösen, sobald mich 
+ein Effekt direkt besiegt, beispielsweise falls ein Spieleffekt angibt, dass 
+„jeder Ermittler besiegt wird“, oder ich die Karte „ Wir sehen uns in der 
+Hölle wieder! “ (Der Pfad nach Carcosa #189) spiele?
+A: Nein. Hank Samsons Fähigkeit wird nur ausgelöst, sobald du 
+ausdrücklich durch Schaden oder Horror besiegt wirst.
+F: Wenn ich Hank Samson gegen seine gebundene Entschlossen -Ermittler -
+karte austausche, kommt dann seine Entschlossen -Karte mit körperlichen 
+oder seelischen Traumata ins Spiel?
+A: Nein. Körperliche und seelische Traumata werden nur im zweiten 
+Schritt der Spielvorbereitung zugewiesen.
+F: Falls eine Karte „Schaden und/oder Horror“ auf eine andere Karte 
+„bewegt“, darf ich dann jenen Schaden und/oder Horror auf eine Karte 
+ohne Werte für Ausdauer bzw. geistige Gesundheit bewegen?
+A: Nein. Die Zielkarte muss einen Wert für Ausdauer bzw. geistige 
+Gesundheit haben, damit man ihr Schaden bzw. Horror zuweisen kann.
+F: Was bedeutet „auffüllen“?
+A: Sobald die Bedingungen zum Auffüllen einer Vorteilskarte erfüllt sind, 
+werden so viele Anwendungen auf jener Vorteilskarte platziert, bis ihr 
+Maximalwert erreicht ist, der in Klammern hinter Anwendungen (X Art) 
+angegeben ist.
+F: Zählen - und -Marker im Bezug auf Karteneffekte als „Marker mit 
+einem Symbol“?
+A: Ja.
+F: Wenn ich Augen von Valusia gegen Klinge von Yoth austausche, werden 
+dann kurzzeitig 2 arkane Slots und 2 Handslots benötigt?
+A: Nein. Während des Austauschs der beiden Karten verwenden beide 
+die gleichen Slots.
+

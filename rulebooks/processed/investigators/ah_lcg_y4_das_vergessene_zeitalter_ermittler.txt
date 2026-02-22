@@ -1,0 +1,202 @@
+DAS VERGESSENE ZEITALTER
+Ermittler-Erweiterung
+Was lieber in Vergessenheit geblieben wäre
+„Die Uhr tickte weiter, scheinbar im Takt mit dem fernen Getrommel, 
+das der Wind herübertrug. Sie wünschte, es wäre eine schlagende Uhr 
+gewesen, so dass sie wenigstens gewusst hätte, wie lange diese gespens­
+tische Nacht  wache dauern musste. Sie verwünschte ihre Wider  stands­
+fähigkeit, die schuld daran war, dass sie nicht in Ohn  macht fiel, und 
+fragte sich, welche Erleichterung das Morgen  grauen überhaupt bringen 
+konnte. Wahrscheinlich würden Nachbarn vorbei  kommen – würden sie 
+sie noch bei Sinnen vorfinden? War sie jetzt noch bei Sinnen?“
+– H. P. Lovecraft und Zealia Bishop, „Der Fluch des Yig“
+Die Ermittler-Erweiterung Das vergessene Zeitalter enthält neue 
+Ermittler- und Spielerkarten, mit denen ihr neue Ermittlerdecks 
+erstellen oder bereits bestehende neu gestalten könnt und mit ihnen 
+nach Belieben Szenarien oder Kampagnen von Arkham Horror: Das 
+Kartenspiel  bestreiten könnt.
+Zusätzliche Regeln und Klarstellungen
+Versiegeln
+Als zusätzliche Kosten, um eine Karte mit dem Schlüsselwort 
+Versiegeln ins Spiel kommen zu lassen, muss der Spieler, der die Karte 
+kontrolliert, den Chaosbeutel nach dem angegebenen Chaosmarker 
+durchsuchen, ihn auf der Karte platzieren und damit versiegeln. Falls 
+es möglich ist, aus mehreren Markern zu wählen, trifft der Spieler, der 
+die Karte kontrolliert, diese Wahl. Falls sich der angegebene Marker 
+nicht im Chaosbeutel befindet, kann die Karte nicht ins Spiel kommen.
+Ein versiegelter Chaosmarker gilt als nicht im Chaosbeutel befindlich 
+und kann deshalb nicht als Teil einer Fertigkeitsprobe oder einer 
+Fähigkeit aus dem Chaosbeutel enthüllt werden.
+Sobald ein Chaosmarker „freigesetzt“ wird, wird er zurück in den 
+Chaos beutel geschickt und gilt nicht länger als versiegelt. Falls eine 
+Karte mit 1 oder mehr versiegelten Chaosmarkern darauf aus 
+irgendeinem Grund das Spiel verlässt, werden darauf versiegelte 
+Chaosmarker sofort freigesetzt.
+Einige Karten (unabhängig davon, ob sie selbst das Schlüsselwort 
+Ver siegeln haben) können auch Fähigkeiten haben, die 1 oder 
+mehr Chaosmarker als Teil ihres Effektes versiegeln. Das geschieht 
+ebenfalls auf die oben angegebene Weise: Der Chaosbeutel wird 
+nach dem angegebenen Marker durchsucht, dieser wird dann aus 
+dem Chaosbeutel entfernt und auf der Karte platziert. Falls sich der 
+angegebene Marker nicht im Chaos  beutel befindet, misslingt der 
+Effekt.
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Das vergessene Zeitalter 
+können an diesem Symbol vor jeder Setnummer erkannt werden:
+
+2
+Credits
+Expansion Design and Development:  MJ Newman
+Producer : Molly Glover
+Proofreading : Christine Crabb
+Card Game Manager : Colin Phelps
+Expansion Graphic Design : Christopher Hosch
+Graphic Design Coordinator: Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art : Mauro Dal Bo
+Art Direction : Taylor Ingvarsson und Jeff Lee Johnson
+Managing Art Director : Tony Bradt
+Arkham Horror  Story Review: Kara Centell-Dunk, Ryann Collins, 
+Philip D. Henry und Kate Swazee
+Creative Director of Story and Setting : Katrina Ostrander
+Quality Assurance Specialist:  Zach Tewalthomas
+Production Management:  Justin Anger und Austin Litzler
+Visual Creative Director:  Brian Schomburg
+Senior Project Manager: John Franz-Wichlacz
+Product Strategy Director:  Jim Cartwright
+Executive Game Designer:  Nate French
+Head of Studio: Chris Gerber
+Playtesters
+David Boeren, Alex Byers, Tom Capor, Brian L. Casey, Matt 
+Charboneau, Marcia „Find all da Clues“ Colby, Stephen Coleman, 
+Sean Conyne, Alexis Elmore, Justin Engelking, Grant Flesland, Jed 
+Humphries, Jill McTavish, Chad Reverman, Zap Riecken, Jim Roberts, 
+Jake Ryan, Mai Speak, Becca Starr, Michael Strunk, Justin Thibodeaux, 
+Zachary „Punch ’em with the Shovel“ Varberg, Ana Watson, James 
+Watson, Matthew Watson und Jeremy „Went Infinite Again“ Zwirn
+Asmodee Germany
+Redaktion: Benjamin Fischer, Marvin Pietsch und Monika Planeta
+FANTASY
+FLIGHT
+GAMES
+Zusätzliche Schwächen
+Diese Erweiterung enthält zwei neue 
+Grund  schwächen – Dunkler Pakt und 
+Verdammt – mit dem Text „Nur für den 
+Kampagnen  modus.“ Diese Schwächen sollten 
+nur zum Vorrat verfügbarer Grund  schwächen 
+hinzugefügt werden, sobald die Ermittler im 
+Kampagnenmodus spielen.
+Außerdem enthält diese Erweiterung drei 
+neue Schwächen – Der Preis des Versagens, 
+Verfluchtes Schicksal und Deine Stunde 
+schlägt – die weder Grund  schwächen 
+noch szenariospezifische Schwächen sind. 
+Diese Schwächen werden nicht dem Vorrat 
+verfügbarer Grundschwächen hinzugefügt 
+und sollten nur zum Deck eines Ermittlers 
+hinzugefügt werden, falls eine andere Karte 
+den Spieler anweist, dies zu tun.
+Erforscht
+Erforscht ist eine Schlüsselwortfähigkeit, die auf manchen höher -
+stufigen Karten (zumeist auf Sucherkarten) zu finden ist.
+Bevor eine Karte mit dem Schlüsselwort Erforscht einem Ermittler -
+deck hinzugefügt werden kann, muss sie zuerst „identifiziert“ oder 
+„übersetzt“ werden. Dies geschieht, indem eine auf einer niederstufigen 
+Version der Karte beschriebene Aufgabe durchgeführt wird und das 
+Ergebnis im Kampagnenlogbuch notiert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck nur 
+hinzugefügt werden, indem eine niederstufige Version von ihr 
+verbessert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck nur 
+hinzugefügt werden, falls im Kampagnenlogbuch steht, dass die 
+auf der niederstufigen Version der Karte beschriebene Aufgabe 
+erfüllt wurde.
+ Æ Nachdem ein Ermittler eine dieser Aufgaben erfüllt hat und dies 
+im Kampagnenlogbuch notiert hat, darf ein beliebiger Ermittler 
+in der Kampagne die entsprechende Karte verbessern, bei dem die 
+normalen Regeln zum Verbessern von Spielerkarten angewandt 
+werden.
+Beispiel:  Uralter Stein (Wissen der Älteren)  hat das Schlüsselwort 
+Erforscht. Deshalb darf ein Ermittler diese Karte nicht direkt erwerben. Er 
+muss stattdessen Uralter Stein (Nicht identifiziert)  verbessern. Dies kann 
+er nur tun, falls zuvor „der Stein identifiziert“ wurde.
+© 2017 FFG
+Illus.
+38
+Michele Frigo
+EREIGNIS
+GRUNDSCHWÄCHE
+Pakt.
+Nur für den Kampagnenmodus.
+Füge einem Ermittler an deinem Ort 2 Schaden zu.
+Erzwungen – Sobald das Spiel endet oder du ausscheidest, 
+falls sich Dunkler Pakt immer noch auf deiner Hand 
+be findet: Entferne Dunkler Pakt aus deinem Deck. 
+Durchsuche die Sammlung nach Der Preis des 
+Versagens und füge jene Karte deinem Deck hinzu.
+Dunkler Pakt
+22
+© 2017 FFG
+Illus.
+40
+Mauro Dal Bo
+VERR AT
+GRUNDSCHWÄCHE
+Fluch.Nur für den Kampagnenmodus.
+Enthüllung – Nimm 1 Horror. Notiere in deinem 
+Kampagnen 
+logbuch unter den verdienten Story
+-
+vorteilen/Schwächen „Das Verderben ist nahe. “ Falls 
+dies bereits notiert worden ist, entferne Verdammt 
+aus deinem Deck, durchsuche die Sammlung nach 
+Verfluchtes Schicksal und platziere jene Karte unter 
+deinem Deck.
+Verdammt
+© 2017 FFG
+Illus.
+39
+Michele Frigo
+VERR AT
+SCHWÄCHE
+Pakt.
+Enthüllung – Nimm 2 Schaden und 2 Horror. 
+Platziere 1 Verderben auf der aktuellen Agenda 
+(durch diesen Effekt kann die aktuelle Agenda 
+vorrücken). Entferne Der Preis des Versagens  
+aus deinem Deck. Durchsuche die Sammlung 
+nach Dunkler Pakt und platziere jene Karte auf deinem Ablagestapel.
+Der Preis des Versagens
+© 2017 FFGIllus. 41Mauro Dal Bo
+VERR AT
+SCHWÄCHE
+Enthüllung – Nimm 2 Horror. Notiere in deinem 
+Kampagnenlogbuch unter den verdienten Story-
+vorteilen/Schwächen: „Die Stunde ist nahe. “ Falls 
+dies bereits notiert worden ist, entferne Verfluchtes 
+Schicksal aus deinem Deck, durchsuche die Sammlung 
+nach Deine Stunde schlägt und platziere jene Karte 
+unter deinem Deck.
+Fluch.
+Verfluchtes Schicksal
+© 2017 FFG
+Illus.
+42
+Mauro Dal Bo
+VERR AT
+SCHWÄCHE
+Es gilt dir.Das hat es schon immer getan.
+Enthüllung – Die Stunde deines Niedergangs 
+ist da. Du wirst getötet
+.
+Fluch.
+Deine Stunde schlägt
+Import und Vertrieb durch:
+Asmodee Germany 
+Friedrichstr. 47 • 45128 ESSEN
+© 2022 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, 
+Living Card Game, LCG und das LCG-Logo sind ® Fantasy Flight Games. Gamegenic 
+und das Gamegenic-Logo sind TM/ ® und © von Gamegenic GmbH, Deutschland. 
+Hergestellt von: Fantasy Flight Games, 1995 West County Road  B2, ROSEVILLE , 
+MN 55113, USA. Spielmaterial kann von der Abbildung abweichen.

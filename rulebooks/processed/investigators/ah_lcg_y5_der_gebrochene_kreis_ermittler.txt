@@ -1,0 +1,291 @@
+DER GEBROCHENE KREIS
+Ermittler-Erweiterung
+Der schwarze Thron lockt …
+„In der Nacht trugen die gedämpften Geräusche, die aus der schwarzen 
+Stadt zu ihm heraufdrangen, das unheimliche Getrippel der Ratten 
+in den wurmstichigen Trennwänden und das Knarren unsichtbarer 
+Balken in dem jahrhundertealten Haus dazu bei, ihm das Gefühl zu 
+geben, er sei ringsum von unerträglichem Höllenlärm umgeben.“
+–  H. P. Lovecraft, T räume im Hexenhaus
+Die Ermittler-Erweiterung Der gebrochene Kreis enthält neue Ermittler- 
+und Spielerkarten, mit denen ihr neue Ermittlerdecks erstellen 
+oder bereits bestehende neu gestalten und mit ihnen nach Belieben 
+Szenarien oder Kampagnen von Arkham Horror: Das Kartenspiel  
+bestreiten könnt.
+Zusätzliche Regeln und Klarstellungen
+Der Tarotslot
+In dieser Erweiterung wird eine neue Art von Slot für Vorteils  k arten 
+eingeführt: der Tarotslot. Eine Vorteilskarte, die den Tarotslot füllt, ist 
+an folgendem Symbol zu erkennen:
+ 
+Genau wie andere Slots begrenzen auch Tarotslots die Anzahl der 
+Vorteilskarten für diese Slotart, die ein Ermittler gleichzeitig im Spiel 
+haben kann.
+Normalerweise steht einem Ermittler nur ein Tarotslot zur 
+Verfügung.
+Alle anderen Regeln für Slots gelten auch für Tarotslots.
+1 Tarotslot
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Der gebrochene Kreis können 
+an diesem Symbol vor jeder Setnummer erkannt werden:
+
+2
+Multi-Klassen-Karten
+Einige der neuen Spielerkarten in dieser Erweiterung gehören zu mehr als 
+nur einer Klasse – Wächter ( ), Sucher (), Schurke (), Mystiker 
+() oder Überlebender ().
+Diese Karten sind durch ihre goldene Farbe und das Vorhandensein 
+mehrerer Klassen
+ s
+ymbole gekennzeichnet. Eine Multi-Klassen-Karte 
+wird jeder dieser Klassen zugeordnet und ist nicht neutral und kann im 
+Deck jedes Ermittlers verwendet werden, der Zugriff zu mindestens einer  
+dieser beiden Klassen hat.
+Beispiel: Schriftrolle der Geheimnisse ist 
+eine Multi-Klassen-Karte der Stufe 0, 
+die ein Sucher- und ein Mystiker-
+Klassensymbol aufweist. Sie ist daher 
+eine Sucherkarte der Stufe 0 und eine 
+Mystikerkarte der Stufe 0. Sie ist keine 
+neutrale Karte. Jeder Ermittler, der 
+Zugriff zu Sucherkarten der Stufe 0 oder 
+Mystikerkarten der Stufe 0 hat, kann 
+Schriftrolle der Geheimnisse seinem Deck hinzufügen. Diana Stanley 
+könnte zum Beispiel Schriftrolle der Geheimnisse ihrem Deck hinzufügen, 
+obwohl sie keinen Zugriff auf Sucherkarten hat.
+ Æ Falls ein Ermittler begrenzten Zugriff zu 1 der Klassen auf einer 
+Multi-Klassen-Karte hat und unbegrenzten Zugriff zu 1 der 
+anderen Klassen der Karte hat, belegt jene Karte keinen  jener 
+begrenzten Slots, da sie einen unbegrenzten Slot belegt.
+© 2018 FFG
+Illus. Robert Laskey
+115
+VORTEIL
+Gegenstand. Waffe. Feuerwaffe. Illegal.
+Anwendungen (5 Munition).
+ Gib 1 Munition aus: Kampf. Du bekommst 
+für diesen Angriff +2  und fügst +1 Schaden zu.
+45er Thompson
+Die vollautomatische Thompson-Maschinenpistole war 
+aufgrund ihrer Treffgenauigkeit und hohen Feuerrate  
+sowohl bei Gangstern als auch bei Polizeibeamten beliebt.
+66
+© 2018 FFG
+Illus. Matthew Cowdery
+116
+VORTEIL
+Gegenstand. Buch.
+Anwendungen (3 Geheimnisse).
+ Erschöpfe Schriftrolle der Geheimnisse und gib 
+1 Geheimnis aus: Sieh dir die unterste Karte eines 
+beliebigen Ermittlerdecks oder des Begegnungsdecks 
+an. Lege dann entweder jene Karte ab, füge sie der Hand 
+ihres Besitzers hinzu, platziere sie unter ihrem Deck oder 
+platziere sie auf ihrem Deck.
+Schriftrolle der Geheimnisse11
+© 2018 FFGIllus. Greg Bobrowski 117
+VORTEIL
+Gegenstand. Illegal.
+Anwendungen (2 Vorräte).
+ Erschöpfe T ennessee Sour Mash und gib 
+1 Vorrat aus: Du bekommst für eine Fer tig keits­
+probe auf einer Verratskarte +2 .
+ Lege T ennessee Sour Mash ab: Kampf. Du 
+bekommst für diesen Angriff +3 .
+Tennessee Sour Mash33
+© 2018 FFG
+Illus. Tiziano Baracchi
+118
+VORTEIL
+Gegenstand. Relikt. Waffe. Nahkampf.
+Anwendungen (3 Ladungen).
+: Kampf. Du bekommst für diesen Angriff 
++1 . Als zusätzliche Kosten, um diese Fähigkeit 
+zu initiieren, darfst du 1 Ladung ausgeben, um die 
+Klinge zu stärken. Falls du dies tust, bekommst du 
+für diesen Angriff +1  und fügst +1 Schaden zu.
+Verzauberte Klinge33
+© 2018 FFG
+Illus. Ethan Patrick Harris
+119
+VORTEIL
+Wir hätten es sofort zurücklegen sollen.  Aber wie hätten wir das nur wissen können?
+Gegenstand. Glücksbringer. Nachdem du eine Karte zu einer Fertigkeits­
+probe beigetragen hast, erschöpfe Grausiges 
+T otem: Jene Karte erhält eine zusätzliche Instanz 
+eines ihrer Fertigkeitssymbole deiner Wahl.
+Grausiges Totem33
+© 2018 FFGIllus. Matthew Cowdery 116
+VORTEIL
+Gegenstand. Buch.
+Anwendungen (3 Geheimnisse).
+ Erschöpfe Schriftrolle der Geheimnisse und gib 
+1 Geheimnis aus: Sieh dir die unterste Karte eines 
+beliebigen Ermittlerdecks oder des Begegnungsdecks 
+an. Lege dann entweder jene Karte ab, füge sie der Hand 
+ihres Besitzers hinzu, platziere sie unter ihrem Deck oder 
+platziere sie auf ihrem Deck.
+Schriftrolle der Geheimnisse11
+© 2018 FFGIllus. Matthew Cowdery 116
+VORTEIL
+Gegenstand. Buch.
+Anwendungen (3 Geheimnisse).
+ Erschöpfe Schriftrolle der Geheimnisse und gib 
+1 Geheimnis aus: Sieh dir die unterste Karte eines 
+beliebigen Ermittlerdecks oder des Begegnungsdecks 
+an. Lege dann entweder jene Karte ab, füge sie der Hand 
+ihres Besitzers hinzu, platziere sie unter ihrem Deck oder 
+platziere sie auf ihrem Deck.
+Schriftrolle der Geheimnisse11
+Gebunden
+Manche Karten in dieser Erweiterung haben das Schlüsselwort 
+Gebunden. Diese Karten sind mit einer anderen Spielerkarte verknüpft. 
+Sie haben keine Stufe und sind daher bei der Zusammen
+ s
+tellung der 
+Decks nicht verfügbar. Stattdessen werden sie von der Karte ins Spiel 
+gebracht, an die sie gebunden sind (deren Name steht in Klammern 
+hinter dem Schlüsselwort).
+Falls ein Deck eine Karte enthält, die 1 oder mehr gebundene Karten 
+beschwört, sollten diese gebundenen Karten zu Beginn des Spiels 
+beiseitegelegt werden.
+Beispiel: Besänftigende Melodie hat den Text: „Gebunden (Geweihter 
+Spiegel).“ Dies bedeutet, dass die Karte „Besänftigende Melodie“ an die 
+Karte „Geweihter Spiegel“ gebunden ist. Besänftigende Melodie hat keine 
+Stufe und ist daher nicht verfügbar, wenn du dein Deck zusammenstellst. 
+Geweihter Spiegel bringt allerdings alle 3 Kopien von Besänftigende 
+Melodie (auf die eine oder andere Art) ins Spiel, sobald Geweihter Spiegel 
+gespielt wird. Daher sollte ein Spieler, der Geweihter Spiegel in seinem 
+Deck hat, 3 Kopien von  Besänftigende Melodie zu Beginn des Spiels 
+beiseitelegen. Diese Karten sind nicht Teil des Ermittlerdecks und zählen 
+daher auch nicht gegen die Deckgröße des Ermittlers.
+© 2019 FFGIllus. John Pacer 313
+VORTEIL
+Nur 1 pro Deck.
+Erzwungen – Nachdem Geweihter Spiegel ins Spiel 
+gekommen ist: Durchsuche deine Gebunden­Karten nach 
+3 Kopien von Besänftigende Melodie. Füge 1 davon deiner 
+Hand hinzu und mische die 2 anderen in dein Deck. Sobald 
+Geweihter Spiegel das Spiel verlässt, finde jede jener Kopien 
+von Besänftigende Melodie (selbst wenn sie sich nicht im 
+Spiel befindet) und ent ferne sie aus dem Spiel.
+Geweihter Spiegel
+Gegenstand. Relikt. Okkult. Gesegnet.
+22
+© 2019 FFG
+Illus. Nele Diel
+314
+EREIGNIS
+… Et leur chanson se mêle au clair de lune, 
+Au calme clair de lune triste et beau … – Paul Verlaine, „Clair de Lune“
+Besänftigende MelodieZauber.
+Gebunden (Geweihter Spiegel).
+Heile 2 Schaden oder 2 Horror (oder eine be lie 
+bi ge 
+Kombination aus beidem) von Ermittlern und/oder 
+Verbündeter­Vorteilskarten an deinem Ort. Ziehe 
+1 Karte.
+00
+© 2019 FFGIllus. Nele Diel 314
+EREIGNIS
+… Et leur chanson se mêle au clair de lune, 
+Au calme clair de lune triste et beau … 
+– Paul Verlaine, „Clair de Lune“
+Besänftigende Melodie
+Zauber.
+Gebunden (Geweihter Spiegel).
+Heile 2 Schaden oder 2 Horror (oder eine be lie bi ge 
+Kombination aus beidem) von Ermittlern und/oder 
+Verbündeter­Vorteilskarten an deinem Ort. Ziehe 
+1 Karte.
+00
+© 2019 FFG
+Illus. Nele Diel
+314
+EREIGNIS
+… Et leur chanson se mêle au clair de lune, 
+Au calme clair de lune triste et beau … 
+– Paul Verlaine, „Clair de Lune“
+Besänftigende Melodie
+Zauber.Gebunden (Geweihter Spiegel).
+Heile 2 Schaden oder 2 Horror (oder eine be lie 
+bi ge 
+Kombination aus beidem) von Ermittlern und/oder 
+Verbündeter­Vorteilskarten an deinem Ort. Ziehe 
+1 Karte.
+00
+
+3
+„Exil“
+Einige Spielerkarten in dieser Erweiterung müssen ins Exil geschickt 
+werden, sobald sie verwendet werden. Sobald eine Karte ins Exil geschickt 
+wird, wird sie aus dem Spiel entfernt und zurück in die Sammlung gelegt. 
+Während des Kampagnenspiels muss eine Karte, die ins Exil geschickt 
+worden ist, erneut (zwischen Szenarien) mit Erfahrungspunkten erworben 
+werden, falls man sie wieder in sein Deck aufnehmen will. Falls 1 oder mehr 
+Karten ins Exil geschickt werden und dadurch die Deckgröße unter die 
+für den Ermittler vorgegebene Größe sinkt, müssen, sobald man zwischen 
+Szenarien Karten erwirbt, so viele Karten erworben werden, dass die 
+Deckgröße wieder den Regeln entspricht. (Sobald auf diese Weise Karten 
+erworben werden, dürfen Karten der Stufe 0 für 0 Erfahrungspunkte 
+erworben werden, bis die vorgegebene Deckgröße wieder erreicht ist.)
+Joes „Spürnase-Deck“
+Joe Diamond hat als Privatdetektiv gelernt, seinen Instinkten zu trauen, 
+und verfügt deshalb über ein separates Spürnase-Deck, das in Schritt 4 
+der Vorbereitung für jedes Szenario erstellt wird. Die Karten in diesem 
+Spürnase-Deck werden aus Joes Deck gewählt und zählen damit bei 
+der Bestimmung seiner Deckgröße (40 Karten) mit. Bezieht sich etwas 
+auf Joes „Deck“, dann bezieht es sich damit (mit Ausnahme dieser 
+Vorbereitungsanweisungen) immer auf sein normales Ermittlerdeck und 
+nicht auf sein Spürnase-Deck. Für Joes Spürnase-Deck gibt es keinen 
+Ablagestapel. Karten vom Spürnase-Deck werden auf den normalen 
+Ablagestapel abgelegt, sobald sie gespielt werden.
+
+4
+Credits
+Expansion Design and Development:  MJ Newman
+Producer : Molly Glover
+Proofreading : Jeremiah J. Shaw
+Game Rules Specialist : Alex Werner
+Game Design Manager : Colin Phelps
+Expansion Graphic Design : Ryann Collins, Christopher Hosch und 
+Joseph D. Olson
+Graphic Design Manager : Mercedes Opheim
+Cover Art : Mauro Dal Bo
+Art Direction : Steve Hamilton, Taylor Ingvarsson,  
+Jeff Lee Johnson und Kate Swazee
+Managing Art Director : Tony Bradt
+Arkham Horror  Story Review : Kara Centell-Dunk,  
+Josiah „Duke“ Harrist und Philip D. Henry
+Creative Director of Story and Setting : Katrina Ostrander
+Quality Assurance Specialist : Zach Tewalthomas
+Production Management : Justin Anger und Austin Litzler
+Visual Creative Director : Brian Schomburg
+Director of Studio Operations : John Franz-Wichlacz
+Product Strategy Director : Jim Cartwright
+Executive Game Designer: Nate French
+Head of Studio : Chris Gerber
+Playtesters
+David Attali, Cady Bielecki, Joe Bielecki, Michael Boggs, Robert Brantseg, 
+Crystal Chang, Rhylie Colby, Stephen Coleman, Guillaume Couteau, Alex 
+Davy, Andrea Dell’Agnese, Alex DeNagy, Luke Eddy, Justin Engelking, Julia 
+Faeta, B.D. Flory, Jérémy Fouques, Jeremy Fredin, Nate French, Dave Galey, 
+Ken Grazier, Tory Helgeson, Jason Horner, Julien Horner, Jed Humphries, Neil 
+Kimball, Skyler Latshaw, Tim Latshaw, Grégoire Lefebvre, Brian Lewis, Jamie 
+Lewis, Jill McTavish, Eric Meyers, Nicole Meyers, Todd Michlitsch, Annete 
+Nepomuceno, Andrew Nguyen, Josh Parrish, Mike Reuvers, Chad Reverman, 
+Scarlett Reverman, Ian Rickett, Rebecca Scarlett, Vincent Schwartz, Shelley 
+Shaw, Alexander Skeggs, Preston Stone, Aaron Strunk, Michael Strunk, Jake 
+Tighe, Regine Mualla Tighe, Zachary Varberg, Zeke Waletzky, Michael B. 
+Woods, Jeremy Zwirn
+Asmodee Germany
+Redaktion: Benjamin Fischer, Marvin Pietsch und Vanessa Löhr
+© 2023 Fantasy Flight Games. Arkham Horror, Fantasy Flight 
+Games, das FFG-Logo, Living Card Game, LCG und das LCG-Logo 
+sind ® Fantasy Flight Games. Gamegenic und das Gamegenic-Logo 
+sind ® und © von Gamegenic GmbH, Deutschland. Hergestellt von: 
+Fantasy Flight Games, 1995 West County Road  B2, ROSEVILLE , 
+MN 55113, USA. Spielmaterial kann von der Abbildung abweichen.
+FANTASY
+FLIGHT
+GAMES

@@ -1,0 +1,358 @@
+[
+  {
+    "en": "Abomination",
+    "de": "Abscheulichkeit"
+  },
+  {
+    "en": "Agenda Deck",
+    "de": "Agendadeck"
+  },
+  {
+    "en": "Alert",
+    "de": "Alarmiert"
+  },
+  {
+    "en": "Ally",
+    "de": "Verbündeter"
+  },
+  {
+    "en": "Aloof",
+    "de": "Zurückhaltend"
+  },
+  {
+    "en": "Ancient One",
+    "de": "Großer Alter"
+  },
+  {
+    "en": "Arkham",
+    "de": "Arkham"
+  },
+  {
+    "en": "Attach To",
+    "de": "Anhängen an"
+  },
+  {
+    "en": "Blunder",
+    "de": "Patzer"
+  },
+  {
+    "en": "Boon",
+    "de": "Segen"
+  },
+  {
+    "en": "Cancel",
+    "de": "Aufheben"
+  },
+  {
+    "en": "Card",
+    "de": "Karte"
+  },
+  {
+    "en": "Castle",
+    "de": "Schloss"
+  },
+  {
+    "en": "Chair",
+    "de": "Stuhl"
+  },
+  {
+    "en": "Chess",
+    "de": "Schach"
+  },
+  {
+    "en": "Chess Soldier",
+    "de": "Schach-Soldat"
+  },
+  {
+    "en": "Clues",
+    "de": "Hinweise"
+  },
+  {
+    "en": "Coastal",
+    "de": "Küstengebiet"
+  },
+  {
+    "en": "Control",
+    "de": "Kontrolle"
+  },
+  {
+    "en": "Corpse",
+    "de": "Leichnam"
+  },
+  {
+    "en": "Creature",
+    "de": "Kreatur"
+  },
+  {
+    "en": "Defeat",
+    "de": "Besiegt"
+  },
+  {
+    "en": "Doom",
+    "de": "Verderben"
+  },
+  {
+    "en": "Downtown",
+    "de": "Innenstadt"
+  },
+  {
+    "en": "Draw Action",
+    "de": "Ziehen (Aktion)"
+  },
+  {
+    "en": "Dreamer",
+    "de": "Träumer"
+  },
+  {
+    "en": "Elite",
+    "de": "Elite"
+  },
+  {
+    "en": "Encounter Deck",
+    "de": "Begegnungsdeck"
+  },
+  {
+    "en": "Encounter Set",
+    "de": "Begegnungsset"
+  },
+  {
+    "en": "Enemy Phase",
+    "de": "Gegnerphase"
+  },
+  {
+    "en": "Fast",
+    "de": "Schnell"
+  },
+  {
+    "en": "Fated",
+    "de": "Schicksalhaft"
+  },
+  {
+    "en": "Favor",
+    "de": "Gunst"
+  },
+  {
+    "en": "Flaw",
+    "de": "Makel"
+  },
+  {
+    "en": "Fortune",
+    "de": "Glück"
+  },
+  {
+    "en": "Hazard",
+    "de": "Gefahr"
+  },
+  {
+    "en": "Heal",
+    "de": "Heilen"
+  },
+  {
+    "en": "Humanoid",
+    "de": "Humanoid"
+  },
+  {
+    "en": "Hunter",
+    "de": "Jäger"
+  },
+  {
+    "en": "In Player Order",
+    "de": "In Spielerreihenfolge"
+  },
+  {
+    "en": "Insight",
+    "de": "Einsicht"
+  },
+  {
+    "en": "Instead",
+    "de": "Statt/anstatt"
+  },
+  {
+    "en": "Item",
+    "de": "Gegenstand"
+  },
+  {
+    "en": "Lead Investigator",
+    "de": "Ermittlungsleiter"
+  },
+  {
+    "en": "Lunatic",
+    "de": "Wahnsinniger"
+  },
+  {
+    "en": "Madness",
+    "de": "Wahnsinn"
+  },
+  {
+    "en": "Massive",
+    "de": "Gewaltig"
+  },
+  {
+    "en": "Melee",
+    "de": "Nahkampf"
+  },
+  {
+    "en": "Monster",
+    "de": "Monster"
+  },
+  {
+    "en": "Mythos Phase",
+    "de": "Mythosphase"
+  },
+  {
+    "en": "Northside",
+    "de": "Nordviertel"
+  },
+  {
+    "en": "Obstacle",
+    "de": "Hindernis"
+  },
+  {
+    "en": "Paradox",
+    "de": "Paradox"
+  },
+  {
+    "en": "Parley",
+    "de": "Verhandlung"
+  },
+  {
+    "en": "Peril",
+    "de": "Wagnis"
+  },
+  {
+    "en": "Poison",
+    "de": "Gift"
+  },
+  {
+    "en": "Power",
+    "de": "Macht"
+  },
+  {
+    "en": "Put into Play",
+    "de": "Ins Spiel bringen"
+  },
+  {
+    "en": "Ready",
+    "de": "Spielbereit"
+  },
+  {
+    "en": "Relic",
+    "de": "Relikt"
+  },
+  {
+    "en": "Resign",
+    "de": "Aufgeben"
+  },
+  {
+    "en": "Restricted",
+    "de": "Eingeschränkt"
+  },
+  {
+    "en": "Retaliate",
+    "de": "Zurückschlagen"
+  },
+  {
+    "en": "Row",
+    "de": "Reihe"
+  },
+  {
+    "en": "Royalty",
+    "de": "Adel"
+  },
+  {
+    "en": "Scheme",
+    "de": "Komplott"
+  },
+  {
+    "en": "Scholar",
+    "de": "Gelehrter"
+  },
+  {
+    "en": "Search",
+    "de": "Suchen"
+  },
+  {
+    "en": "Shadow",
+    "de": "Schatten"
+  },
+  {
+    "en": "Skill Tests",
+    "de": "Fertigkeitsproben"
+  },
+  {
+    "en": "Slope",
+    "de": "Abhang"
+  },
+  {
+    "en": "Soldier",
+    "de": "Soldat"
+  },
+  {
+    "en": "Spawn",
+    "de": "Erscheinen"
+  },
+  {
+    "en": "Spell",
+    "de": "Zauber"
+  },
+  {
+    "en": "Spirit",
+    "de": "Geist"
+  },
+  {
+    "en": "Surge",
+    "de": "Nachrüsten"
+  },
+  {
+    "en": "Table",
+    "de": "Tisch"
+  },
+  {
+    "en": "Talent",
+    "de": "Talent"
+  },
+  {
+    "en": "Target",
+    "de": "Ziel"
+  },
+  {
+    "en": "Task",
+    "de": "Aufgabe"
+  },
+  {
+    "en": "Terror",
+    "de": "Schrecken"
+  },
+  {
+    "en": "Threat Area",
+    "de": "Bedrohungszone"
+  },
+  {
+    "en": "Tome",
+    "de": "Buch"
+  },
+  {
+    "en": "Trauma",
+    "de": "Trauma"
+  },
+  {
+    "en": "Tulgey Wood",
+    "de": "Wirrwald"
+  },
+  {
+    "en": "Weakness",
+    "de": "Schwäche"
+  },
+  {
+    "en": "Weapon",
+    "de": "Waffe"
+  },
+  {
+    "en": "Weather",
+    "de": "Wetter"
+  },
+  {
+    "en": "Wonderland",
+    "de": "Wunderland"
+  }
+]

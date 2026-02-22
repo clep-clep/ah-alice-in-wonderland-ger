@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "Alice in Wonderland - Custom translation terms",
+  "generated_on": "2026-02-22",
+  "notes": "Manuelle Zusatzbegriffe laut Vorgabe. Diese Liste ist getrennt von offiziellem Referenzglossar und Alice-Glossar. 'Haunted' ist der Referenzbegriff zur Vollständigkeit.",
+  "entries": [
+    { "en": "Deck Size", "de": "Deckgröße", "status": "proposed" },
+    { "en": "encounter discard pile", "de": "Begegnungs-Ablagestapel", "status": "proposed" },
+    { "en": "Limit once per turn", "de": "Nur ein Mal pro Zug.", "status": "proposed" },
+    { "en": "Group limit once per round", "de": "Nur ein Mal pro Runde für die gesamte Gruppe.", "status": "proposed" },
+    { "en": "Max once per location", "de": "Max. ein Mal pro Ort", "status": "proposed" },
+    { "en": "Suggested Location Placement", "de": "Vorschlag für die Platzierung der Orte", "status": "proposed" },
+    { "en": "Choose one", "de": "Wähle eins", "status": "proposed" },
+    { "en": "any empty location", "de": "Beliebiger leerer Ort.", "status": "proposed" },
+    { "en": "Bystander", "de": "Unbeteiligter", "status": "proposed" },
+    { "en": "Condition", "de": "Zustand", "status": "proposed" },
+    { "en": "Hex", "de": "Verwünschung", "status": "proposed" },
+    { "en": "Indoors", "de": "Drinnen", "status": "proposed" },
+    { "en": "Mystery", "de": "Mysterium", "status": "proposed" },
+    { "en": "Predator", "de": "Räuber", "status": "proposed" },
+    { "en": "Serpent", "de": "Schlange", "status": "proposed" },
+    { "en": "Deep One", "de": "Tiefes Wesen", "status": "proposed" },
+    { "en": "Victory display", "de": "Siegpunktestapel", "status": "proposed" },
+    { "en": "Objective", "de": "Ermittlungsziel", "status": "proposed" },
+    { "en": "Haunted", "de": "Heimgesucht", "status": "from_reference" }
+  ]
+}

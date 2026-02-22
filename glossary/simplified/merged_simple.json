@@ -1,0 +1,1046 @@
+[
+  {
+    "en": "...Unless all of (location's) clues have been discovered.",
+    "de": "„… bis alle Hinweise (auf dem Ort) entdeckt worden sind.“"
+  },
+  {
+    "en": "A, An",
+    "de": "Ein, eine"
+  },
+  {
+    "en": "Ability",
+    "de": "Fähigkeiten"
+  },
+  {
+    "en": "Abomination",
+    "de": "Abscheulichkeit"
+  },
+  {
+    "en": "Act Deck and Agenda Deck",
+    "de": "Szenendeck und Agendadeck"
+  },
+  {
+    "en": "Action",
+    "de": "Aktion"
+  },
+  {
+    "en": "Activate Action",
+    "de": "Aktivieren (Aktion)"
+  },
+  {
+    "en": "Active Player",
+    "de": "Aktiver Spieler"
+  },
+  {
+    "en": "Additional Costs",
+    "de": "Zusätzliche Kosten"
+  },
+  {
+    "en": "After",
+    "de": "Nachdem"
+  },
+  {
+    "en": "Agenda Deck",
+    "de": "Agendadeck"
+  },
+  {
+    "en": "Alert",
+    "de": "Alarmiert"
+  },
+  {
+    "en": "Ally",
+    "de": "Verbündeter"
+  },
+  {
+    "en": "Aloof",
+    "de": "Zurückhaltend"
+  },
+  {
+    "en": "Ancient One",
+    "de": "Großer Alter"
+  },
+  {
+    "en": "any empty location",
+    "de": "Beliebiger leerer Ort."
+  },
+  {
+    "en": "Arkham",
+    "de": "Arkham"
+  },
+  {
+    "en": "As if...",
+    "de": "Als ob"
+  },
+  {
+    "en": "Asset Cards",
+    "de": "Vorteilskarten"
+  },
+  {
+    "en": "At",
+    "de": "Am ..."
+  },
+  {
+    "en": "Attach To",
+    "de": "Anhängen an"
+  },
+  {
+    "en": "Attack of Opportunity",
+    "de": "Gelegenheitsangriff"
+  },
+  {
+    "en": "Attacker, Attacked",
+    "de": "Angreifer, angegriffen"
+  },
+  {
+    "en": "Automatic Failure/Success",
+    "de": "Automatischer Erfolg/Misserfolg"
+  },
+  {
+    "en": "Base Value",
+    "de": "Grundwert"
+  },
+  {
+    "en": "Bearer",
+    "de": "Träger"
+  },
+  {
+    "en": "Blank",
+    "de": "Leer"
+  },
+  {
+    "en": "Blunder",
+    "de": "Patzer"
+  },
+  {
+    "en": "Bonded",
+    "de": "Gebunden"
+  },
+  {
+    "en": "Boon",
+    "de": "Segen"
+  },
+  {
+    "en": "Bystander",
+    "de": "Unbeteiligter"
+  },
+  {
+    "en": "Campaign Play",
+    "de": "Kampagnenspiel"
+  },
+  {
+    "en": "Cancel",
+    "de": "Aufheben"
+  },
+  {
+    "en": "Cannot",
+    "de": "Kann nicht/Können nicht"
+  },
+  {
+    "en": "Card",
+    "de": "Karte"
+  },
+  {
+    "en": "Cardtypes",
+    "de": "Kartentypen"
+  },
+  {
+    "en": "Castle",
+    "de": "Schloss"
+  },
+  {
+    "en": "Chair",
+    "de": "Stuhl"
+  },
+  {
+    "en": "Chaos Tokens",
+    "de": "Chaosmarker"
+  },
+  {
+    "en": "Checkpoints",
+    "de": "Checkpoints"
+  },
+  {
+    "en": "Chess",
+    "de": "Schach"
+  },
+  {
+    "en": "Chess Soldier",
+    "de": "Schach-Soldat"
+  },
+  {
+    "en": "Choices, and the Grim Rule",
+    "de": "Wahl und die Galgenregel"
+  },
+  {
+    "en": "Choose one",
+    "de": "Wähle eins"
+  },
+  {
+    "en": "Clues",
+    "de": "Hinweise"
+  },
+  {
+    "en": "Coastal",
+    "de": "Küstengebiet"
+  },
+  {
+    "en": "Collection",
+    "de": "Sammlung"
+  },
+  {
+    "en": "Concealed Mini-Cards",
+    "de": "Getarnte Mini-Karten"
+  },
+  {
+    "en": "Concealed X",
+    "de": "Getarnt X"
+  },
+  {
+    "en": "Condition",
+    "de": "Zustand"
+  },
+  {
+    "en": "Constant Abilities",
+    "de": "Anhaltende Fähigkeit"
+  },
+  {
+    "en": "Control",
+    "de": "Kontrolle"
+  },
+  {
+    "en": "Copy",
+    "de": "Kopie"
+  },
+  {
+    "en": "Corpse",
+    "de": "Leichnam"
+  },
+  {
+    "en": "Costs",
+    "de": "Kosten"
+  },
+  {
+    "en": "Creature",
+    "de": "Kreatur"
+  },
+  {
+    "en": "Customizable",
+    "de": "Individualisierbar"
+  },
+  {
+    "en": "Day and Night",
+    "de": "Tag und Nacht"
+  },
+  {
+    "en": "Dealing Damage/Horror",
+    "de": "Schaden/Horror zufügen"
+  },
+  {
+    "en": "Deck",
+    "de": "Decks"
+  },
+  {
+    "en": "Deck Size",
+    "de": "Deckgröße"
+  },
+  {
+    "en": "Deckbuilding",
+    "de": "Deckbau"
+  },
+  {
+    "en": "Deep One",
+    "de": "Tiefes Wesen"
+  },
+  {
+    "en": "Defeat",
+    "de": "Besiegt"
+  },
+  {
+    "en": "Delayed Effects",
+    "de": "Aufgeschobene Effekte"
+  },
+  {
+    "en": "Different",
+    "de": "Unterschiedlich/Verschieden"
+  },
+  {
+    "en": "Difficulty (level)",
+    "de": "Schwierigkeits(grad)"
+  },
+  {
+    "en": "Difficulty (skill tests)",
+    "de": "Schwierigkeit (Fertigkeitsprobe)"
+  },
+  {
+    "en": "Direct Damage, Direct Horror",
+    "de": "Direkter Schaden/Horror"
+  },
+  {
+    "en": "Discard Piles",
+    "de": "Ablagestapel"
+  },
+  {
+    "en": "Doom",
+    "de": "Verderben"
+  },
+  {
+    "en": "Doubt and Conviction",
+    "de": "Zweifel und Überzeugung"
+  },
+  {
+    "en": "Downtown",
+    "de": "Innenstadt"
+  },
+  {
+    "en": "Draw Action",
+    "de": "Ziehen (Aktion)"
+  },
+  {
+    "en": "Drawing Cards",
+    "de": "Karten ziehen"
+  },
+  {
+    "en": "Dreamer",
+    "de": "Träumer"
+  },
+  {
+    "en": "Effects",
+    "de": "Effekte"
+  },
+  {
+    "en": "Elimination",
+    "de": "Ausscheiden"
+  },
+  {
+    "en": "Elite",
+    "de": "Elite"
+  },
+  {
+    "en": "Elusive",
+    "de": "Schwer zu fassen"
+  },
+  {
+    "en": "Empty Location",
+    "de": "Leerer Ort"
+  },
+  {
+    "en": "Encounter Cards vs Scenario Cards",
+    "de": "„Begegnungskarten“ gegen „Szenariokarten“"
+  },
+  {
+    "en": "Encounter Deck",
+    "de": "Begegnungsdeck"
+  },
+  {
+    "en": "encounter discard pile",
+    "de": "Begegnungs-Ablagestapel"
+  },
+  {
+    "en": "Encounter Set",
+    "de": "Begegnungsset"
+  },
+  {
+    "en": "Enemy Cards",
+    "de": "Gegnerkarten"
+  },
+  {
+    "en": "Enemy Engagement",
+    "de": "Gegner in einen Kampf verwickeln"
+  },
+  {
+    "en": "Enemy Phase",
+    "de": "Gegnerphase"
+  },
+  {
+    "en": "Engage Action",
+    "de": "In einen Kampf verwickeln (Aktion)"
+  },
+  {
+    "en": "Enters Play",
+    "de": "Ins Spiel kommen"
+  },
+  {
+    "en": "Evade, Evade Action",
+    "de": "Entkommen, Entkommen (Aktion)"
+  },
+  {
+    "en": "Event Cards",
+    "de": "Ereigniskarten"
+  },
+  {
+    "en": "Exceptional",
+    "de": "Außergewöhnlich"
+  },
+  {
+    "en": "Exhaust, Exhausted",
+    "de": "Erschöpfen, erschöpft"
+  },
+  {
+    "en": "Exile",
+    "de": "Exil"
+  },
+  {
+    "en": "Experience",
+    "de": "Erfahrungspunkte"
+  },
+  {
+    "en": "Explore",
+    "de": "Erkunden"
+  },
+  {
+    "en": "Farthest from all investigators",
+    "de": "Am weitesten von allen Ermittlern entfernt"
+  },
+  {
+    "en": "Fast",
+    "de": "Schnell"
+  },
+  {
+    "en": "Fated",
+    "de": "Schicksalhaft"
+  },
+  {
+    "en": "Favor",
+    "de": "Gunst"
+  },
+  {
+    "en": "Fight Action",
+    "de": "Kampf (Aktion)"
+  },
+  {
+    "en": "Flavor Text",
+    "de": "Stimmungstext"
+  },
+  {
+    "en": "Flaw",
+    "de": "Makel"
+  },
+  {
+    "en": "Flood Tokens",
+    "de": "Flutmarker"
+  },
+  {
+    "en": "For each or for every",
+    "de": "Für jedes"
+  },
+  {
+    "en": "Forced Abilities",
+    "de": "Erzwungene Fähigkeiten"
+  },
+  {
+    "en": "Fortune",
+    "de": "Glück"
+  },
+  {
+    "en": "Gains",
+    "de": "Erhalten"
+  },
+  {
+    "en": "Game",
+    "de": "Spiel"
+  },
+  {
+    "en": "Group limit once per round",
+    "de": "Nur ein Mal pro Runde für die gesamte Gruppe."
+  },
+  {
+    "en": "Hand Size",
+    "de": "Handkartenlimit"
+  },
+  {
+    "en": "Haunted",
+    "de": "Heimgesucht"
+  },
+  {
+    "en": "Hazard",
+    "de": "Gefahr"
+  },
+  {
+    "en": "Heal",
+    "de": "Heilen"
+  },
+  {
+    "en": "Health and Damage",
+    "de": "Ausdauer und Schaden"
+  },
+  {
+    "en": "Hex",
+    "de": "Verwünschung"
+  },
+  {
+    "en": "Hidden",
+    "de": "Verborgen"
+  },
+  {
+    "en": "Humanoid",
+    "de": "Humanoid"
+  },
+  {
+    "en": "Hunter",
+    "de": "Jäger"
+  },
+  {
+    "en": "If",
+    "de": "Falls"
+  },
+  {
+    "en": "Immune",
+    "de": "Immun"
+  },
+  {
+    "en": "In Play and Out of Play",
+    "de": "Im Spiel/Nicht im Spiel"
+  },
+  {
+    "en": "In Player Order",
+    "de": "In Spielerreihenfolge"
+  },
+  {
+    "en": "Indoors",
+    "de": "Drinnen"
+  },
+  {
+    "en": "Insight",
+    "de": "Einsicht"
+  },
+  {
+    "en": "Instead",
+    "de": "Statt/anstatt"
+  },
+  {
+    "en": "Investigate Action",
+    "de": "Ermitteln (Aktion)"
+  },
+  {
+    "en": "Investigation Phase",
+    "de": "Ermittlungsphase"
+  },
+  {
+    "en": "Investigator Deck",
+    "de": "Ermittlerdeck"
+  },
+  {
+    "en": "Item",
+    "de": "Gegenstand"
+  },
+  {
+    "en": "Joe's Hunch Deck",
+    "de": "Joes „Spürnase-Deck“"
+  },
+  {
+    "en": "Keys (cardtype)",
+    "de": "Schlüssel (Kartentyp)"
+  },
+  {
+    "en": "Keys (token)",
+    "de": "Schlüssel (Marker)"
+  },
+  {
+    "en": "Keywords",
+    "de": "Schlüsselwörter"
+  },
+  {
+    "en": "Killed/Insane Investigators",
+    "de": "Getötete/Wahnsinnige Ermittler"
+  },
+  {
+    "en": "Lasting Effects",
+    "de": "Andauernde Effekte"
+  },
+  {
+    "en": "Lead Investigator",
+    "de": "Ermittlungsleiter"
+  },
+  {
+    "en": "Leaves Play",
+    "de": "Das Spiel verlassen"
+  },
+  {
+    "en": "Limbo",
+    "de": "Limbus"
+  },
+  {
+    "en": "Limit once per turn",
+    "de": "Nur ein Mal pro Zug."
+  },
+  {
+    "en": "Limits and Maximums",
+    "de": "Beschränkung und Maximum"
+  },
+  {
+    "en": "Location Cards",
+    "de": "Ortskarten"
+  },
+  {
+    "en": "Lola and Roles",
+    "de": "Lola und die „Rollen“"
+  },
+  {
+    "en": "Lunatic",
+    "de": "Wahnsinniger"
+  },
+  {
+    "en": "Madness",
+    "de": "Wahnsinn"
+  },
+  {
+    "en": "Massive",
+    "de": "Gewaltig"
+  },
+  {
+    "en": "Max once per location",
+    "de": "Max. ein Mal pro Ort"
+  },
+  {
+    "en": "May",
+    "de": "Dürfen"
+  },
+  {
+    "en": "Melee",
+    "de": "Nahkampf"
+  },
+  {
+    "en": "Modifiers",
+    "de": "Modifikatoren"
+  },
+  {
+    "en": "Monster",
+    "de": "Monster"
+  },
+  {
+    "en": "Move",
+    "de": "Bewegen"
+  },
+  {
+    "en": "Move Action",
+    "de": "Bewegen (Aktion)"
+  },
+  {
+    "en": "Mulligan",
+    "de": "Mulligan"
+  },
+  {
+    "en": "Multi-class Cards",
+    "de": "Multi-Klassen-Karten"
+  },
+  {
+    "en": "Must",
+    "de": "Müssen"
+  },
+  {
+    "en": "Myriad",
+    "de": "Unzählig"
+  },
+  {
+    "en": "Mystery",
+    "de": "Mysterium"
+  },
+  {
+    "en": "Mythos Phase",
+    "de": "Mythosphase"
+  },
+  {
+    "en": "Nearest",
+    "de": "Nächstgelegen"
+  },
+  {
+    "en": "Nested Sequences",
+    "de": "Eingebettete Sequenzen"
+  },
+  {
+    "en": "Nested Skill Tests",
+    "de": "Eingebettete Fertigkeitsproben"
+  },
+  {
+    "en": "Northside",
+    "de": "Nordviertel"
+  },
+  {
+    "en": "Objective",
+    "de": "Ermittlungsziel"
+  },
+  {
+    "en": "Obstacle",
+    "de": "Hindernis"
+  },
+  {
+    "en": "Ownership and Control",
+    "de": "Besitz und Kontrolle"
+  },
+  {
+    "en": "Paradox",
+    "de": "Paradox"
+  },
+  {
+    "en": "Parley",
+    "de": "Verhandlung"
+  },
+  {
+    "en": "Partner",
+    "de": "Partner"
+  },
+  {
+    "en": "Patrol",
+    "de": "Patrouille"
+  },
+  {
+    "en": "Per Investigator ([per_investigator])",
+    "de": "Pro Ermittler"
+  },
+  {
+    "en": "Peril",
+    "de": "Wagnis"
+  },
+  {
+    "en": "Permanent",
+    "de": "Dauerhaft"
+  },
+  {
+    "en": "Play",
+    "de": "Spielen"
+  },
+  {
+    "en": "Play Action",
+    "de": "Spielen (Aktion)"
+  },
+  {
+    "en": "Play Restrictions, Permissions, and Instructions",
+    "de": "Spieleinschränkungen, Berechtigungen und Anweisungen"
+  },
+  {
+    "en": "Poison",
+    "de": "Gift"
+  },
+  {
+    "en": "Power",
+    "de": "Macht"
+  },
+  {
+    "en": "Predator",
+    "de": "Räuber"
+  },
+  {
+    "en": "Prey",
+    "de": "Beute"
+  },
+  {
+    "en": "Printed",
+    "de": "Aufgedruckt"
+  },
+  {
+    "en": "Priority of Simultaneous Resolution",
+    "de": "Priorität bei gleichzeitiger Abhandlung"
+  },
+  {
+    "en": "Prologue Investigators",
+    "de": "Ermittler für den Prolog"
+  },
+  {
+    "en": "Put into Play",
+    "de": "Ins Spiel bringen"
+  },
+  {
+    "en": "Qualifiers",
+    "de": "Adjektive"
+  },
+  {
+    "en": "Reaction Opportunities",
+    "de": "Reaktions-Möglichkeiten"
+  },
+  {
+    "en": "Ready",
+    "de": "Spielbereit"
+  },
+  {
+    "en": "Record in your Campaign Log...",
+    "de": "Im Kampagnenlogbuch wird notiert ..."
+  },
+  {
+    "en": "Relic",
+    "de": "Relikt"
+  },
+  {
+    "en": "Remember that...",
+    "de": "„Merke dir, dass ...“"
+  },
+  {
+    "en": "Removed from Game",
+    "de": "Aus dem Spiel entfernt"
+  },
+  {
+    "en": "Replacing an Opening Hand",
+    "de": "Starthand ersetzen"
+  },
+  {
+    "en": "Researched",
+    "de": "Erforscht"
+  },
+  {
+    "en": "Resign",
+    "de": "Aufgeben"
+  },
+  {
+    "en": "Resource Action",
+    "de": "Ressourcen (Aktion)"
+  },
+  {
+    "en": "Resources",
+    "de": "Ressourcen"
+  },
+  {
+    "en": "Restricted",
+    "de": "Eingeschränkt"
+  },
+  {
+    "en": "Retaliate",
+    "de": "Zurückschlagen"
+  },
+  {
+    "en": "Revelation",
+    "de": "Enthüllung"
+  },
+  {
+    "en": "Row",
+    "de": "Reihe"
+  },
+  {
+    "en": "Royalty",
+    "de": "Adel"
+  },
+  {
+    "en": "Sanity and Horror",
+    "de": "Geistige Gesundheit und Horror"
+  },
+  {
+    "en": "Scheme",
+    "de": "Komplott"
+  },
+  {
+    "en": "Scholar",
+    "de": "Gelehrter"
+  },
+  {
+    "en": "Seal",
+    "de": "Versiegeln"
+  },
+  {
+    "en": "Search",
+    "de": "Suchen"
+  },
+  {
+    "en": "Self-Referential Text",
+    "de": "Selbstreferenzieller Text"
+  },
+  {
+    "en": "Serpent",
+    "de": "Schlange"
+  },
+  {
+    "en": "Set Aside",
+    "de": "Beiseitelegen"
+  },
+  {
+    "en": "Shadow",
+    "de": "Schatten"
+  },
+  {
+    "en": "Signature Cards",
+    "de": "Signaturkarten"
+  },
+  {
+    "en": "Skill Cards",
+    "de": "Fertigkeitskarten"
+  },
+  {
+    "en": "Skill Test Results and Advanced Timing",
+    "de": "Ergebnisse von Fertigkeitsproben und erweitertes Timing"
+  },
+  {
+    "en": "Skill Tests",
+    "de": "Fertigkeitsproben"
+  },
+  {
+    "en": "Slope",
+    "de": "Abhang"
+  },
+  {
+    "en": "Slots",
+    "de": "Slots"
+  },
+  {
+    "en": "Soldier",
+    "de": "Soldat"
+  },
+  {
+    "en": "Spawn",
+    "de": "Erscheinen"
+  },
+  {
+    "en": "Spell",
+    "de": "Zauber"
+  },
+  {
+    "en": "Spirit",
+    "de": "Geist"
+  },
+  {
+    "en": "Standalone Mode",
+    "de": "Einzelspielszenario"
+  },
+  {
+    "en": "Story Cards",
+    "de": "Handlungskarten"
+  },
+  {
+    "en": "Suggested Location Placement",
+    "de": "Vorschlag für die Platzierung der Orte"
+  },
+  {
+    "en": "Supplies",
+    "de": "Vorräte"
+  },
+  {
+    "en": "Surge",
+    "de": "Nachrüsten"
+  },
+  {
+    "en": "Swarming X",
+    "de": "Ausschwärmen X"
+  },
+  {
+    "en": "Switch and Swap Abilities",
+    "de": "„Tauschen“- und „Austauschen“-Fähigkeiten"
+  },
+  {
+    "en": "Table",
+    "de": "Tisch"
+  },
+  {
+    "en": "Taking Damage/Horror",
+    "de": "Schaden/Horror nehmen"
+  },
+  {
+    "en": "Talent",
+    "de": "Talent"
+  },
+  {
+    "en": "Target",
+    "de": "Ziel"
+  },
+  {
+    "en": "Tarot Slot",
+    "de": "Tarotslot"
+  },
+  {
+    "en": "Task",
+    "de": "Aufgabe"
+  },
+  {
+    "en": "Tekeli-li!",
+    "de": "Tekeli-li!"
+  },
+  {
+    "en": "Terror",
+    "de": "Schrecken"
+  },
+  {
+    "en": "The letter X",
+    "de": "X (Buchstabe)"
+  },
+  {
+    "en": "Then",
+    "de": "Dann"
+  },
+  {
+    "en": "Threat Area",
+    "de": "Bedrohungszone"
+  },
+  {
+    "en": "Tokens, Running out of",
+    "de": "Marker, keine mehr übrig"
+  },
+  {
+    "en": "Tome",
+    "de": "Buch"
+  },
+  {
+    "en": "Traits",
+    "de": "Merkmale"
+  },
+  {
+    "en": "Trauma",
+    "de": "Trauma"
+  },
+  {
+    "en": "Treachery Cards",
+    "de": "Verratskarten"
+  },
+  {
+    "en": "Triggered Abilities",
+    "de": "Ausgelöste Fähigkeiten"
+  },
+  {
+    "en": "Triggering Condition",
+    "de": "Auslösebedingung"
+  },
+  {
+    "en": "Tulgey Wood",
+    "de": "Wirrwald"
+  },
+  {
+    "en": "Unique ([unique])",
+    "de": "Einzigartig (*)"
+  },
+  {
+    "en": "Upkeep Phase",
+    "de": "Unterhaltsphase"
+  },
+  {
+    "en": "Uses (X type)",
+    "de": "Anwendungen (X „Art“)"
+  },
+  {
+    "en": "Vengeance X",
+    "de": "Vergeltung X"
+  },
+  {
+    "en": "Victory display",
+    "de": "Siegpunktestapel"
+  },
+  {
+    "en": "Victory Display, Victory Points",
+    "de": "Siegpunkte, Siegpunktestapel"
+  },
+  {
+    "en": "Weakness",
+    "de": "Schwäche"
+  },
+  {
+    "en": "Weapon",
+    "de": "Waffe"
+  },
+  {
+    "en": "Weather",
+    "de": "Wetter"
+  },
+  {
+    "en": "When",
+    "de": "Sobald"
+  },
+  {
+    "en": "Wild Skill Icons",
+    "de": "Joker-Fertigkeitssymbol"
+  },
+  {
+    "en": "Winning and Losing",
+    "de": "Gewinnen und Verlieren"
+  },
+  {
+    "en": "Wonderland",
+    "de": "Wunderland"
+  },
+  {
+    "en": "You/Your",
+    "de": "Du/Dein"
+  }
+]

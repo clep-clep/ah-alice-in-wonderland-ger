@@ -1,0 +1,131 @@
+DIE INNSMOUTH-VERSCHWÖRUNG
+Ermittler-Erweiterung
+Träume aus der Tiefe
+„Im Traum erlebte ich viel mehr, als mir im Gedächtnis blieb, doch 
+schon allein das, woran ich mich am Morgen noch erinnerte, würde 
+ausreichen, mich zum Wahnsinnigen oder zum Genie zu stempeln, 
+wenn ich es jemals wagen würde, es niederzuschreiben.“
+– H. P. Lovecraft, Schatten über Innsmouth
+Die Ermittler-Erweiterung Die Innsmouth-Verschwörung  enthält 
+neue Ermittler- und Spielerkarten, mit denen ihr neue Ermittler -
+decks erstellen oder bereits bestehende neu gestalten könnt, um 
+mit ihnen nach Belieben Szenarien oder Kampagnen von Arkham 
+Horror: Das Kartenspiel zu bestreiten.
+Zusätzliche Regeln und Klarstellungen
+Segensmarker und Fluchmarker
+In dieser Erweiterung werden 2 neue Chaosmarker eingeführt: 
+Segensmarker ( ) und Fluchmarker ( ). Normalerweise enthält der 
+Chaosbeutel keine  - oder -Marker. Durch bestimmte Karten -
+effekte können diese Marker dem Chaosbeutel hinzugefügt werden.  
+ 
+ 
+ 
+ 
+ 
+ Æ -Marker, die während einer Fertigkeitsprobe enthüllt werden, 
+haben folgenden Effekt: „+2. Enthülle einen weiteren Marker. Lege 
+diesen Marker in den Markervorrat zurück, anstatt ihn in den 
+Chaosbeutel zurückzuschicken.“
+ = Insgesamt können sich nicht mehr als 10  -Marker gleichzeitig 
+im Chaosbeutel und/oder versiegelt auf Karten im Spiel befinden.
+ Æ -Marker, die während einer Fertigkeitsprobe enthüllt werden, 
+haben folgenden Effekt: „–2. Enthülle einen weiteren Marker. 
+Lege diesen Marker in den Markervorrat zurück, anstatt ihn in den 
+Chaosbeutel zurückzuschicken.“
+ = Insgesamt können sich nicht mehr als 10  -Marker gleichzeitig 
+im Chaosbeutel und/oder versiegelt auf Karten im Spiel befinden.
+ Æ - oder -Marker, die außerhalb einer Fertigkeitsprobe enthüllt 
+werden, haben keinen eigenständigen Effekt, es sei denn, ein 
+Karteneffekt besagt etwas anderes.
+Segensmarker ()
+ Fluchmarker ()
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Die Innsmouth-Ver -
+schwörung  können an diesem Symbol vor jeder Setnummer erkannt 
+werden:
+
+2
+Erforscht
+Erforscht ist eine Schlüsselwortfähigkeit, die auf manchen höherstufigen 
+Karten (zumeist auf Sucherkarten) zu finden ist.
+Bevor eine Karte mit dem Schlüsselwort Erforscht einem Ermittlerdeck 
+hinzugefügt werden kann, muss sie zuerst „identifiziert“ oder „übersetzt“ 
+werden. Dies geschieht, indem eine auf einer niederstufigen Version der 
+Karte beschriebene Aufgabe durchgeführt wird und das Ergebnis im 
+Kampagnenlogbuch notiert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck nur 
+hinzugefügt werden, indem eine niederstufige Version von ihr 
+verbessert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck nur 
+hinzugefügt werden, falls im Kampagnenlogbuch steht, dass die auf 
+der niederstufigen Version der Karte beschriebene Aufgabe erfüllt 
+wurde.
+ Æ Nachdem ein Ermittler eine dieser Aufgaben erfüllt hat und dies 
+im Kampagnenlogbuch notiert hat, darf ein beliebiger Ermittler 
+in der Kampagne die entsprechende Karte verbessern, bei dem die 
+normalen Regeln zum Verbessern von Spielerkarten angewandt 
+werden.
+Versiegeln
+Wenn eine Karte einen Spieler anweist einen Marker zu versiegeln, 
+muss der Spieler, der die Karte kontrolliert, den Chaosbeutel nach dem 
+angegebenen Chaosmarker durchsuchen, ihn auf der Karte platzieren 
+und damit versiegeln. Falls mehrere Marker zur Auswahl stehen, 
+trifft der Spieler, der die Karte kontrolliert, diese Wahl. Falls sich der 
+angegebene Marker nicht im Chaosbeutel befindet, kann die Karte nicht 
+ins Spiel kommen.
+Ein versiegelter Chaosmarker gilt als nicht im Chaosbeutel befindlich 
+und kann deshalb nicht als Teil einer Fertigkeitsprobe oder einer 
+Fähigkeit aus dem Chaosbeutel enthüllt werden. Sobald ein Chaos -
+marker „freigesetzt“ wird, wird er zurück in den Chaosbeutel geschickt 
+und gilt nicht länger als versiegelt. Falls eine Karte mit 1 oder mehr 
+versiegelten Chaosmarkern darauf aus irgendeinem Grund das Spiel 
+verlässt, werden darauf versiegelte Chaosmarker sofort freigesetzt.
+Einige Karten (unabhängig davon, ob sie selbst das Schlüsselwort 
+Versiegeln haben) können auch Fähigkeiten haben, die 1 oder mehr 
+Chaos marker als Teil ihres Effektes versiegeln. Das geschieht ebenfalls 
+auf die oben angegebene Weise: Der Chaosbeutel wird nach dem 
+angegebenen Marker durchsucht, dieser wird dann aus dem Chaosbeutel 
+entfernt und auf der Karte platziert. Falls sich der angegebene Marker 
+nicht im Chaosbeutel befindet, misslingt der Effekt.
+Credits
+Expansion Design and Development:  MJ Newman mit Jeremy Zwirn
+Producer : Molly Glover
+Editing : Jeremiah J. Shaw
+Proofreading:  Alyssa Barringer
+Game Rules Specialist: Alex Werner
+Product Line Manager: Caitlyn McGrath
+Game Design Manager : Paul Klecker
+Expansion Graphic Design:  Neal W. Rasmussen mit Ryann Collins
+Graphic Design Coordinator: Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art : Mauro dal Bo
+Art Direction : Deborah Garcia und Jeff Lee Johnson
+Managing Art Director : Tony Bradt
+Arkham Horror  Story Review: Kara Centell-Dunk, Philip D. Henry  
+und Kate Swazee
+Quality Assurance Specialist:  Zach Tewalthomas
+Production Management:  Justin Anger and Austin Litzler
+Visual Creative Director: Brian Schomburg
+Director of Studio Operations: John Franz-Wichlacz
+Product Strategy Director:  Jim Cartwright
+Executive Game Designer: Nate French
+Head of Studio: Chris Gerber
+Playtesters
+Cody Anderson, John Bagley, Dane Bicott, Cady Bielecki, Joe Bielecki, Riley Colby, 
+Stephen Coleman, Shelley Danielle, Andrea Dell’Agnese, Julia Faeta, Jeremy Fredin, 
+Josiah „Duke“ Harrist, James „Finbred“ Howell, Gary Lee, Grégoire Lefebvre, Brian 
+Lewis, Jamie Lewis, Kevin McLenithan, Joseph Mutch, Josh Parrish, Chad „Fully 
+Blessed“ Reverman, Vincent Schwartz, Alexander Skeggs, Aaron Strunk, Michael 
+Strunk, Zachary Varberg, Yu -Chi Wang, Owen Weldon, Ben Wilkinson und  
+Nick „#Blessed“ Willis
+Ein besonderer Dank geht an alle unsere Beta-Tester.
+Asmodee Germany
+Redaktion:  Benjamin Fischer und Steffen Trzensky
+Grafische Bearbeitung & Layout: Vanessa Löhr
+© 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, 
+Living Card Game, LCG und das LCG-Logo sind ® von Fantasy Flight Games. Game -
+genic und das Gamegenic-Logo sind TM/® & © von Gamegenic GmbH, Deutschland. 
+Spielmaterial kann von der Abbildung abweichen.
+FANTASY
+FLIGHT
+GAMES

@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python virtual environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Generic temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Local backups
+*.bak
+
+# Generated card exports
+export/

@@ -1,0 +1,307 @@
+DIE VERSUNKENE STADT
+Ermittler-Erweiterung
+Die Sterne stehen günstig
+„Die größte Gnade der Welt ist meiner Meinung nach die 
+Unfähigkeit des menschlichen Geistes, alle ihre Bestandteile 
+miteinander in Beziehung zu setzen. Wir leben auf einer ruhigen 
+Insel der Ahnungslosigkeit, inmitten schwarzer Meere der 
+Unendlichkeit, und es war nie vorgesehen, dass unsere Reise 
+lange dauern sollte.“
+–
+ H
+.
+ P
+. Lovecraft, „Cthulhus Ruf “
+Die Ermittler-Erweiterung Die versunkene Stadt enthält neue 
+Ermittler- und Spielerkarten, mit denen ihr neue Ermittlerdecks 
+erstellen oder bereits bestehende neu gestalten könnt, um mit 
+ihnen nach Belieben Szenarien oder Kampagnen von Arkham 
+Horror: Das Kartenspiel zu bestreiten.
+Zusätzliche Regeln und Klarstellungen
+Agatha Crane
+Agatha Crane ist Parapsychologin, die auf dem schmalen Grat 
+zwischen Wissenschaft und dem wahren Glauben wandelt, wenn 
+sie mit dem Mythos konfrontiert wird. Beim Deckbau kann 
+zwischen ihrer Sucher-( )- oder Mystiker-( )-Version gewählt 
+werden. Beide Versionen haben andere Deckbau-Optionen, 
+sodass es nicht möglich ist, später auf die andere Version zu 
+wechseln. Anders als bei parallelen Print&Play-Ermittlern muss 
+für die gesamte Kampagne die gleiche Vorder- und Rückseite der 
+gewählten Version von Agatha verwendet werden.
+Alarmiert
+Immer wenn einem Ermittler eine Fertigkeitsprobe misslingt, 
+während er versucht, einem Gegner mit dem Schlüsselwort 
+Alarmiert zu entkommen, führt dieser Gegner nach der 
+Anwendung aller Ergebnisse jener Fertigkeitsprobe einen Angriff 
+gegen den Ermittler durch, der zu entkommen versucht. Ein 
+Gegner wird nicht erschöpft, nachdem er einen Alarmiert-Angriff 
+durchgeführt hat. Dieser Angriff wird auf jeden Fall durchgeführt, 
+egal ob der Gegner mit dem Ermittler in einen Kampf verwickelt ist 
+oder nicht.
+Unzählig
+Das Deck eines Ermittlers darf statt der üblichen 2 Kopien bis zu 
+3 Kopien einer Spielerkarte (nach Name) mit dem Schlüsselwort 
+Unzählig enthalten. Zusätzlich gilt beim Erwerb einer Karte 
+mit dem Schlüsselwort Unzählig, dass man bis zu 2 zusätzliche 
+Kopien dieser Karte (der gleichen Stufe) erwerben darf, ohne ihre 
+Erfahrungspunkte zu bezahlen.
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Die versunkene Stadt 
+können an diesem Symbol vor jeder Setnummer erkannt werden:
+
+2
+Erforscht
+Erforscht ist eine Schlüsselwortfähigkeit, die auf manchen höher-
+stufigen Karten (zumeist auf Sucherkarten) zu finden ist. Bevor 
+eine Karte mit dem Schlüsselwort Erforscht einem Ermittlerdeck 
+hinzugefügt werden kann, muss sie zuerst „identifiziert“ oder 
+„übersetzt“ werden. Dies geschieht, indem eine auf einer nieder-
+stufigen Version der Karte beschriebene Aufgabe durchgeführt 
+wird und diese im Kampagnen
+ l
+ogbuch notiert wird. 
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem Deck 
+nur hinzugefügt werden, indem eine niederstufige Version von 
+ihr verbessert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem 
+Deck nur hinzugefügt werden, falls im Kampagnenlogbuch 
+steht, dass die auf der niederstufigeren Version der Karte 
+beschriebene Aufgabe erfüllt wurde.
+ Æ Nachdem ein Ermittler eine dieser Aufgaben erfüllt hat und 
+dies im Kampagnenlogbuch notiert hat, darf ein beliebiger Er-
+mittler in der Kampagne die entsprechende Karte verbessern, 
+bei dem die normalen Regeln zum Verbessern von Spielerkar-
+ten angewandt werden.
+Versiegeln
+Wenn eine Karte einen Spieler anweist, einen Marker zu versiegeln, 
+muss der Spieler, der die Karte kontrolliert, den Chaosbeutel nach 
+dem angegebenen Chaosmarker durchsuchen, ihn auf der Karte 
+platzieren und damit versiegeln. Falls es möglich ist, aus mehreren 
+Markern zu wählen, trifft der Spieler, der die Karte kontrolliert, 
+diese Wahl. Falls sich der angegebene Marker nicht im Chaosbeutel 
+befindet, kann die Karte nicht ins Spiel kommen.
+Ein versiegelter Chaosmarker gilt als nicht im Chaosbeutel 
+befindlich und kann deshalb nicht als Teil einer Fertigkeitsprobe 
+oder einer Fähigkeit aus dem Chaosbeutel enthüllt werden. 
+Sobald ein Chaosmarker „freigesetzt“ wird, wird er zurück in den 
+Chaosbeutel geschickt und gilt nicht länger als versiegelt. Falls 
+eine Karte mit 1 oder mehr versiegelten Chaosmarkern darauf 
+aus irgendeinem Grund das Spiel verlässt, werden darauf 
+versiegelte Chaosmarker sofort freigesetzt.
+Einige Karten (unabhängig davon, ob sie selbst das Schlüsselwort 
+Versiegeln haben) können auch Fähigkeiten haben, die 1 oder 
+mehr Chaosmarker als Teil ihres Effektes versiegeln. Das geschieht 
+ebenfalls auf die oben angegebene Weise: Der Chaosbeutel wird 
+nach dem angegebenen Marker durchsucht, dieser wird dann aus 
+dem Chaosbeutel entfernt und auf der Karte platziert. Falls sich der 
+angegebene Marker nicht im Chaosbeutel befindet, misslingt der 
+Effekt.
+Spezialistenkarten
+Einige Spielerkarten in dieser Erweiterung gehören zu einer neuen 
+Gruppe neutraler Karten, den sogenannten Spezialistenkarten. 
+Spezialistenkarten sind an ihrem schwarzen Hintergrund und an 
+der Abwesenheit von Klassensymbolen zu erkennen.
+Auf jeder Spezialistenkarte sind im Text zudem 1 oder mehr 
+Merkmale angegeben ( z.
+ B
+. „Nur für ein Miskatonic - oder 
+Gelehrter -Deck.“ ). Um eine Spezialistenkarte erwerben zu können, 
+muss ein Ermittler 1 oder mehr der angegebenen Merkmale  auf 
+seiner Ermittlerkarte aufgedruckt haben.
+Zusätzlich muss ein Ermittler seine Deckbau-Optionen und Deck-
+bau-Einschränkungen befolgen, wenn er vorhat, eine Spezialisten -
+karte für sein Deck zu erwerben.
+Beispiel:  Dakota Garofalo ist eine Spezialisten- Verbündeter -
+Vorteilskarte mit dem Text: „Nur für ein Detective -, Jäger- oder 
+Wanderer-Deck.“ Nur Ermittler mit dem Detective -, Jäger- und/oder 
+Wanderer-Merlmal dürfen diese Karte erwerben, unabhängig davon, 
+welche Karten ihnen beim Deckbau normalerweise zur Verfügung 
+stehen. Marion Tavares beispielsweise hat keine der angegebenen 
+Merkmale  und kann Dakota Garofalo nicht in ihr Deck aufnehmen. 
+Michael McGlen dagegen hat das Jäger -Merkmal und darf Dakota 
+Garofalo deshalb in sein Deck aufnehmen.
+© 2025 FFG
+Illus. Peter Polach
+114
+EREIGNIS
+Zauber.
+Blut von K’n-yan
+Nur für ein Hellsichtig-, Jäger- oder Zauberer-Deck.Kampf. Für diesen Angriff darfst du deinen -Wert 
+statt deines -Wertes verwenden. Für jeden leeren 
+Handslot, den du hast, bekommst du für diesen Angriff 
++2 auf deinen Fertigkeitswert und fügst +1 Schaden 
+zu. Falls dieser Angriff einen Nicht
+-Elite-Gegner besiegt, füge ihn dem Siegpunkte stapel hinzu 
+und hänge Blut von K’n-yan an ihn an.
+22
+2222
+Illus.
+© 2025 FFG
+110
+Alessandra Pisano
+VORTEIL
+Auf der Jagd
+Dakota Garofalo
+Nur für ein Detective
+-, Jäger- oder Wanderer-Deck.
+Solange sich ein Kreatur
+- oder Monster-Gegner an 
+deinem Ort befindet, bekommst du +1  und +1 .
+ Erschöpfe Dakota Garofalo: Wähle einen Gegner an 
+deinem Ort oder an einem verbundenen Ort. Bewege dich 
+an den Ort jenes Gegner und verwickle ihn in einen Kampf.
+Verbündeter. Jäger. Wanderer.
+44
+© 2025 FFG
+Illus.
+107
+Lin Hsiang
+FERTIGKEIT
+Nur für ein Krimineller-, Unternehmer- oder 
+Salonlöwe
+-Deck.
+Max. 1 pro Fertigkeitsprobe beitragen.
+Nachdem du diese Karte zu einer Fertigkeits 
+probe 
+beigetragen hast, gib bis zu 3 Ressourcen aus.  Du erhältst für jede ausgegebene Ressource  .
+Verdoppeln
+Angeboren.
+
+3
+Häufig gestellte Fragen
+F: Kann George Barnabys Reaktionsfähigkeit auslösen, wenn ich 
+Karten in der Unterhaltsphase ablege?
+A: Ja. Wenn du George spielst, darfst du dich jedes Mal 
+entscheiden, seine Reaktionsfähigkeit zu aktivieren, wenn du eine 
+Karte von deiner Hand ablegst (vorausgesetzt, dass du diese in der 
+Phase nicht bereits aktiviert hast). Das gilt auch dann, wenn du in 
+der Unterhaltsphase Karten ablegen musst.
+F: Wenn ich George Barnabys Reaktionsfähigkeit in der Unterhalts
+-
+p
+hase aktiviere und ich dann feststelle, dass ich mehr Karten auf der 
+Hand habe, als mein Handkartenlimit erlaubt, muss ich dann Karten 
+bis zu meinem Handkartenlimit ablegen?
+A: Ja. Falls sich dein Handkartenlimit in der Unterhaltsphase 
+verändert und du als Resultat mehr Karten auf der Hand hast, als 
+dein neues Handkartenlimit erlaubt, musst du Karten ablegen, 
+bis du so viele Karten auf der Hand hast, wie es dir dein neues 
+Handkartenlimit erlaubt.
+F: Kann ich eine Spezialistenkarte in mein Deck aufnehmen, die mit 
+1 oder mehr Merkmalen  meines Ermittlers übereinstimmt, auch wenn 
+mir dies unter Deckbau-Einschränkungen auf meiner Ermittlerkarte 
+nicht erlaubt ist?
+A: Nein. Die Deckbau-Einschränkungen hindern den Ermittler 
+daran, bestimmte Karten in sein Deck aufzunehmen, unabhängig 
+davon, ob er ein Merkmal  besitzt, das auf einer Spezialistenkarte 
+angegeben ist.
+F: Zu welcher Klasse gehören Spezialistenkarten, z.
+ B
+. im Bezug auf 
+Lola Hayes’ Ermittlerfähigkeiten?
+A: Spezialistenkarten sind neutrale Karten. Deshalb kann Lola 
+Hayes sie in einer beliebigen Rolle spielen oder beitragen und 
+Fähigkeiten darauf auslösen.
+F: Welche Art von zusätzlicher Aktion darf ich mit Fesselnde 
+Vorstellung durchführen?
+A: Die zur Verfügung stehenden Aktionen sind: Aktivieren, 
+Karte ziehen, In einen Kampf verwickeln, Entkommen, Kämpfen, 
+Ermitteln, Bewegen, Karte spielen oder Ressource nehmen. 
+Um Fesselnde Vorstellung auslösen zu können, musst du direkt 
+nacheinander 3 verschiedene Aktionen von der obigen Liste 
+durchgeführt haben.
+Wenn du zum Beispiel eine Karte spielst, eine Ressource nimmst 
+und dann eine Kampf-Aktion durchführst, hast du die Auslöse
+-
+b
+edingung auf Fesselnde Vorstellung erfüllt und darfst die Karte 
+erschöpfen, um eine vierte Aktion zu nehmen, die nicht  dafür 
+verwendet werden kann, eine Karte zu spielen, eine Ressource zu 
+nehmen oder eine Kampf-Aktion durchzuführen.
+
+4
+Credits
+Expansion Design and Development:  Josiah „Duke“ Harrist und 
+Nicholas Kory mit Waleed Ma’arouf
+Producer:  Eric Stanton
+Editing: Andrea Dell’ Agnese
+Proofreading:  Alyssa Barringer
+Game Rules Specialist: Alex Werner
+Product Line Manager:  Caitlyn McGrath
+Game Design Manager:  Kate Morgan
+Arkham Horror  Story Review: Daniel Lovat Clark, Ryann Collins, 
+Philip D. Henry und MJ Newman.
+Cultural and Sensitivity Review: Alanaleilani Connolly und die Mitglieder 
+des FFG Cultural Sensitivity Panel
+Expansion Graphic Design:  Joseph D. Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art: Mauro Dal Bo
+Art Direction: Tim Flanders,  Jeff Lee Johnson, Kate Swazee 
+und Stephen Somers
+Managing Art Director: Tony Bradt
+Quality Assurance Coordination:  Zach Tewalthomas
+Head of Licensing, North America: Ariel Didier   
+Production Management:  Justin Anger und Austin Litzler
+Visual Creative Director:  Brian Schomburg
+Director of Studio Operations: John Franz-Wichlacz
+VP of Strategy: Jim Cartwright
+Executive Game Designer:  Nate French
+Head of Studio: Chris Gerber
+Playtesters
+Avita Amoeba, David Avery, John Bagley, Ryan Blood, Sam Cahill, 
+Rafa Cerrato, Anthony Clark, Rhylie Colby, Shelley Danielle, Johannes 
+Duckeck, Matt Eddleman, Michael Feldman, Jose Javier Fernández, Sam 
+Fuhrman, Alfredo Gómez, Álvaro González „Kortatu“, James Howell, Josh 
+Jones, Rod Jordan, Bob Juranek, Joe Kennedy, Nate Langreder, Kenny 
+Ling, Micah McDonald, Cody Mediavilla, Josh Parrish, Jordan Peters, Tim 
+Rose, Scott Sesko, Jordi Solera, Andy Stoddart, Egoitz Uribeetxebarria, 
+Ben Wiebracht, Owen Weldon und Alex Xöul
+Asmodee Germany
+Redaktion:  Benjamin Fischer, Steffen Trzensky und Veronika Stallmann
+Grafische Bearbeitung & Layout: Max Breidenbach
+© 2025 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, Living Card Game, 
+LCG und das LCG-Logo sind ® von Fantasy Flight Games. Gamegenic und das Gamegenic-Logo sind ® und 
+© von Gamegenic GmbH, Deutschland. 
+FANTASY
+FLIGHT
+GAMES
+Falls eine deiner Aktionen aus mehreren Aktionsarten besteht 
+(wie z.
+ B
+. das Spielen einer Karte mit einem Kampf -Aktions -
+k
+ennzeichen), darfst du entscheiden, welche dieser Arten 
+zur Auslösebedingung von Fesselnde Vorstellung beitragen 
+soll. Beispiel: Wenn du Improvisierte Waffe spielst, darfst du 
+entscheiden, ob sie als „Karte spielen“ oder Kampf-Aktion für die 
+Fähigkeit von Fesselnde Vorstellung zählen soll.
+F: Wenn ich Dimensionswirbel verwende, um Gegner an einem Ort 
+beiseitezulegen und der Ort vor dem Ende der Runde das Spiel verlässt, 
+was passiert dann mit den beiseitegelegten Gegnern?
+A: Falls durch Dimensionswirbel 1 oder mehr Gegner an einen 
+Ort zurückgelegt würden, der nicht mehr im Spiel ist, werden jene 
+Gegner stattdessen auf die entsprechenden Ablagestapel abgelegt. 
+Die Gegner gelten nicht als besiegt.
+F: Was passiert, wenn ich Kosmische Enthüllung verwende und ein 
+Ermittler eine Karte mit undefinierten Kosten (–) auf seiner Hand hat?
+A: Karten mit undefinierten Kosten (–) haben weder gerade noch 
+ungerade Kosten, solange sie sich auf der Hand befinden. Dadurch 
+können sie durch die Effekte von Kosmische Enthüllung weder 
+enthüllt noch gespielt werden.
+F: Wie oft kann ich das Schlüsselwort Versiegeln auf Bollwerk, 
+Irreführung oder Obskur abhandeln?
+A: Sobald du die Auslösebedingungen von Bollwerk, Irreführung 
+oder Obskur erfüllt hast, und sich mindestens 1 auf der Karte 
+angegebener Chaosmarker im Chaosbeutel befindet, darfst du das 
+Schlüsselwort Versiegeln auf jener Vorteilskarte abhandeln. Falls 
+sich kein angegebener Chaosmarker im Chaosbeutel befindet, 
+gibt es nichts zu versiegeln und du kannst das Schlüsselwort nicht 
+abhandeln. Du darfst das Schlüsselwort Versiegeln nur 1 Mal pro 
+Instanz einer erfüllten Auslösebedingung abhandeln.
+F: Was passiert mit den Traumata meines Ermittlers, falls sich der 
+Homunkulus des Körpers meines Ermittlers bemächtigt?
+A: Sämtliche körperliche und seelische Traumata, die dein 
+Ermittler vor der Bemächtigung durch den Homunkulus erlitten 
+hat, werden auf den Homunkulus übertragen. Der Homunkulus 
+beginnt jedes Szenario mit sämtlichen Traumata, die der von ihm 
+bemächtigte Ermittler zuvor erlitten hat.

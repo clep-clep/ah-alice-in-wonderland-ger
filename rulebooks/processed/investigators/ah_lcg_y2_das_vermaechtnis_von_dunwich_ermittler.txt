@@ -1,0 +1,129 @@
+DAS VERMÄCHTNIS VON DUNWICH
+Ermittler-Erweiterung
+Die Natur und das Jenseits
+„‚Es war – nun, es bestand zum größten Teil aus einer Kraft, 
+die nicht in unseren Teil des Alls gehört; eine Art Kraft, 
+deren Wirkung, Wachstum und Form anderen als unseren 
+Naturgesetzen unterworfen ist. Wir dürfen niemals diese 
+Dinge von draußen zu uns rufen, und nur sehr gottlose 
+Menschen und sehr verruchte Kulte haben es je versucht.‘“
+– H. P. Lovecraft, Das Grauen von Dunwich
+Die Ermittler-Erweiterung Das Vermächtnis von Dunwich 
+enthält neue Ermittler- und Spielerkarten, mit denen ihr neue 
+Ermittlerdecks erstellen oder bereits bestehende neu gestalten 
+könnt und mit ihnen nach Belieben Szenarien oder Kampagnen 
+von Arkham Horror: Das Kartenspiel bestreiten könnt.
+Erweiterungssymbol
+Die Karten aus der Ermittler-Erweiterung Das Vermächtnis von 
+Dunwich  können an diesem Symbol vor jeder Setnummer 
+erkannt werden:
+Zusätzliche Regeln und Klarstellungen
+„Exil“
+Einige der Spielerkarten der Ermittler-Erweiterung Das 
+Vermächtnis von Dunwich  müssen ins Exil geschickt werden, 
+sobald sie verwendet werden. Sobald eine Karte ins Exil 
+geschickt wird, wird sie aus dem Spiel entfernt und zurück in 
+die Sammlung gelegt. Während des Kampagnenspiels muss 
+eine Karte, die ins Exil geschickt worden ist, erneut (zwischen 
+Szenarien) mit Erfahrungspunkten erworben werden, falls man 
+sie wieder in sein Deck aufnehmen will. Falls 1 oder mehrere 
+Karten ins Exil geschickt werden und dadurch die Deckgröße 
+unter die für den Ermittler vorgegebene Größe sinkt, müssen, 
+sobald man zwischen Szenarien Karten erwirbt, so viele Karten 
+erworben werden, dass die Deckgröße wieder den Regeln 
+entspricht. (Sobald auf diese Weise Karten erworben werden, 
+dürfen Karten der Stufe 0 für 0 Erfahrungspunkte erworben 
+werden, bis die vorgegebene Deckgröße wieder erreicht ist.)
+
+2
+Credits
+Expansion Design and Development:  MJ Newman
+Producer : Molly Glover
+Editing : Kevin Tomczyk
+Proofreading:  Jeremiah Shaw 
+Card Game Manager : Jim Cartwright
+Expansion Graphic Design : Joe Olson
+Graphic Design Manager: Mercedes Opheim
+Cover Art : Mauro Dal Bo
+Art Direction : Jeff Lee Johnson
+Managing Art Director : Tony Bradt
+Arkham Horror  Story Review: Kara Centell-Dunk und   
+Philip D. Henry
+Creative Director of Story and Setting : Katrina Ostrander
+Quality Assurance Specialist:  Zach Tewalthomas
+Production Management:  Justin Anger
+Visual Creative Director:  Brian Schomburg
+Senior Project Manager:  John Franz-Wichlacz
+Executive Game Designer:  Nate French
+Head of Studio: Chris Gerber
+Testspieler: Mark Anderson, Brad Andres, Alan Bahr, Erin 
+Bahr, Craig Bergman, Brian L. Casey, Matt Charboneau, Marcia 
+Colby, Tom Capor, Amber Cowles, Isaac Cowles, Andrea 
+Dell’Agnese, Luke „Click for a Credit“ Eddy, Richard A. Edwards, 
+Justin Engelking, Julia Faeta, Tony Fanchi, Jeremy Fredin, Jed 
+Humphries, Gwendolyn Kornblum, Samuel Langenegger, Ian 
+Martin, „Stray“ Cat Miller, Kathleen Miller, Patrice Mundinar, 
+Amy Pirkl, Zap Riecken, Brian Schwebach, Michael Strunk, Sean 
+Switajewski, Alex Tomita, Zach „I’m a survivor“ Varberg, Matt 
+Watson, Jeremy „Beyond what veil?“ Zwirn
+Asmodee Germany
+Redaktion und Übersetzung: Steffen T rzensky und Benjamin Fischer
+Layout & Grafische Bearbeitung: Max Breidenbach
+© 2022 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, das FFG-Logo, 
+Living Card Game, LCG und das LCG-Logo sind ® Fantasy Flight Games. Gamegenic 
+und das Gamegenic-Logo sind TM & ® von Gamegenic GmbH, Deutschland. 
+Hergestellt von: Fantasy Flight Games, 1995 West County Road  B2, ROSEVILLE , 
+MN 55113, USA. Spielmaterial kann von der Abbildung abweichen. 
+Erforscht
+Erforscht ist eine Schlüsselwortfähigkeit, die auf manchen 
+höherstufigen Karten (zumeist auf Sucherkarten) zu finden ist.
+Bevor eine Karte mit dem Schlüsselwort Erforscht einem 
+Ermittlerdeck hinzugefügt werden kann, muss sie zuerst 
+„identifiziert“ oder „übersetzt“ werden. Dies geschieht, indem 
+eine auf einer niederstufigen Version der Karte beschriebene 
+Aufgabe durchgeführt wird und diese im Kampagnenlogbuch 
+notiert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem 
+Deck nur hinzugefügt werden, indem eine niederstufige 
+Version von ihr verbessert wird.
+ Æ Eine Karte mit dem Schlüsselwort Erforscht darf einem 
+Deck nur hinzugefügt werden, falls im Kampagnenlogbuch 
+steht, dass die auf der niederstufigeren Version der Karte 
+beschriebene Aufgabe erfüllt wurde.
+ Æ Nachdem ein Ermittler eine dieser Aufgaben erfüllt hat und 
+dies im Kampagnenlogbuch notiert hat, darf ein beliebiger 
+Ermittler in der Kampagne die entsprechende Karte 
+verbessern, bei dem die normalen Regeln zum Verbessern 
+von Spielerkarten angewandt werden.
+Beispiel:  Seltsame Lösung (Gebräu zur Wiederherstellung) hat 
+das Schlüsselwort Erforscht. Deshalb darf ein Ermittler diese Karte 
+nicht direkt erwerben. Er muss stattdessen Seltsame Lösung (Nicht 
+identifiziert) verbessern. Dies kann er nur tun, falls zuvor „die 
+Lösung identifiziert“ wurde.
+© 2016 FFGIllus. Tiziano Baracchi 21
+VORTEIL
+Nicht identifiziert
+Seltsame Lösung
+Egal welche Quelle man zu Rate zieht,  
+dieses Zeug sollte es überhaupt nicht geben.
+Gegenstand. Wissenschaft.
+: Lege eine -Probe (4) ab. Falls die Probe 
+gelingt, lege Seltsame Lösung ab und ziehe  
+2 Karten. Notiere in deinem Kampagnenlog  buch: 
+„Du hast die Lösung identifiziert. “
+11
+© 2016 FFGIllus. Tiziano Baracchi 262
+VORTEIL
+Gebräu zur Wiederherstellung
+Seltsame Lösung
+Gegenstand. Wissenschaft.
+Erforscht. Anwendungen (4 Vorräte).
+ Gib 1 Vorrat aus: Heile 2 Schaden von 
+einem Ermittler an deinem Ort.
+11
+Import und Vertrieb durch:
+Asmodee Germany 
+Friedrichstr. 47 • 45128 ESSEN
+FANTASY
+FLIGHT
+GAMES
