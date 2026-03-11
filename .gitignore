@@ -22,3 +22,6 @@ __pycache__/
 
 # Generated card exports
 export/
+
+# Reference files
+campaign/references/
