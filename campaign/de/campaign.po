@@ -29,7 +29,7 @@ msgstr ""
 "'In der Richtung', sprach die Katze, und ließ dabei ihre rechte Pfote kreisen, 'wohnt ein Hutmacher: und in der Richtung', die linke kreisen lassend, 'wohnt ein Märzhase. Besuch, wen du willst: sie sind beide verrückt.'\n"
 "  'Aber ich will nicht unter verrückte Leute gehn', bemerkte Alice.\n"
 "  'Oh, das kannst du nicht vermeiden', sprach die Katze: 'wir alle hier sind verrückt. Ich bin verrückt. Du bist verrückt.'\n"
-"<right>- Lewis Carroll, \"Alices Abenteuer im Wunderland\"</right>"
+"<right>- Lewis Carroll, „Alices Abenteuer im Wunderland“</right>"
 
 msgid "<i>Alice in Wonderland</i> is an eight-part campaign for <i>Arkham Horror: The Card Game</i> for 1 - 4 players. This campaign is based on <i>Alice's Adventures in Wonderland, Through the Looking-Glass,</i> and several other poems by Lewis Carroll, and further adapted to the mythos of <i>Arkham Horror</i> with a few other connections and tweaks."
 msgstr "<i>Alice im Wunderland</i> ist eine achtteilige Kampagne für <i>Arkham Horror: Das Kartenspiel</i> für 1 - 4 Spieler. Sie basiert auf <i>Alices Abenteuer im Wunderland, Durch den Spiegel,</i> sowie auf weiteren Gedichten von Lewis Carroll und wurde mit zusätzlichen Verknüpfungen und behutsamen Anpassungen in den Mythos von <i>Arkham Horror</i> eingewoben."
