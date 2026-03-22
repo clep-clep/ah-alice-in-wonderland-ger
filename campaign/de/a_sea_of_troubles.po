@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Scenario II-A: A Sea of Troubles"
-msgstr "Szenario II-A: Ein Meer voller Wirren"
+msgstr "Szenario II-A: Eine See von Plagen"
 
 msgid ""
 "The scenery continues for mile after mile until at last you find an anomaly.  Some distance up the beach from a saltwater pool and near the edge of a dense forest sit the remains of a quaint cottage.  It looks like a disaster photograph, with the thatch roof exploding upward and the wooden walls splintering out, but with each piece suspended in air.  You approach the house cautiously, and as you circle the building, you see the White Rabbit - the same one that traversed Arkham not long ago!  The rabbit wails anxiously to two other figures that regard him sadly -  a man and a lizard.  \"My house, my poor house!  Oh the monster that must have done this!\"\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Meile um Meile zieht die Landschaft an dir vorbei, bis du schließlich auf etwas Merkwürdiges stößt. Ein Stück den Strand hinauf, unweit eines Salzwasserbeckens und nahe dem Rand eines dichten Waldes, liegen die Überreste eines kleinen, einst wohl hübschen Häuschens. Es sieht aus wie eine Katastrophenaufnahme: Das Reetdach scheint nach oben explodiert, die Holzwände nach außen gesplittert - und doch hängen alle Teile in der Luft. Vorsichtig näherst du dich dem Haus, und als du es umrundest, siehst du das Weiße Kaninchen - genau jenes, das vor nicht allzu langer Zeit durch Arkham lief! Das Kaninchen jammert zwei anderen Gestalten verzweifelt etwas vor, die es traurig ansehen: einem Mann und einer Eidechse. „Mein Haus, mein armes Haus! O das Ungeheuer, das dies angerichtet haben muss!“\n"
 "Der schmutzverkrustete Mann schüttelt kummervoll den Kopf und streicht sich über das Kinn, während er den Schaden begutachtet. „Und ein Ungeheuer, Euer Gnaden, das nicht einmal zu Ende gebracht hat, was es begonnen hat! Nicht einmal daran hat es gedacht, die Teile herunterfallen zu lassen, ehe es verschwand!“\n"
 "„Kümmere dich nicht um die Teile, Pat!“, fährt das Weiße Kaninchen ihn an. „Hol jemanden, der es wieder zusammensetzt! O weh, ich werde viel zu spät sein...“\n"
-"Du machst einen halben Schritt vor - da blinzelt der grinsende Kopf der Cheshire-Katze plötzlich vor dir ins Dasein. „Das arme Kaninchen, kein Dach über dem Kopf, von dem man sprechen könnte.“ Eine Katzenpfote erscheint und deutet auf das zerschmetterte Haus. „Während Gurathnaka vorne nach eurer Welt schlägt, graben sich seine hinteren Klauen tief in Wunderland. Bisher krochen die Schatten nur an den Rändern, gesehen allein von denen, die selbst im Dunkeln lauern, einsam wie Austern.“ Ihre Augen gleiten in Richtung Strand und verschwinden; nur das Grinsen bleibt noch einige Augenblicke zurück. Du hast nur wenige Sekunden, über die Worte der Katze nachzudenken.\n"
+"Du machst einen halben Schritt vor - da blinzelt der grinsende Kopf der Grinsekatze plötzlich vor dir ins Dasein. „Das arme Kaninchen, kein Dach über dem Kopf, von dem man sprechen könnte.“ Eine Katzenpfote erscheint und deutet auf das zerschmetterte Haus. „Während Gurathnaka vorne nach eurer Welt schlägt, graben sich seine hinteren Klauen tief in Wunderland. Bisher krochen die Schatten nur an den Rändern, gesehen allein von denen, die selbst im Dunkeln lauern, einsam wie Austern.“ Ihre Augen gleiten in Richtung Strand und verschwinden; nur das Grinsen bleibt noch einige Augenblicke zurück. Du hast nur wenige Sekunden, über die Worte der Katze nachzudenken.\n"
 "„He, du da!“ Du blickst vom schwebenden Grinsen hinunter und siehst das Weiße Kaninchen, das dich hochmütig mustert. „Stehst mit müßigen Händen herum, während hier ein Ungeheuer wütet! Nun mach schon, hilf Bill, dieses Biest zu finden und zurückzuschleifen! Es hat viel zu verantworten!“ Mit dem Finger zeigt es auf die Eidechse, die dir zögerlich die Mütze lupft.\n"
 "Noch ehe du irgendeine Antwort geben kannst, dreht sich das Weiße Kaninchen wieder zum Haus um und verfällt erneut in sein Wehklagen. Du reibst dir den Nacken, unschlüssig und um Worte verlegen, während du deine Möglichkeiten abwägst. So unfreiwillig du auch zur Arbeit gedrängt wirst: Wenn du dich in die Brandung hinauswagst, lernst du womöglich etwas Nützliches."
 
@@ -75,34 +75,34 @@ msgid "Bane: The White Queen"
 msgstr "Fluch: Die Weiße Königin"
 
 msgid "Set the following cards aside, out of play: The Eldest Oyster, both copies of Deep Lurker."
-msgstr "Lege folgende Karten als nicht im Spiel befindlich beiseite: Die Älteste Auster und beide Kopien von Tiefenlauerer."
+msgstr "Lege folgende Karten als nicht im Spiel befindlich beiseite: Die Älteste Auster und beide Kopien von Tiefer Verfolger."
 
 msgid "Put the White Rabbit's House, Sandy Strand, Tidal Pools, Sheltered Shallows, Twining Reef, and Rocky Outcropping locations into play. Each investigator begins play at White Rabbit's House."
-msgstr "Bringe die Orte Haus des Weißen Kaninchens, Sandstrand, Gezeitenbecken, Geschützte Untiefen, Verschlungenes Riff und Felsvorsprung ins Spiel. Jeder Ermittler beginnt das Spiel am Haus des Weißen Kaninchens."
+msgstr "Bringe die Orte Haus des Weißen Kaninchens, Sandstrand, Gezeitentümpel, Geschützte Buchten, Gewundenes Riff und Felsiger Ausläufer ins Spiel. Jeder Ermittler beginnt das Spiel am Haus des Weißen Kaninchens."
 
 msgid "White Rabbit's House"
 msgstr "Haus des Weißen Kaninchens"
 
 msgid "Tidal Pools"
-msgstr "Gezeitenbecken"
+msgstr "Gezeitentümpel"
 
 msgid "Sandy Strand"
 msgstr "Sandstrand"
 
 msgid "Rocky Outcropping"
-msgstr "Felsvorsprung"
+msgstr "Felsiger Ausläufer"
 
 msgid "Sheltered Shallows"
-msgstr "Geschützte Untiefen"
+msgstr "Geschützte Buchten"
 
 msgid "Twining Reef"
-msgstr "Verschlungenes Riff"
+msgstr "Gewundenes Riff"
 
 msgid "Put Bill the Lizard into play at White Rabbit's House."
-msgstr "Bringe Bill, die Eidechs am Haus des Weißen Kaninchens ins Spiel."
+msgstr "Bringe Bill, die Eidechse am Haus des Weißen Kaninchens ins Spiel."
 
 msgid "Put The Cheshire Cat <i>(Grinning Guide)</i> into play in the lead investigator's play area."
-msgstr "Bringe Die Cheshire-Katze <i>(Grinsender Wegweiser)</i> in die Spielzone des Ermittlungsleiters ins Spiel."
+msgstr "Bringe Die Grinsekatze <i>(Grinsender Wegweiser)</i> in die Spielzone des Ermittlungsleiters ins Spiel."
 
 msgid "the Walrus and the Carpenter were completely obliterated."
 msgstr "das Walross und der Zimmermann wurden vollständig ausgelöscht."
